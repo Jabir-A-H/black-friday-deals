@@ -16,9 +16,8 @@
 
 ---
 
-> **🕒 Last Reconciled:** `2026-10-26 22:25:00 (+06:00 Asia/Dhaka)`  
-> **🤖 Automation Status:** Dual Cron Active (2-Hour Routine Native Web Scraper + Daily 9:00 AM Deep Forum Sweeper)  
-> **📊 Data Engine:** Backed by persistent [`DEALS_LEDGER.json`](docs/laptop-tracker/DEALS_LEDGER.json) and [`TRACKER_SPEC.md`](docs/laptop-tracker/TRACKER_SPEC.md)
+> **🕒 Last Verified:** `2026-10-26 22:25:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
+> **📊 Structured Data:** [`docs/laptop-tracker/DEALS_LEDGER.json`](docs/laptop-tracker/DEALS_LEDGER.json) • **Evaluation Rules:** [`docs/laptop-tracker/TRACKER_SPEC.md`](docs/laptop-tracker/TRACKER_SPEC.md)
 
 ---
 
@@ -101,22 +100,6 @@ Every candidate machine is cross-examined against strict engineering criteria:
 
 ---
 
-## 🤖 Automation & Sync Workflow
-
-```mermaid
-flowchart LR
-    A["Routine 2-Hour Web Tracker\n(Best Buy, Walmart, Amazon)"] -->|Reconcile Stock & Price| C[("DEALS_LEDGER.json")]
-    B["Daily Deep Deal Hunter\n(Slickdeals, Woot, DFS)"] -->|Extract Coupons & VRAM| C
-    C -->|Generate| D["README.md & Summary Dashboard"]
-    D -->|scripts/sync-deals.ps1| E["GitHub (Public Repo)"]
-```
-
-* **Routine 2-Hour Web Tracker:** Uses zero-credit native web search to inspect live pricing and stock availability on major retailers.
-* **Daily Deep Deal Hunter:** Runs daily at 9:00 AM (Asia/Dhaka) using Firecrawl MCP to deep-crawl deal threads, coupon codes, and clearance lots.
-* **Auto-Sync to GitHub:** Reconciled data is automatically committed and pushed via [`scripts/sync-deals.ps1`](scripts/sync-deals.ps1) after every cron run.
-
----
-
 <div align="center">
-<sub>Maintained autonomously via Antigravity Cron Sidecars • Exchange rates and inventory synchronized continuously</sub>
+<sub>Prices, stock levels, and exchange rates are monitored and updated continuously.</sub>
 </div>
