@@ -259,7 +259,7 @@
       "gpu": "Intel Iris Xe Graphics",
       "display": "14.0\" FHD (1920x1080) IPS Anti-glare",
       "touchscreen": false,
-      "notes": "Direct upgrade over your current 840 G8: moves from i5 to Core i7-1185G7 and doubles RAM to 16GB out of the box while keeping dual SODIMM expansion up to 64GB.",
+      "notes": "Enterprise clamshell upgrade: moves to Core i7-1185G7 and doubles RAM to 16GB out of the box while keeping dual un-soldered SODIMM expansion up to 64GB.",
       "last_checked": "2026-10-26T22:25:00+06:00",
       "alert_trigger": "STEADY"
     },
@@ -347,7 +347,7 @@
       "gpu": "Intel UHD Graphics",
       "display": "14.0\" FHD (1920x1080) IPS",
       "touchscreen": false,
-      "notes": "CNC aluminum chassis identical in feel to your G8, equipped with 16GB RAM and dual SODIMM slots for ~৳35,000 BDT landed. Perfect cheap workhorse for your sister.",
+      "notes": "CNC all-aluminum chassis, equipped with 16GB RAM and dual SODIMM slots for ~৳35,000 BDT landed. Highly durable, affordable enterprise workhorse for everyday productivity.",
       "last_checked": "2026-10-26T22:25:00+06:00",
       "alert_trigger": "STEADY"
     }

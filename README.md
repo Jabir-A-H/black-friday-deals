@@ -27,7 +27,7 @@ Tracked deals are reconciled into a persistent structured JSON ledger and presen
 
 ## 🎯 Benchmark Floor & Evaluation Protocol
 
-1. **Strict Baseline Floor:** Must distinctly outperform the baseline **HP EliteBook 840 G8 (Intel Core i5-1135G7, 8GB DDR4, 256GB SSD bought for ৳37,500)**.
+1. **Strict Baseline Floor:** Must distinctly outperform a standard 11th Gen business baseline machine (**Intel Core i5-1135G7, 8GB DDR4, 256GB SSD**).
 2. **RAM Upgradeability Protocol:** 
    * **Clamshells:** Dual un-soldered SODIMM slots are mandatory unless factory-equipped with $\ge 16\text{GB}$ RAM.
    * **Convertibles (2-in-1):** Soldered memory accepted only if pre-installed with $\ge 16\text{GB}$ under \$500.

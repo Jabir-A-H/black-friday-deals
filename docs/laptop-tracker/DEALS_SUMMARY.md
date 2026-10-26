@@ -5,7 +5,7 @@
 > • **Mid-Market Benchmark:** $1\text{ USD} \approx 124.0\text{ BDT}$ (Bangladesh Bank / Google / XE live interbank)  
 > • **Bank Card Settlement:** $1\text{ USD} \approx 128.0\text{ BDT}$ (Bank card rate + 2% cross-border FX markup + 15% VAT on fee; assuming tax-free US address)  
 > • **Realistic Total Landed Cost:** $1\text{ USD} \approx 135.0\text{ BDT}$ (Bank card rate + average US state sales tax 6%–8.8% + transfer/handling buffer)  
-> **Baseline Benchmark:** HP EliteBook 840 G8 (Core i5-1135G7, 8GB RAM, 256GB SSD bought for ৳37,500)  
+> **Baseline Benchmark:** 11th Gen Business Baseline (Intel Core i5-1135G7, 8GB RAM, 256GB SSD)  
 > **Root Directory:** `D:\WebDev\BlackFridayDeals`
 
 ---
