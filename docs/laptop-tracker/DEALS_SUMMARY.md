@@ -89,20 +89,6 @@ Online US retailer prices **exclude taxes and processing fees**. To ensure reali
 
 ---
 
-## 🎯 Evaluation Rules & Hardware Standards
-
-Every candidate machine is cross-examined against strict engineering criteria:
-1. **Strict Baseline Floor:** Must distinctly outperform a standard 11th Gen quad-core business baseline machine (**Intel Core i5-1135G7, 8GB DDR4, 256GB SSD**).
-2. **RAM Upgradeability Protocol:** 
-   * **Clamshells:** Dual un-soldered SODIMM slots are strictly required unless factory-equipped with $\ge 16\text{GB}$ RAM. Soldered 8GB clamshells are disqualified.
-   * **Convertibles (2-in-1):** Soldered memory accepted only if pre-installed with $\ge 16\text{GB}$ under \$500.
-3. **GPU Compute Evaluation for Local Dev & LLMs:**
-   * **RTX 4060 (8GB VRAM):** Unlocks unquantized 8B local LLMs, full Ray Tracing/DLSS 3, 1080p Ultra gaming.
-   * **RTX 4050 / 3050 (6GB VRAM):** Unlocks quantized 8B LLMs (Q4_K_M) 100% on GPU at 35–45 tokens/sec.
-   * **Intel Iris Xe 96EU / Radeon 680M:** Minimum floor for general programming, Docker containers, and dual external monitors.
-
----
-
 <div align="center">
 <sub>Prices, stock levels, and exchange rates are monitored and updated continuously.</sub>
 </div>
