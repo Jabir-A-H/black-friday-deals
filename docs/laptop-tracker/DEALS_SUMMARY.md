@@ -1,6 +1,6 @@
 # 🛒 Multi-Tier Black Friday Laptop Deals Dashboard
 
-> **Last Reconciled:** 2026-10-26 22:25:00 (+06:00 Asia/Dhaka)  
+> **Last Reconciled:** 2026-10-26 22:55:00 (+06:00 Asia/Dhaka)  
 > **Rate Architecture:**  
 > • **Mid-Market Benchmark:** $1\text{ USD} \approx 124.0\text{ BDT}$ (Bangladesh Bank / Google / XE live interbank)  
 > • **Bank Card Settlement:** $1\text{ USD} \approx 128.0\text{ BDT}$ (Bank card rate + 2% cross-border FX markup + 15% VAT on fee; assuming tax-free US address)  
@@ -25,10 +25,11 @@
 
 | Model & Retailer | Current Price | Bank Rate (~128) | Real Landed (~135) | Key Specs | RAM & Upgradeability | Display | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[HP Victus 15](https://www.walmart.com/ip/HP-Victus-15-6-inch-FHD-IPS-144Hz-Gaming-Laptop-AMD-Ryzen-5-8645HS-NVIDIA-GeForce-RTX-4050-8GB-DDR5-512GB-SSD-Mica-Silver-2024/5389774101)** <br>*(Walmart)* | **$499.00** <br>~~$699.99~~ | **~৳63,872** | **~৳67,365** | Ryzen 5 8645HS (6C/12T Zen 4) • **RTX 4050 6GB** | 8GB DDR5 *(2× SODIMM, up to 64GB)* | 15.6" FHD 144Hz IPS | `IN STOCK` |
+| **[HP Victus 15](https://www.walmart.com/ip/HP-Victus-15-6-inch-FHD-IPS-144Hz-Gaming-Laptop-AMD-Ryzen-5-8645HS-NVIDIA-GeForce-RTX-4050-8GB-DDR5-512GB-SSD-Mica-Silver-2024/5389774101)** <br>*(Walmart)* | **$499.00** <br>~~$699.99~~ | **~৳63,872** | **~৳67,365** | Ryzen 5 8645HS (6C/12T Zen 4) • **RTX 4050 6GB** | 8GB DDR5 *(2× SODIMM, up to 64GB)* | 15.6" FHD 144Hz IPS | `IN STOCK` (Apex Doorbuster) |
 | **[MSI GF63 Thin](https://www.walmart.com/search?q=msi+gf63+thin+rtx+3050)** <br>*(Walmart)* | **$479.00** <br>~~$699.99~~ | **~৳61,312** | **~৳64,665** | Core i5 H-Series • **RTX 3050 Dedicated** | **16GB Pre-Installed** *(2× SODIMM)* | 15.6" FHD 144Hz IPS | `IN STOCK` |
+| **[Lenovo LOQ 15](https://www.walmart.com/search?q=lenovo+loq+15+rtx+3050)** <br>*(Walmart / Best Buy)* | **$549.00** <br>~~$799.99~~ | **~৳70,272** | **~৳74,115** | i5-12450HX / Ryzen 5 7235HS • **RTX 3050 6GB (85W-95W)** | 12GB/16GB DDR5 *(2× SODIMM)* | 15.6" FHD 144Hz G-Sync | `IN STOCK` (New Find) |
 | **[ASUS Vivobook 16](https://www.walmart.com/search?q=asus+vivobook+16+i7+16gb)** <br>*(Walmart)* | **$499.00** <br>~~$649.99~~ | **~৳63,872** | **~৳67,365** | Core i7-1355U (10C/12T, 5.0GHz) • Iris Xe | **16GB RAM** *(1× Open Slot, up to 40GB)* | 16.0" WUXGA 16:10 | `IN STOCK` |
-| **[Lenovo IdeaPad Flex 5](https://www.bestbuy.com/site/lenovo-ideapad-flex-5-14-wuxga-touch-2-in-1-laptop-amd-ryzen-5-16gb-memory-1tb-ssd-storm-gray/6571565.p?skuId=6571565)** <br>*(Best Buy)* | **$499.99** <br>~~$749.99~~ | **~৳63,999** | **~৳67,499** | Ryzen 5 7530U (6C/12T) • AMD Radeon • 1TB SSD | **16GB Pre-Installed** *(Soldered)* | 14" WUXGA 16:10 **360° Touch** | `IN STOCK` |
+| **[Lenovo IdeaPad Flex 5](https://www.walmart.com/search?q=lenovo+ideapad+flex+5+14+16gb)** <br>*(Walmart / Amazon / Best Buy)* | **$499.99** <br>~~$749.99~~ | **~৳63,999** | **~৳67,499** | Ryzen 5 7530U (6C/12T) • AMD Radeon • 512GB/1TB | **16GB Pre-Installed** *(Soldered)* | 14" WUXGA 16:10 **360° Touch** | `LIMITED STOCK` *(Best Buy new sold out; Walmart/Amazon active)* |
 | **[Acer Aspire 3](https://www.ebay.com/str/acer/Laptops/_i.html?store_cat=2792634010)** <br>*(eBay Acer Outlet)* | **$473.10** <br>~~$599.99~~ | **~৳60,557** | **~৳63,869** | Ryzen 5 7520U • Radeon 610M • 1TB SSD | **16GB RAM** *(Upgradeable)* | 15.6" FHD IPS • **2-Yr Warranty** | `IN STOCK` |
 
 ---

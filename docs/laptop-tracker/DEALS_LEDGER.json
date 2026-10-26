@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "2.2.0",
-    "last_updated": "2026-10-26T22:25:00+06:00",
+    "version": "2.3.0",
+    "last_updated": "2026-10-26T22:55:00+06:00",
     "currency_rates": {
       "base_mid_market_usd_to_bdt": 124.0,
       "bank_card_settlement_rate": 128.0,
@@ -40,7 +40,7 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS",
       "touchscreen": false,
       "notes": "The ultimate budget stretcher. Slashing $350 off MSRP to hit $649 unlocks a true RTX 4060 with 8GB VRAM (allowing unquantized 8B LLMs, 1080p Ultra gaming with full Ray Tracing/DLSS 3, and 16-thread Core i7 compute). Dual un-soldered DDR5 slots. Full cooling beats 45W throttled models.",
-      "last_checked": "2026-10-26T22:25:00+06:00",
+      "last_checked": "2026-10-26T22:55:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -62,7 +62,7 @@
       "display": "13.6\" Liquid Retina Display (2560x1664) 500-nits True Tone",
       "touchscreen": false,
       "notes": "Historical all-time low. Down from $999 to $649 brand new at Walmart. Class-leading 18-hour battery, CNC unibody aluminum build, Liquid Retina display. Ideal for iOS/web development and college carry.",
-      "last_checked": "2026-10-26T22:25:00+06:00",
+      "last_checked": "2026-10-26T22:55:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -84,7 +84,7 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS",
       "touchscreen": false,
       "notes": "Apex GPU doorbuster under $500. Dedicated NVIDIA RTX 4050 with AMD Ryzen 5 8645HS Zen 4 CPU. Dual un-soldered DDR5 SODIMM slots allow immediate memory expansion up to 64GB.",
-      "last_checked": "2026-10-26T22:25:00+06:00",
+      "last_checked": "2026-10-26T22:55:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -106,8 +106,30 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS",
       "touchscreen": false,
       "notes": "Ships with 16GB RAM out of the box (dual SODIMM slots). Dedicated RTX 3050 for local LLMs and Adobe Suite under $480.",
-      "last_checked": "2026-10-26T22:25:00+06:00",
+      "last_checked": "2026-10-26T22:55:00+06:00",
       "alert_trigger": "STEADY"
+    },
+    {
+      "id": "lenovo-loq-15-rtx3050",
+      "title": "Lenovo LOQ 15.6\" 144Hz Gaming Laptop - Intel Core i5-12450HX / Ryzen 5 7235HS - 12GB/16GB DDR5 - NVIDIA GeForce RTX 3050 6GB - 512GB SSD",
+      "retailer": "Walmart / Best Buy",
+      "sku": "LOQ-15IAX9 / 15ARP9",
+      "url": "https://www.walmart.com/search?q=lenovo+loq+15+rtx+3050",
+      "tier": "Tier 1: High Budget ($450-$550)",
+      "current_price_usd": 549.00,
+      "current_price_bdt_bank": 70272,
+      "current_price_bdt_landed": 74115,
+      "original_msrp_usd": 799.99,
+      "lowest_seen_price_usd": 499.99,
+      "stock_status": "IN_STOCK",
+      "ram_status": "UPGRADEABLE_SODIMM",
+      "cpu": "Intel Core i5-12450HX (8 Cores / 12 Threads) or AMD Ryzen 5 7235HS",
+      "gpu": "NVIDIA GeForce RTX 3050 6GB GDDR6 (Higher 85W-95W TGP vs MSI Thin 45W)",
+      "display": "15.6\" FHD (1920x1080) 144Hz IPS (G-Sync)",
+      "touchscreen": false,
+      "notes": "Premium budget chassis alternative to MSI GF63 Thin. Provides higher TGP (up to 95W with Dynamic Boost) and 6GB VRAM, dual DDR5 SODIMM slots, and Lenovo's superior dual-fan thermal architecture under $550.",
+      "last_checked": "2026-10-26T22:55:00+06:00",
+      "alert_trigger": "NEW_FIND"
     },
     {
       "id": "asus-vivobook-16-i7-16gb",
@@ -128,30 +150,30 @@
       "display": "16.0\" WUXGA (1920x1200) 16:10 NanoEdge Display",
       "touchscreen": false,
       "notes": "Productivity doorbuster. Packs a 10-core Core i7, 16GB factory RAM, and taller 16:10 16-inch display under $500. Features 1 open SODIMM slot for upgrading up to 40GB total.",
-      "last_checked": "2026-10-26T22:25:00+06:00",
+      "last_checked": "2026-10-26T22:55:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
       "id": "lenovo-ideapad-flex-5-16gb",
-      "title": "Lenovo IdeaPad Flex 5 14\" WUXGA Touch 2-in-1 Laptop - AMD Ryzen 5 - 16GB Memory - 1TB SSD",
-      "retailer": "Best Buy",
-      "sku": "6571565",
-      "url": "https://www.bestbuy.com/site/lenovo-ideapad-flex-5-14-wuxga-touch-2-in-1-laptop-amd-ryzen-5-16gb-memory-1tb-ssd-storm-gray/6571565.p?skuId=6571565",
+      "title": "Lenovo IdeaPad Flex 5 14\" WUXGA Touch 2-in-1 Laptop - AMD Ryzen 5 - 16GB Memory - 512GB/1TB SSD",
+      "retailer": "Walmart / Amazon / Best Buy",
+      "sku": "82R90069US / 6520468",
+      "url": "https://www.walmart.com/search?q=lenovo+ideapad+flex+5+14+16gb",
       "tier": "Tier 1: High Budget ($450-$550)",
       "current_price_usd": 499.99,
       "current_price_bdt_bank": 63999,
       "current_price_bdt_landed": 67499,
       "original_msrp_usd": 749.99,
       "lowest_seen_price_usd": 479.99,
-      "stock_status": "IN_STOCK",
+      "stock_status": "LIMITED_STOCK",
       "ram_status": "SOLDERED",
       "cpu": "AMD Ryzen 5 7530U (6 Cores / 12 Threads)",
       "gpu": "AMD Radeon Graphics",
       "display": "14\" WUXGA (1920x1200) 16:10 IPS Touch 360°",
       "touchscreen": true,
-      "notes": "RAM is soldered but factory equipped with 16GB. Full 360 convertible with 1TB SSD under $500.",
-      "last_checked": "2026-10-26T22:25:00+06:00",
-      "alert_trigger": "STEADY"
+      "notes": "RAM is soldered but factory equipped with 16GB. Full 360 convertible with 512GB/1TB SSD under $500. Best Buy new condition sold out (SKU 6520468); available via Walmart and Amazon marketplace partners.",
+      "last_checked": "2026-10-26T22:55:00+06:00",
+      "alert_trigger": "STOCK_WARNING"
     },
     {
       "id": "acer-aspire-3-ryzen5-16gb-ebay",
@@ -172,7 +194,7 @@
       "display": "15.6\" FHD (1920x1080) IPS Display",
       "touchscreen": false,
       "notes": "Includes free 2-Year Allstate Warranty. Pre-configured with 16GB RAM and huge 1TB SSD. Direct manufacturer certified.",
-      "last_checked": "2026-10-26T22:25:00+06:00",
+      "last_checked": "2026-10-26T22:55:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -194,7 +216,7 @@
       "display": "13.3\" FHD (1920x1080) IPS 360° Touchscreen",
       "touchscreen": true,
       "notes": "Unrivaled RAM capacity in a 2-in-1 under $450. Comes with 32GB RAM pre-installed, eliminating all soldered memory bottlenecks for local dev and virtualization.",
-      "last_checked": "2026-10-26T22:25:00+06:00",
+      "last_checked": "2026-10-26T22:55:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -216,7 +238,7 @@
       "display": "15.6\" FHD (1920x1080) 120Hz Touchscreen",
       "touchscreen": true,
       "notes": "Best compromise for touchscreen users who require un-soldered RAM (2x DDR4 SODIMM slots, upgradeable to 64GB). Refurbished starts from $399.00 (~৳53,865 landed).",
-      "last_checked": "2026-10-26T22:25:00+06:00",
+      "last_checked": "2026-10-26T22:55:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -238,7 +260,7 @@
       "display": "14.0\" FHD (1920x1080) 400-nit Low Blue Light IPS",
       "touchscreen": false,
       "notes": "Net price after applying weekly 45% flash coupon from dellrefurbished.com/coupons. Carbon fiber chassis, Thunderbolt 4, lightweight enterprise build.",
-      "last_checked": "2026-10-26T22:25:00+06:00",
+      "last_checked": "2026-10-26T22:55:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -260,7 +282,7 @@
       "display": "14.0\" FHD (1920x1080) IPS Anti-glare",
       "touchscreen": false,
       "notes": "Enterprise clamshell upgrade: moves to Core i7-1185G7 and doubles RAM to 16GB out of the box while keeping dual un-soldered SODIMM expansion up to 64GB.",
-      "last_checked": "2026-10-26T22:25:00+06:00",
+      "last_checked": "2026-10-26T22:55:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -282,7 +304,7 @@
       "display": "15.6\" FHD (1920x1080) IPS",
       "touchscreen": false,
       "notes": "Extreme budget value. A genuine ISV-certified mobile workstation with dedicated NVIDIA GPU and 2x un-soldered SODIMM slots for ~৳28,000 BDT landed, backed by 1-Year BlairTech Warranty.",
-      "last_checked": "2026-10-26T22:25:00+06:00",
+      "last_checked": "2026-10-26T22:55:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -304,7 +326,7 @@
       "display": "14.0\" FHD (1920x1080) IPS Display",
       "touchscreen": false,
       "notes": "Under ৳41,000 BDT landed, delivering a tank-like military-grade ThinkPad chassis, 6-core Ryzen 5 Pro, and 16GB RAM with 2-Year Allstate Warranty.",
-      "last_checked": "2026-10-26T22:25:00+06:00",
+      "last_checked": "2026-10-26T22:55:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -326,7 +348,7 @@
       "display": "14.0\" FHD (1920x1080) IPS",
       "touchscreen": false,
       "notes": "Reliable enterprise workhorse. Features 2x accessible SODIMM slots (up to 64GB DDR4), Thunderbolt 4, and 16GB RAM out of the box for under $320.",
-      "last_checked": "2026-10-26T22:25:00+06:00",
+      "last_checked": "2026-10-26T22:55:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -348,11 +370,15 @@
       "display": "14.0\" FHD (1920x1080) IPS",
       "touchscreen": false,
       "notes": "CNC all-aluminum chassis, equipped with 16GB RAM and dual SODIMM slots for ~৳35,000 BDT landed. Highly durable, affordable enterprise workhorse for everyday productivity.",
-      "last_checked": "2026-10-26T22:25:00+06:00",
+      "last_checked": "2026-10-26T22:55:00+06:00",
       "alert_trigger": "STEADY"
     }
   ],
   "reconciled_history": [
+    {
+      "timestamp": "2026-10-26T22:55:00+06:00",
+      "summary": "Routine 2-Hour native search reconcile pass completed. Confirmed HP Victus 15 RTX 4050 remains active at $499 at Walmart direct (Apex DoorBuster). Reconciled Lenovo IdeaPad Flex 5 14 stock: Best Buy SKU 6571565 was stale (IdeaPad 1i) and active SKU 6520468 is sold out in new condition at Best Buy; marked LIMITED_STOCK with Walmart/Amazon marketplace fallback. Added Lenovo LOQ 15 RTX 3050 ($549 at Walmart/Best Buy) as an alternative high-TGP budget gaming doorbuster in Tier 1."
+    },
     {
       "timestamp": "2026-10-26T22:25:00+06:00",
       "summary": "Updated FX exchange rate architecture to multi-layered model following user audit: Added official mid-market rate (124.0 BDT), commercial bank card settlement rate (128.0 BDT), and realistic total landed cost rate (135.0 BDT factoring 124.5 bank selling + 2% card fee + 15% VAT on service charge + ~6-7% average US sales tax and handling buffer). All BDT prices recalculated across both bank and landed metrics."
