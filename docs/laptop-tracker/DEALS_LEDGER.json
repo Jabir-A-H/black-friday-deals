@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "version": "2.4.0",
-    "last_updated": "2026-10-26T23:05:00+06:00",
+    "version": "2.6.0",
+    "last_updated": "2026-10-28T01:25:00+06:00",
     "currency_rates": {
-      "base_mid_market_usd_to_bdt": 124.0,
-      "bank_card_settlement_rate": 128.0,
-      "effective_landed_rate": 135.0,
-      "active_display_rate": 135.0,
+      "base_mid_market_usd_to_bdt": 124,
+      "bank_card_settlement_rate": 128,
+      "effective_landed_rate": 135,
+      "active_display_rate": 135,
       "overhead_breakdown": {
         "mid_market_source": "Bangladesh Bank / Google / XE live interbank mid-market rate (~123.80 - 124.00 BDT).",
         "bank_card_rate": "Commercial bank selling rate (~124.50 BDT) + 1.5%-2% cross-border FX markup + 15% VAT on service charges (~128.0 BDT).",
@@ -14,10 +14,38 @@
       }
     },
     "budget_brackets": {
-      "tier_4_gravity_stretchers": { "min_usd": 550, "max_usd": 699, "min_bdt_bank": 70400, "max_bdt_bank": 89500, "min_bdt_landed": 74250, "max_bdt_landed": 94500 },
-      "tier_1_high_budget": { "min_usd": 450, "max_usd": 550, "min_bdt_bank": 57600, "max_bdt_bank": 70400, "min_bdt_landed": 60750, "max_bdt_landed": 74250 },
-      "tier_2_mid_budget": { "min_usd": 350, "max_usd": 450, "min_bdt_bank": 44800, "max_bdt_bank": 57600, "min_bdt_landed": 47250, "max_bdt_landed": 60750 },
-      "tier_3_value_under_350": { "min_usd": 200, "max_usd": 350, "min_bdt_bank": 25600, "max_bdt_bank": 44800, "min_bdt_landed": 27000, "max_bdt_landed": 47250 }
+      "tier_4_gravity_stretchers": {
+        "min_usd": 550,
+        "max_usd": 699,
+        "min_bdt_bank": 70400,
+        "max_bdt_bank": 89500,
+        "min_bdt_landed": 74250,
+        "max_bdt_landed": 94500
+      },
+      "tier_1_high_budget": {
+        "min_usd": 450,
+        "max_usd": 550,
+        "min_bdt_bank": 57600,
+        "max_bdt_bank": 70400,
+        "min_bdt_landed": 60750,
+        "max_bdt_landed": 74250
+      },
+      "tier_2_mid_budget": {
+        "min_usd": 350,
+        "max_usd": 450,
+        "min_bdt_bank": 44800,
+        "max_bdt_bank": 57600,
+        "min_bdt_landed": 47250,
+        "max_bdt_landed": 60750
+      },
+      "tier_3_value_under_350": {
+        "min_usd": 200,
+        "max_usd": 350,
+        "min_bdt_bank": 25600,
+        "max_bdt_bank": 44800,
+        "min_bdt_landed": 27000,
+        "max_bdt_landed": 47250
+      }
     }
   },
   "tracked_items": [
@@ -40,7 +68,7 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS",
       "touchscreen": false,
       "notes": "The ultimate budget stretcher. Slashing $350 off MSRP to hit $649 unlocks a true RTX 4060 with 8GB VRAM (allowing unquantized 8B LLMs, 1080p Ultra gaming with full Ray Tracing/DLSS 3, and 16-thread Core i7 compute). Dual un-soldered DDR5 slots. Full cooling beats 45W throttled models.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
+      "last_checked": "2026-10-27T18:15:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -50,19 +78,19 @@
       "sku": "MacBook-Air-M2",
       "url": "https://www.walmart.com/ip/Apple-MacBook-Air-13-6-inch-Laptop-Apple-M2-chip-8GB-Memory-256GB-SSD-Storage-Midnight/5041071060",
       "tier": "Tier 4: Gravity Stretcher",
-      "current_price_usd": 649.00,
+      "current_price_usd": 649,
       "current_price_bdt_bank": 83072,
       "current_price_bdt_landed": 87615,
-      "original_msrp_usd": 999.00,
-      "lowest_seen_price_usd": 649.00,
+      "original_msrp_usd": 999,
+      "lowest_seen_price_usd": 649,
       "stock_status": "IN_STOCK",
       "ram_status": "SOLDERED",
       "cpu": "Apple M2 (8-Core CPU: 4 Performance + 4 Efficiency)",
       "gpu": "Apple M2 8-Core / 10-Core Integrated GPU (Metal Acceleration)",
       "display": "13.6\" Liquid Retina Display (2560x1664) 500-nits True Tone",
       "touchscreen": false,
-      "notes": "Historical all-time low. Down from $999 to $649 brand new at Walmart. Class-leading 18-hour battery, CNC unibody aluminum build, Liquid Retina display. Ideal for iOS/web development and college carry.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
+      "notes": "Historical all-time low tracking. Direct Walmart brand-new stock fluctuates rapidly around $649 (currently restored like-new active at $618.89). Class-leading 18-hour battery, CNC unibody aluminum build, Liquid Retina display. Ideal for iOS/web development and college carry.",
+      "last_checked": "2026-10-27T18:15:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -72,11 +100,11 @@
       "sku": "Latitude-7340-Touch-000003",
       "url": "https://www.dellrefurbished.com/hot-deals?model_f[]=Latitude%207340",
       "tier": "Tier 4: Gravity Stretcher",
-      "current_price_usd": 579.00,
+      "current_price_usd": 579,
       "current_price_bdt_bank": 74112,
       "current_price_bdt_landed": 78165,
-      "original_msrp_usd": 969.00,
-      "lowest_seen_price_usd": 579.00,
+      "original_msrp_usd": 969,
+      "lowest_seen_price_usd": 579,
       "stock_status": "IN_STOCK",
       "ram_status": "SOLDERED",
       "cpu": "Intel Core i7-1365U (10 Cores / 12 Threads, up to 5.2 GHz, 13th Gen)",
@@ -84,7 +112,7 @@
       "display": "13.3\" QHD+ (2560x1600) 16:10 Touchscreen",
       "touchscreen": true,
       "notes": "High-gravity productivity outlier: 40% instant DFS discount gives 32GB RAM, 10-core 13th Gen i7, and ultra-sharp 2560x1600 16:10 touch panel for $579. Exceptional value for virtualization and local dev workloads.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
+      "last_checked": "2026-10-27T18:15:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -94,11 +122,11 @@
       "sku": "5395277312 / 15-fb2082wm",
       "url": "https://www.walmart.com/ip/HP-Victus-15-6-inch-FHD-144Hz-Gaming-Laptop-AMD-Ryzen-5-8645HS-NVIDIA-GeForce-RTX-4050-8GB-DDR4-512GB-SSD-Mica-Silver-2024/5395277312",
       "tier": "Tier 1: High Budget ($450-$550)",
-      "current_price_usd": 499.00,
+      "current_price_usd": 499,
       "current_price_bdt_bank": 63872,
       "current_price_bdt_landed": 67365,
       "original_msrp_usd": 699.99,
-      "lowest_seen_price_usd": 499.00,
+      "lowest_seen_price_usd": 499,
       "stock_status": "OUT_OF_STOCK",
       "ram_status": "UPGRADEABLE_SODIMM",
       "cpu": "AMD Ryzen 5 8645HS (6 Cores / 12 Threads, Zen 4, up to 5.0 GHz)",
@@ -106,7 +134,7 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS",
       "touchscreen": false,
       "notes": "Apex GPU doorbuster under $500. Direct Walmart inventory temporarily sold through (currently 3rd party marketplace at $998). Maintained on alert watch for Black Friday restocks. Dual DDR5 SODIMM slots allow expansion up to 64GB.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
+      "last_checked": "2026-10-27T18:15:00+06:00",
       "alert_trigger": "STOCK_DEPLETED"
     },
     {
@@ -116,20 +144,42 @@
       "sku": "Latitude-7340-Touch-000018",
       "url": "https://www.dellrefurbished.com/hot-deals?model_f[]=Latitude%207340",
       "tier": "Tier 1: High Budget ($450-$550)",
-      "current_price_usd": 539.00,
+      "current_price_usd": 539,
       "current_price_bdt_bank": 68992,
       "current_price_bdt_landed": 72765,
-      "original_msrp_usd": 899.00,
-      "lowest_seen_price_usd": 539.00,
+      "original_msrp_usd": 899,
+      "lowest_seen_price_usd": 539,
       "stock_status": "IN_STOCK",
       "ram_status": "SOLDERED",
       "cpu": "Intel Core i7-1365U (10 Cores / 12 Threads, up to 5.2 GHz, 13th Gen)",
       "gpu": "Intel Iris Xe Graphics",
       "display": "13.3\" FHD+ (1920x1200) 16:10 Touchscreen",
       "touchscreen": true,
-      "notes": "Live October Hot Deal: 40% instant discount (no coupon required) with free ground shipping. 13th Gen 10-core Core i7 with 16GB RAM and 16:10 touchscreen under $540.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
-      "alert_trigger": "NEW_DEAL"
+      "notes": "Live October Hot Deal: 40% instant discount (no coupon required) with free ground shipping. 13th Gen 10-core Core i7 with 16GB RAM and 16:10 touchscreen under $540. CRITICAL ALERT: Live verification shows only 2 units remaining in stock!",
+      "last_checked": "2026-10-27T18:15:00+06:00",
+      "alert_trigger": "LOW_STOCK_WARNING"
+    },
+    {
+      "id": "dell-latitude-7330-32gb-woot",
+      "title": "Dell Latitude 7330 13.3\" FHD Laptop - Intel Core i7-1265U - 32GB RAM - 512GB SSD - Thunderbolt 4",
+      "retailer": "Woot (An Amazon Company)",
+      "sku": "Latitude-7330-32GB",
+      "url": "https://computers.woot.com/offers/dell-latitude-7330-i7-1265u-32-512-w11p-3",
+      "tier": "Tier 1: High Budget ($450-$550)",
+      "current_price_usd": 539.99,
+      "current_price_bdt_bank": 69119,
+      "current_price_bdt_landed": 72899,
+      "original_msrp_usd": 1499,
+      "lowest_seen_price_usd": 539.99,
+      "stock_status": "IN_STOCK",
+      "ram_status": "SOLDERED",
+      "cpu": "Intel Core i7-1265U (10 Cores / 12 Threads, up to 4.8 GHz vPro, 12th Gen)",
+      "gpu": "Intel Iris Xe Graphics",
+      "display": "13.3\" FHD (1920x1080) Non-Touch IPS",
+      "touchscreen": false,
+      "notes": "Tier 1 32GB RAM Breakthrough: Woot Microsoft Authorized Refurbished event. Packs 32GB DDR4 RAM pre-installed, 10-core 12th Gen i7-1265U, 512GB SSD, and dual Thunderbolt 4 ports for $539.99. Eliminates memory ceilings for heavy Docker/VM/dev workloads under $550. CRITICAL ALERT: Live verification confirms only 1 unit remaining in stock!",
+      "last_checked": "2026-10-27T18:15:00+06:00",
+      "alert_trigger": "LOW_STOCK_WARNING"
     },
     {
       "id": "dell-latitude-7430-2in1-woot",
@@ -141,7 +191,7 @@
       "current_price_usd": 499.99,
       "current_price_bdt_bank": 63999,
       "current_price_bdt_landed": 67499,
-      "original_msrp_usd": 1399.00,
+      "original_msrp_usd": 1399,
       "lowest_seen_price_usd": 499.99,
       "stock_status": "IN_STOCK",
       "ram_status": "SOLDERED",
@@ -149,9 +199,9 @@
       "gpu": "Intel Iris Xe Graphics",
       "display": "14.0\" FHD (1920x1080) Touchscreen 360°",
       "touchscreen": true,
-      "notes": "Woot Microsoft Authorized Refurbished event. Upgrades to 12th Gen 10-core Core i7-1265U with 16GB RAM and full 360 convertible touch form factor for $499.99. Thunderbolt 4 and 90-day warranty.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
-      "alert_trigger": "NEW_DEAL"
+      "notes": "Woot Microsoft Authorized Refurbished event. Upgrades to 12th Gen 10-core Core i7-1265U with 16GB RAM and full 360 convertible touch form factor for $499.99. Thunderbolt 4 and 90-day warranty. CRITICAL ALERT: Live verification confirms only 1 unit remaining in stock!",
+      "last_checked": "2026-10-27T18:15:00+06:00",
+      "alert_trigger": "LOW_STOCK_WARNING"
     },
     {
       "id": "msi-gf63-thin-rtx3050",
@@ -160,11 +210,11 @@
       "sku": "11UC-1276US",
       "url": "https://www.walmart.com/search?q=msi+gf63+thin+rtx+3050",
       "tier": "Tier 1: High Budget ($450-$550)",
-      "current_price_usd": 479.00,
+      "current_price_usd": 479,
       "current_price_bdt_bank": 61312,
       "current_price_bdt_landed": 64665,
       "original_msrp_usd": 699.99,
-      "lowest_seen_price_usd": 449.00,
+      "lowest_seen_price_usd": 449,
       "stock_status": "IN_STOCK",
       "ram_status": "UPGRADEABLE_SODIMM",
       "cpu": "Intel Core i5 (H-Series)",
@@ -172,7 +222,7 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS",
       "touchscreen": false,
       "notes": "Ships with 16GB RAM out of the box (dual SODIMM slots). Dedicated RTX 3050 for local LLMs and Adobe Suite under $480.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
+      "last_checked": "2026-10-27T18:15:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -182,11 +232,11 @@
       "sku": "F1605VA-WS74",
       "url": "https://www.walmart.com/search?q=asus+vivobook+16+i7+16gb",
       "tier": "Tier 1: High Budget ($450-$550)",
-      "current_price_usd": 499.00,
+      "current_price_usd": 499,
       "current_price_bdt_bank": 63872,
       "current_price_bdt_landed": 67365,
       "original_msrp_usd": 649.99,
-      "lowest_seen_price_usd": 499.00,
+      "lowest_seen_price_usd": 499,
       "stock_status": "IN_STOCK",
       "ram_status": "UPGRADEABLE_SODIMM",
       "cpu": "Intel Core i7-1355U (10 Cores / 12 Threads, up to 5.0 GHz)",
@@ -194,30 +244,30 @@
       "display": "16.0\" WUXGA (1920x1200) 16:10 NanoEdge Display",
       "touchscreen": false,
       "notes": "Productivity doorbuster. Packs a 10-core Core i7, 16GB factory RAM, and taller 16:10 16-inch display under $500. Features 1 open SODIMM slot for upgrading up to 40GB total.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
+      "last_checked": "2026-10-27T18:15:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
-      "id": "lenovo-ideapad-flex-5-16gb",
-      "title": "Lenovo IdeaPad Flex 5 14\" WUXGA Touch 2-in-1 Laptop - AMD Ryzen 5 - 16GB Memory - 1TB SSD",
+      "id": "lenovo-ideapad-slim-3i-16gb-bestbuy",
+      "title": "Lenovo IdeaPad Slim 3i 15.6\" FHD Laptop - Intel Core i5-1335U - 16GB RAM - 256GB SSD",
       "retailer": "Best Buy",
-      "sku": "6571565",
-      "url": "https://www.bestbuy.com/site/lenovo-ideapad-flex-5-14-wuxga-touch-2-in-1-laptop-amd-ryzen-5-16gb-memory-1tb-ssd-storm-gray/6571565.p?skuId=6571565",
+      "sku": "6668499",
+      "url": "https://www.bestbuy.com/site/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/6668499.p?skuId=6668499",
       "tier": "Tier 1: High Budget ($450-$550)",
       "current_price_usd": 499.99,
       "current_price_bdt_bank": 63999,
       "current_price_bdt_landed": 67499,
-      "original_msrp_usd": 749.99,
-      "lowest_seen_price_usd": 479.99,
+      "original_msrp_usd": 899.99,
+      "lowest_seen_price_usd": 499.99,
       "stock_status": "IN_STOCK",
-      "ram_status": "SOLDERED",
-      "cpu": "AMD Ryzen 5 7530U (6 Cores / 12 Threads)",
-      "gpu": "AMD Radeon Graphics",
-      "display": "14\" WUXGA (1920x1200) 16:10 IPS Touch 360°",
-      "touchscreen": true,
-      "notes": "RAM is soldered but factory equipped with 16GB. Full 360 convertible with 1TB SSD under $500.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
-      "alert_trigger": "STEADY"
+      "ram_status": "UPGRADEABLE_SODIMM",
+      "cpu": "Intel Core i5-1335U (10 Cores / 12 Threads, up to 4.6 GHz)",
+      "gpu": "Intel Iris Xe Graphics",
+      "display": "15.6\" FHD (1920x1080) Anti-glare",
+      "touchscreen": false,
+      "notes": "Best Buy 1P direct Black Friday doorbuster: $400 instant discount brings a 13th Gen 10-core Core i5 with 16GB RAM down to $499.99 (~৳67,499 landed). Direct manufacturer 1-year warranty.",
+      "last_checked": "2026-10-27T18:15:00+06:00",
+      "alert_trigger": "NEW_DEAL"
     },
     {
       "id": "acer-aspire-3-ryzen5-16gb-ebay",
@@ -226,7 +276,7 @@
       "sku": "Acer-Aspire3-R5",
       "url": "https://www.ebay.com/str/acer/Laptops/_i.html?store_cat=2792634010",
       "tier": "Tier 1: High Budget ($450-$550)",
-      "current_price_usd": 473.10,
+      "current_price_usd": 473.1,
       "current_price_bdt_bank": 60557,
       "current_price_bdt_landed": 63869,
       "original_msrp_usd": 599.99,
@@ -238,7 +288,7 @@
       "display": "15.6\" FHD (1920x1080) IPS Display",
       "touchscreen": false,
       "notes": "Includes free 2-Year Allstate Warranty. Pre-configured with 16GB RAM and huge 1TB SSD. Direct manufacturer certified.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
+      "last_checked": "2026-10-27T18:15:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -260,7 +310,7 @@
       "display": "13.3\" FHD (1920x1080) IPS 360° Touchscreen",
       "touchscreen": true,
       "notes": "Sold out on Woot event 67. Succeeded by Dell Latitude 7430 2-in-1 (12th Gen i7-1265U) and Dell Latitude 7330 32GB RAM.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
+      "last_checked": "2026-10-27T18:15:00+06:00",
       "alert_trigger": "STOCK_DEPLETED"
     },
     {
@@ -282,7 +332,7 @@
       "display": "15.6\" FHD (1920x1080) 120Hz Touchscreen",
       "touchscreen": true,
       "notes": "Best compromise for touchscreen users who require un-soldered RAM (2x DDR4 SODIMM slots, upgradeable to 64GB). Refurbished starts from $399.00 (~৳53,865 landed).",
-      "last_checked": "2026-10-26T22:55:00+06:00",
+      "last_checked": "2026-10-27T18:15:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -292,20 +342,20 @@
       "sku": "Latitude-7420-DFS",
       "url": "https://www.dellrefurbished.com/laptops",
       "tier": "Tier 2: Mid Budget ($350-$450)",
-      "current_price_usd": 365.00,
+      "current_price_usd": 365,
       "current_price_bdt_bank": 46720,
       "current_price_bdt_landed": 49275,
-      "original_msrp_usd": 1499.00,
-      "lowest_seen_price_usd": 325.00,
-      "stock_status": "IN_STOCK",
+      "original_msrp_usd": 1499,
+      "lowest_seen_price_usd": 325,
+      "stock_status": "OUT_OF_STOCK",
       "ram_status": "SOLDERED",
       "cpu": "Intel Core i7-1185G7 (4 Cores / 8 Threads)",
       "gpu": "Intel Iris Xe Graphics",
       "display": "14.0\" FHD (1920x1080) 400-nit Low Blue Light IPS",
       "touchscreen": false,
-      "notes": "Net price after applying weekly 45% flash coupon from dellrefurbished.com/coupons. Carbon fiber chassis, Thunderbolt 4, lightweight enterprise build.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
-      "alert_trigger": "STEADY"
+      "notes": "DFS stock exhausted: 0 units remaining in active Dell Refurbished catalog. Dell Latitude 7340 Touch ($539) and Latitude 7340 QHD+ 32GB ($579) remain active alternatives on DFS Hot Deals.",
+      "last_checked": "2026-10-27T18:15:00+06:00",
+      "alert_trigger": "STOCK_DEPLETED"
     },
     {
       "id": "hp-elitebook-840-g8-i7-16gb",
@@ -317,7 +367,7 @@
       "current_price_usd": 369.99,
       "current_price_bdt_bank": 47359,
       "current_price_bdt_landed": 49949,
-      "original_msrp_usd": 1399.00,
+      "original_msrp_usd": 1399,
       "lowest_seen_price_usd": 349.99,
       "stock_status": "IN_STOCK",
       "ram_status": "UPGRADEABLE_SODIMM",
@@ -326,7 +376,7 @@
       "display": "14.0\" FHD (1920x1080) IPS Anti-glare",
       "touchscreen": false,
       "notes": "Enterprise clamshell upgrade: moves to Core i7-1185G7 and doubles RAM to 16GB out of the box while keeping dual un-soldered SODIMM expansion up to 64GB.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
+      "last_checked": "2026-10-27T18:15:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -339,7 +389,7 @@
       "current_price_usd": 179.99,
       "current_price_bdt_bank": 23039,
       "current_price_bdt_landed": 24299,
-      "original_msrp_usd": 1299.00,
+      "original_msrp_usd": 1299,
       "lowest_seen_price_usd": 179.99,
       "stock_status": "IN_STOCK",
       "ram_status": "UPGRADEABLE_SODIMM",
@@ -347,9 +397,9 @@
       "gpu": "NVIDIA Quadro P520 / T500 (Dedicated Workstation GPU)",
       "display": "15.6\" FHD (1920x1080) IPS",
       "touchscreen": false,
-      "notes": "Extreme budget value slashed to $179.99. A genuine ISV-certified mobile workstation with dedicated NVIDIA GPU and 2x un-soldered SODIMM slots for ~৳24,300 BDT landed, backed by 30-Day BlairTech Warranty.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
-      "alert_trigger": "PRICE_DROP"
+      "notes": "Extreme budget value verified live in stock at $179.99. A genuine ISV-certified mobile workstation with dedicated NVIDIA Quadro GPU and 2x un-soldered SODIMM slots for ~৳24,299 BDT landed, backed by 30-Day BlairTech Warranty.",
+      "last_checked": "2026-10-27T18:15:00+06:00",
+      "alert_trigger": "STEADY"
     },
     {
       "id": "lenovo-thinkpad-t14-gen2-ebay",
@@ -358,10 +408,10 @@
       "sku": "ThinkPad-T14-G2",
       "url": "https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000",
       "tier": "Tier 3: Value / Under $350",
-      "current_price_usd": 299.99,
-      "current_price_bdt_bank": 38399,
-      "current_price_bdt_landed": 40499,
-      "original_msrp_usd": 1199.00,
+      "current_price_usd": 294.27,
+      "current_price_bdt_bank": 37667,
+      "current_price_bdt_landed": 39726,
+      "original_msrp_usd": 1199.0,
       "lowest_seen_price_usd": 279.99,
       "stock_status": "IN_STOCK",
       "ram_status": "UPGRADEABLE_SODIMM",
@@ -369,9 +419,9 @@
       "gpu": "AMD Radeon Vega Graphics / Intel Iris Xe",
       "display": "14.0\" FHD (1920x1080) IPS Display",
       "touchscreen": false,
-      "notes": "Under ৳41,000 BDT landed, delivering a tank-like military-grade ThinkPad chassis, 6-core Ryzen 5 Pro, and 16GB RAM with 2-Year Allstate Warranty.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
-      "alert_trigger": "STEADY"
+      "notes": "Price dropped to $294.27 on eBay Certified Refurbished (breaking below the ৳40,000 BDT landed psychological mark at ~৳39,726). Features tank-like military-grade ThinkPad chassis, 6-core Ryzen 5 Pro / 11th Gen i5, 16GB RAM, 512GB SSD, and 2-Year Allstate Warranty.",
+      "last_checked": "2026-10-27T18:15:00+06:00",
+      "alert_trigger": "PRICE_DROP"
     },
     {
       "id": "dell-latitude-5420-woot",
@@ -383,7 +433,7 @@
       "current_price_usd": 319.99,
       "current_price_bdt_bank": 40959,
       "current_price_bdt_landed": 43199,
-      "original_msrp_usd": 1199.00,
+      "original_msrp_usd": 1199,
       "lowest_seen_price_usd": 299.99,
       "stock_status": "IN_STOCK",
       "ram_status": "UPGRADEABLE_SODIMM",
@@ -392,7 +442,7 @@
       "display": "14.0\" FHD (1920x1080) IPS",
       "touchscreen": false,
       "notes": "Reliable enterprise workhorse. Features 2x accessible SODIMM slots (up to 64GB DDR4), Thunderbolt 4, and 16GB RAM out of the box for under $320.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
+      "last_checked": "2026-10-27T18:15:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -405,7 +455,7 @@
       "current_price_usd": 259.99,
       "current_price_bdt_bank": 33279,
       "current_price_bdt_landed": 35099,
-      "original_msrp_usd": 1099.00,
+      "original_msrp_usd": 1099,
       "lowest_seen_price_usd": 249.99,
       "stock_status": "IN_STOCK",
       "ram_status": "UPGRADEABLE_SODIMM",
@@ -414,11 +464,23 @@
       "display": "14.0\" FHD (1920x1080) IPS",
       "touchscreen": false,
       "notes": "CNC all-aluminum chassis, equipped with 16GB RAM and dual SODIMM slots for ~৳35,000 BDT landed. Highly durable, affordable enterprise workhorse for everyday productivity.",
-      "last_checked": "2026-10-26T22:55:00+06:00",
+      "last_checked": "2026-10-27T18:15:00+06:00",
       "alert_trigger": "STEADY"
     }
   ],
   "reconciled_history": [
+    {
+      "timestamp": "2026-10-28T01:25:00+06:00",
+      "summary": "Verified deal portfolio across all 4 tiers: confirmed ThinkPad T14 Gen 2 holding price drop at .27 on eBay Refurbished (~৳39,726 landed - breaking ৳40k barrier with 2-year warranty), verified Dell Precision 3550 .99 clearance on BlairTech, tracked Woot low-stock allocations on Latitude 7330 32GB (.99), and synchronized live GitHub dashboard."
+    },
+    {
+      "timestamp": "2026-10-27T18:15:00+06:00",
+      "summary": "Firecrawl Daily Deep Deal Hunter evening sweep completed: Verified live stock and critical inventory alerts across Woot and Dell Financial Services (DFS). Issued urgent low-stock telemetry: Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single unit ('Hurry only 1 left!'), while DFS Latitude 7340 Touch ($539) down to 2 units. Flagged DFS Latitude 7420 inventory fully depleted to OUT_OF_STOCK. Discovered fresh eBay Certified Refurbished price drop on Lenovo ThinkPad T14 Gen 2 (16GB RAM, 512GB SSD) down to $294.27 (~৳39,726 landed, breaking below ৳40k BDT barrier with 2-Year Allstate Warranty). Sourced Best Buy 1P direct doorbuster on Lenovo IdeaPad Slim 3i (13th Gen i5-1335U, 16GB RAM) at $499.99 ($400 off MSRP). Confirmed BlairTech Dell Precision 3550 mobile workstation active at $179.99 (~৳24,299 landed). Synced ledger, summary, and root dashboard."
+    },
+    {
+      "timestamp": "2026-10-27T09:25:00+06:00",
+      "summary": "Firecrawl Daily Deep Deal Hunter sweep completed: Discovered Dell Latitude 7330 with 32GB RAM + 512GB SSD + Core i7-1265U live on Woot at $539.99 (~৳72,899 landed), breaking the 16GB RAM barrier within Tier 1. Verified live inventory across DFS and Woot: issued critical low-stock telemetry warnings on Dell Latitude 7340 Touch $539 (down to 2 units) and Dell Latitude 7430 2-in-1 $499.99 (down to final unit). Confirmed BlairTech Dell Precision 3550 workstation remains in stock at all-time low $179.99 (~৳24,299 landed). Synced ledger, summary, and root dashboard."
+    },
     {
       "timestamp": "2026-10-26T23:05:00+06:00",
       "summary": "Agent-driven dashboard sync cycle executed: Upgraded architecture so AI agent directly composes both README.md dashboard and DEALS_SUMMARY.md with every run, crafting custom Conventional Commit messages. Reconciled inventory across all 4 tiers, verified Dell Latitude 7340 32GB at $579, confirmed Precision 3550 $179.99 drop, and synced live repository."
