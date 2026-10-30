@@ -7,6 +7,7 @@
 [![Cadence](https://img.shields.io/badge/Cadence-Every%202%20Hours-blue?style=for-the-badge&logo=clockify)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B360k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Version](https://img.shields.io/badge/Ledger-v2.9.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
 
 **An autonomous, multi-tier intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories.**
 
@@ -16,8 +17,8 @@
 
 ---
 
-> **🕒 Last Verified:** `2026-10-30 09:00:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
-> **📊 Structured Data:** [`docs/laptop-tracker/DEALS_LEDGER.json`](docs/laptop-tracker/DEALS_LEDGER.json) • **Evaluation Rules:** [`docs/laptop-tracker/TRACKER_SPEC.md`](docs/laptop-tracker/TRACKER_SPEC.md)
+> **🕒 Last Verified:** `2026-10-31 00:45:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
+> **📊 Structured Data:** [`DEALS_LEDGER.json`](DEALS_LEDGER.json) • **Evaluation Rules:** [`TRACKER_SPEC.md`](TRACKER_SPEC.md)
 
 ---
 
@@ -32,7 +33,7 @@
 | **[Dell Latitude 7340 QHD+](https://www.dellrefurbished.com/hot-deals?model_f[]=Latitude%207340)** <br>*(Dell Refurbished DFS)* | **$579.00** <br>~~$969.00~~ | **~৳74,112** | **~৳78,165** | Core i7-1365U (10C/12T, 13th Gen) • Iris Xe • 512GB SSD | **32GB RAM Pre-Installed** *(Eliminates all memory ceilings)* | 13.3" QHD+ (2560x1600) 500-nit IPS | `IN STOCK` *(30+ Available)* |
 
 > [!WARNING]
-> **Adversarial Market Warning (MSI Thin A15 RTX 4060 at $649):** Competing sub-$650 4060 listings like the MSI Thin A15 severely throttle GPU power to **45W TGP**, performing worse than an unthrottled 4050 in actual gaming and compute. The **Acer Nitro V 15 ($649.99)** runs at 75W TGP with dual-fan cooling and dual DDR5 slots, while the newly added **Dell Precision 3581 ($619.00)** provides a full 12-core H-series workstation architecture with dedicated NVIDIA RTX graphics.
+> **Adversarial Market Warning (MSI Thin A15 RTX 4060 at $649):** Competing sub-$650 4060 listings like the MSI Thin A15 severely throttle GPU power to **45W TGP**, performing worse than an unthrottled 4050 in actual gaming and compute. The **Acer Nitro V 15 ($649.99)** runs at 75W TGP with dual-fan cooling and dual DDR5 slots, while the **Dell Precision 3581 ($619.00)** provides a full 12-core H-series workstation architecture with dedicated NVIDIA RTX graphics.
 
 ---
 
