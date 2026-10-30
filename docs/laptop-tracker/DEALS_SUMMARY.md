@@ -7,7 +7,7 @@
 [![Cadence](https://img.shields.io/badge/Cadence-Every%202%20Hours-blue?style=for-the-badge&logo=clockify)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B360k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.9.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
+[![Version](https://img.shields.io/badge/Ledger-v2.9.1-informational?style=for-the-badge)](DEALS_LEDGER.json)
 
 **An autonomous, multi-tier intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories.**
 
@@ -17,7 +17,7 @@
 
 ---
 
-> **🕒 Last Verified:** `2026-10-31 00:45:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
+> **🕒 Last Verified:** `2026-10-31 02:45:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
 > **📊 Structured Data:** [`DEALS_LEDGER.json`](DEALS_LEDGER.json) • **Evaluation Rules:** [`TRACKER_SPEC.md`](TRACKER_SPEC.md)
 
 ---
@@ -70,7 +70,7 @@
 *Extreme value bargains delivering dedicated GPUs, military-grade durability, and 1-to-2 year warranties under ৳45,000 landed.*
 
 | Model & Retailer | Current Price | Bank Rate (~128) | Real Landed (~135) | Key Specifications | RAM & Upgradeability | Display | Deal Status |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: |
 | **[Dell Precision 3550](https://blairtech.com/scratch-dent-dell-precision-3550-15-6-workstation-laptop-intel-quad-core-i5-10th-gen-i5-10310u-250gb-nvme-8gb-ram-windows-11-home-backlit-keyboard-webcam-s-n-8f24673/)** <br>*(BlairTech)* | **$179.99** <br>~~$1,299~~ | **~৳23,039** | **~৳24,299** | Core i5-10310U • ISV Workstation • 250GB NVMe SSD | **2× un-soldered SODIMM slots** (up to 64GB DDR4) | 15.6" FHD IPS • **30-Day Warranty** | `IN STOCK` *(Verified Live)* |
 | **[Lenovo ThinkPad T14 Gen 2](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)** <br>*(eBay Refurbished)* | **$294.27** <br>~~$1,199~~ | **~৳37,667** | **~৳39,726** | Ryzen 5 PRO 5650U (6C/12T) / i5-1135G7 • **512GB SSD** | **16GB RAM** *(Upgradeable)* | 14.0" FHD IPS • **Allstate Warranty** | `IN STOCK` *(Price Drop! <৳40k)* |
 | **[Dell Latitude 5420](https://computers.woot.com/plus/microsoft-authorized-refurbished-laptops-67)** <br>*(Woot / BlairTech)* | **$319.99** <br>~~$1,199~~ | **~৳40,959** | **~৳43,199** | Core i5-1145G7 • Iris Xe • 256GB/512GB SSD | **16GB RAM** *(2× un-soldered SODIMM slots)* | 14.0" FHD IPS | `IN STOCK` |
