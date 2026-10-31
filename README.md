@@ -7,7 +7,7 @@
 [![Cadence](https://img.shields.io/badge/Cadence-Every%202%20Hours-blue?style=for-the-badge&logo=clockify)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B360k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.9.4-informational?style=for-the-badge)](docs/laptop-tracker/DEALS_LEDGER.json)
+[![Version](https://img.shields.io/badge/Ledger-v2.9.5-informational?style=for-the-badge)](docs/laptop-tracker/DEALS_LEDGER.json)
 
 **An autonomous, multi-tier intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories.**
 
@@ -17,7 +17,7 @@
 
 ---
 
-> **🕒 Last Verified:** `2026-10-31 18:45:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
+> **🕒 Last Verified:** `2026-10-31 20:40:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
 > **📊 Structured Data:** [`docs/laptop-tracker/DEALS_LEDGER.json`](docs/laptop-tracker/DEALS_LEDGER.json) • **Evaluation Rules:** [`docs/laptop-tracker/TRACKER_SPEC.md`](docs/laptop-tracker/TRACKER_SPEC.md)
 
 ---
