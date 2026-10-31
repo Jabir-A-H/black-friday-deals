@@ -7,7 +7,7 @@
 [![Cadence](https://img.shields.io/badge/Cadence-Every%202%20Hours-blue?style=for-the-badge&logo=clockify)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B360k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.9.5-informational?style=for-the-badge)](docs/laptop-tracker/DEALS_LEDGER.json)
+[![Version](https://img.shields.io/badge/Ledger-v2.10.0-informational?style=for-the-badge)](docs/laptop-tracker/DEALS_LEDGER.json)
 
 **An autonomous, multi-tier intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories.**
 
@@ -17,7 +17,8 @@
 
 ---
 
-> **🕒 Last Verified:** `2026-10-31 20:40:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
+> **🕒 Last Verified:** `2026-10-31 20:45:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
+> **🎃 Flash Campaign Alert:** Dell Refurbished Halloween Sale (Code **`SPOOKY35DEAL`** for 35% off all laptops) is in its **final 24-hour countdown** (expires Nov 1, 11:30 PM CT).  
 > **📊 Structured Data:** [`docs/laptop-tracker/DEALS_LEDGER.json`](docs/laptop-tracker/DEALS_LEDGER.json) • **Evaluation Rules:** [`docs/laptop-tracker/TRACKER_SPEC.md`](docs/laptop-tracker/TRACKER_SPEC.md)
 
 ---
@@ -78,18 +79,6 @@
 
 ---
 
-## 🗓️ Black Friday Retailer Timelines & Early Wave Alert
-
-| Retailer | Current Wave / Active Promo | Key Milestone Dates | Strategic Guidance |
-| :--- | :--- | :--- | :--- |
-| **Best Buy** | **DoorBOOsters Preview (Ends Nov 1)** <br>Lenovo IdeaPad Slim 3i at $499.99 ($400 off) | **Nov 6:** Early Black Friday Friday-drops begin <br>**Nov 19:** Main 10-day event kicks off | Act now on 16GB doorbusters under $500; holiday return window now extended through Jan 2027. |
-| **Target** | **Deal of the Day Rollout** <br>Target Circle daily drops | **Nov 1:** Daily deals commence <br>**Nov 5–7:** First Official Early Black Friday 3-Day Sale | Monitor Target Restored and daily tech drops for sub-$300 business clamshells. |
-| **Walmart** | **Pre-Holiday Watch** <br>MacBook Air M2 at $649 / Restored $618.89 | **Nov 12–15:** Event 1 Early Black Friday (Walmart+ 12:01 AM ET) <br>**Nov 23–29:** Core Black Friday | Target HP Victus 15 RTX 4050 restock ($499) at the Nov 12 Event 1 kickoff. |
-| **Dell Refurbished (DFS)** | **Halloween Sale (`SPOOKY35DEAL`)** <br>35% off non-Hot Deals (Ends Nov 1, 11:30 PM CT) | **Live:** Hot Deals 40%–50% instant savings without code | Precision 3581 RTX workstation ($619) & Latitude 7340 Touch ($539) are top enterprise picks. |
-| **Woot (Amazon)** | **Microsoft Authorized Refurbished Event** <br>Prime Free Shipping & 90-Day Warranty | **Live:** Rapid flash clearance | Single-unit allocations: Latitude 7330 32GB ($539.99) & 7430 2-in-1 ($499.99) on final units. |
-
----
-
 ## 💡 The Landed Cost Architecture (USD $\rightarrow$ BDT)
 
 Online US retailer prices **exclude taxes and processing fees**. To ensure realistic planning, this tracker models two real-world currency layers:
@@ -99,6 +88,9 @@ Online US retailer prices **exclude taxes and processing fees**. To ensure reali
 | **Mid-Market Benchmark** | **1 USD ≈ 124.0 BDT** | Raw interbank / Google / XE market rate. | Theoretical baseline only. |
 | **Bank Card Settlement** | **1 USD ≈ 128.0 BDT** | Commercial bank card rate (~124.5) + 1.5%–2% cross-border fee + 15% VAT on fee. | Shipping to a **tax-free US address** (Delaware/Oregon) carried by a traveler. |
 | **Realistic Landed Cost** | **1 USD ≈ 135.0 BDT** | Bank card rate + **6%–8.8% US state sales tax** + transfer/handling buffer. | Standard US purchase in a taxed state with incidental handling. |
+
+> [!TIP]
+> **Delaware 0% Sales Tax Pro-Tip:** When buying on eBay, Woot, or Best Buy with a package forwarder (e.g., Global Shopaholic, Stackry), **always use a Delaware (DE) warehouse address**. Delaware has **0.00% state sales tax**, instantly saving you $25 to $40 in US taxes compared to forwarding from New York, California, or Texas.
 
 > [!TIP]
 > **Buying Power Rule of Thumb:** If your hard budget ceiling is **৳55,000 BDT landed**, your maximum US cart price should not exceed **$407 USD**. The **Dell Precision 3550 Workstation ($179.99 = ~৳24,299 landed)**, **Lenovo ThinkPad T14 Gen 2 ($294.27 = ~৳39,726 landed)**, and **HP EliteBook 840 G8 ($369.99 = ~৳49,949 landed)** fit comfortably within this boundary.
