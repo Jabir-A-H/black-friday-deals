@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "2.10.0",
-    "last_updated": "2026-10-31T20:45:00+06:00",
+    "version": "2.10.1",
+    "last_updated": "2026-10-31T22:45:00+06:00",
     "currency_rates": {
       "base_mid_market_usd_to_bdt": 124,
       "bank_card_settlement_rate": 128,
@@ -68,7 +68,7 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS",
       "touchscreen": false,
       "notes": "The ultimate budget stretcher. Slashing $350 off MSRP to hit $649 unlocks a true RTX 4060 with 8GB VRAM (allowing unquantized 8B LLMs, 1080p Ultra gaming with full Ray Tracing/DLSS 3, and 16-thread Core i7 compute). Dual un-soldered DDR5 slots. Full cooling beats 45W throttled models.",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -90,7 +90,7 @@
       "display": "13.6\" Liquid Retina Display (2560x1664) 500-nits True Tone",
       "touchscreen": false,
       "notes": "Historical all-time low tracking. Direct Walmart brand-new stock fluctuates rapidly around $649 (currently restored like-new active at $618.89). Class-leading 18-hour battery, CNC unibody aluminum build, Liquid Retina display. Ideal for iOS/web development and college carry.",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -112,7 +112,7 @@
       "display": "13.3\" QHD+ (2560x1600) 16:10 Touchscreen",
       "touchscreen": true,
       "notes": "High-gravity productivity outlier: 40% instant DFS discount gives 32GB RAM, 10-core 13th Gen i7, and ultra-sharp 2560x1600 16:10 touch panel for $579. Verified active with 30+ units remaining in stock. Grade A variant (SKU 000004) down to 4 units at $649.",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -134,7 +134,7 @@
       "display": "15.6\" FHD (1920x1080) Anti-glare IPS",
       "touchscreen": false,
       "notes": "High-gravity workstation outlier: DFS October Hot Deal provides 40% instant discount down to $619.00 (~৳83,565 landed). Packs a high-performance 12-core 13th Gen H-series Core i5-13600H, dedicated NVIDIA RTX graphics, 16GB DDR5 RAM (2x un-soldered SODIMM slots upgradeable to 64GB), 512GB NVMe SSD, Grade A cosmetic condition, and free ground shipping. Stock update: 11 units remaining in stock. Grade B alternative (SKU 000047) active at $549 (3 units left); 14-core i7-13700H variant (SKU 000029) active at $639 (16 units remaining).",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -156,7 +156,7 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS",
       "touchscreen": false,
       "notes": "Apex GPU doorbuster under $500. Direct Walmart 1P inventory remains temporarily sold through; currently 3rd-party marketplace reseller markup at $998. Maintained on alert watch for Walmart's official Black Friday Event 1 kickoff (Nov 12-15). Dual DDR5 SODIMM slots allow expansion up to 64GB.",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "STOCK_DEPLETED"
     },
     {
@@ -178,7 +178,7 @@
       "display": "13.3\" FHD+ (1920x1200) 16:10 Touchscreen",
       "touchscreen": true,
       "notes": "Live October Hot Deal: 40% instant discount (no coupon required) with free ground shipping. 13th Gen 10-core Core i7 with 16GB RAM and 16:10 touchscreen under $540. CRITICAL ALERT: Live verification confirms only 2 units remaining in stock!",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "LOW_STOCK_WARNING"
     },
     {
@@ -200,7 +200,7 @@
       "display": "13.3\" FHD (1920x1080) Non-Touch IPS",
       "touchscreen": false,
       "notes": "Tier 1 32GB RAM Breakthrough: Woot Microsoft Authorized Refurbished event. Packs 32GB DDR4 RAM pre-installed, 10-core 12th Gen i7-1265U, 512GB SSD, and dual Thunderbolt 4 ports for $539.99. Eliminates memory ceilings for heavy Docker/VM/dev workloads under $550. CRITICAL ALERT: Live verification confirms only 1 unit remaining in stock ('Hurry only 1 left!').",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "LOW_STOCK_WARNING"
     },
     {
@@ -222,7 +222,7 @@
       "display": "14.0\" FHD (1920x1080) Touchscreen 360°",
       "touchscreen": true,
       "notes": "Woot Microsoft Authorized Refurbished event. Upgrades to 12th Gen 10-core Core i7-1265U with 16GB RAM and full 360 convertible touch form factor for $499.99. Thunderbolt 4 and 90-day warranty. CRITICAL ALERT: Live verification confirms only 1 unit remaining in stock ('Hurry only 1 left!').",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "LOW_STOCK_WARNING"
     },
     {
@@ -244,7 +244,7 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS",
       "touchscreen": false,
       "notes": "Ships with 16GB RAM out of the box (dual SODIMM slots). Dedicated RTX 3050 for local LLMs and Adobe Suite under $480.",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -266,7 +266,7 @@
       "display": "16.0\" WUXGA (1920x1200) 16:10 NanoEdge Display",
       "touchscreen": false,
       "notes": "Productivity doorbuster. Packs a 10-core Core i7, 16GB factory RAM, and taller 16:10 16-inch display under $500. Features 1 open SODIMM slot for upgrading up to 40GB total.",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -288,7 +288,7 @@
       "display": "15.6\" FHD (1920x1080) Anti-glare",
       "touchscreen": false,
       "notes": "Best Buy direct 1P Black Friday doorbuster (DoorBOOsters / Early Black Friday): $400 instant discount brings a 13th Gen 10-core Core i5 with 16GB RAM down to $499.99 (~৳67,499 landed). Direct manufacturer 1-year warranty. Verified live via Best Buy SKU 6668499.",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -310,7 +310,7 @@
       "display": "15.6\" FHD (1920x1080) IPS Display",
       "touchscreen": false,
       "notes": "Includes free 2-Year Allstate Warranty. Pre-configured with 16GB RAM and huge 1TB SSD. Direct manufacturer certified.",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -332,7 +332,7 @@
       "display": "13.3\" FHD (1920x1080) IPS 360° Touchscreen",
       "touchscreen": true,
       "notes": "Sold out on Woot event 67. Succeeded by Dell Latitude 7430 2-in-1 (12th Gen i7-1265U) and Dell Latitude 7330 32GB RAM.",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "STOCK_DEPLETED"
     },
     {
@@ -354,7 +354,7 @@
       "display": "15.6\" FHD (1920x1080) 120Hz Touchscreen",
       "touchscreen": true,
       "notes": "Best compromise for touchscreen users who require un-soldered RAM (2x DDR4 SODIMM slots, upgradeable to 64GB). Refurbished starts from $399.00 (~৳53,865 landed).",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -376,7 +376,7 @@
       "display": "15.6\" FHD (1920x1080) Anti-glare",
       "touchscreen": false,
       "notes": "Tier 2 enterprise 10-core powerhouse: 41% instant DFS Hot Deal discount drops 12th Gen Core i5-1235U with 16GB RAM (2x 8GB SODIMM slots, upgradeable to 64GB) down to $429.00 (~৳57,915 landed). Free ground shipping. CRITICAL ALERT: Only 1 unit remaining in stock! (8GB variant SKU 000268 active at $409 with 10 units left).",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "LOW_STOCK_WARNING"
     },
     {
@@ -398,7 +398,7 @@
       "display": "14.0\" FHD (1920x1080) 400-nit Low Blue Light IPS",
       "touchscreen": false,
       "notes": "DFS stock exhausted: 0 units remaining in active Dell Refurbished catalog. Dell Latitude 7340 Touch ($539) and Latitude 7340 QHD+ 32GB ($579) remain active alternatives on DFS Hot Deals.",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "STOCK_DEPLETED"
     },
     {
@@ -420,7 +420,7 @@
       "display": "14.0\" FHD (1920x1080) IPS Anti-glare",
       "touchscreen": false,
       "notes": "Enterprise clamshell upgrade: moves to Core i7-1185G7 and doubles RAM to 16GB out of the box while keeping dual un-soldered SODIMM expansion up to 64GB.",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -442,7 +442,7 @@
       "display": "15.6\" FHD (1920x1080) IPS",
       "touchscreen": false,
       "notes": "Extreme budget value verified live in stock at $179.99. Precision workstation with Intel Quad Core i5 10th Gen, 250GB NVMe SSD, 8GB RAM (expandable via 2x un-soldered SODIMM slots up to 64GB DDR4), and 30-Day BlairTech Warranty for ~৳24,299 BDT landed.",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -464,7 +464,7 @@
       "display": "14.0\" FHD (1920x1080) IPS Display",
       "touchscreen": false,
       "notes": "Certified Refurbished baseline verified live across eBay refurbishers (active listings between $289.99 - $296.99, benchmarked at $294.27). Features military-grade ThinkPad chassis, 6-core Ryzen 5 Pro / 11th Gen i5, 16GB RAM, 512GB SSD, breaking below the ৳40,000 BDT landed barrier (~৳39,726) with Allstate 1-to-2 Year Warranty.",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -486,7 +486,7 @@
       "display": "14.0\" FHD (1920x1080) IPS",
       "touchscreen": false,
       "notes": "Reliable enterprise workhorse. Features 2x accessible SODIMM slots (up to 64GB DDR4), Thunderbolt 4, and 16GB RAM out of the box for under $320.",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -508,11 +508,15 @@
       "display": "14.0\" FHD (1920x1080) IPS",
       "touchscreen": false,
       "notes": "CNC all-aluminum chassis, equipped with 16GB RAM and dual SODIMM slots for ~৳35,000 BDT landed. Highly durable, affordable enterprise workhorse for everyday productivity.",
-      "last_checked": "2026-10-31T20:45:00+06:00",
+      "last_checked": "2026-10-31T22:45:00+06:00",
       "alert_trigger": "STEADY"
     }
   ],
   "reconciled_history": [
+    {
+      "timestamp": "2026-10-31T22:45:00+06:00",
+      "summary": "Late-evening October 31 telemetry & live market reconciliation sweep: Re-verified multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Confirmed Dell Refurbished Halloween Campaign (Coupon SPOOKY35DEAL for 35% off non-Hot Deals) entering final countdown expiring Nov 1 11:30 PM CT. Tracked DFS Hot Deals: Precision 3581 RTX workstation () holding at 11 units, Latitude 7340 Touch () holding at critical 2 units, Latitude 5530 16GB () holding at critical 1 unit. Re-verified Woot Microsoft Authorized Refurbished allocations: Latitude 7330 32GB RAM (.99) and Latitude 7430 2-in-1 (.99) holding at final single units. Confirmed Best Buy DoorBOOsters event active with Lenovo IdeaPad Slim 3i at .99 ( off MSRP) and companion Core 5 model at .99. Target early preview active for Nov 1 Deal of the Day rollout ahead of official Early Black Friday drops (Nov 5-7). BlairTech Dell Precision 3550 workstation holding floor at .99 (~৳24,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at .27 (~৳39,726 landed). Reconciled ledger to v2.10.1, updated README.md and DEALS_SUMMARY.md."
+    },
     {
       "timestamp": "2026-10-31T20:45:00+06:00",
       "summary": "Evening October 31 deal & telemetry reconciliation: Verified Dell Refurbished (DFS) Halloween event entering final 24-hour countdown (Code SPOOKY35DEAL for 35% off expires Nov 1 11:30 PM CT). Re-verified live inventory: Precision 3581 12-core RTX workstation ($619) holding at 11 units, Latitude 7340 Touch ($539) holding at critical 2 units, Latitude 5530 16GB ($429) holding at critical 1 unit. Re-verified Woot Microsoft Authorized Refurbished allocations: Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single units. Confirmed BlairTech Dell Precision 3550 workstation holding historical floor at $179.99 (~৳24,299 landed), and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~৳39,726 landed). Integrated Delaware 0% sales tax shipping advisory into dashboard to eliminate accidental $40 US state tax on forwarder checkouts."
