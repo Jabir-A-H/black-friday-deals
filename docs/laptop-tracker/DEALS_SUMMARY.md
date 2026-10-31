@@ -7,7 +7,7 @@
 [![Cadence](https://img.shields.io/badge/Cadence-Every%202%20Hours-blue?style=for-the-badge&logo=clockify)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B360k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.9.2-informational?style=for-the-badge)](DEALS_LEDGER.json)
+[![Version](https://img.shields.io/badge/Ledger-v2.9.3-informational?style=for-the-badge)](DEALS_LEDGER.json)
 
 **An autonomous, multi-tier intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories.**
 
@@ -17,7 +17,7 @@
 
 ---
 
-> **🕒 Last Verified:** `2026-10-31 07:15:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
+> **🕒 Last Verified:** `2026-10-31 15:15:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
 > **📊 Structured Data:** [`DEALS_LEDGER.json`](DEALS_LEDGER.json) • **Evaluation Rules:** [`TRACKER_SPEC.md`](TRACKER_SPEC.md)
 
 ---
@@ -75,6 +75,18 @@
 | **[Lenovo ThinkPad T14 Gen 2](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)** <br>*(eBay Refurbished)* | **$294.27** <br>~~$1,199~~ | **~৳37,667** | **~৳39,726** | Ryzen 5 PRO 5650U (6C/12T) / i5-1135G7 • **512GB SSD** | **16GB RAM** *(Upgradeable)* | 14.0" FHD IPS • **Allstate Warranty** | `IN STOCK` *(Price Drop! <৳40k)* |
 | **[Dell Latitude 5420](https://computers.woot.com/plus/microsoft-authorized-refurbished-laptops-67)** <br>*(Woot / BlairTech)* | **$319.99** <br>~~$1,199~~ | **~৳40,959** | **~৳43,199** | Core i5-1145G7 • Iris Xe • 256GB/512GB SSD | **16GB RAM** *(2× un-soldered SODIMM slots)* | 14.0" FHD IPS | `IN STOCK` |
 | **[HP EliteBook 840 G7](https://www.target.com/s?searchTerm=refurbished+laptop)** <br>*(Target Restored)* | **$259.99** <br>~~$1,099~~ | **~৳33,279** | **~৳35,099** | Core i5 10th Gen • Intel UHD • 256GB SSD • All-Metal | **16GB RAM** *(2× un-soldered SODIMM slots)* | 14.0" FHD IPS Aluminum | `IN STOCK` |
+
+---
+
+## 🗓️ Black Friday Retailer Timelines & Early Wave Alert
+
+| Retailer | Current Wave / Active Promo | Key Milestone Dates | Strategic Guidance |
+| :--- | :--- | :--- | :--- |
+| **Best Buy** | **DoorBOOsters Preview (Ends Nov 1)** <br>Lenovo IdeaPad Slim 3i at $499.99 ($400 off) | **Nov 6:** Early Black Friday Friday-drops begin <br>**Nov 19:** Main 10-day event kicks off | Act now on 16GB doorbusters under $500; holiday return window now extended through Jan 2027. |
+| **Target** | **Deal of the Day Rollout** <br>Target Circle daily drops | **Nov 1:** Daily deals commence <br>**Nov 5–7:** First Official Early Black Friday 3-Day Sale | Monitor Target Restored and daily tech drops for sub-$300 business clamshells. |
+| **Walmart** | **Pre-Holiday Watch** <br>MacBook Air M2 at $649 / Restored $618.89 | **Nov 12–15:** Event 1 Early Black Friday (Walmart+ 12:01 AM ET) <br>**Nov 23–29:** Core Black Friday | Target HP Victus 15 RTX 4050 restock ($499) at the Nov 12 Event 1 kickoff. |
+| **Dell Refurbished (DFS)** | **Halloween Sale (`SPOOKY35DEAL`)** <br>35% off non-Hot Deals (Ends Nov 1, 11:30 PM CT) | **Live:** Hot Deals 40%–50% instant savings without code | Precision 3581 RTX workstation ($619) & Latitude 7340 Touch ($539) are top enterprise picks. |
+| **Woot (Amazon)** | **Microsoft Authorized Refurbished Event** <br>Prime Free Shipping & 90-Day Warranty | **Live:** Rapid flash clearance | Single-unit allocations: Latitude 7330 32GB ($539.99) & 7430 2-in-1 ($499.99) on final units. |
 
 ---
 
