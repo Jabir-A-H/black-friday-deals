@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "2.14.0",
-    "last_updated": "2026-11-01T09:08:00+06:00",
+    "version": "2.15.0",
+    "last_updated": "2026-11-01T10:00:00+06:00",
     "currency_rates": {
       "base_mid_market_usd_to_bdt": 124,
       "bank_card_settlement_rate": 128,
@@ -68,7 +68,7 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS",
       "touchscreen": false,
       "notes": "The ultimate budget stretcher. Slashing $350 off MSRP to hit $649 unlocks a true RTX 4060 with 8GB VRAM (allowing unquantized 8B LLMs, 1080p Ultra gaming with full Ray Tracing/DLSS 3, and 16-thread Core i7 compute). Dual un-soldered DDR5 slots. Full cooling beats 45W throttled models.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -90,7 +90,7 @@
       "display": "13.6\" Liquid Retina Display (2560x1664) 500-nits True Tone",
       "touchscreen": false,
       "notes": "Historical all-time low tracking. Direct Walmart brand-new stock fluctuates rapidly around $649 (currently restored like-new active at $618.89). Class-leading 18-hour battery, CNC unibody aluminum build, Liquid Retina display. Ideal for iOS/web development and college carry.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -112,7 +112,7 @@
       "display": "13.3\" QHD+ (2560x1600) 16:10 Touchscreen",
       "touchscreen": true,
       "notes": "High-gravity productivity outlier: 40% instant DFS discount gives 32GB RAM, 10-core 13th Gen i7, and ultra-sharp 2560x1600 16:10 touch panel for $579. Verified active with 30+ units remaining in stock. Grade A variant (SKU 000004) down to 4 units at $649.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -133,8 +133,8 @@
       "gpu": "NVIDIA RTX Dedicated Workstation GPU",
       "display": "15.6\" FHD (1920x1080) Anti-glare IPS",
       "touchscreen": false,
-      "notes": "High-gravity workstation outlier: DFS October Hot Deal provides 40% instant discount down to $619.00 (~৳83,565 landed). Packs a high-performance 12-core 13th Gen H-series Core i5-13600H, dedicated NVIDIA RTX graphics, 16GB DDR5 RAM (2x un-soldered SODIMM slots upgradeable to 64GB), 512GB NVMe SSD, Grade A cosmetic condition, and free ground shipping. Stock update: 11 units remaining in stock. Grade B alternative (SKU 000047) active at $549 (3 units left); 14-core i7-13700H variant (SKU 000029) active at $639 (16 units remaining).",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "notes": "High-gravity workstation outlier: DFS October Hot Deal provides 40% instant discount down to $619.00 (~\u09f383,565 landed). Packs a high-performance 12-core 13th Gen H-series Core i5-13600H, dedicated NVIDIA RTX graphics, 16GB DDR5 RAM (2x un-soldered SODIMM slots upgradeable to 64GB), 512GB NVMe SSD, Grade A cosmetic condition, and free ground shipping. Stock update: 11 units remaining in stock. Grade B alternative (SKU 000047) active at $549 (3 units left); 14-core i7-13700H variant (SKU 000029) active at $639 (16 units remaining).",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -156,7 +156,29 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS Anti-glare",
       "touchscreen": false,
       "notes": "Apex Tier 4 GPU Outlier: Slashes $420 (38%+) off MSRP to unlock a true full-wattage 140W TGP NVIDIA GeForce RTX 4060 (8GB GDDR6 dedicated VRAM with Dynamic Boost and MUX switch), drastically outperforming thermal-throttled 45W thin-and-lights. AMD Ryzen 5/7, 16GB DDR5 RAM (2x un-soldered SODIMM slots upgradeable to 64GB), 512GB PCIe 4.0 SSD, and military-grade MIL-STD-810H durability.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "last_checked": "2026-11-01T10:00:00+06:00",
+      "alert_trigger": "GRAVITY_DEAL"
+    },
+    {
+      "id": "lenovo-yoga-7i-16-touch",
+      "title": "Lenovo Yoga 7i 16\" 2-in-1 Touch Laptop - Intel Core Ultra 5 / Ultra 7 - 16GB RAM - 512GB SSD - Lunar Grey",
+      "retailer": "Best Buy",
+      "sku": "Yoga-7i-16-Ultra",
+      "url": "https://www.bestbuy.com/site/searchpage.jsp?st=lenovo+yoga+7i+16+touchscreen",
+      "tier": "Tier 4: Gravity Stretcher",
+      "current_price_usd": 599.99,
+      "current_price_bdt_bank": 76799,
+      "current_price_bdt_landed": 80999,
+      "original_msrp_usd": 999.99,
+      "lowest_seen_price_usd": 599.99,
+      "stock_status": "IN_STOCK",
+      "ram_status": "SOLDERED",
+      "cpu": "Intel Core Ultra 5 125U / Ultra 7 155U (Intel AI Boost NPU)",
+      "gpu": "Intel Arc / Intel Graphics",
+      "display": "16.0\" WUXGA (1920x1200) IPS 360\u00b0 Touchscreen (300 nits, Dolby Vision)",
+      "touchscreen": true,
+      "notes": "Gravity Outlier & AI PC Convertible: Best Buy promotional clearance slashes 40% ($400 off MSRP) to deliver a 360\u00b0 convertible with next-gen Intel Core Ultra silicon (featuring dedicated AI NPU for local inferencing), 16GB LPDDR5X RAM, 512GB PCIe 4.0 SSD, all-aluminum chassis, Dolby Atmos quad speakers, and active stylus support. Perfect crossover for creative design and local AI development under \u09f381,000 landed.",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -178,7 +200,7 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS",
       "touchscreen": false,
       "notes": "Apex GPU doorbuster under $500. Direct Walmart 1P inventory remains temporarily sold through; currently 3rd-party marketplace reseller markup at $998. Maintained on alert watch for Walmart's official Black Friday Event 1 kickoff (Nov 12-15). Dual DDR5 SODIMM slots allow expansion up to 64GB.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "STOCK_DEPLETED"
     },
     {
@@ -200,7 +222,7 @@
       "display": "13.3\" FHD+ (1920x1200) 16:10 Touchscreen",
       "touchscreen": true,
       "notes": "Live October Hot Deal: 40% instant discount (no coupon required) with free ground shipping. 13th Gen 10-core Core i7 with 16GB RAM and 16:10 touchscreen under $540. CRITICAL ALERT: Live verification confirms only 2 units remaining in stock!",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "LOW_STOCK_WARNING"
     },
     {
@@ -222,7 +244,7 @@
       "display": "13.3\" FHD (1920x1080) Non-Touch IPS",
       "touchscreen": false,
       "notes": "Tier 1 32GB RAM Breakthrough: Woot Microsoft Authorized Refurbished event. Packs 32GB DDR4 RAM pre-installed, 10-core 12th Gen i7-1265U, 512GB SSD, and dual Thunderbolt 4 ports for $539.99. Eliminates memory ceilings for heavy Docker/VM/dev workloads under $550. CRITICAL ALERT: Live verification confirms only 1 unit remaining in stock ('Hurry only 1 left! - 2 hours left or until sold out').",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "LOW_STOCK_WARNING"
     },
     {
@@ -241,10 +263,10 @@
       "ram_status": "SOLDERED",
       "cpu": "Intel Core i7-1265U (10 Cores / 12 Threads, up to 4.8 GHz vPro, 12th Gen)",
       "gpu": "Intel Iris Xe Graphics",
-      "display": "14.0\" FHD (1920x1080) Touchscreen 360°",
+      "display": "14.0\" FHD (1920x1080) Touchscreen 360\u00b0",
       "touchscreen": true,
       "notes": "Woot Microsoft Authorized Refurbished event. Upgrades to 12th Gen 10-core Core i7-1265U with 16GB RAM and full 360 convertible touch form factor for $499.99. Thunderbolt 4 and 90-day warranty. CRITICAL ALERT: Live verification confirms only 1 unit remaining in stock ('Hurry only 1 left!').",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "LOW_STOCK_WARNING"
     },
     {
@@ -266,7 +288,7 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS",
       "touchscreen": false,
       "notes": "Ships with 16GB RAM out of the box (dual SODIMM slots). Dedicated RTX 3050 for local LLMs and Adobe Suite under $480.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -288,7 +310,7 @@
       "display": "16.0\" WUXGA (1920x1200) 16:10 NanoEdge Display",
       "touchscreen": false,
       "notes": "Productivity doorbuster. Packs a 10-core Core i7, 16GB factory RAM, and taller 16:10 16-inch display under $500. Features 1 open SODIMM slot for upgrading up to 40GB total.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -309,8 +331,8 @@
       "gpu": "Intel Iris Xe Graphics",
       "display": "15.6\" FHD (1920x1080) Anti-glare",
       "touchscreen": false,
-      "notes": "Best Buy direct 1P Black Friday doorbuster (DoorBOOsters / Early Black Friday): $400 instant discount brings a 13th Gen 10-core Core i5 with 16GB RAM down to $499.99 (~৳67,499 landed). Direct manufacturer 1-year warranty. Verified live via Best Buy SKU 6668499.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "notes": "Best Buy direct 1P Black Friday doorbuster (DoorBOOsters / Early Black Friday): $400 instant discount brings a 13th Gen 10-core Core i5 with 16GB RAM down to $499.99 (~\u09f367,499 landed). Direct manufacturer 1-year warranty. Verified live via Best Buy SKU 6668499.",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -332,7 +354,7 @@
       "display": "15.6\" FHD (1920x1080) IPS Display",
       "touchscreen": false,
       "notes": "Includes free 2-Year Allstate Warranty. Pre-configured with 16GB RAM and huge 1TB SSD. Direct manufacturer certified.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -351,10 +373,10 @@
       "ram_status": "SOLDERED",
       "cpu": "Intel Core i7-1185G7 (4 Cores / 8 Threads, up to 4.8 GHz vPro)",
       "gpu": "Intel Iris Xe Graphics 96EU",
-      "display": "13.3\" FHD (1920x1080) IPS 360° Touchscreen",
+      "display": "13.3\" FHD (1920x1080) IPS 360\u00b0 Touchscreen",
       "touchscreen": true,
       "notes": "Sold out on Woot event 67. Succeeded by Dell Latitude 7430 2-in-1 (12th Gen i7-1265U) and Dell Latitude 7330 32GB RAM.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "STOCK_DEPLETED"
     },
     {
@@ -375,8 +397,8 @@
       "gpu": "Intel Iris Xe Graphics",
       "display": "15.6\" FHD (1920x1080) 120Hz Touchscreen",
       "touchscreen": true,
-      "notes": "Best compromise for touchscreen users who require un-soldered RAM (2x DDR4 SODIMM slots, upgradeable to 64GB). Refurbished starts from $399.00 (~৳53,865 landed).",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "notes": "Best compromise for touchscreen users who require un-soldered RAM (2x DDR4 SODIMM slots, upgradeable to 64GB). Refurbished starts from $399.00 (~\u09f353,865 landed).",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -397,9 +419,31 @@
       "gpu": "Intel Iris Xe Graphics",
       "display": "15.6\" FHD (1920x1080) Anti-glare",
       "touchscreen": false,
-      "notes": "Tier 2 enterprise 10-core powerhouse: 41% instant DFS Hot Deal discount drops 12th Gen Core i5-1235U with 16GB RAM (2x 8GB SODIMM slots, upgradeable to 64GB) down to $429.00 (~৳57,915 landed). Free ground shipping. CRITICAL ALERT: Only 1 unit remaining in stock! (8GB variant SKU 000268 active at $409 with 10 units left).",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "notes": "Tier 2 enterprise 10-core powerhouse: 41% instant DFS Hot Deal discount drops 12th Gen Core i5-1235U with 16GB RAM (2x 8GB SODIMM slots, upgradeable to 64GB) down to $429.00 (~\u09f357,915 landed). Free ground shipping. CRITICAL ALERT: Only 1 unit remaining in stock! (8GB variant SKU 000268 active at $409 with 10 units left).",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "LOW_STOCK_WARNING"
+    },
+    {
+      "id": "hp-envy-x360-15-touch",
+      "title": "HP Envy x360 15.6\" 2-in-1 Touch Laptop - AMD Ryzen 5 7530U / Ryzen 7 5700U - 16GB RAM - 512GB SSD - Nightfall Black",
+      "retailer": "Walmart Restored / eBay Certified Refurbished",
+      "sku": "Envy-x360-15-16GB",
+      "url": "https://www.walmart.com/search?q=hp+envy+x360+16gb+ram+restored",
+      "tier": "Tier 2: Mid Budget ($350-$450)",
+      "current_price_usd": 369.0,
+      "current_price_bdt_bank": 47232,
+      "current_price_bdt_landed": 49815,
+      "original_msrp_usd": 899.99,
+      "lowest_seen_price_usd": 369.0,
+      "stock_status": "IN_STOCK",
+      "ram_status": "SOLDERED",
+      "cpu": "AMD Ryzen 5 7530U / Ryzen 7 5700U (up to 8 Cores / 16 Threads)",
+      "gpu": "AMD Radeon Graphics",
+      "display": "15.6\" FHD (1920x1080) IPS Edge-to-Edge Glass 360\u00b0 Touchscreen",
+      "touchscreen": true,
+      "notes": "Sub-\u09f350k Premium Convertible Champion: Slashes through the \u09f350,000 BDT landed boundary (~\u09f349,815 landed / $369 USD) while packing 16GB factory RAM, AMD 6-to-8 core Zen architecture, 512GB NVMe SSD, and 360-degree rotating touchscreen with digital pen support. Premium CNC all-aluminum unibody chassis, Bang & Olufsen audio, and 90-day Walmart Restored Guarantee / 1-2 Year Allstate Warranty.",
+      "last_checked": "2026-11-01T10:00:00+06:00",
+      "alert_trigger": "TOUCH_CONVERTIBLE_PICK"
     },
     {
       "id": "dell-latitude-7420-dellrefurb",
@@ -420,7 +464,7 @@
       "display": "14.0\" FHD (1920x1080) 400-nit Low Blue Light IPS",
       "touchscreen": false,
       "notes": "DFS stock exhausted: 0 units remaining in active Dell Refurbished catalog. Dell Latitude 7340 Touch ($539) and Latitude 7340 QHD+ 32GB ($579) remain active alternatives on DFS Hot Deals.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "STOCK_DEPLETED"
     },
     {
@@ -442,7 +486,7 @@
       "display": "14.0\" FHD (1920x1080) IPS Anti-glare",
       "touchscreen": false,
       "notes": "Enterprise clamshell upgrade: moves to Core i7-1185G7 and doubles RAM to 16GB out of the box while keeping dual un-soldered SODIMM expansion up to 64GB.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -463,8 +507,8 @@
       "gpu": "NVIDIA Quadro P520 / T500 (Dedicated Workstation GPU)",
       "display": "15.6\" FHD (1920x1080) IPS",
       "touchscreen": false,
-      "notes": "Extreme budget value verified live in stock at $179.99. Precision workstation with Intel Quad Core i5 10th Gen, 250GB NVMe SSD, 8GB RAM (expandable via 2x un-soldered SODIMM slots up to 64GB DDR4), and 30-Day BlairTech Warranty for ~৳24,299 BDT landed.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "notes": "Extreme budget value verified live in stock at $179.99. Precision workstation with Intel Quad Core i5 10th Gen, 250GB NVMe SSD, 8GB RAM (expandable via 2x un-soldered SODIMM slots up to 64GB DDR4), and 30-Day BlairTech Warranty for ~\u09f324,299 BDT landed.",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -485,8 +529,8 @@
       "gpu": "AMD Radeon Vega Graphics / Intel Iris Xe",
       "display": "14.0\" FHD (1920x1080) IPS Display",
       "touchscreen": false,
-      "notes": "Certified Refurbished baseline verified live across eBay refurbishers (active listings between $289.99 - $296.99, benchmarked at $294.27). Features military-grade ThinkPad chassis, 6-core Ryzen 5 Pro / 11th Gen i5, 16GB RAM, 512GB SSD, breaking below the ৳40,000 BDT landed barrier (~৳39,726) with Allstate 1-to-2 Year Warranty.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "notes": "Certified Refurbished baseline verified live across eBay refurbishers (active listings between $289.99 - $296.99, benchmarked at $294.27). Features military-grade ThinkPad chassis, 6-core Ryzen 5 Pro / 11th Gen i5, 16GB RAM, 512GB SSD, breaking below the \u09f340,000 BDT landed barrier (~\u09f339,726) with Allstate 1-to-2 Year Warranty.",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -508,7 +552,7 @@
       "display": "14.0\" FHD (1920x1080) IPS",
       "touchscreen": false,
       "notes": "Reliable enterprise workhorse. Features 2x accessible SODIMM slots (up to 64GB DDR4), Thunderbolt 4, and 16GB RAM out of the box for under $320.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -529,8 +573,8 @@
       "gpu": "Intel UHD Graphics",
       "display": "14.0\" FHD (1920x1080) IPS",
       "touchscreen": false,
-      "notes": "CNC all-aluminum chassis, equipped with 16GB RAM and dual SODIMM slots for ~৳35,000 BDT landed. Highly durable, affordable enterprise workhorse for everyday productivity.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "notes": "CNC all-aluminum chassis, equipped with 16GB RAM and dual SODIMM slots for ~\u09f335,000 BDT landed. Highly durable, affordable enterprise workhorse for everyday productivity.",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -549,10 +593,10 @@
       "ram_status": "SOLDERED",
       "cpu": "Intel Core i5-1145G7 (4 Cores / 8 Threads, up to 4.4 GHz vPro)",
       "gpu": "Intel Iris Xe Graphics",
-      "display": "13.3\" FHD (1920x1080) IPS 360° Touchscreen (300 nits)",
+      "display": "13.3\" FHD (1920x1080) IPS 360\u00b0 Touchscreen (300 nits)",
       "touchscreen": true,
-      "notes": "The premier sub-৳45k convertible: Full 360-degree rotation into tablet mode, dual Thunderbolt 4 / USB-C ports, and 16GB factory RAM out of the box for ~$319 (~৳43,065 landed). Wacom AES active pen support.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "notes": "The premier sub-\u09f345k convertible: Full 360-degree rotation into tablet mode, dual Thunderbolt 4 / USB-C ports, and 16GB factory RAM out of the box for ~$319 (~\u09f343,065 landed). Wacom AES active pen support.",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK"
     },
     {
@@ -571,10 +615,10 @@
       "ram_status": "SOLDERED",
       "cpu": "Intel Core i5-1135G7 (4 Cores / 8 Threads) or AMD Ryzen 5 Pro 5650U",
       "gpu": "Intel Iris Xe / AMD Radeon Vega",
-      "display": "13.3\" FHD (1920x1080) IPS 360° Touchscreen",
+      "display": "13.3\" FHD (1920x1080) IPS 360\u00b0 Touchscreen",
       "touchscreen": true,
-      "notes": "Best-in-class convertible note-taker: Features an integrated, rechargeable ThinkPad Pen Pro garaged inside the side of the chassis. Legendary ThinkPad keyboard, military-grade MIL-STD-810H chassis, 16GB RAM, and 360 hinge under ৳46,000 landed. Backed by Allstate 1-2 Year Warranty on eBay Refurbished.",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "notes": "Best-in-class convertible note-taker: Features an integrated, rechargeable ThinkPad Pen Pro garaged inside the side of the chassis. Legendary ThinkPad keyboard, military-grade MIL-STD-810H chassis, 16GB RAM, and 360 hinge under \u09f346,000 landed. Backed by Allstate 1-2 Year Warranty on eBay Refurbished.",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK"
     },
     {
@@ -593,97 +637,101 @@
       "ram_status": "SOLDERED",
       "cpu": "AMD Ryzen 7 5700U / 7730U (8 Cores / 16 Threads, up to 4.5 GHz)",
       "gpu": "AMD Radeon Vega 8 Graphics",
-      "display": "14.0\" FHD / WUXGA (1920x1080 / 1920x1200) IPS 360° Touchscreen (300 nits)",
+      "display": "14.0\" FHD / WUXGA (1920x1080 / 1920x1200) IPS 360\u00b0 Touchscreen (300 nits)",
       "touchscreen": true,
-      "notes": "Core Sub-৳50k Convertible Discovery: Certified Refurbished / Renewed benchmark drops below $350 (~৳47,115 landed). Packs an 8-core / 16-thread AMD Ryzen 7 5700U/7730U or 12th Gen Intel Core i5, 16GB RAM (meeting the non-negotiable 16GB minimum protocol), 512GB NVMe SSD, and 14.0\" IPS 360-degree rotating touchscreen with digital pen support. Backed by certified refurbished warranty (Allstate 1-2 Year / Amazon Renewed Guarantee).",
-      "last_checked": "2026-11-01T09:08:00+06:00",
+      "notes": "Core Sub-\u09f350k Convertible Discovery: Certified Refurbished / Renewed benchmark drops below $350 (~\u09f347,115 landed). Packs an 8-core / 16-thread AMD Ryzen 7 5700U/7730U or 12th Gen Intel Core i5, 16GB RAM (meeting the non-negotiable 16GB minimum protocol), 512GB NVMe SSD, and 14.0\" IPS 360-degree rotating touchscreen with digital pen support. Backed by certified refurbished warranty (Allstate 1-2 Year / Amazon Renewed Guarantee).",
+      "last_checked": "2026-11-01T10:00:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK"
     }
   ],
   "reconciled_history": [
     {
+      "timestamp": "2026-11-01T10:00:00+06:00",
+      "summary": "November 1 comprehensive intelligence & multi-retailer reconciliation pass (10:00 AM): Reconciled live deal telemetry across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, and eBay Certified Refurbished. Added 2 high-priority strategic models: 1) Tier 4 Gravity Outlier: Lenovo Yoga 7i 16\" 2-in-1 (Intel Core Ultra with dedicated AI NPU, 16GB LPDDR5X, 512GB SSD, 16:10 2K Touch) slashed 40% ($400 off MSRP) to $599.99 (~\u09f380,999 landed); 2) Tier 2 / Sub-\u09f350k Sweet Spot: HP Envy x360 15.6\" 2-in-1 (AMD Ryzen 5/7, 16GB RAM, 512GB SSD, aluminum chassis) at $369.00 (~\u09f349,815 landed, breaking below the \u09f350,000 landed barrier). Verified live coupon validity: Dell Refurbished Halloween Sale (Code SPOOKY35DEAL for 35% off all non-Hot Deal laptops) in final countdown expiring tonight, Nov 1 at 11:30 PM CT. Re-verified critical stock telemetry: DFS Latitude 7340 Touch ($539) holding at 2 units, DFS Latitude 5530 16GB ($429) holding at 1 unit, Precision 3581 12-core RTX workstation ($619) holding at 11 units, Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single units ('Hurry only 1 left!'). Reconciled ledger to v2.15.0, synchronized README.md dashboard and DEALS_SUMMARY.md."
+    },
+    {
       "timestamp": "2026-11-01T09:08:00+06:00",
-      "summary": "Firecrawl Daily Deep Deal Hunter sweep completed: Conducted deep-web intelligence sweep across primary retailers, certified refurbished outlets, deal forums (Slickdeals), Woot, eBay Certified Refurbished, and Dell Refurbished (DFS). Verified live coupon validity: Dell Refurbished Halloween Sale (Code SPOOKY35DEAL for 35% off all non-Hot Deal laptops) enters final countdown expiring tonight, Nov 1 at 11:30 PM CT. Captured urgent stock telemetry on Woot Microsoft Authorized Refurbished (MAR) allocations: Dell Latitude 7330 32GB RAM ($539.99) holding at final single unit ('Hurry only 1 left! - 2 hours left or until sold out') and Latitude 7430 2-in-1 ($499.99) holding at final single unit, while ThinkPad P14s G2 (T500 GPU) and ThinkPad X13 Touch verified sold out. Confirmed DFS Hot Deals holding: Precision 3581 12-core RTX workstation ($619) at 11 units, Latitude 7340 Touch ($539) at critical 2 units, Latitude 5530 16GB ($429) at critical 1 unit, and Latitude 7340 QHD+ 32GB ($579) at 30+ units. Verified core sub-৳55k convertible recommendations: Dell Latitude 5320 2-in-1 ($319.00 / ~৳43,065 landed), ThinkPad L13 Yoga Gen 2 ($335.00 / ~৳45,225 landed with garaged stylus), and Lenovo IdeaPad Flex 5 14\" ($349.00 / ~৳47,115 landed). Tracked Slickdeals open-box trend: Lenovo Yoga 7i 2-in-1 (16\" FHD+ Touch, Core Ultra 7, 16GB) at $599.99 ($1,200 MSRP, 50% off). Reconciled ledger to v2.14.0, synchronized README.md dashboard and DEALS_SUMMARY.md."
+      "summary": "Firecrawl Daily Deep Deal Hunter sweep completed: Conducted deep-web intelligence sweep across primary retailers, certified refurbished outlets, deal forums (Slickdeals), Woot, eBay Certified Refurbished, and Dell Refurbished (DFS). Verified live coupon validity: Dell Refurbished Halloween Sale (Code SPOOKY35DEAL for 35% off all non-Hot Deal laptops) enters final countdown expiring tonight, Nov 1 at 11:30 PM CT. Captured urgent stock telemetry on Woot Microsoft Authorized Refurbished (MAR) allocations: Dell Latitude 7330 32GB RAM ($539.99) holding at final single unit ('Hurry only 1 left! - 2 hours left or until sold out') and Latitude 7430 2-in-1 ($499.99) holding at final single unit, while ThinkPad P14s G2 (T500 GPU) and ThinkPad X13 Touch verified sold out. Confirmed DFS Hot Deals holding: Precision 3581 12-core RTX workstation ($619) at 11 units, Latitude 7340 Touch ($539) at critical 2 units, Latitude 5530 16GB ($429) at critical 1 unit, and Latitude 7340 QHD+ 32GB ($579) at 30+ units. Verified core sub-\u09f355k convertible recommendations: Dell Latitude 5320 2-in-1 ($319.00 / ~\u09f343,065 landed), ThinkPad L13 Yoga Gen 2 ($335.00 / ~\u09f345,225 landed with garaged stylus), and Lenovo IdeaPad Flex 5 14\" ($349.00 / ~\u09f347,115 landed). Tracked Slickdeals open-box trend: Lenovo Yoga 7i 2-in-1 (16\" FHD+ Touch, Core Ultra 7, 16GB) at $599.99 ($1,200 MSRP, 50% off). Reconciled ledger to v2.14.0, synchronized README.md dashboard and DEALS_SUMMARY.md."
     },
     {
       "timestamp": "2026-11-01T07:55:00+06:00",
-      "summary": "November 1 comprehensive intelligence & multi-retailer reconciliation pass: Reconciled multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon Renewed, BlairTech, and eBay Certified Refurbished. Confirmed official active status of Target 'Deal of the Day' holiday program (daily 24-hr drops and 1-day advance preview kicking off Nov 1 ahead of Early Black Friday sale Nov 5-7). Dell Refurbished Halloween Sale (Code SPOOKY35DEAL for 35% off non-Hot Deal laptops) enters its final 16 hours of validity (expiring tonight, Nov 1 at 11:30 PM CT). Verified Best Buy DoorBOOsters event holding with Lenovo IdeaPad Slim 3i at $499.99 ($400 off MSRP) through Nov 19. Added two strategic market additions: 1) Tier 4 Outlier Radar: Asus TUF Gaming A15 with full-wattage 140W TGP NVIDIA RTX 4060 8GB VRAM and dual DDR5 SODIMM slots at $679.99 ($420 off MSRP / ~৳91,799 landed); 2) Tier 3 / Sub-৳50k Sweet Spot: Lenovo IdeaPad Flex 5 14\" 2-in-1 Touchscreen with AMD Ryzen 7 (8C/16T), 16GB RAM, and 512GB NVMe SSD at $349.00 (~৳47,115 landed). Re-verified critical stock telemetry: DFS Latitude 7340 Touch ($539) holding at 2 units, DFS Latitude 5530 16GB ($429) holding at 1 unit, Precision 3581 12-core RTX workstation ($619) holding at 11 units, Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single units ('Hurry only 1 left!'). BlairTech Dell Precision 3550 workstation holding historical floor at $179.99 (~৳24,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~৳39,726 landed). Reconciled dashboard and bumped ledger to v2.13.0."
+      "summary": "November 1 comprehensive intelligence & multi-retailer reconciliation pass: Reconciled multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon Renewed, BlairTech, and eBay Certified Refurbished. Confirmed official active status of Target 'Deal of the Day' holiday program (daily 24-hr drops and 1-day advance preview kicking off Nov 1 ahead of Early Black Friday sale Nov 5-7). Dell Refurbished Halloween Sale (Code SPOOKY35DEAL for 35% off non-Hot Deal laptops) enters its final 16 hours of validity (expiring tonight, Nov 1 at 11:30 PM CT). Verified Best Buy DoorBOOsters event holding with Lenovo IdeaPad Slim 3i at $499.99 ($400 off MSRP) through Nov 19. Added two strategic market additions: 1) Tier 4 Outlier Radar: Asus TUF Gaming A15 with full-wattage 140W TGP NVIDIA RTX 4060 8GB VRAM and dual DDR5 SODIMM slots at $679.99 ($420 off MSRP / ~\u09f391,799 landed); 2) Tier 3 / Sub-\u09f350k Sweet Spot: Lenovo IdeaPad Flex 5 14\" 2-in-1 Touchscreen with AMD Ryzen 7 (8C/16T), 16GB RAM, and 512GB NVMe SSD at $349.00 (~\u09f347,115 landed). Re-verified critical stock telemetry: DFS Latitude 7340 Touch ($539) holding at 2 units, DFS Latitude 5530 16GB ($429) holding at 1 unit, Precision 3581 12-core RTX workstation ($619) holding at 11 units, Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single units ('Hurry only 1 left!'). BlairTech Dell Precision 3550 workstation holding historical floor at $179.99 (~\u09f324,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~\u09f339,726 landed). Reconciled dashboard and bumped ledger to v2.13.0."
     },
     {
       "timestamp": "2026-11-01T07:25:00+06:00",
-      "summary": "Protocol expansion & convertible portfolio update: Enforced 3-pillar directive in TRACKER_SPEC.md and cron sidecars: 1) Deep research priority on sub-৳50k-৳55k BDT models, 2) Dedicated tracking of Touchscreen & 360-degree convertibles with 16GB RAM, and 3) Continuous high-gravity outlier radar (Tier 4 $550-$699+). Added two top-tier sub-৳46,000 convertible discoveries to tracked portfolio: Dell Latitude 5320 2-in-1 ($319.00 / ~৳43,065 landed) and Lenovo ThinkPad L13 Yoga Gen 2 with built-in garaged rechargeable stylus ($335.00 / ~৳45,225 landed). Reconciled dashboard and bumped ledger to v2.12.0."
+      "summary": "Protocol expansion & convertible portfolio update: Enforced 3-pillar directive in TRACKER_SPEC.md and cron sidecars: 1) Deep research priority on sub-\u09f350k-\u09f355k BDT models, 2) Dedicated tracking of Touchscreen & 360-degree convertibles with 16GB RAM, and 3) Continuous high-gravity outlier radar (Tier 4 $550-$699+). Added two top-tier sub-\u09f346,000 convertible discoveries to tracked portfolio: Dell Latitude 5320 2-in-1 ($319.00 / ~\u09f343,065 landed) and Lenovo ThinkPad L13 Yoga Gen 2 with built-in garaged rechargeable stylus ($335.00 / ~\u09f345,225 landed). Reconciled dashboard and bumped ledger to v2.12.0."
     },
     {
       "timestamp": "2026-11-01T07:18:00+06:00",
-      "summary": "November 1st Black Friday Month Kickoff sweep: Formally initiated tracking for the official November Black Friday discount waves (Best Buy Early Black Friday dropping Nov 6, Walmart Event 1 dropping Nov 12-15, Main Black Friday Week Nov 23-29). Issued final countdown alert on Dell Refurbished (DFS) Halloween event (Code SPOOKY35DEAL for 35% off all laptops expires tonight, Nov 1 at 11:30 PM CT). Re-verified live inventory: Precision 3581 12-core RTX workstation ($619) holding at 11 units, Latitude 7340 Touch ($539) at critical 2 units, Latitude 5530 16GB ($429) at critical 1 unit, Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single units. Confirmed BlairTech Dell Precision 3550 workstation holding historical floor at $179.99 (~৳24,299 landed), and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~৳39,726 landed). Reconciled dashboard and synced repository."
+      "summary": "November 1st Black Friday Month Kickoff sweep: Formally initiated tracking for the official November Black Friday discount waves (Best Buy Early Black Friday dropping Nov 6, Walmart Event 1 dropping Nov 12-15, Main Black Friday Week Nov 23-29). Issued final countdown alert on Dell Refurbished (DFS) Halloween event (Code SPOOKY35DEAL for 35% off all laptops expires tonight, Nov 1 at 11:30 PM CT). Re-verified live inventory: Precision 3581 12-core RTX workstation ($619) holding at 11 units, Latitude 7340 Touch ($539) at critical 2 units, Latitude 5530 16GB ($429) at critical 1 unit, Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single units. Confirmed BlairTech Dell Precision 3550 workstation holding historical floor at $179.99 (~\u09f324,299 landed), and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~\u09f339,726 landed). Reconciled dashboard and synced repository."
     },
     {
       "timestamp": "2026-11-01T06:40:00+06:00",
-      "summary": "November 1 morning telemetry and deal reconciliation pass (06:40 AM): Verified multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Confirmed official active status of Target 'Deal of the Day' holiday campaign (daily 24-hr drops and 1-day advance preview window ahead of Nov 5-7 Early Black Friday). Dell Refurbished Halloween Sale (Promo SPOOKY35DEAL for 35% off all non-Hot Deal laptops) enters its final 17 hours of validity (expiring Nov 1 at 11:30 PM CT). Best Buy early Black Friday doorbusters holding active with Lenovo IdeaPad Slim 3i at $499.99 ($400 off MSRP) through Nov 19. Maintained urgent low-stock telemetry alerts: DFS Latitude 7340 Touch ($539) holding at 2 units, DFS Latitude 5530 16GB ($429) holding at 1 unit, Precision 3581 12-core RTX workstation ($619) holding at 11 units, Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) both holding at final single units ('Hurry only 1 left!'). Confirmed BlairTech Dell Precision 3550 workstation holding historical floor price at $179.99 (~৳24,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~৳39,726 landed with Allstate Warranty). Walmart HP Victus 15 RTX 4050 direct 1P stock remains sold out (reseller at $998, on watch for Event 1 Nov 12). Reconciled ledger to v2.10.5, synchronized README.md and DEALS_SUMMARY.md."
+      "summary": "November 1 morning telemetry and deal reconciliation pass (06:40 AM): Verified multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Confirmed official active status of Target 'Deal of the Day' holiday campaign (daily 24-hr drops and 1-day advance preview window ahead of Nov 5-7 Early Black Friday). Dell Refurbished Halloween Sale (Promo SPOOKY35DEAL for 35% off all non-Hot Deal laptops) enters its final 17 hours of validity (expiring Nov 1 at 11:30 PM CT). Best Buy early Black Friday doorbusters holding active with Lenovo IdeaPad Slim 3i at $499.99 ($400 off MSRP) through Nov 19. Maintained urgent low-stock telemetry alerts: DFS Latitude 7340 Touch ($539) holding at 2 units, DFS Latitude 5530 16GB ($429) holding at 1 unit, Precision 3581 12-core RTX workstation ($619) holding at 11 units, Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) both holding at final single units ('Hurry only 1 left!'). Confirmed BlairTech Dell Precision 3550 workstation holding historical floor price at $179.99 (~\u09f324,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~\u09f339,726 landed with Allstate Warranty). Walmart HP Victus 15 RTX 4050 direct 1P stock remains sold out (reseller at $998, on watch for Event 1 Nov 12). Reconciled ledger to v2.10.5, synchronized README.md and DEALS_SUMMARY.md."
     },
     {
       "timestamp": "2026-11-01T04:42:00+06:00",
-      "summary": "November 1 pre-dawn live deals and stock telemetry reconciliation sweep: Re-verified multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Confirmed official active status of Target 'Deal of the Day' holiday campaign (daily 24-hr drops and 1-day preview window ahead of Nov 5-7 Early Black Friday). Dell Refurbished Halloween Sale (Promo SPOOKY35DEAL for 35% off all non-Hot Deal laptops) enters final 19 hours of validity (expiring Nov 1 at 11:30 PM CT). Best Buy Early Black Friday doorbusters holding active with Lenovo IdeaPad Slim 3i at .99 ( off MSRP) through Nov 19. Critical inventory alerts maintained: DFS Latitude 7340 Touch () holding at 2 units, DFS Latitude 5530 16GB () holding at 1 unit, Precision 3581 12-core RTX workstation () holding at 11 units, Woot Latitude 7330 32GB RAM (.99) and Latitude 7430 2-in-1 (.99) holding at final single units ('Hurry only 1 left!'). BlairTech Dell Precision 3550 workstation holding all-time low at .99 (~৳24,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at .27 (~৳39,726 landed). Reconciled ledger to v2.10.4, synchronized README.md and DEALS_SUMMARY.md."
+      "summary": "November 1 pre-dawn live deals and stock telemetry reconciliation sweep: Re-verified multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Confirmed official active status of Target 'Deal of the Day' holiday campaign (daily 24-hr drops and 1-day preview window ahead of Nov 5-7 Early Black Friday). Dell Refurbished Halloween Sale (Promo SPOOKY35DEAL for 35% off all non-Hot Deal laptops) enters final 19 hours of validity (expiring Nov 1 at 11:30 PM CT). Best Buy Early Black Friday doorbusters holding active with Lenovo IdeaPad Slim 3i at .99 ( off MSRP) through Nov 19. Critical inventory alerts maintained: DFS Latitude 7340 Touch () holding at 2 units, DFS Latitude 5530 16GB () holding at 1 unit, Precision 3581 12-core RTX workstation () holding at 11 units, Woot Latitude 7330 32GB RAM (.99) and Latitude 7430 2-in-1 (.99) holding at final single units ('Hurry only 1 left!'). BlairTech Dell Precision 3550 workstation holding all-time low at .99 (~\u09f324,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at .27 (~\u09f339,726 landed). Reconciled ledger to v2.10.4, synchronized README.md and DEALS_SUMMARY.md."
     },
     {
       "timestamp": "2026-11-01T02:42:00+06:00",
-      "summary": "November 1 early morning telemetry & deal reconciliation pass: Verified multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Dell Refurbished Halloween Campaign (Promo SPOOKY35DEAL for 35% off all non-Hot Deal laptops) confirmed in its final day (expiring Nov 1 at 11:30 PM CT). Target 'Deal of the Day' officially active with 24-hour rotating specials and 1-day advance preview window ahead of Early Black Friday (Nov 5-7). Best Buy early Black Friday doorbusters confirmed active with Lenovo IdeaPad Slim 3i at .99 ( off MSRP) through Nov 19. Critical inventory telemetry maintained: DFS Latitude 7340 Touch () holding at 2 units, DFS Latitude 5530 16GB () holding at 1 unit, Dell Precision 3581 12-core RTX workstation holding at 11 units (), Woot Latitude 7330 32GB RAM (.99) and Latitude 7430 2-in-1 (.99) holding at final single units ('Hurry only 1 left!'). BlairTech Dell Precision 3550 workstation holding historical floor price at .99 (~৳24,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at .27 (~৳39,726 landed). Reconciled ledger to v2.10.3, updated README.md and DEALS_SUMMARY.md."
+      "summary": "November 1 early morning telemetry & deal reconciliation pass: Verified multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Dell Refurbished Halloween Campaign (Promo SPOOKY35DEAL for 35% off all non-Hot Deal laptops) confirmed in its final day (expiring Nov 1 at 11:30 PM CT). Target 'Deal of the Day' officially active with 24-hour rotating specials and 1-day advance preview window ahead of Early Black Friday (Nov 5-7). Best Buy early Black Friday doorbusters confirmed active with Lenovo IdeaPad Slim 3i at .99 ( off MSRP) through Nov 19. Critical inventory telemetry maintained: DFS Latitude 7340 Touch () holding at 2 units, DFS Latitude 5530 16GB () holding at 1 unit, Dell Precision 3581 12-core RTX workstation holding at 11 units (), Woot Latitude 7330 32GB RAM (.99) and Latitude 7430 2-in-1 (.99) holding at final single units ('Hurry only 1 left!'). BlairTech Dell Precision 3550 workstation holding historical floor price at .99 (~\u09f324,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at .27 (~\u09f339,726 landed). Reconciled ledger to v2.10.3, updated README.md and DEALS_SUMMARY.md."
     },
     {
       "timestamp": "2026-11-01T00:40:00+06:00",
-      "summary": "November 1 kickoff & midnight telemetry reconciliation sweep: Reconciled multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Confirmed official transition into November holiday shopping window: Target 'Deal of the Day' officially active with daily 24-hour drops and preview ahead of early Black Friday sale (Nov 5-7); Dell Refurbished Halloween Campaign (Promo SPOOKY35DEAL for 35% off all non-Hot Deal laptops) entering its final hours of validity (expiring Nov 1 11:30 PM CT); Best Buy DoorBOOsters event holding with Lenovo IdeaPad Slim 3i at .99 ( off MSRP) and companion Core 5 model at .99 ahead of weekly Early Black Friday waves launching Nov 6. Re-verified critical stock telemetry: DFS Latitude 7340 Touch () holding at 2 units, DFS Latitude 5530 16GB () holding at 1 unit, Precision 3581 12-core RTX workstation holding at 11 units (), Woot Latitude 7330 32GB RAM (.99) and Latitude 7430 2-in-1 (.99) holding at final single units ('Hurry only 1 left!'). Confirmed BlairTech Dell Precision 3550 workstation holding historical floor at .99 (~৳24,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at .27 (~৳39,726 landed). Reconciled ledger to v2.10.2, updated README.md and DEALS_SUMMARY.md."
+      "summary": "November 1 kickoff & midnight telemetry reconciliation sweep: Reconciled multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Confirmed official transition into November holiday shopping window: Target 'Deal of the Day' officially active with daily 24-hour drops and preview ahead of early Black Friday sale (Nov 5-7); Dell Refurbished Halloween Campaign (Promo SPOOKY35DEAL for 35% off all non-Hot Deal laptops) entering its final hours of validity (expiring Nov 1 11:30 PM CT); Best Buy DoorBOOsters event holding with Lenovo IdeaPad Slim 3i at .99 ( off MSRP) and companion Core 5 model at .99 ahead of weekly Early Black Friday waves launching Nov 6. Re-verified critical stock telemetry: DFS Latitude 7340 Touch () holding at 2 units, DFS Latitude 5530 16GB () holding at 1 unit, Precision 3581 12-core RTX workstation holding at 11 units (), Woot Latitude 7330 32GB RAM (.99) and Latitude 7430 2-in-1 (.99) holding at final single units ('Hurry only 1 left!'). Confirmed BlairTech Dell Precision 3550 workstation holding historical floor at .99 (~\u09f324,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at .27 (~\u09f339,726 landed). Reconciled ledger to v2.10.2, updated README.md and DEALS_SUMMARY.md."
     },
     {
       "timestamp": "2026-10-31T22:45:00+06:00",
-      "summary": "Late-evening October 31 telemetry & live market reconciliation sweep: Re-verified multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Confirmed Dell Refurbished Halloween Campaign (Coupon SPOOKY35DEAL for 35% off non-Hot Deals) entering final countdown expiring Nov 1 11:30 PM CT. Tracked DFS Hot Deals: Precision 3581 RTX workstation () holding at 11 units, Latitude 7340 Touch () holding at critical 2 units, Latitude 5530 16GB () holding at critical 1 unit. Re-verified Woot Microsoft Authorized Refurbished allocations: Latitude 7330 32GB RAM (.99) and Latitude 7430 2-in-1 (.99) holding at final single units. Confirmed Best Buy DoorBOOsters event active with Lenovo IdeaPad Slim 3i at .99 ( off MSRP) and companion Core 5 model at .99. Target early preview active for Nov 1 Deal of the Day rollout ahead of official Early Black Friday drops (Nov 5-7). BlairTech Dell Precision 3550 workstation holding floor at .99 (~৳24,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at .27 (~৳39,726 landed). Reconciled ledger to v2.10.1, updated README.md and DEALS_SUMMARY.md."
+      "summary": "Late-evening October 31 telemetry & live market reconciliation sweep: Re-verified multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Confirmed Dell Refurbished Halloween Campaign (Coupon SPOOKY35DEAL for 35% off non-Hot Deals) entering final countdown expiring Nov 1 11:30 PM CT. Tracked DFS Hot Deals: Precision 3581 RTX workstation () holding at 11 units, Latitude 7340 Touch () holding at critical 2 units, Latitude 5530 16GB () holding at critical 1 unit. Re-verified Woot Microsoft Authorized Refurbished allocations: Latitude 7330 32GB RAM (.99) and Latitude 7430 2-in-1 (.99) holding at final single units. Confirmed Best Buy DoorBOOsters event active with Lenovo IdeaPad Slim 3i at .99 ( off MSRP) and companion Core 5 model at .99. Target early preview active for Nov 1 Deal of the Day rollout ahead of official Early Black Friday drops (Nov 5-7). BlairTech Dell Precision 3550 workstation holding floor at .99 (~\u09f324,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at .27 (~\u09f339,726 landed). Reconciled ledger to v2.10.1, updated README.md and DEALS_SUMMARY.md."
     },
     {
       "timestamp": "2026-10-31T20:45:00+06:00",
-      "summary": "Evening October 31 deal & telemetry reconciliation: Verified Dell Refurbished (DFS) Halloween event entering final 24-hour countdown (Code SPOOKY35DEAL for 35% off expires Nov 1 11:30 PM CT). Re-verified live inventory: Precision 3581 12-core RTX workstation ($619) holding at 11 units, Latitude 7340 Touch ($539) holding at critical 2 units, Latitude 5530 16GB ($429) holding at critical 1 unit. Re-verified Woot Microsoft Authorized Refurbished allocations: Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single units. Confirmed BlairTech Dell Precision 3550 workstation holding historical floor at $179.99 (~৳24,299 landed), and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~৳39,726 landed). Integrated Delaware 0% sales tax shipping advisory into dashboard to eliminate accidental $40 US state tax on forwarder checkouts."
+      "summary": "Evening October 31 deal & telemetry reconciliation: Verified Dell Refurbished (DFS) Halloween event entering final 24-hour countdown (Code SPOOKY35DEAL for 35% off expires Nov 1 11:30 PM CT). Re-verified live inventory: Precision 3581 12-core RTX workstation ($619) holding at 11 units, Latitude 7340 Touch ($539) holding at critical 2 units, Latitude 5530 16GB ($429) holding at critical 1 unit. Re-verified Woot Microsoft Authorized Refurbished allocations: Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single units. Confirmed BlairTech Dell Precision 3550 workstation holding historical floor at $179.99 (~\u09f324,299 landed), and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~\u09f339,726 landed). Integrated Delaware 0% sales tax shipping advisory into dashboard to eliminate accidental $40 US state tax on forwarder checkouts."
     },
     {
       "timestamp": "2026-10-31T20:40:00+06:00",
-      "summary": "Black Friday Laptop Deal Tracker evening telemetry & live market reconciliation sweep: Reconciled multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Confirmed active retail sales timelines: Best Buy DoorBOOsters event active through the weekend (featuring Lenovo IdeaPad Slim 3i at $499.99 [$400 off] and Core 5 variant at $429.99; official weekly Early Black Friday drops starting Nov 6), Target 'Deal of the Day' kicking off Nov 1 (with early 1-day advance preview active tonight) ahead of official Early Black Friday sale (Nov 5-7), and Walmart Event 1 starting Nov 12 (HP Victus 15 RTX 4050 restock watch). Verified critical inventory telemetry: DFS Latitude 7340 Touch ($539) holding at 2 units, DFS Latitude 5530 16GB ($429) holding at 1 unit, Precision 3581 RTX workstation holding at 11 units ($619), Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) both holding at final 1 unit left ('Hurry only 1 left!'). Dell Refurbished Halloween Promo SPOOKY35DEAL (35% off non-Hot Deals) confirmed active through Nov 1 11:30 PM CT. BlairTech Dell Precision 3550 workstation holding historical floor price at $179.99 (~৳24,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~৳39,726 landed). Reconciled ledger to v2.9.5, updated README.md and DEALS_SUMMARY.md."
+      "summary": "Black Friday Laptop Deal Tracker evening telemetry & live market reconciliation sweep: Reconciled multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Confirmed active retail sales timelines: Best Buy DoorBOOsters event active through the weekend (featuring Lenovo IdeaPad Slim 3i at $499.99 [$400 off] and Core 5 variant at $429.99; official weekly Early Black Friday drops starting Nov 6), Target 'Deal of the Day' kicking off Nov 1 (with early 1-day advance preview active tonight) ahead of official Early Black Friday sale (Nov 5-7), and Walmart Event 1 starting Nov 12 (HP Victus 15 RTX 4050 restock watch). Verified critical inventory telemetry: DFS Latitude 7340 Touch ($539) holding at 2 units, DFS Latitude 5530 16GB ($429) holding at 1 unit, Precision 3581 RTX workstation holding at 11 units ($619), Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) both holding at final 1 unit left ('Hurry only 1 left!'). Dell Refurbished Halloween Promo SPOOKY35DEAL (35% off non-Hot Deals) confirmed active through Nov 1 11:30 PM CT. BlairTech Dell Precision 3550 workstation holding historical floor price at $179.99 (~\u09f324,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~\u09f339,726 landed). Reconciled ledger to v2.9.5, updated README.md and DEALS_SUMMARY.md."
     },
     {
       "timestamp": "2026-10-31T18:45:00+06:00",
-      "summary": "Black Friday Laptop Deal Tracker evening telemetry & live market reconciliation sweep: Reconciled multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Confirmed active retail sales timelines: Best Buy DoorBOOsters event active through the weekend (featuring Lenovo IdeaPad Slim 3i at $499.99 [$400 off] and Core 5 variant at $429.99; official weekly Early Black Friday drops starting Nov 6), Target 'Deal of the Day' kicking off Nov 1 (with early 1-day advance preview active tonight) ahead of official Early Black Friday sale (Nov 5-7), and Walmart Event 1 starting Nov 12 (HP Victus 15 RTX 4050 restock watch). Verified critical inventory telemetry: DFS Latitude 7340 Touch ($539) holding at 2 units, DFS Latitude 5530 16GB ($429) holding at 1 unit, Precision 3581 RTX workstation holding at 11 units ($619), Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) both holding at final 1 unit left ('Hurry only 1 left!'). Dell Refurbished Halloween Promo SPOOKY35DEAL (35% off non-Hot Deals) confirmed active through Nov 1 11:30 PM CT. BlairTech Dell Precision 3550 workstation holding historical floor price at $179.99 (~৳24,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~৳39,726 landed). Reconciled ledger to v2.9.4, updated README.md and DEALS_SUMMARY.md."
+      "summary": "Black Friday Laptop Deal Tracker evening telemetry & live market reconciliation sweep: Reconciled multi-tier deal matrix across Best Buy, Target, Walmart, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Confirmed active retail sales timelines: Best Buy DoorBOOsters event active through the weekend (featuring Lenovo IdeaPad Slim 3i at $499.99 [$400 off] and Core 5 variant at $429.99; official weekly Early Black Friday drops starting Nov 6), Target 'Deal of the Day' kicking off Nov 1 (with early 1-day advance preview active tonight) ahead of official Early Black Friday sale (Nov 5-7), and Walmart Event 1 starting Nov 12 (HP Victus 15 RTX 4050 restock watch). Verified critical inventory telemetry: DFS Latitude 7340 Touch ($539) holding at 2 units, DFS Latitude 5530 16GB ($429) holding at 1 unit, Precision 3581 RTX workstation holding at 11 units ($619), Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) both holding at final 1 unit left ('Hurry only 1 left!'). Dell Refurbished Halloween Promo SPOOKY35DEAL (35% off non-Hot Deals) confirmed active through Nov 1 11:30 PM CT. BlairTech Dell Precision 3550 workstation holding historical floor price at $179.99 (~\u09f324,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~\u09f339,726 landed). Reconciled ledger to v2.9.4, updated README.md and DEALS_SUMMARY.md."
     },
     {
       "timestamp": "2026-10-31T15:15:00+06:00",
-      "summary": "Black Friday Laptop Deal Tracker afternoon telemetry & live market reconciliation sweep: Reconciled multi-tier deal matrix across Best Buy, Walmart, Target, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Confirmed active retail sales timelines: Best Buy DoorBOOsters event active through the weekend (featuring Lenovo IdeaPad Slim 3i at $499.99 [$400 off] and Core 5 variant at $429.99; official weekly Early Black Friday drops starting Nov 6), Target 'Deal of the Day' kicking off Nov 1 ahead of Early Black Friday sale (Nov 5-7), and Walmart Event 1 starting Nov 12 (HP Victus 15 RTX 4050 watch). Verified critical inventory telemetry: DFS Latitude 7340 Touch ($539) holding at 2 units, DFS Latitude 5530 16GB ($429) holding at 1 unit, Precision 3581 RTX workstation holding at 11 units ($619), Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) both holding at final 1 unit left ('Hurry only 1 left!'). Dell Refurbished Halloween Promo SPOOKY35DEAL (35% off non-Hot Deals) confirmed active through Nov 1 11:30 PM CT. BlairTech Dell Precision 3550 workstation holding historical floor price at $179.99 (~৳24,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~৳39,726 landed). Reconciled ledger to v2.9.3, updated README.md and DEALS_SUMMARY.md."
+      "summary": "Black Friday Laptop Deal Tracker afternoon telemetry & live market reconciliation sweep: Reconciled multi-tier deal matrix across Best Buy, Walmart, Target, Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Amazon, BlairTech, and eBay Certified Refurbished. Confirmed active retail sales timelines: Best Buy DoorBOOsters event active through the weekend (featuring Lenovo IdeaPad Slim 3i at $499.99 [$400 off] and Core 5 variant at $429.99; official weekly Early Black Friday drops starting Nov 6), Target 'Deal of the Day' kicking off Nov 1 ahead of Early Black Friday sale (Nov 5-7), and Walmart Event 1 starting Nov 12 (HP Victus 15 RTX 4050 watch). Verified critical inventory telemetry: DFS Latitude 7340 Touch ($539) holding at 2 units, DFS Latitude 5530 16GB ($429) holding at 1 unit, Precision 3581 RTX workstation holding at 11 units ($619), Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) both holding at final 1 unit left ('Hurry only 1 left!'). Dell Refurbished Halloween Promo SPOOKY35DEAL (35% off non-Hot Deals) confirmed active through Nov 1 11:30 PM CT. BlairTech Dell Precision 3550 workstation holding historical floor price at $179.99 (~\u09f324,299 landed) and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~\u09f339,726 landed). Reconciled ledger to v2.9.3, updated README.md and DEALS_SUMMARY.md."
     },
     {
       "timestamp": "2026-10-31T07:15:00+06:00",
-      "summary": "Black Friday Laptop Deal Tracker morning telemetry & verification sweep completed: Reconciled multi-tier deal matrix across Best Buy, Walmart, Woot, Dell Refurbished (DFS), Target, BlairTech, and eBay Certified Refurbished. Maintained critical stock telemetry: Dell Precision 3581 RTX workstation holding at $619 with 11 units, Latitude 7340 Touch holding at $539 (2 units left), DFS Latitude 5530 16GB at $429 (1 unit left), Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) both holding at final single units. Confirmed active Dell Refurbished Halloween Sale campaign (Promo SPOOKY35DEAL for 35% off all non-Hot Deal laptops through Nov 1 11:30 PM CT). Verified Best Buy DoorBOOsters event Lenovo IdeaPad Slim 3i doorbuster at $499.99 ($400 off MSRP), BlairTech Dell Precision 3550 workstation holding all-time low at $179.99 (~৳24,299 landed), and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~৳39,726 landed with Allstate Warranty). Updated README.md dashboard and DEALS_SUMMARY.md."
+      "summary": "Black Friday Laptop Deal Tracker morning telemetry & verification sweep completed: Reconciled multi-tier deal matrix across Best Buy, Walmart, Woot, Dell Refurbished (DFS), Target, BlairTech, and eBay Certified Refurbished. Maintained critical stock telemetry: Dell Precision 3581 RTX workstation holding at $619 with 11 units, Latitude 7340 Touch holding at $539 (2 units left), DFS Latitude 5530 16GB at $429 (1 unit left), Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) both holding at final single units. Confirmed active Dell Refurbished Halloween Sale campaign (Promo SPOOKY35DEAL for 35% off all non-Hot Deal laptops through Nov 1 11:30 PM CT). Verified Best Buy DoorBOOsters event Lenovo IdeaPad Slim 3i doorbuster at $499.99 ($400 off MSRP), BlairTech Dell Precision 3550 workstation holding all-time low at $179.99 (~\u09f324,299 landed), and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~\u09f339,726 landed with Allstate Warranty). Updated README.md dashboard and DEALS_SUMMARY.md."
     },
     {
       "timestamp": "2026-10-31T02:45:00+06:00",
-      "summary": "Agentic AI Black Friday intelligence & telemetry sweep completed: Verified multi-tier deal matrix across Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Best Buy (DoorBOOsters & Early Black Friday Doorbusters), Walmart, Target, BlairTech, and eBay Certified Refurbished. Confirmed active Dell Refurbished Halloween Sale campaign (Promo SPOOKY35DEAL for 35% off all laptops through Nov 1 11:30 PM CT) and DFS Hot Deals (Precision 3581 RTX workstation at $619 with 11 units, Latitude 7340 Touch at $539, Latitude 7340 32GB QHD+ at $579, and Latitude 5530 16GB at $429). Maintained critical low-stock telemetry warnings: Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single units, DFS Latitude 7340 Touch ($539) holding at 2 units, DFS Latitude 5530 16GB ($429) holding at 1 unit. Tracked Best Buy DoorBOOsters event (Oct 30 - Nov 1) with Lenovo IdeaPad Slim 3i holding at $499.99 ($400 off MSRP), and monitored upcoming Black Friday wave drops: Best Buy Early Black Friday wave starting Nov 6, Target Daily Deals kicking off Nov 1, and Walmart Event 1 starting Nov 12. BlairTech Dell Precision 3550 workstation verified live at $179.99 (~৳24,299 landed), eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~৳39,726 landed, breaking below ৳40k barrier with Allstate Warranty). Directly composed root README dashboard, summary markdown, and bumped ledger to v2.9.1."
+      "summary": "Agentic AI Black Friday intelligence & telemetry sweep completed: Verified multi-tier deal matrix across Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Best Buy (DoorBOOsters & Early Black Friday Doorbusters), Walmart, Target, BlairTech, and eBay Certified Refurbished. Confirmed active Dell Refurbished Halloween Sale campaign (Promo SPOOKY35DEAL for 35% off all laptops through Nov 1 11:30 PM CT) and DFS Hot Deals (Precision 3581 RTX workstation at $619 with 11 units, Latitude 7340 Touch at $539, Latitude 7340 32GB QHD+ at $579, and Latitude 5530 16GB at $429). Maintained critical low-stock telemetry warnings: Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single units, DFS Latitude 7340 Touch ($539) holding at 2 units, DFS Latitude 5530 16GB ($429) holding at 1 unit. Tracked Best Buy DoorBOOsters event (Oct 30 - Nov 1) with Lenovo IdeaPad Slim 3i holding at $499.99 ($400 off MSRP), and monitored upcoming Black Friday wave drops: Best Buy Early Black Friday wave starting Nov 6, Target Daily Deals kicking off Nov 1, and Walmart Event 1 starting Nov 12. BlairTech Dell Precision 3550 workstation verified live at $179.99 (~\u09f324,299 landed), eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~\u09f339,726 landed, breaking below \u09f340k barrier with Allstate Warranty). Directly composed root README dashboard, summary markdown, and bumped ledger to v2.9.1."
     },
     {
       "timestamp": "2026-10-31T00:45:00+06:00",
-      "summary": "Agentic AI intelligence sweep & dashboard sync completed: Verified deal ecosystem across Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Best Buy (Early Black Friday Doorbusters), Walmart, BlairTech, and eBay Certified Refurbished. Confirmed active Dell Refurbished Halloween Sale campaign (Promo SPOOKY35DEAL for 35% off all laptops through Nov 1 11:30 PM CT) and DFS Hot Deals (Precision 3581 RTX workstation at $619, Latitude 7340 Touch at $539, Latitude 7340 32GB QHD+ at $579, and Latitude 5530 16GB at $429). Maintained critical low-stock telemetry warnings: Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single units, DFS Latitude 7340 Touch ($539) holding at 2 units, DFS Latitude 5530 16GB ($429) holding at 1 unit. Confirmed BlairTech Dell Precision 3550 workstation holding historical floor price at $179.99 (~৳24,299 landed), eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~৳39,726 landed, breaking below ৳40k barrier with Allstate Warranty), and Best Buy direct 1P doorbuster on Lenovo IdeaPad Slim 3i ($499.99, $400 off). Directly composed root README dashboard and summary markdown."
+      "summary": "Agentic AI intelligence sweep & dashboard sync completed: Verified deal ecosystem across Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Best Buy (Early Black Friday Doorbusters), Walmart, BlairTech, and eBay Certified Refurbished. Confirmed active Dell Refurbished Halloween Sale campaign (Promo SPOOKY35DEAL for 35% off all laptops through Nov 1 11:30 PM CT) and DFS Hot Deals (Precision 3581 RTX workstation at $619, Latitude 7340 Touch at $539, Latitude 7340 32GB QHD+ at $579, and Latitude 5530 16GB at $429). Maintained critical low-stock telemetry warnings: Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single units, DFS Latitude 7340 Touch ($539) holding at 2 units, DFS Latitude 5530 16GB ($429) holding at 1 unit. Confirmed BlairTech Dell Precision 3550 workstation holding historical floor price at $179.99 (~\u09f324,299 landed), eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~\u09f339,726 landed, breaking below \u09f340k barrier with Allstate Warranty), and Best Buy direct 1P doorbuster on Lenovo IdeaPad Slim 3i ($499.99, $400 off). Directly composed root README dashboard and summary markdown."
     },
     {
       "timestamp": "2026-10-30T09:00:00+06:00",
-      "summary": "Firecrawl Daily Deep Deal Hunter morning sweep completed: Conducted comprehensive intelligence sweep across Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Best Buy (Early Black Friday Doorbusters), Walmart, Blair Technology Group, and eBay Certified Refurbished. Tracked active Dell Refurbished Halloween Sale campaign (Coupon SPOOKY35DEAL for 35% off non-Hot Deals laptops through Nov 1, 2026). Verified live stock telemetry: Dell Precision 3581 12-core H-series workstation with dedicated RTX GPU ($619.00) down to 11 units remaining (from 13), DFS Latitude 7340 Touch ($539) holding at critical 2 units, DFS Latitude 5530 16GB ($429) at critical 1 unit remaining (with 8GB variant at $409 having 10 units left), DFS Latitude 7340 QHD+ 32GB ($579) at 30+ units available (Grade A variant down to 4 units at $649). Verified Woot high-demand allocations: Dell Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) both holding at final single unit ('Hurry only 1 left! - 4 days left'). Confirmed BlairTech Dell Precision 3550 workstation holding at all-time low $179.99 (~৳24,299 landed), eBay ThinkPad T14 Gen 2 holding steady across top certified sellers ($289.99-$296.99, benchmarked at $294.27 / ~৳39,726 landed), and Best Buy direct 1P doorbuster on Lenovo IdeaPad Slim 3i ($499.99, $400 off MSRP). Reconciled ledger, summary, and root dashboard."
+      "summary": "Firecrawl Daily Deep Deal Hunter morning sweep completed: Conducted comprehensive intelligence sweep across Dell Refurbished (DFS), Woot (Microsoft Authorized Refurbished), Best Buy (Early Black Friday Doorbusters), Walmart, Blair Technology Group, and eBay Certified Refurbished. Tracked active Dell Refurbished Halloween Sale campaign (Coupon SPOOKY35DEAL for 35% off non-Hot Deals laptops through Nov 1, 2026). Verified live stock telemetry: Dell Precision 3581 12-core H-series workstation with dedicated RTX GPU ($619.00) down to 11 units remaining (from 13), DFS Latitude 7340 Touch ($539) holding at critical 2 units, DFS Latitude 5530 16GB ($429) at critical 1 unit remaining (with 8GB variant at $409 having 10 units left), DFS Latitude 7340 QHD+ 32GB ($579) at 30+ units available (Grade A variant down to 4 units at $649). Verified Woot high-demand allocations: Dell Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) both holding at final single unit ('Hurry only 1 left! - 4 days left'). Confirmed BlairTech Dell Precision 3550 workstation holding at all-time low $179.99 (~\u09f324,299 landed), eBay ThinkPad T14 Gen 2 holding steady across top certified sellers ($289.99-$296.99, benchmarked at $294.27 / ~\u09f339,726 landed), and Best Buy direct 1P doorbuster on Lenovo IdeaPad Slim 3i ($499.99, $400 off MSRP). Reconciled ledger, summary, and root dashboard."
     },
     {
       "timestamp": "2026-10-28T09:50:00+06:00",
-      "summary": "Firecrawl Daily Deep Deal Hunter morning sweep completed: Conducted deep-web intelligence sweep across Dell Refurbished (DFS), Woot, Best Buy, Walmart, BlairTech, and eBay. Sourced new High-Gravity Tier 4 workstation discovery: Dell Precision 3581 with 12-core i5-13600H and dedicated NVIDIA RTX GPU at $619.00 (40% DFS Hot Deal discount, ~৳83,565 landed, 13 units in stock). Discovered Tier 2 enterprise addition: Dell Latitude 5530 with 10-core i5-1235U and 16GB dual-SODIMM RAM at $429.00 (~৳57,915 landed, 1 unit remaining). Verified critical low-stock telemetry: Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single unit ('Hurry only 1 left!'), DFS Latitude 7340 Touch ($539) down to 2 units, and DFS Latitude 7340 QHD+ 32GB ($579) at 29 units. Confirmed Walmart HP Victus 15 1P allocation remains depleted (marketplace reseller markup at $998). Verified Best Buy 1P direct doorbuster on Lenovo IdeaPad Slim 3i ($499.99, $400 off) and BlairTech Dell Precision 3550 workstation ($179.99, ~৳24,299 landed). Synced ledger, summary, and root dashboard."
+      "summary": "Firecrawl Daily Deep Deal Hunter morning sweep completed: Conducted deep-web intelligence sweep across Dell Refurbished (DFS), Woot, Best Buy, Walmart, BlairTech, and eBay. Sourced new High-Gravity Tier 4 workstation discovery: Dell Precision 3581 with 12-core i5-13600H and dedicated NVIDIA RTX GPU at $619.00 (40% DFS Hot Deal discount, ~\u09f383,565 landed, 13 units in stock). Discovered Tier 2 enterprise addition: Dell Latitude 5530 with 10-core i5-1235U and 16GB dual-SODIMM RAM at $429.00 (~\u09f357,915 landed, 1 unit remaining). Verified critical low-stock telemetry: Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single unit ('Hurry only 1 left!'), DFS Latitude 7340 Touch ($539) down to 2 units, and DFS Latitude 7340 QHD+ 32GB ($579) at 29 units. Confirmed Walmart HP Victus 15 1P allocation remains depleted (marketplace reseller markup at $998). Verified Best Buy 1P direct doorbuster on Lenovo IdeaPad Slim 3i ($499.99, $400 off) and BlairTech Dell Precision 3550 workstation ($179.99, ~\u09f324,299 landed). Synced ledger, summary, and root dashboard."
     },
     {
       "timestamp": "2026-10-28T01:25:00+06:00",
-      "summary": "Verified deal portfolio across all 4 tiers: confirmed ThinkPad T14 Gen 2 holding price drop at $294.27 on eBay Refurbished (~৳39,726 landed - breaking ৳40k barrier with 2-year warranty), verified Dell Precision 3550 $179.99 clearance on BlairTech, tracked Woot low-stock allocations on Latitude 7330 32GB ($539.99), and synchronized live GitHub dashboard."
+      "summary": "Verified deal portfolio across all 4 tiers: confirmed ThinkPad T14 Gen 2 holding price drop at $294.27 on eBay Refurbished (~\u09f339,726 landed - breaking \u09f340k barrier with 2-year warranty), verified Dell Precision 3550 $179.99 clearance on BlairTech, tracked Woot low-stock allocations on Latitude 7330 32GB ($539.99), and synchronized live GitHub dashboard."
     },
     {
       "timestamp": "2026-10-27T18:15:00+06:00",
-      "summary": "Firecrawl Daily Deep Deal Hunter evening sweep completed: Verified live stock and critical inventory alerts across Woot and Dell Financial Services (DFS). Issued urgent low-stock telemetry: Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single unit ('Hurry only 1 left!'), while DFS Latitude 7340 Touch ($539) down to 2 units. Flagged DFS Latitude 7420 inventory fully depleted to OUT_OF_STOCK. Discovered fresh eBay Certified Refurbished price drop on Lenovo ThinkPad T14 Gen 2 (16GB RAM, 512GB SSD) down to $294.27 (~৳39,726 landed, breaking below ৳40k BDT barrier with 2-Year Allstate Warranty). Sourced Best Buy 1P direct doorbuster on Lenovo IdeaPad Slim 3i (13th Gen i5-1335U, 16GB RAM) at $499.99 ($400 off MSRP). Confirmed BlairTech Dell Precision 3550 mobile workstation active at $179.99 (~৳24,299 landed). Synced ledger, summary, and root dashboard."
+      "summary": "Firecrawl Daily Deep Deal Hunter evening sweep completed: Verified live stock and critical inventory alerts across Woot and Dell Financial Services (DFS). Issued urgent low-stock telemetry: Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single unit ('Hurry only 1 left!'), while DFS Latitude 7340 Touch ($539) down to 2 units. Flagged DFS Latitude 7420 inventory fully depleted to OUT_OF_STOCK. Discovered fresh eBay Certified Refurbished price drop on Lenovo ThinkPad T14 Gen 2 (16GB RAM, 512GB SSD) down to $294.27 (~\u09f339,726 landed, breaking below \u09f340k BDT barrier with 2-Year Allstate Warranty). Sourced Best Buy 1P direct doorbuster on Lenovo IdeaPad Slim 3i (13th Gen i5-1335U, 16GB RAM) at $499.99 ($400 off MSRP). Confirmed BlairTech Dell Precision 3550 mobile workstation active at $179.99 (~\u09f324,299 landed). Synced ledger, summary, and root dashboard."
     },
     {
       "timestamp": "2026-10-27T09:25:00+06:00",
-      "summary": "Firecrawl Daily Deep Deal Hunter sweep completed: Discovered Dell Latitude 7330 with 32GB RAM + 512GB SSD + Core i7-1265U live on Woot at $539.99 (~৳72,899 landed), breaking the 16GB RAM barrier within Tier 1. Verified live inventory across DFS and Woot: issued critical low-stock telemetry warnings on Dell Latitude 7340 Touch $539 (down to 2 units) and Dell Latitude 7430 2-in-1 $499.99 (down to final unit). Confirmed BlairTech Dell Precision 3550 workstation remains in stock at all-time low $179.99 (~৳24,299 landed). Synced ledger, summary, and root dashboard."
+      "summary": "Firecrawl Daily Deep Deal Hunter sweep completed: Discovered Dell Latitude 7330 with 32GB RAM + 512GB SSD + Core i7-1265U live on Woot at $539.99 (~\u09f372,899 landed), breaking the 16GB RAM barrier within Tier 1. Verified live inventory across DFS and Woot: issued critical low-stock telemetry warnings on Dell Latitude 7340 Touch $539 (down to 2 units) and Dell Latitude 7430 2-in-1 $499.99 (down to final unit). Confirmed BlairTech Dell Precision 3550 workstation remains in stock at all-time low $179.99 (~\u09f324,299 landed). Synced ledger, summary, and root dashboard."
     },
     {
       "timestamp": "2026-10-26T23:05:00+06:00",
@@ -691,7 +739,7 @@
     },
     {
       "timestamp": "2026-10-26T22:55:00+06:00",
-      "summary": "Firecrawl Daily Deep Deal Hunter sweep completed: Discovered Dell Refurbished DFS October Hot Deal with 40% instant off on 13th Gen Dell Latitude 7340 Touch ($539 for 16GB FHD+ Touch, $579 for 32GB RAM + QHD+ 2560x1600 Touch). Confirmed Dell Latitude 7430 2-in-1 (12th Gen i7-1265U) in stock at $499.99 on Woot as Latitude 5320 2-in-1 depleted. Logged BlairTech price drop on Dell Precision 3550 workstation to all-time low of $179.99 (~৳24,299 landed). Flagged Walmart HP Victus 15 $499 allocation sold out to 3rd party reseller."
+      "summary": "Firecrawl Daily Deep Deal Hunter sweep completed: Discovered Dell Refurbished DFS October Hot Deal with 40% instant off on 13th Gen Dell Latitude 7340 Touch ($539 for 16GB FHD+ Touch, $579 for 32GB RAM + QHD+ 2560x1600 Touch). Confirmed Dell Latitude 7430 2-in-1 (12th Gen i7-1265U) in stock at $499.99 on Woot as Latitude 5320 2-in-1 depleted. Logged BlairTech price drop on Dell Precision 3550 workstation to all-time low of $179.99 (~\u09f324,299 landed). Flagged Walmart HP Victus 15 $499 allocation sold out to 3rd party reseller."
     },
     {
       "timestamp": "2026-10-26T22:25:00+06:00",

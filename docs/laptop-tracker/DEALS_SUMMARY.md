@@ -7,7 +7,7 @@
 [![Cadence](https://img.shields.io/badge/Cadence-Every%202%20Hours-blue?style=for-the-badge&logo=clockify)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B355k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.14.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
+[![Version](https://img.shields.io/badge/Ledger-v2.15.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
 
 **An autonomous, multi-tier intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories.**
 
@@ -17,9 +17,9 @@
 
 ---
 
-> **🕒 Last Verified:** `2026-11-01 09:08:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
+> **🕒 Last Verified:** `2026-11-01 10:00:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
 > **🎯 Strategic Focus Active:** 1) Deep research on sub-৳50k–৳55k BDT models • 2) Dedicated tracking of Touchscreen & 360° convertibles with 16GB RAM • 3) Radar on high-gravity outlier discounts (Tier 4).  
-> **🎃 Final Hours Alert:** Dell Refurbished Halloween Sale (Code **`SPOOKY35DEAL`** for 35% off all non-Hot-Deal laptops) expires **tonight, Nov 1 at 11:30 PM CT** (<15 hours remaining).  
+> **🎃 Final Hours Alert:** Dell Refurbished Halloween Sale (Code **`SPOOKY35DEAL`** for 35% off all non-Hot-Deal laptops) expires **tonight, Nov 1 at 11:30 PM CT** (<14 hours remaining).  
 > **🎯 Target Holiday Kickoff:** Target **Deal of the Day** program is officially active starting today (Nov 1), featuring daily 24-hr drops and 1-day advance previews ahead of the Early Black Friday Sale (Nov 5–7).  
 > **📊 Structured Data:** [`DEALS_LEDGER.json`](DEALS_LEDGER.json) • **Evaluation Rules:** [`TRACKER_SPEC.md`](TRACKER_SPEC.md)
 
@@ -40,7 +40,7 @@ Black Friday discounts do not drop simultaneously; major retailers execute in mu
 ---
 
 ## 🚀 Tier 4: "Gravity" Stretchers ($550 – $699+ USD)
-*Massive discounts (38%–50% off $1,000+ MSRP) that justify stretching the budget to unlock **true 8GB VRAM RTX 4060 compute (up to 140W full-wattage TGP)**, dedicated ISV workstations, 32GB RAM 13th Gen i7s, or Apple Silicon.*
+*Massive discounts (38%–50% off $1,000+ MSRP) that justify stretching the budget to unlock **true 8GB VRAM RTX 4060 compute (up to 140W full-wattage TGP)**, dedicated ISV workstations, next-gen Core Ultra AI convertibles, or 32GB RAM 13th Gen corporate flagships.*
 
 | Model & Retailer | Current Price | Bank Rate (~128) | Real Landed (~135) | Key Specifications | RAM & Upgradeability | Display | Deal Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: |
@@ -48,6 +48,7 @@ Black Friday discounts do not drop simultaneously; major retailers execute in mu
 | **[ASUS TUF Gaming A15](https://www.bestbuy.com/site/searchpage.jsp?st=asus+tuf+gaming+a15+rtx+4060)** <br>*(Best Buy / Walmart)* | **$679.99** <br>~~$1,099.99~~ | **~৳87,039** | **~৳91,799** | Ryzen 5 7535HS / Ryzen 7 • **RTX 4060 8GB GDDR6 (140W Full TGP)** | **2× un-soldered DDR5 SODIMM slots** (16GB pre-installed, up to 64GB) | 15.6" FHD 144Hz IPS | `IN STOCK` *(Apex 140W GPU)* |
 | **[Apple MacBook Air M2](https://www.walmart.com/ip/Apple-MacBook-Air-13-6-inch-Laptop-Apple-M2-chip-8GB-Memory-256GB-SSD-Storage-Midnight/5041071060)** <br>*(Walmart)* | **$649.00** <br>~~$999.00~~ | **~৳83,072** | **~৳87,615** | Apple M2 Chip (8C CPU / 8C GPU) • 256GB SSD | 8GB Unified *(Soldered)* • 18-hr battery life • CNC aluminum unibody | 13.6" Liquid Retina (500 nits) | `IN STOCK` *(Restored: $619)* |
 | **[Dell Precision 3581](https://www.dellrefurbished.com/item/dell-precision-3581-000028/dell-precision-3581/1.html)** <br>*(Dell Refurbished DFS)* | **$619.00** <br>~~$1,039.00~~ | **~৳79,232** | **~৳83,565** | Core i5-13600H (12C/16T H-series) • **NVIDIA RTX Dedicated GPU** • 512GB SSD | **2× un-soldered DDR5 SODIMM slots** (16GB pre-installed, up to 64GB) | 15.6" FHD (1920x1080) Grade A | `IN STOCK` *(11 Available)* |
+| **[Lenovo Yoga 7i 16" 2-in-1](https://www.bestbuy.com/site/searchpage.jsp?st=lenovo+yoga+7i+16+touchscreen)** <br>*(Best Buy)* | **$599.99** <br>~~$999.99~~ | **~৳76,799** | **~৳80,999** | Core Ultra 5 / Ultra 7 (Intel AI Boost NPU) • Intel Arc • 512GB SSD | **16GB LPDDR5X** • Dolby Atmos • Stylus Support | **16.0" WUXGA 16:10 360° Touch** | `IN STOCK` *(40% Off AI PC)* |
 | **[Dell Latitude 7340 QHD+](https://www.dellrefurbished.com/hot-deals?model_f[]=Latitude%207340)** <br>*(Dell Refurbished DFS)* | **$579.00** <br>~~$969.00~~ | **~৳74,112** | **~৳78,165** | Core i7-1365U (10C/12T, 13th Gen) • Iris Xe • 512GB SSD | **32GB RAM Pre-Installed** *(Eliminates all memory ceilings)* | 13.3" QHD+ (2560x1600) 500-nit IPS | `IN STOCK` *(30+ Available)* |
 
 > [!WARNING]
@@ -78,6 +79,7 @@ Black Friday discounts do not drop simultaneously; major retailers execute in mu
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: |
 | **[Dell Inspiron 15 Touch](https://www.bestbuy.com/site/searchpage.jsp?st=dell+inspiron+15+touchscreen+i5)** <br>*(Best Buy / Dell)* | **$449.99** <br>*(Refurb: $399)* | **~৳57,599** <br>*(~৳51,072)* | **~৳60,749** <br>*(~৳53,865)* | Core i5-1235U / 1334U (10C/12T) • Intel Iris Xe • 512GB SSD | **2× un-soldered DDR4 SODIMM slots** (up to 64GB) | 15.6" FHD 120Hz **Touchscreen** | `IN STOCK` |
 | **[Dell Latitude 5530](https://www.dellrefurbished.com/item/dell-latitude-5530-000094/dell-latitude-5530/1.html)** <br>*(Dell Refurbished DFS)* | **$429.00** <br>~~$719.00~~ | **~৳54,912** | **~৳57,915** | Core i5-1235U (10C/12T, 12th Gen) • Intel Iris Xe • 256GB SSD | **2× un-soldered DDR4 SODIMM slots** (16GB pre-installed, up to 64GB) | 15.6" FHD Anti-glare Grade B | `IN STOCK` *(CRITICAL: 1 Left!)* |
+| **[HP Envy x360 15.6"](https://www.walmart.com/search?q=hp+envy+x360+16gb+ram+restored)** <br>*(Walmart Restored / eBay)* | **$369.00** <br>~~$899.99~~ | **~৳47,232** | **~৳49,815** | Ryzen 5 7530U / Ryzen 7 (up to 8C/16T) • Vega • 512GB SSD | **16GB Pre-Installed** *(Meets RAM Rule)* | **15.6" FHD IPS Edge-to-Edge 360° Touch** | `IN STOCK` *(Sub-৳50k Pick)* |
 | **[HP EliteBook 840 G8](https://blairtech.com/laptops/)** <br>*(BlairTech / Target)* | **$369.99** <br>~~$1,399~~ | **~৳47,359** | **~৳49,949** | Core i7-1185G7 • Iris Xe • 256GB/512GB SSD | **16GB Pre-Installed** *(2× SODIMM, up to 64GB)* | 14.0" FHD IPS Anti-glare | `IN STOCK` |
 | **[Dell Latitude 7420](https://www.dellrefurbished.com/laptops)** <br>*(Dell Refurbished DFS)* | **$365.00** <br>~~$1,499~~ | **~৳46,720** | **~৳49,275** | Core i7-1185G7 • Iris Xe • 512GB SSD • Carbon Fiber Chassis | **16GB RAM Pre-Installed** • Thunderbolt 4 | 14.0" FHD 400-nit Low Blue Light IPS | `OUT OF STOCK` *(DFS Depleted)* |
 | **[Dell Latitude 5320 2-in-1](https://computers.woot.com/plus/microsoft-authorized-refurbished-laptops-67)** <br>*(Woot / Amazon)* | **$439.99** <br>~~$1,299~~ | **~৳56,319** | **~৳59,399** | Core i7-1185G7 (4C/8T vPro) • Intel Iris Xe 96EU • 512GB SSD | **32GB RAM Pre-Installed** | 13.3" FHD **360° Touchscreen** | `OUT OF STOCK` *(Sold Out)* |
@@ -113,7 +115,7 @@ Online US retailer prices **exclude taxes and processing fees**. To ensure reali
 > **Delaware 0% Sales Tax Pro-Tip:** When buying on eBay, Woot, or Best Buy with a package forwarder (e.g., Global Shopaholic, Stackry), **always use a Delaware (DE) warehouse address**. Delaware has **0.00% state sales tax**, instantly saving you $25 to $40 in US taxes compared to forwarding from New York, California, or Texas.
 
 > [!TIP]
-> **Buying Power Rule of Thumb:** If your hard budget ceiling is **৳50,000 – ৳55,000 BDT landed**, your maximum US cart price should stay within **$370 – $407 USD**. The **Dell Latitude 5320 2-in-1 Touch ($319.00 = ~৳43,065 landed)**, **ThinkPad L13 Yoga Gen 2 ($335.00 = ~৳45,225 landed)**, **Lenovo IdeaPad Flex 5 14" 2-in-1 ($349.00 = ~৳47,115 landed)**, and **ThinkPad T14 Gen 2 ($294.27 = ~৳39,726 landed)** all deliver complete 16GB RAM configurations comfortably within this boundary.
+> **Buying Power Rule of Thumb:** If your hard budget ceiling is **৳50,000 – ৳55,000 BDT landed**, your maximum US cart price should stay within **$370 – $407 USD**. The **HP Envy x360 15.6" 2-in-1 ($369.00 = ~৳49,815 landed)**, **Dell Latitude 5320 2-in-1 Touch ($319.00 = ~৳43,065 landed)**, **ThinkPad L13 Yoga Gen 2 ($335.00 = ~৳45,225 landed)**, **Lenovo IdeaPad Flex 5 14" 2-in-1 ($349.00 = ~৳47,115 landed)**, and **ThinkPad T14 Gen 2 ($294.27 = ~৳39,726 landed)** all deliver complete 16GB RAM configurations comfortably within this boundary.
 
 ---
 
