@@ -7,7 +7,7 @@
 [![Cadence](https://img.shields.io/badge/Cadence-Every%202%20Hours-blue?style=for-the-badge&logo=clockify)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B355k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.19.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
+[![Version](https://img.shields.io/badge/Ledger-v2.20.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
 
 **An autonomous, multi-tier intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories.**
 
@@ -17,9 +17,9 @@
 
 ---
 
-> **🕒 Last Verified:** `2026-11-01 19:00:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
+> **🕒 Last Verified:** `2026-11-01 20:00:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
 > **🎯 Strategic Focus Active:** 1) Deep research on sub-৳50k–৳55k BDT models • 2) Dedicated tracking of Touchscreen & 360° convertibles with 16GB RAM • 3) Radar on high-gravity outlier discounts (Tier 4).  
-> **🎃 Final Hours Alert:** Dell Refurbished Halloween Sale (Code **`SPOOKY35DEAL`** for 35% off all non-Hot-Deal laptops) expires **tonight, Nov 1 at 11:30 PM CT** (<5 hours remaining).  
+> **🎃 Final Hours Alert:** Dell Refurbished Halloween Sale (Code **`SPOOKY35DEAL`** for 35% off all non-Hot-Deal laptops) expires **tonight, Nov 1 at 11:30 PM CT** (~14.5 hours remaining in US Central Time).  
 > **🏷️ Best Buy DoorBOOsters Finale:** Best Buy DoorBOOsters event concludes **tonight (Nov 1)**, featuring the Lenovo IdeaPad Slim 3i 15.3" 2K Touchscreen at **$429.99** ($300 off) and Slim 3i 16GB at **$499.99** ($400 off). Weekly Early Black Friday drops launch Friday, Nov 6.  
 > **🎯 Target Holiday Kickoff:** Target **Deal of the Day** program is officially active starting today (Nov 1), featuring daily 24-hr drops and 1-day advance previews ahead of the Early Black Friday Sale (Nov 5–7).  
 > **📊 Structured Data:** [`DEALS_LEDGER.json`](DEALS_LEDGER.json) • **Evaluation Rules:** [`TRACKER_SPEC.md`](TRACKER_SPEC.md)
@@ -98,6 +98,7 @@ Black Friday discounts do not drop simultaneously; major retailers execute in mu
 | **[HP EliteBook 840 G7](https://www.target.com/s?searchTerm=refurbished+laptop)** <br>*(Target Restored)* | **$259.99** <br>~~$1,099~~ | **~৳33,279** | **~৳35,099** | Core i5 10th Gen • Intel UHD • 256GB SSD • All-Metal | **16GB RAM** *(2× un-soldered SODIMM slots)* | 14.0" FHD IPS Aluminum | `IN STOCK` |
 | **[Lenovo ThinkPad T14 Gen 2](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)** <br>*(eBay Refurbished)* | **$294.27** <br>~~$1,199~~ | **~৳37,667** | **~৳39,726** | Ryzen 5 PRO 5650U (6C/12T) / i5-1135G7 • **512GB SSD** | **16GB RAM** *(Upgradeable)* | 14.0" FHD IPS • **Allstate Warranty** | `IN STOCK` *(Price Drop! <৳40k)* |
 | **[HP EliteBook x360 830 G8](https://www.target.com/s?searchTerm=hp+elitebook+x360+830+g8+refurbished)** <br>*(Target Restored / Walmart / eBay)* | **$299.00** <br>~~$1,449~~ | **~৳38,272** | **~৳40,365** | Core i5-1145G7 vPro • Iris Xe • 256GB SSD • CNC Aluminum | **16GB Pre-Installed** | **13.3" FHD IPS 360° Touch** • B&O Audio | `IN STOCK` *(x360 Benchmark Pick)* |
+| **[HP ProBook x360 435 G8](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)** <br>*(eBay Refurbished / Amazon)* | **$309.00** <br>~~$1,249~~ | **~৳39,552** | **~৳41,715** | Ryzen 5 PRO 5600U (6C/12T) / Ryzen 7 PRO 5850U (8C/16T) • Vega | **2× un-soldered SODIMM slots** (16GB pre-installed, up to 64GB) | **13.3" FHD IPS 360° Touch** • Gorilla 5 • Pen | `IN STOCK` *(Dual-SODIMM Unicorn)* |
 | **[Dell Latitude 5320 2-in-1](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)** <br>*(eBay Refurbished / DFS)* | **$319.00** <br>~~$1,299~~ | **~৳40,832** | **~৳43,065** | Core i5-1145G7 vPro (11th Gen) • Intel Iris Xe • 256GB SSD | **16GB RAM Pre-Installed** | **13.3" FHD IPS 360° Touch** • Thunderbolt 4 | `IN STOCK` *(Touch Pick)* |
 | **[Dell Latitude 7420 2-in-1](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)** <br>*(eBay Refurbished)* | **$319.00** <br>~~$1,399~~ | **~৳40,832** | **~৳43,065** | Core i5-1145G7 vPro (11th Gen) • Intel Iris Xe • 256GB SSD | **16GB RAM Pre-Installed** | **14.0" FHD IPS 360° Touch** • Thunderbolt 4 | `IN STOCK` *(14" Convertible Pick)* |
 | **[Dell Latitude 5420](https://computers.woot.com/plus/microsoft-authorized-refurbished-laptops-67)** <br>*(Woot / BlairTech)* | **$319.99** <br>~~$1,199~~ | **~৳40,959** | **~৳43,199** | Core i5-1145G7 • Iris Xe • 256GB/512GB SSD | **16GB RAM** *(2× un-soldered SODIMM slots)* | 14.0" FHD IPS Clamshell | `IN STOCK` |
@@ -121,7 +122,7 @@ Online US retailer prices **exclude taxes and processing fees**. To ensure reali
 > **Delaware 0% Sales Tax Pro-Tip:** When buying on eBay, Woot, or Best Buy with a package forwarder (e.g., Global Shopaholic, Stackry), **always use a Delaware (DE) warehouse address**. Delaware has **0.00% state sales tax**, instantly saving you $25 to $40 in US taxes compared to forwarding from New York, California, or Texas.
 
 > [!TIP]
-> **Buying Power Rule of Thumb:** If your hard budget ceiling is **৳50,000 – ৳55,000 BDT landed**, your maximum US cart price should stay within **$370 – $407 USD**. The **HP EliteBook x360 830 G8 ($299.00 = ~৳40,365 landed)**, **Dell Inspiron 14 2-in-1 ($369.00 = ~৳49,815 landed)**, **HP Envy x360 15.6" 2-in-1 ($369.00 = ~৳49,815 landed)**, **Dell Latitude 5320 2-in-1 Touch ($319.00 = ~৳43,065 landed)**, **Dell Latitude 7420 2-in-1 Touch ($319.00 = ~৳43,065 landed)**, **ThinkPad X13 Yoga Gen 2 ($329.00 = ~৳44,415 landed)**, **ThinkPad L13 Yoga Gen 2 ($335.00 = ~৳45,225 landed)**, **Lenovo IdeaPad Flex 5 14" 2-in-1 ($349.00 = ~৳47,115 landed)**, and **ThinkPad T14 Gen 2 ($294.27 = ~৳39,726 landed)** all deliver complete 16GB RAM configurations comfortably within this boundary.
+> **Buying Power Rule of Thumb:** If your hard budget ceiling is **৳50,000 – ৳55,000 BDT landed**, your maximum US cart price should stay within **$370 – $407 USD**. The **HP EliteBook x360 830 G8 ($299.00 = ~৳40,365 landed)**, **HP ProBook x360 435 G8 ($309.00 = ~৳41,715 landed)**, **Dell Inspiron 14 2-in-1 ($369.00 = ~৳49,815 landed)**, **HP Envy x360 15.6" 2-in-1 ($369.00 = ~৳49,815 landed)**, **Dell Latitude 5320 2-in-1 Touch ($319.00 = ~৳43,065 landed)**, **Dell Latitude 7420 2-in-1 Touch ($319.00 = ~৳43,065 landed)**, **ThinkPad X13 Yoga Gen 2 ($329.00 = ~৳44,415 landed)**, **ThinkPad L13 Yoga Gen 2 ($335.00 = ~৳45,225 landed)**, **Lenovo IdeaPad Flex 5 14" 2-in-1 ($349.00 = ~৳47,115 landed)**, and **ThinkPad T14 Gen 2 ($294.27 = ~৳39,726 landed)** all deliver complete 16GB RAM configurations comfortably within this boundary.
 
 ---
 
