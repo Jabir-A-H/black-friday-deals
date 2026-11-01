@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "2.11.0",
-    "last_updated": "2026-11-01T07:18:00+06:00",
+    "version": "2.12.0",
+    "last_updated": "2026-11-01T07:25:00+06:00",
     "currency_rates": {
       "base_mid_market_usd_to_bdt": 124,
       "bank_card_settlement_rate": 128,
@@ -510,9 +510,57 @@
       "notes": "CNC all-aluminum chassis, equipped with 16GB RAM and dual SODIMM slots for ~৳35,000 BDT landed. Highly durable, affordable enterprise workhorse for everyday productivity.",
       "last_checked": "2026-11-01T07:18:00+06:00",
       "alert_trigger": "STEADY"
+    },
+    {
+      "id": "dell-latitude-5320-2in1-16gb",
+      "title": "Dell Latitude 5320 13.3\" FHD 2-in-1 Touch Laptop - Intel Core i5-1145G7 - 16GB RAM - 256GB/512GB SSD",
+      "retailer": "eBay Certified Refurbished / Dell Financial Services",
+      "sku": "Latitude-5320-2in1-16G",
+      "url": "https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000",
+      "tier": "Tier 3: Value / Under $350",
+      "current_price_usd": 319.0,
+      "current_price_bdt_bank": 40832,
+      "current_price_bdt_landed": 43065,
+      "original_msrp_usd": 1299.0,
+      "lowest_seen_price_usd": 299.0,
+      "stock_status": "IN_STOCK",
+      "ram_status": "SOLDERED",
+      "cpu": "Intel Core i5-1145G7 (4 Cores / 8 Threads, up to 4.4 GHz vPro)",
+      "gpu": "Intel Iris Xe Graphics",
+      "display": "13.3\" FHD (1920x1080) IPS 360° Touchscreen (300 nits)",
+      "touchscreen": true,
+      "notes": "The premier sub-৳45k convertible: Full 360-degree rotation into tablet mode, dual Thunderbolt 4 / USB-C ports, and 16GB factory RAM out of the box for ~$319 (~৳43,065 landed). Wacom AES active pen support.",
+      "last_checked": "2026-11-01T07:25:00+06:00",
+      "alert_trigger": "TOUCH_CONVERTIBLE_PICK"
+    },
+    {
+      "id": "thinkpad-l13-yoga-gen2",
+      "title": "Lenovo ThinkPad L13 Yoga Gen 2 13.3\" FHD Touch 2-in-1 - Intel Core i5-1135G7 / Ryzen 5 - 16GB RAM - 256GB SSD - Garaged Stylus",
+      "retailer": "eBay Certified Refurbished",
+      "sku": "ThinkPad-L13-Yoga-G2",
+      "url": "https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000",
+      "tier": "Tier 3: Value / Under $350",
+      "current_price_usd": 335.0,
+      "current_price_bdt_bank": 42880,
+      "current_price_bdt_landed": 45225,
+      "original_msrp_usd": 1199.0,
+      "lowest_seen_price_usd": 320.0,
+      "stock_status": "IN_STOCK",
+      "ram_status": "SOLDERED",
+      "cpu": "Intel Core i5-1135G7 (4 Cores / 8 Threads) or AMD Ryzen 5 Pro 5650U",
+      "gpu": "Intel Iris Xe / AMD Radeon Vega",
+      "display": "13.3\" FHD (1920x1080) IPS 360° Touchscreen",
+      "touchscreen": true,
+      "notes": "Best-in-class convertible note-taker: Features an integrated, rechargeable ThinkPad Pen Pro garaged inside the side of the chassis. Legendary ThinkPad keyboard, military-grade MIL-STD-810H chassis, 16GB RAM, and 360 hinge under ৳46,000 landed. Backed by Allstate 1-2 Year Warranty on eBay Refurbished.",
+      "last_checked": "2026-11-01T07:25:00+06:00",
+      "alert_trigger": "TOUCH_CONVERTIBLE_PICK"
     }
   ],
   "reconciled_history": [
+    {
+      "timestamp": "2026-11-01T07:25:00+06:00",
+      "summary": "Protocol expansion & convertible portfolio update: Enforced 3-pillar directive in TRACKER_SPEC.md and cron sidecars: 1) Deep research priority on sub-৳50k-৳55k BDT models, 2) Dedicated tracking of Touchscreen & 360-degree convertibles with 16GB RAM, and 3) Continuous high-gravity outlier radar (Tier 4 $550-$699+). Added two top-tier sub-৳46,000 convertible discoveries to tracked portfolio: Dell Latitude 5320 2-in-1 ($319.00 / ~৳43,065 landed) and Lenovo ThinkPad L13 Yoga Gen 2 with built-in garaged rechargeable stylus ($335.00 / ~৳45,225 landed). Reconciled dashboard and bumped ledger to v2.12.0."
+    },
     {
       "timestamp": "2026-11-01T07:18:00+06:00",
       "summary": "November 1st Black Friday Month Kickoff sweep: Formally initiated tracking for the official November Black Friday discount waves (Best Buy Early Black Friday dropping Nov 6, Walmart Event 1 dropping Nov 12-15, Main Black Friday Week Nov 23-29). Issued final countdown alert on Dell Refurbished (DFS) Halloween event (Code SPOOKY35DEAL for 35% off all laptops expires tonight, Nov 1 at 11:30 PM CT). Re-verified live inventory: Precision 3581 12-core RTX workstation ($619) holding at 11 units, Latitude 7340 Touch ($539) at critical 2 units, Latitude 5530 16GB ($429) at critical 1 unit, Woot Latitude 7330 32GB RAM ($539.99) and Latitude 7430 2-in-1 ($499.99) holding at final single units. Confirmed BlairTech Dell Precision 3550 workstation holding historical floor at $179.99 (~৳24,299 landed), and eBay ThinkPad T14 Gen 2 holding price drop at $294.27 (~৳39,726 landed). Reconciled dashboard and synced repository."

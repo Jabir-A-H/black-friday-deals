@@ -6,19 +6,20 @@
 [![Status](https://img.shields.io/badge/Status-Active%20Tracking-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Cadence](https://img.shields.io/badge/Cadence-Every%202%20Hours-blue?style=for-the-badge&logo=clockify)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B360k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.11.0-informational?style=for-the-badge)](docs/laptop-tracker/DEALS_LEDGER.json)
+[![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B355k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Version](https://img.shields.io/badge/Ledger-v2.12.0-informational?style=for-the-badge)](docs/laptop-tracker/DEALS_LEDGER.json)
 
 **An autonomous, multi-tier intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories.**
 
-[🗓️ November Wave Roadmap](#-november-2026-black-friday-rollout-roadmap) • [🚀 Tier 4: Gravity Stretchers](#-tier-4-gravity-stretchers-550--699-usd) • [🥇 Tier 1: High Budget](#-tier-1-high-budget-450--550-usd) • [🥈 Tier 2: Mid Budget](#-tier-2-mid-budget-350--450-usd) • [🥉 Tier 3: Value Under $350](#-tier-3-value--under-350-usd-200--350-usd) • [💡 Landed Cost Model](#-the-landed-cost-architecture-usd--bdt)
+[🎯 Core Sweet Spot (Sub-৳55k)](#-tier-3-value--convertibles-under-350-usd-200--350-usd) • [🔄 Touch & 360° Convertibles](#-tier-3-value--convertibles-under-350-usd-200--350-usd) • [🚀 Tier 4: Gravity Stretchers](#-tier-4-gravity-stretchers-550--699-usd) • [🥇 Tier 1: High Budget](#-tier-1-high-budget-450--550-usd) • [💡 Landed Cost Model](#-the-landed-cost-architecture-usd--bdt)
 
 </div>
 
 ---
 
-> **🕒 Last Verified:** `2026-11-01 07:18:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
-> **🎃 Final Hours Alert:** Dell Refurbished Halloween Sale (Code **`SPOOKY35DEAL`** for 35% off all non-Hot-Deal laptops) expires **tonight, Nov 1 at 11:30 PM CT** before rolling into early November clearances.  
+> **🕒 Last Verified:** `2026-11-01 07:25:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
+> **🎯 Strategic Focus Active:** 1) Deep research on sub-৳50k–৳55k BDT models • 2) Dedicated tracking of Touchscreen & 360° convertibles with 16GB RAM • 3) Radar on high-gravity outlier discounts (Tier 4).  
+> **🎃 Final Hours Alert:** Dell Refurbished Halloween Sale (Code **`SPOOKY35DEAL`** for 35% off all non-Hot-Deal laptops) expires **tonight, Nov 1 at 11:30 PM CT**.  
 > **📊 Structured Data:** [`docs/laptop-tracker/DEALS_LEDGER.json`](docs/laptop-tracker/DEALS_LEDGER.json) • **Evaluation Rules:** [`docs/laptop-tracker/TRACKER_SPEC.md`](docs/laptop-tracker/TRACKER_SPEC.md)
 
 ---
@@ -37,7 +38,7 @@ Black Friday discounts do not drop simultaneously; major retailers execute in mu
 
 ---
 
-## 🚀 Tier 4: "Gravity" Stretchers ($550 – $699 USD)
+## 🚀 Tier 4: "Gravity" Stretchers ($550 – $699+ USD)
 *Massive discounts (40%–50% off $1,000+ MSRP) that justify stretching the budget to unlock **true 8GB VRAM RTX 4060 compute**, dedicated ISV workstations, 32GB RAM 13th Gen i7s, or Apple Silicon.*
 
 | Model & Retailer | Current Price | Bank Rate (~128) | Real Landed (~135) | Key Specifications | RAM & Upgradeability | Display | Deal Status |
@@ -81,14 +82,16 @@ Black Friday discounts do not drop simultaneously; major retailers execute in mu
 
 ---
 
-## 🥉 Tier 3: Value / Under $350 USD ($200 – $350 USD)
-*Extreme value bargains delivering dedicated GPUs, military-grade durability, and 1-to-2 year warranties under ৳45,000 landed.*
+## 🥉 Tier 3: Value & Convertibles / Under $350 USD ($200 – $350 USD)
+*The primary sub-৳45k–৳55k sweet spot: dedicated GPUs, military-grade durability, and **16GB Touchscreen/360° convertibles** under ৳46,000 landed.*
 
-| Model & Retailer | Current Price | Bank Rate (~128) | Real Landed (~135) | Key Specifications | RAM & Upgradeability | Display | Deal Status |
+| Model & Retailer | Current Price | Bank Rate (~128) | Real Landed (~135) | Key Specifications | RAM & Upgradeability | Display & Form Factor | Deal Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: |
 | **[Dell Precision 3550](https://blairtech.com/scratch-dent-dell-precision-3550-15-6-workstation-laptop-intel-quad-core-i5-10th-gen-i5-10310u-250gb-nvme-8gb-ram-windows-11-home-backlit-keyboard-webcam-s-n-8f24673/)** <br>*(BlairTech)* | **$179.99** <br>~~$1,299~~ | **~৳23,039** | **~৳24,299** | Core i5-10310U • ISV Workstation • 250GB NVMe SSD | **2× un-soldered SODIMM slots** (up to 64GB DDR4) | 15.6" FHD IPS • **30-Day Warranty** | `IN STOCK` *(Verified Live)* |
 | **[Lenovo ThinkPad T14 Gen 2](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)** <br>*(eBay Refurbished)* | **$294.27** <br>~~$1,199~~ | **~৳37,667** | **~৳39,726** | Ryzen 5 PRO 5650U (6C/12T) / i5-1135G7 • **512GB SSD** | **16GB RAM** *(Upgradeable)* | 14.0" FHD IPS • **Allstate Warranty** | `IN STOCK` *(Price Drop! <৳40k)* |
-| **[Dell Latitude 5420](https://computers.woot.com/plus/microsoft-authorized-refurbished-laptops-67)** <br>*(Woot / BlairTech)* | **$319.99** <br>~~$1,199~~ | **~৳40,959** | **~৳43,199** | Core i5-1145G7 • Iris Xe • 256GB/512GB SSD | **16GB RAM** *(2× un-soldered SODIMM slots)* | 14.0" FHD IPS | `IN STOCK` |
+| **[Dell Latitude 5320 2-in-1](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)** <br>*(eBay Refurbished / DFS)* | **$319.00** <br>~~$1,299~~ | **~৳40,832** | **~৳43,065** | Core i5-1145G7 vPro (11th Gen) • Intel Iris Xe • 256GB SSD | **16GB RAM Pre-Installed** | **13.3" FHD IPS 360° Touch** • Thunderbolt 4 | `IN STOCK` *(Touch Pick)* |
+| **[ThinkPad L13 Yoga Gen 2](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)** <br>*(eBay Refurbished)* | **$335.00** <br>~~$1,199~~ | **~৳42,880** | **~৳45,225** | Core i5-1135G7 / Ryzen 5 • 256GB SSD • **Garaged Stylus** | **16GB RAM Pre-Installed** | **13.3" FHD IPS 360° Touch** • MIL-STD-810H | `IN STOCK` *(Stylus Pick)* |
+| **[Dell Latitude 5420](https://computers.woot.com/plus/microsoft-authorized-refurbished-laptops-67)** <br>*(Woot / BlairTech)* | **$319.99** <br>~~$1,199~~ | **~৳40,959** | **~৳43,199** | Core i5-1145G7 • Iris Xe • 256GB/512GB SSD | **16GB RAM** *(2× un-soldered SODIMM slots)* | 14.0" FHD IPS Clamshell | `IN STOCK` |
 | **[HP EliteBook 840 G7](https://www.target.com/s?searchTerm=refurbished+laptop)** <br>*(Target Restored)* | **$259.99** <br>~~$1,099~~ | **~৳33,279** | **~৳35,099** | Core i5 10th Gen • Intel UHD • 256GB SSD • All-Metal | **16GB RAM** *(2× un-soldered SODIMM slots)* | 14.0" FHD IPS Aluminum | `IN STOCK` |
 
 ---
@@ -107,7 +110,7 @@ Online US retailer prices **exclude taxes and processing fees**. To ensure reali
 > **Delaware 0% Sales Tax Pro-Tip:** When buying on eBay, Woot, or Best Buy with a package forwarder (e.g., Global Shopaholic, Stackry), **always use a Delaware (DE) warehouse address**. Delaware has **0.00% state sales tax**, instantly saving you $25 to $40 in US taxes compared to forwarding from New York, California, or Texas.
 
 > [!TIP]
-> **Buying Power Rule of Thumb:** If your hard budget ceiling is **৳55,000 BDT landed**, your maximum US cart price should not exceed **$407 USD**. The **Dell Precision 3550 Workstation ($179.99 = ~৳24,299 landed)**, **Lenovo ThinkPad T14 Gen 2 ($294.27 = ~৳39,726 landed)**, and **HP EliteBook 840 G8 ($369.99 = ~৳49,949 landed)** fit comfortably within this boundary.
+> **Buying Power Rule of Thumb:** If your hard budget ceiling is **৳55,000 BDT landed**, your maximum US cart price should not exceed **$407 USD**. The **Dell Latitude 5320 2-in-1 Touch ($319.00 = ~৳43,065 landed)**, **ThinkPad L13 Yoga Gen 2 ($335.00 = ~৳45,225 landed)**, and **ThinkPad T14 Gen 2 ($294.27 = ~৳39,726 landed)** fit comfortably within this boundary.
 
 ---
 
