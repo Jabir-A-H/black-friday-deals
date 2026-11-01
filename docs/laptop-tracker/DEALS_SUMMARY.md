@@ -7,19 +7,33 @@
 [![Cadence](https://img.shields.io/badge/Cadence-Every%202%20Hours-blue?style=for-the-badge&logo=clockify)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B360k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.10.5-informational?style=for-the-badge)](DEALS_LEDGER.json)
+[![Version](https://img.shields.io/badge/Ledger-v2.11.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
 
 **An autonomous, multi-tier intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories.**
 
-[🚀 Tier 4: Gravity Stretchers](#-tier-4-gravity-stretchers-550--699-usd) • [🥇 Tier 1: High Budget](#-tier-1-high-budget-450--550-usd) • [🥈 Tier 2: Mid Budget](#-tier-2-mid-budget-350--450-usd) • [🥉 Tier 3: Value Under $350](#-tier-3-value--under-350-usd-200--350-usd) • [💡 Landed Cost Model](#-the-landed-cost-architecture-usd--bdt)
+[🗓️ November Wave Roadmap](#-november-2026-black-friday-rollout-roadmap) • [🚀 Tier 4: Gravity Stretchers](#-tier-4-gravity-stretchers-550--699-usd) • [🥇 Tier 1: High Budget](#-tier-1-high-budget-450--550-usd) • [🥈 Tier 2: Mid Budget](#-tier-2-mid-budget-350--450-usd) • [🥉 Tier 3: Value Under $350](#-tier-3-value--under-350-usd-200--350-usd) • [💡 Landed Cost Model](#-the-landed-cost-architecture-usd--bdt)
 
 </div>
 
 ---
 
-> **🕒 Last Verified:** `2026-11-01 06:40:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
-> **🎃 Flash Campaign Alert:** Dell Refurbished Halloween Sale (Code **`SPOOKY35DEAL`** for 35% off all non-Hot Deal laptops) is in its **final 17 hours** (expires Nov 1, 11:30 PM CT). Target **Deal of the Day** holiday program is officially live with daily 24-hr drops and advance previews ahead of Early Black Friday (Nov 5–7). Best Buy **Early Black Friday Doorbusters** active through Nov 19.  
+> **🕒 Last Verified:** `2026-11-01 07:18:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
+> **🎃 Final Hours Alert:** Dell Refurbished Halloween Sale (Code **`SPOOKY35DEAL`** for 35% off all non-Hot-Deal laptops) expires **tonight, Nov 1 at 11:30 PM CT** before rolling into early November clearances.  
 > **📊 Structured Data:** [`DEALS_LEDGER.json`](DEALS_LEDGER.json) • **Evaluation Rules:** [`TRACKER_SPEC.md`](TRACKER_SPEC.md)
+
+---
+
+## 🗓️ November 2026 Black Friday Rollout Roadmap
+
+Black Friday discounts do not drop simultaneously; major retailers execute in multi-wave phases throughout November:
+
+| Wave / Phase | Target Window | Key Events & Expected Price Movements | Strategic Action |
+| :--- | :--- | :--- | :--- |
+| **Phase 0: Outlet Transitions** | **Nov 1 – Nov 5** *(Active Now)* | • Dell Refurbished Halloween code `SPOOKY35DEAL` expires tonight.<br>• Woot monthly Microsoft Authorized Refurbished (MAR) allocations reset. | Secure final-unit corporate clearance deals before coupon rotation. |
+| **Wave 1: Early Doorbusters** | **Nov 6 – Nov 15** | • **Best Buy Early Black Friday** drops Friday, Nov 6 (weekly drops).<br>• **Walmart Event 1** begins Nov 12 (12:00 AM ET; 24-hr Walmart+ early access). | Prime window for sub-$500 budget gaming restocks (**HP Victus RTX 4050** at $499). |
+| **Wave 2: Corporate Clearances** | **Nov 11 – Nov 17** | • Veteran's Day corporate fleet liquidations across Lenovo Outlet & Dell DFS. | Deepest cuts on 12th/13th Gen off-lease enterprise ultrabooks. |
+| **Wave 3: Peak Black Friday** | **Nov 23 – Nov 29** | • Full Thanksgiving doorbuster catalog goes live (in-store Nov 27). | Highest volume of price drops; rapid stock exhaustion. |
+| **Wave 4: Cyber Monday** | **Nov 30 – Dec 2** | • Online-only digital mop-up sales and coupon codes. | Final call for holiday seasonal inventory. |
 
 ---
 
@@ -50,7 +64,7 @@
 | **[ASUS Vivobook 16](https://www.walmart.com/search?q=asus+vivobook+16+i7+16gb)** <br>*(Walmart)* | **$499.00** <br>~~$649.99~~ | **~৳63,872** | **~৳67,365** | Core i7-1355U (10C/12T, up to 5.0 GHz) • Iris Xe • 512GB SSD | **16GB RAM** *(1 open SODIMM slot, upgradeable to 40GB total)* | 16.0" WUXGA 16:10 | `IN STOCK` |
 | **[Lenovo IdeaPad Slim 3i](https://www.bestbuy.com/site/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/6668499.p?skuId=6668499)** <br>*(Best Buy)* | **$499.99** <br>~~$899.99~~ | **~৳63,999** | **~৳67,499** | Core i5-1335U (10C/12T, 13th Gen) • Intel Iris Xe • 256GB SSD | **16GB Pre-Installed** *(Meets minimum RAM threshold)* | 15.6" FHD IPS Anti-glare | `IN STOCK` *(Best Buy 1P: $400 Off)* |
 | **[Acer Aspire 3](https://www.ebay.com/str/acer/Laptops/_i.html?store_cat=2792634010)** <br>*(eBay Acer Outlet)* | **$473.10** <br>~~$599.99~~ | **~৳60,557** | **~৳63,869** | Ryzen 5 7520U • Radeon 610M • 1TB NVMe SSD • Certified Refurbished | **16GB Pre-Installed** *(Upgradeable)* | 15.6" FHD IPS • **Free 2-Yr Warranty** | `IN STOCK` |
-| **[HP Victus 15](https://www.walmart.com/ip/HP-Victus-15-6-inch-FHD-144Hz-Gaming-Laptop-AMD-Ryzen-5-8645HS-NVIDIA-GeForce-RTX-4050-8GB-DDR4-512GB-SSD-Mica-Silver-2024/5395277312)** <br>*(Walmart)* | **$499.00** <br>~~$699.99~~ | **~৳63,872** | **~৳67,365** | Ryzen 5 8645HS (6C/12T Zen 4) • **NVIDIA RTX 4050 6GB GDDR6** • 512GB SSD | **2× un-soldered DDR5 SODIMM slots** (8GB installed, up to 64GB) | 15.6" FHD 144Hz IPS | `OUT OF STOCK` *(3rd Party: $998)* |
+| **[HP Victus 15](https://www.walmart.com/ip/HP-Victus-15-6-inch-FHD-144Hz-Gaming-Laptop-AMD-Ryzen-5-8645HS-NVIDIA-GeForce-RTX-4050-8GB-DDR4-512GB-SSD-Mica-Silver-2024/5395277312)** <br>*(Walmart)* | **$499.00** <br>~~$699.99~~ | **~৳63,872** | **~৳67,365** | Ryzen 5 8645HS (6C/12T Zen 4) • **NVIDIA RTX 4050 6GB GDDR6** • 512GB SSD | **2× un-soldered DDR5 SODIMM slots** (8GB installed, up to 64GB) | 15.6" FHD 144Hz IPS | `OUT OF STOCK` *(Nov 12 Restock Watch)* |
 
 ---
 
@@ -71,7 +85,7 @@
 *Extreme value bargains delivering dedicated GPUs, military-grade durability, and 1-to-2 year warranties under ৳45,000 landed.*
 
 | Model & Retailer | Current Price | Bank Rate (~128) | Real Landed (~135) | Key Specifications | RAM & Upgradeability | Display | Deal Status |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: |
 | **[Dell Precision 3550](https://blairtech.com/scratch-dent-dell-precision-3550-15-6-workstation-laptop-intel-quad-core-i5-10th-gen-i5-10310u-250gb-nvme-8gb-ram-windows-11-home-backlit-keyboard-webcam-s-n-8f24673/)** <br>*(BlairTech)* | **$179.99** <br>~~$1,299~~ | **~৳23,039** | **~৳24,299** | Core i5-10310U • ISV Workstation • 250GB NVMe SSD | **2× un-soldered SODIMM slots** (up to 64GB DDR4) | 15.6" FHD IPS • **30-Day Warranty** | `IN STOCK` *(Verified Live)* |
 | **[Lenovo ThinkPad T14 Gen 2](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)** <br>*(eBay Refurbished)* | **$294.27** <br>~~$1,199~~ | **~৳37,667** | **~৳39,726** | Ryzen 5 PRO 5650U (6C/12T) / i5-1135G7 • **512GB SSD** | **16GB RAM** *(Upgradeable)* | 14.0" FHD IPS • **Allstate Warranty** | `IN STOCK` *(Price Drop! <৳40k)* |
 | **[Dell Latitude 5420](https://computers.woot.com/plus/microsoft-authorized-refurbished-laptops-67)** <br>*(Woot / BlairTech)* | **$319.99** <br>~~$1,199~~ | **~৳40,959** | **~৳43,199** | Core i5-1145G7 • Iris Xe • 256GB/512GB SSD | **16GB RAM** *(2× un-soldered SODIMM slots)* | 14.0" FHD IPS | `IN STOCK` |
