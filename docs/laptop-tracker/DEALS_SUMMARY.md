@@ -7,7 +7,7 @@
 [![Cadence](https://img.shields.io/badge/Cadence-Every%202%20Hours-blue?style=for-the-badge&logo=clockify)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B355k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.25.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
+[![Version](https://img.shields.io/badge/Ledger-v2.26.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
 
 **An autonomous, multi-tier intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories.**
 
@@ -17,12 +17,13 @@
 
 ---
 
-> **🕒 Last Verified:** `2026-11-03 23:45:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
+> **🕒 Last Verified:** `2026-11-03 23:55:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
 > **🎯 Strategic Focus Active:** 1) Deep research on sub-৳50k–৳55k BDT models • 2) Dedicated tracking of Touchscreen & 360° convertibles with 16GB RAM • 3) Radar on high-gravity outlier discounts (Tier 4).  
+> **🔥 Woot 32GB Touch Doorbuster:** Dell Latitude 7430 14" Touch with **32GB RAM** + 10-core i7-1265U slashed to **$449.99** (~৳60,749 landed / ~৳57,599 bank card rate).  
 > **🎯 48-Hour Alert (Target Early Black Friday):** Target's 3-day holiday electronic event launches **Thursday, Nov 5 through Nov 7** featuring rolling doorbusters.  
 > **🏷️ 72-Hour Alert (Best Buy Early Black Friday):** Official weekly doorbuster drops begin **Friday, Nov 6**, backed by Best Buy's Holiday Price Match Guarantee and extended holiday return window through January 15, 2027.  
 > **🏢 DFS Transition Alert:** Dell Refurbished Halloween coupon expired; instant 40%–50% Hot Deals active on Precision 3581 12-core RTX workstation ($619) and Latitude 7340 32GB QHD+ ($579).  
-> **🛒 Walmart Event 1 Confirmed:** Scheduled for **Nov 12–15** (online Nov 12 at 12:01 AM ET for Walmart+) — high alert for $499 HP Victus RTX 4050 restocks.
+> **🛒 Walmart Event 1 Confirmed:** Scheduled for **Nov 12–15** (online Nov 12 at 12:01 AM ET for Walmart+) — high alert for $499 HP Victus RTX 4050 restocks.  
 > **📊 Structured Data:** [`DEALS_LEDGER.json`](DEALS_LEDGER.json) • **Evaluation Rules:** [`TRACKER_SPEC.md`](TRACKER_SPEC.md)
 
 ---
@@ -33,7 +34,7 @@ Black Friday discounts do not drop simultaneously; major retailers execute in mu
 
 | Wave / Phase | Target Window | Key Events & Expected Price Movements | Strategic Action |
 | :--- | :--- | :--- | :--- |
-| **Phase 0: Outlet Transitions** | **Nov 1 – Nov 5** *(Concluding)* | • Target 48-hr countdown to Early Black Friday (Nov 5–7).<br>• Dell Refurbished instant 40%–50% Hot Deals active post-Halloween.<br>• Best Buy 72-hr countdown to Early Black Friday wave kickoff (Nov 6).<br>• Extended holiday return windows active (Best Buy through Jan 15, 2027). | Secure enterprise clearance & prepare for Nov 5–6 major retail doorbuster drops. |
+| **Phase 0: Outlet Transitions** | **Nov 1 – Nov 5** *(Active)* | • Target 48-hr countdown to Early Black Friday (Nov 5–7).<br>• Dell Refurbished instant 40%–50% Hot Deals active post-Halloween.<br>• Best Buy 72-hr countdown to Early Black Friday wave kickoff (Nov 6).<br>• Extended holiday return windows active (Best Buy through Jan 15, 2027). | Secure enterprise clearance & prepare for Nov 5–6 major retail doorbuster drops. |
 | **Wave 1: Early Doorbusters** | **Nov 6 – Nov 15** | • **Best Buy Early Black Friday** drops Friday, Nov 6 (weekly drops).<br>• **Walmart Event 1** begins Nov 12 (12:00 AM ET; 24-hr Walmart+ early access). | Prime window for sub-$500 budget gaming restocks (**HP Victus RTX 4050** at $499). |
 | **Wave 2: Corporate Clearances** | **Nov 11 – Nov 17** | • Veteran's Day corporate fleet liquidations across Lenovo Outlet & Dell DFS. | Deepest cuts on 12th/13th Gen off-lease enterprise ultrabooks. |
 | **Wave 3: Peak Black Friday** | **Nov 23 – Nov 29** | • Full Thanksgiving doorbuster catalog goes live (in-store Nov 27). | Highest volume of price drops; rapid stock exhaustion. |
@@ -80,6 +81,7 @@ Black Friday discounts do not drop simultaneously; major retailers execute in mu
 
 | Model & Retailer | Current Price | Bank Rate (~128) | Real Landed (~135) | Key Specifications | RAM & Upgradeability | Display | Deal Status |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :---: |
+| **[Dell Latitude 7430 Touch](https://computers.woot.com/offers/dell-latitude-7430-14-fhd-touch-i7-1265u-32gb)** <br>*(Woot)* | **$449.99** <br>~~$1,599.00~~ | **~৳57,599** | **~৳60,749** | Core i7-1265U (10C/12T vPro, 12th Gen) • Iris Xe • 256GB SSD | **32GB RAM Pre-Installed** *(Eliminates memory ceiling)* | **14.0" FHD (1920x1080) Touchscreen** | `IN STOCK` *(32GB Touch Doorbuster)* |
 | **[Dell Inspiron 15 Touch](https://www.bestbuy.com/site/searchpage.jsp?st=dell+inspiron+15+touchscreen+i5)** <br>*(Best Buy / Dell)* | **$449.99** <br>*(Refurb: $399)* | **~৳57,599** <br>*(~৳51,072)* | **~৳60,749** <br>*(~৳53,865)* | Core i5-1235U / 1334U (10C/12T) • Intel Iris Xe • 512GB SSD | **2× un-soldered DDR4 SODIMM slots** (up to 64GB) | 15.6" FHD 120Hz **Touchscreen** | `IN STOCK` |
 | **[Dell Latitude 5530](https://www.dellrefurbished.com/item/dell-latitude-5530-000094/dell-latitude-5530/1.html)** <br>*(Dell Refurbished DFS)* | **$429.00** <br>~~$719.00~~ | **~৳54,912** | **~৳57,915** | Core i5-1235U (10C/12T, 12th Gen) • Intel Iris Xe • 256GB SSD | **2× un-soldered DDR4 SODIMM slots** (16GB pre-installed, up to 64GB) | 15.6" FHD Anti-glare Grade B | `IN STOCK` *(CRITICAL: 1 Left!)* |
 | **[Lenovo IdeaPad Slim 3i Touch](https://www.bestbuy.com/site/searchpage.jsp?st=lenovo+ideapad+slim+3i+touchscreen)** <br>*(Best Buy)* | **$429.99** <br>~~$729.99~~ | **~৳55,039** | **~৳58,049** | Core 5 120U (10C/12T, up to 5.0 GHz) • Intel Graphics • 256GB SSD | **16GB Pre-Installed** *(Upgradeable)* | **15.3" 2K (1920x1200) Touchscreen** | `IN STOCK` *(DoorBOOster $300 Off)* |
@@ -129,7 +131,7 @@ Online US retailer prices **exclude taxes and processing fees**. To ensure reali
 > **Delaware 0% Sales Tax Pro-Tip:** When buying on eBay, Woot, or Best Buy with a package forwarder (e.g., Global Shopaholic, Stackry), **always use a Delaware (DE) warehouse address**. Delaware has **0.00% state sales tax**, instantly saving you $25 to $40 in US taxes compared to forwarding from New York, California, or Texas.
 
 > [!TIP]
-> **Buying Power Rule of Thumb:** If your hard budget ceiling is **৳50,000 – ৳55,000 BDT landed**, your maximum US cart price should stay within **$370 – $407 USD**. The **Dell Latitude 7320 2-in-1 ($259.00 = ~৳34,965 landed / ~৳33,152 bank)**, **HP EliteBook x360 830 G8 ($299.00 = ~৳40,365 landed)**, **HP ProBook x360 435 G8 ($309.00 = ~৳41,715 landed)**, **Lenovo ThinkBook 14s Yoga ($319.00 = ~৳43,065 landed)**, **HP EliteBook x360 1040 G8 ($319.00 = ~৳43,065 landed)**, **Dell Latitude 5320 2-in-1 Touch ($319.00 = ~৳43,065 landed)**, **Dell Latitude 7420 2-in-1 Touch ($319.00 = ~৳43,065 landed)**, **ThinkPad X13 Yoga Gen 2 ($329.00 = ~৳44,415 landed)**, **ThinkPad L13 Yoga Gen 2 ($335.00 = ~৳45,225 landed)**, **Lenovo Yoga 6 13.3" 2-in-1 ($339.00 = ~৳45,765 landed / ~৳43,392 bank)**, **Lenovo IdeaPad Flex 5 14" 2-in-1 ($349.00 = ~৳47,115 landed)**, **Dell Inspiron 14 2-in-1 ($369.00 = ~৳49,815 landed)**, **HP Envy x360 15.6" 2-in-1 ($369.00 = ~৳49,815 landed)**, **ThinkPad X1 Yoga Gen 6 ($379.00 = ~৳51,165 landed / ~৳48,512 bank)**, and **ThinkPad T14 Gen 2 ($294.27 = ~৳39,726 landed)** all deliver complete 16GB RAM configurations comfortably within this boundary.
+> **Buying Power Rule of Thumb:** If your hard budget ceiling is **৳50,000 – ৳55,000 BDT landed**, your maximum US cart price should stay within **$370 – $407 USD**. The **Dell Latitude 7320 2-in-1 ($259.00 = ~৳34,965 landed / ~৳33,152 bank)**, **HP EliteBook x360 830 G8 ($299.00 = ~৳40,365 landed)**, **HP ProBook x360 435 G8 ($309.00 = ~৳41,715 landed)**, **Lenovo ThinkBook 14s Yoga ($319.00 = ~৳43,065 landed)**, **HP EliteBook x360 1040 G8 ($319.00 = ~৳43,065 landed)**, **Dell Latitude 5320 2-in-1 Touch ($319.00 = ~৳43,065 landed)**, **Dell Latitude 7420 2-in-1 Touch ($319.00 = ~৳43,065 landed)**, **ThinkPad X13 Yoga Gen 2 ($329.00 = ~৳44,415 landed)**, **ThinkPad L13 Yoga Gen 2 ($335.00 = ~৳45,225 landed)**, **Lenovo Yoga 6 13.3" 2-in-1 ($339.00 = ~৳45,765 landed / ~৳43,392 bank)**, **Lenovo IdeaPad Flex 5 14" 2-in-1 ($349.00 = ~৳47,115 landed)**, **Dell Inspiron 14 2-in-1 ($369.00 = ~৳49,815 landed)**, **HP Envy x360 15.6" 2-in-1 ($369.00 = ~৳49,815 landed)**, **ThinkPad X1 Yoga Gen 6 ($379.00 = ~৳51,165 landed / ~৳48,512 bank)**, and **ThinkPad T14 Gen 2 ($294.27 = ~৳39,726 landed)** all deliver complete 16GB RAM configurations comfortably within this boundary. For power users wanting **32GB RAM**, the **Dell Latitude 7430 Touch ($449.99 = ~৳60,749 landed / ~৳57,599 bank)** delivers 32GB memory + 10-core 12th Gen i7 right at the ৳60k threshold.
 
 ---
 
