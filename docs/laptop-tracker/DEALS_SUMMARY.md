@@ -7,7 +7,7 @@
 [![Cadence](https://img.shields.io/badge/Cadence-Every%202%20Hours-blue?style=for-the-badge&logo=clockify)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B355k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.26.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
+[![Version](https://img.shields.io/badge/Ledger-v2.28.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
 [![Explored Laptops](https://img.shields.io/badge/Explored%20Inventory-41%20Models%20Tracked-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 
 **An autonomous, multi-tier intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories across 41 serialized models.**
@@ -18,7 +18,7 @@
 
 ---
 
-> **🕒 Last Verified:** `2026-11-04 03:30:00 (+06:00 Asia/Dhaka)` • All 41 models verified live against current inventory  
+> **🕒 Last Verified:** `2026-11-04 03:55:00 (+06:00 Asia/Dhaka)` • All 41 models verified live against current inventory  
 > **🎯 Strategic Focus Active:** 1) Deep research on sub-৳50k–৳55k BDT models • 2) Dedicated tracking of Touchscreen & 360° convertibles with 16GB RAM • 3) Radar on high-gravity outlier discounts (Tier 4).  
 > **🎯 36-Hour Alert (Target Early Black Friday):** Target's 3-day holiday electronic event launches **Thursday, Nov 5 through Nov 7** featuring rolling doorbusters.  
 > **🏷️ 60-Hour Alert (Best Buy Early Black Friday):** Official weekly doorbuster drops begin **Friday, Nov 6**, backed by Best Buy's Holiday Price Match Guarantee and extended holiday return window through January 15, 2027.  
