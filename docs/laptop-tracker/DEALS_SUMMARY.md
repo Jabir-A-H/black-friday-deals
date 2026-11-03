@@ -7,7 +7,7 @@
 [![Cadence](https://img.shields.io/badge/Cadence-Every%202%20Hours-blue?style=for-the-badge&logo=clockify)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B355k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.28.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
+[![Version](https://img.shields.io/badge/Ledger-v2.29.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
 [![Explored Laptops](https://img.shields.io/badge/Explored%20Inventory-41%20Models%20Tracked-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 
 **An autonomous, multi-tier intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories across 41 serialized models.**
@@ -18,10 +18,10 @@
 
 ---
 
-> **🕒 Last Verified:** `2026-11-04 03:55:00 (+06:00 Asia/Dhaka)` • All 41 models verified live against current inventory  
+> **🕒 Last Verified:** `2026-11-04 05:55:00 (+06:00 Asia/Dhaka)` • All 41 models verified live against current inventory  
 > **🎯 Strategic Focus Active:** 1) Deep research on sub-৳50k–৳55k BDT models • 2) Dedicated tracking of Touchscreen & 360° convertibles with 16GB RAM • 3) Radar on high-gravity outlier discounts (Tier 4).  
-> **🎯 36-Hour Alert (Target Early Black Friday):** Target's 3-day holiday electronic event launches **Thursday, Nov 5 through Nov 7** featuring rolling doorbusters.  
-> **🏷️ 60-Hour Alert (Best Buy Early Black Friday):** Official weekly doorbuster drops begin **Friday, Nov 6**, backed by Best Buy's Holiday Price Match Guarantee and extended holiday return window through January 15, 2027.  
+> **🎯 30-Hour Alert (Target Early Black Friday):** Target's 3-day holiday electronic event launches **Thursday, Nov 5 through Nov 7** featuring rolling doorbusters.  
+> **🏷️ 48-Hour Alert (Best Buy Early Black Friday):** Official weekly doorbuster drops begin **Friday, Nov 6**, backed by Best Buy's Holiday Price Match Guarantee and extended holiday return window through January 15, 2027.  
 > **🏢 DFS Transition Alert:** Dell Refurbished Halloween coupon expired; instant 40%–50% Hot Deals active on Precision 3581 12-core RTX workstation ($619) and Latitude 7340 32GB QHD+ ($579).  
 > **🛒 Walmart Event 1 Confirmed:** Scheduled for **Nov 12–15** (online Nov 12 at 12:01 AM ET for Walmart+) — high alert for $499 HP Victus RTX 4050 restocks.  
 > **📊 Structured Data:** [`DEALS_LEDGER.json`](DEALS_LEDGER.json) • **Evaluation Rules:** [`TRACKER_SPEC.md`](TRACKER_SPEC.md)
@@ -104,7 +104,7 @@ Black Friday discounts execute in rolling waves throughout November:
 
 | Wave / Phase | Target Window | Key Events & Expected Price Movements | Strategic Action |
 | :--- | :--- | :--- | :--- |
-| **Phase 0: Outlet Transitions** | **Nov 1 – Nov 5** *(Concluding)* | • Target 36-hr countdown to Early Black Friday (Nov 5–7).<br>• Dell Refurbished instant 40%–50% Hot Deals active post-Halloween.<br>• Best Buy 60-hr countdown to Early Black Friday wave kickoff (Nov 6).<br>• Extended holiday return windows active (Best Buy through Jan 15, 2027). | Secure enterprise clearance & prepare for Nov 5–6 major retail doorbuster drops. |
+| **Phase 0: Outlet Transitions** | **Nov 1 – Nov 5** *(Final 24–30 Hours)* | • Target <30-hr countdown to Early Black Friday (Nov 5–7).<br>• Dell Refurbished instant 40%–50% Hot Deals active post-Halloween.<br>• Best Buy <48-hr countdown to Early Black Friday wave kickoff (Nov 6).<br>• Extended holiday return windows active (Best Buy through Jan 15, 2027). | Secure enterprise clearance & prepare for Nov 5–6 major retail doorbuster drops. |
 | **Wave 1: Early Doorbusters** | **Nov 6 – Nov 15** | • **Best Buy Early Black Friday** drops Friday, Nov 6 (weekly drops).<br>• **Walmart Event 1** begins Nov 12 (12:01 AM ET; 24-hr Walmart+ early access). | Prime window for sub-$500 budget gaming restocks (**HP Victus RTX 4050** at $499). |
 | **Wave 2: Corporate Clearances** | **Nov 11 – Nov 17** | • Veteran's Day corporate fleet liquidations across Lenovo Outlet & Dell DFS. | Deepest cuts on 12th/13th Gen off-lease enterprise ultrabooks. |
 | **Wave 3: Peak Black Friday** | **Nov 23 – Nov 29** | • Full Thanksgiving doorbuster catalog goes live (in-store Nov 27). | Highest volume of price drops; rapid stock exhaustion. |
