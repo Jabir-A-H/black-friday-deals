@@ -7,7 +7,7 @@
 [![Cadence](https://img.shields.io/badge/Cadence-Every%202%20Hours-blue?style=for-the-badge&logo=clockify)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B355k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.23.0-informational?style=for-the-badge)](docs/laptop-tracker/DEALS_LEDGER.json)
+[![Version](https://img.shields.io/badge/Ledger-v2.25.0-informational?style=for-the-badge)](docs/laptop-tracker/DEALS_LEDGER.json)
 
 **An autonomous, multi-tier intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories.**
 
@@ -17,11 +17,12 @@
 
 ---
 
-> **🕒 Last Verified:** `2026-11-02 01:52:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
+> **🕒 Last Verified:** `2026-11-03 23:45:00 (+06:00 Asia/Dhaka)` • Prices and stock verified live  
 > **🎯 Strategic Focus Active:** 1) Deep research on sub-৳50k–৳55k BDT models • 2) Dedicated tracking of Touchscreen & 360° convertibles with 16GB RAM • 3) Radar on high-gravity outlier discounts (Tier 4).  
-> **🎃 Final Hours Alert:** Dell Refurbished Halloween Sale (Code **`SPOOKY35DEAL`** for 35% off all non-Hot-Deal laptops) expires **tonight, Nov 1 at 11:30 PM CT** (~8.5–9 hours remaining in US Central Time).  
-> **🏷️ Best Buy DoorBOOsters Finale:** Best Buy DoorBOOsters event concludes **tonight (Nov 1)**, featuring the Lenovo IdeaPad Slim 3i 15.3" 2K Touchscreen at **$429.99** ($300 off) and Slim 3i 16GB at **$499.99** ($400 off). Weekly Early Black Friday drops launch Friday, Nov 6.  
-> **🎯 Target Holiday Kickoff:** Target **Deal of the Day** Day 2 active with rotating daily 24-hr drops ahead of the Early Black Friday Sale (Nov 5–7).  
+> **🎯 48-Hour Alert (Target Early Black Friday):** Target's 3-day holiday electronic event launches **Thursday, Nov 5 through Nov 7** featuring rolling doorbusters.  
+> **🏷️ 72-Hour Alert (Best Buy Early Black Friday):** Official weekly doorbuster drops begin **Friday, Nov 6**, backed by Best Buy's Holiday Price Match Guarantee and extended holiday return window through January 15, 2027.  
+> **🏢 DFS Transition Alert:** Dell Refurbished Halloween coupon expired; instant 40%–50% Hot Deals active on Precision 3581 12-core RTX workstation ($619) and Latitude 7340 32GB QHD+ ($579).  
+> **🛒 Walmart Event 1 Confirmed:** Scheduled for **Nov 12–15** (online Nov 12 at 12:01 AM ET for Walmart+) — high alert for $499 HP Victus RTX 4050 restocks.
 > **📊 Structured Data:** [`docs/laptop-tracker/DEALS_LEDGER.json`](docs/laptop-tracker/DEALS_LEDGER.json) • **Evaluation Rules:** [`docs/laptop-tracker/TRACKER_SPEC.md`](docs/laptop-tracker/TRACKER_SPEC.md)
 
 ---
@@ -32,7 +33,7 @@ Black Friday discounts do not drop simultaneously; major retailers execute in mu
 
 | Wave / Phase | Target Window | Key Events & Expected Price Movements | Strategic Action |
 | :--- | :--- | :--- | :--- |
-| **Phase 0: Outlet Transitions** | **Nov 1 – Nov 5** *(Active Now)* | • Target **Deal of the Day** holiday campaign live.<br>• Dell Refurbished Halloween code `SPOOKY35DEAL` in final ~8.5 hours.<br>• Best Buy DoorBOOsters event ends tonight (Nov 1).<br>• Woot MAR allocations in final single-unit hours (Latitude 7330 32GB & 7430 2-in-1). | Secure final-unit corporate clearance & doorbuster deals before coupon rotation. |
+| **Phase 0: Outlet Transitions** | **Nov 1 – Nov 5** *(Concluding)* | • Target 48-hr countdown to Early Black Friday (Nov 5–7).<br>• Dell Refurbished instant 40%–50% Hot Deals active post-Halloween.<br>• Best Buy 72-hr countdown to Early Black Friday wave kickoff (Nov 6).<br>• Extended holiday return windows active (Best Buy through Jan 15, 2027). | Secure enterprise clearance & prepare for Nov 5–6 major retail doorbuster drops. |
 | **Wave 1: Early Doorbusters** | **Nov 6 – Nov 15** | • **Best Buy Early Black Friday** drops Friday, Nov 6 (weekly drops).<br>• **Walmart Event 1** begins Nov 12 (12:00 AM ET; 24-hr Walmart+ early access). | Prime window for sub-$500 budget gaming restocks (**HP Victus RTX 4050** at $499). |
 | **Wave 2: Corporate Clearances** | **Nov 11 – Nov 17** | • Veteran's Day corporate fleet liquidations across Lenovo Outlet & Dell DFS. | Deepest cuts on 12th/13th Gen off-lease enterprise ultrabooks. |
 | **Wave 3: Peak Black Friday** | **Nov 23 – Nov 29** | • Full Thanksgiving doorbuster catalog goes live (in-store Nov 27). | Highest volume of price drops; rapid stock exhaustion. |
@@ -48,9 +49,10 @@ Black Friday discounts do not drop simultaneously; major retailers execute in mu
 | **[Acer Nitro V 15](https://www.walmart.com/search?q=acer+nitro+v+15+rtx+4060)** <br>*(Walmart/Amazon)* | **$649.99** <br>~~$999.99~~ | **~৳83,199** | **~৳87,749** | Core i7-13620H (10C/16T) • **RTX 4060 8GB GDDR6 (75W)** | **2× un-soldered DDR5 SODIMM slots** (16GB pre-installed, up to 64GB) | 15.6" FHD 144Hz IPS | `IN STOCK` *(Watch)* |
 | **[ASUS TUF Gaming A15](https://www.bestbuy.com/site/searchpage.jsp?st=asus+tuf+gaming+a15+rtx+4060)** <br>*(Best Buy / Walmart)* | **$679.99** <br>~~$1,099.99~~ | **~৳87,039** | **~৳91,799** | Ryzen 5 7535HS / Ryzen 7 • **RTX 4060 8GB GDDR6 (140W Full TGP)** | **2× un-soldered DDR5 SODIMM slots** (16GB pre-installed, up to 64GB) | 15.6" FHD 144Hz IPS | `IN STOCK` *(Apex 140W GPU)* |
 | **[Apple MacBook Air M2](https://www.walmart.com/ip/Apple-MacBook-Air-13-6-inch-Laptop-Apple-M2-chip-8GB-Memory-256GB-SSD-Storage-Midnight/5041071060)** <br>*(Walmart)* | **$649.00** <br>~~$999.00~~ | **~৳83,072** | **~৳87,615** | Apple M2 Chip (8C CPU / 8C GPU) • 256GB SSD | 8GB Unified *(Soldered)* • 18-hr battery life • CNC aluminum unibody | 13.6" Liquid Retina (500 nits) | `IN STOCK` *(Restored: $619)* |
-| **[Dell Precision 3581](https://www.dellrefurbished.com/item/dell-precision-3581-000028/dell-precision-3581/1.html)** <br>*(Dell Refurbished DFS)* | **$619.00** <br>~~$1,039.00~~ | **~৳79,232** | **~৳83,565** | Core i5-13600H (12C/16T H-series) • **NVIDIA RTX Dedicated GPU** • 512GB SSD | **2× un-soldered DDR5 SODIMM slots** (16GB pre-installed, up to 64GB) | 15.6" FHD (1920x1080) Grade A | `IN STOCK` *(11 Available)* |
+| **[Dell Precision 3581](https://www.dellrefurbished.com/item/dell-precision-3581-000028/dell-precision-3581/1.html)** <br>*(Dell Refurbished DFS)* | **$619.00** <br>~~$1,039.00~~ | **~৳79,232** | **~৳83,565** | Core i5-13600H (12C/16T H-series) • **NVIDIA RTX Dedicated GPU** • 512GB SSD | **2× un-soldered DDR5 SODIMM slots** (16GB pre-installed, up to 64GB) | 15.6" FHD (1920x1080) Grade A | `IN STOCK` *(10 Available)* |
+| **[Acer Swift Go 16 AI OLED](https://www.ebay.com/itm/257533096037)** <br>*(eBay Acer Outlet)* | **$577.88** <br>~~$999.99~~ | **~৳73,969** | **~৳78,014** | Core Ultra 5 125H (AI Boost NPU) • Intel Arc • 512GB SSD | **16GB LPDDR5X** • 71Whr Battery • Certified Refurb | **16.0" 2K/3.2K Touch OLED (100% DCI-P3 500 nits)** | `IN STOCK` *(42% Off OLED AI PC)* |
 | **[Lenovo Yoga 7i 16" 2-in-1](https://www.bestbuy.com/site/searchpage.jsp?st=lenovo+yoga+7i+16+touchscreen)** <br>*(Best Buy)* | **$599.99** <br>~~$999.99~~ | **~৳76,799** | **~৳80,999** | Core Ultra 5 / Ultra 7 (Intel AI Boost NPU) • Intel Arc • 512GB SSD | **16GB LPDDR5X** • Dolby Atmos • Stylus Support | **16.0" WUXGA 16:10 360° Touch** | `IN STOCK` *(40% Off AI PC)* |
-| **[Dell Latitude 7340 QHD+](https://www.dellrefurbished.com/hot-deals?model_f[]=Latitude%207340)** <br>*(Dell Refurbished DFS)* | **$579.00** <br>~~$969.00~~ | **~৳74,112** | **~৳78,165** | Core i7-1365U (10C/12T, 13th Gen) • Iris Xe • 512GB SSD | **32GB RAM Pre-Installed** *(Eliminates all memory ceilings)* | 13.3" QHD+ (2560x1600) 500-nit IPS | `IN STOCK` *(30+ Available)* |
+| **[Dell Latitude 7340 QHD+](https://www.dellrefurbished.com/hot-deals?model_f[]=Latitude%207340)** <br>*(Dell Refurbished DFS)* | **$579.00** <br>~~$969.00~~ | **~৳74,112** | **~৳78,165** | Core i7-1365U (10C/12T, 13th Gen) • Iris Xe • 512GB SSD | **32GB RAM Pre-Installed** *(Eliminates all memory ceilings)* | 13.3" QHD+ (2560x1600) 500-nit IPS | `IN STOCK` *(25 Available)* |
 
 > [!WARNING]
 > **Adversarial Market Warning (TGP Power Limits & Thermal Throttling):** Competing sub-$650 4060 listings like the MSI Thin A15 severely throttle GPU power to **45W TGP**, performing worse than an unthrottled 4050 in actual gaming and compute. The **ASUS TUF Gaming A15 ($679.99)** delivers an uncompromised **full-wattage 140W TGP** RTX 4060 with MUX switch and dual DDR5 slots, while the **Acer Nitro V 15 ($649.99)** runs at 75W TGP with dual-fan cooling, and the **Dell Precision 3581 ($619.00)** provides a full 12-core H-series workstation architecture.

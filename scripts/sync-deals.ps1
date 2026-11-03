@@ -7,7 +7,7 @@ $repoDir = "D:\WebDev\BlackFridayDeals"
 Set-Location -Path $repoDir
 
 # Stage updated dashboard, ledger, and docs
-git add docs/ README.md scripts/
+git add docs/ README.md scripts/ .gitignore
 
 # Check for staged changes
 $diff = git diff --staged --name-only

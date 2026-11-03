@@ -5,3 +5,8 @@ Thumbs.db
 *.log
 .vscode/
 .idea/
+
+# Local quarantine
+_discarded/
+.discard/
+
