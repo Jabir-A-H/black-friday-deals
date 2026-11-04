@@ -2,8 +2,8 @@
 ### Complete Exhaustive Telemetry, Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-52%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Active Curated](https://img.shields.io/badge/Active%20Tracked-45%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-54%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Active Curated](https://img.shields.io/badge/Active%20Tracked-47%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-7%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
@@ -14,9 +14,9 @@
 ## 🧭 Navigation Index
 
 * **[🚀 Tier 4: Gravity Stretchers (#01 – #09)](#-tier-4-gravity-stretchers-550--699-usd)** — RTX 4060 GPUs, 32GB RAM flagships, OLED AI PCs
-* **[🥇 Tier 1: High Budget (#10 – #16)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
-* **[🥈 Tier 2: Mid Budget (#17 – #29)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses
-* **[🥉 Tier 3: Value Under $350 (#30 – #45)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV workstations
+* **[🥇 Tier 1: High Budget (#10 – #15)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
+* **[🥈 Tier 2: Mid Budget (#16 – #29)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses
+* **[🥉 Tier 3: Value Under $350 (#30 – #47)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV workstations
 * **[📦 Historical Archives & Disqualified Listings (#A1 – #A7)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
@@ -31,7 +31,7 @@
 | **Retailer / Channel** | **Best Buy / Walmart** |
 | **Pricing Breakdown** | **$699.99 USD** *(MSRP: $999.99 • Lowest Seen: $699.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳89,599 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳94,499 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | AMD Ryzen 7 7435HS (8 Cores / 16 Threads, up to 4.5 GHz) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | NVIDIA GeForce RTX 4060 (8GB GDDR6 dedicated VRAM, 115W TGP with MUX Switch)<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -44,6 +44,8 @@
 
 ---
 
+---
+
 ### #02: [ASUS TUF Gaming A15 15.6" 144Hz FHD Laptop - AMD Ryzen 5 7535HS / Ryzen 7 - 16GB DDR5 - NVIDIA GeForce RTX 4060 8GB (140W TGP) - 512GB SSD](https://www.bestbuy.com/site/searchpage.jsp?st=asus+tuf+gaming+a15+rtx+4060)
 
 | Detail Attribute | Specification & Audit Value |
@@ -52,7 +54,7 @@
 | **Retailer / Channel** | **Best Buy / Walmart** |
 | **Pricing Breakdown** | **$679.99 USD** *(MSRP: $1099.99 • Lowest Seen: $679.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳87,039 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳91,799 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | AMD Ryzen 5 7535HS (6 Cores / 12 Threads) / Ryzen 7 7435HS |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | NVIDIA GeForce RTX 4060 (8GB GDDR6 dedicated VRAM, full-wattage 140W TGP with Dynamic Boost)<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -65,6 +67,8 @@
 
 ---
 
+---
+
 ### #03: [Acer Nitro V 15.6" 144Hz Gaming Laptop - Intel Core i7-13620H - 16GB DDR5 - NVIDIA GeForce RTX 4060 8GB - 512GB SSD](https://www.walmart.com/search?q=acer+nitro+v+15+rtx+4060)
 
 | Detail Attribute | Specification & Audit Value |
@@ -73,7 +77,7 @@
 | **Retailer / Channel** | **Walmart / Amazon / Newegg** |
 | **Pricing Breakdown** | **$649.99 USD** *(MSRP: $999.99 • Lowest Seen: $599.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳83,199 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳87,749 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i7-13620H (10 Cores / 16 Threads, up to 4.9 GHz) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | NVIDIA GeForce RTX 4060 (8GB GDDR6 dedicated VRAM, 75W TGP)<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -86,6 +90,8 @@
 
 ---
 
+---
+
 ### #04: [Apple MacBook Air 13.6" Laptop - Apple M2 Chip - 8GB Memory - 256GB SSD Storage - Midnight](https://www.walmart.com/ip/Apple-MacBook-Air-13-6-inch-Laptop-Apple-M2-chip-8GB-Memory-256GB-SSD-Storage-Midnight/5041071060)
 
 | Detail Attribute | Specification & Audit Value |
@@ -94,7 +100,7 @@
 | **Retailer / Channel** | **Walmart** |
 | **Pricing Breakdown** | **$649.00 USD** *(MSRP: $999.00 • Lowest Seen: $649.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳83,072 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳87,615 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Apple M2 (8-Core CPU: 4 Performance + 4 Efficiency) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Apple M2 8-Core / 10-Core Integrated GPU (Metal Acceleration)<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -107,6 +113,8 @@
 
 ---
 
+---
+
 ### #05: [Dell Precision 3581 15.6" Mobile Workstation - Intel Core i5-13600H - 16GB DDR5 - NVIDIA RTX Dedicated GPU - 512GB SSD - Grade A](https://www.dellrefurbished.com/item/dell-precision-3581-000028/dell-precision-3581/1.html)
 
 | Detail Attribute | Specification & Audit Value |
@@ -115,7 +123,7 @@
 | **Retailer / Channel** | **Dell Refurbished (DFS)** |
 | **Pricing Breakdown** | **$619.00 USD** *(MSRP: $1039.00 • Lowest Seen: $619.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳79,232 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳83,565 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-13600H (12 Cores / 16 Threads, 3.60 GHz base, up to 4.8 GHz Turbo, 13th Gen) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | NVIDIA RTX Dedicated Workstation GPU<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -128,6 +136,8 @@
 
 ---
 
+---
+
 ### #06: [Dell Latitude 7340 13.3" FHD+ Touch Laptop - Intel Core i7-1365U - 16GB RAM - 256GB SSD - Grade A](https://www.dellrefurbished.com/hot-deals?model_f[]=Latitude%207340)
 
 | Detail Attribute | Specification & Audit Value |
@@ -136,7 +146,7 @@
 | **Retailer / Channel** | **Dell Refurbished (DFS)** |
 | **Pricing Breakdown** | **$599.00 USD** *(MSRP: $899.00 • Lowest Seen: $539.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳76,672 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳80,865 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i7-1365U (10 Cores / 12 Threads, up to 5.2 GHz, 13th Gen) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -149,6 +159,8 @@
 
 ---
 
+---
+
 ### #07: [Lenovo Yoga 7i 16" 2-in-1 Touch Laptop - Intel Core Ultra 5 / Ultra 7 - 16GB RAM - 512GB SSD - Lunar Grey](https://www.bestbuy.com/site/searchpage.jsp?st=lenovo+yoga+7i+16+touchscreen)
 
 | Detail Attribute | Specification & Audit Value |
@@ -157,7 +169,7 @@
 | **Retailer / Channel** | **Best Buy** |
 | **Pricing Breakdown** | **$599.99 USD** *(MSRP: $999.99 • Lowest Seen: $599.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳76,799 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳80,999 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core Ultra 5 125U / Ultra 7 155U (Intel AI Boost NPU) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Arc / Intel Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -170,6 +182,8 @@
 
 ---
 
+---
+
 ### #08: [Dell Latitude 7340 13.3" QHD+ Touch Laptop - Intel Core i7-1365U - 32GB RAM - 512GB SSD - Grade B](https://www.dellrefurbished.com/hot-deals?model_f[]=Latitude%207340)
 
 | Detail Attribute | Specification & Audit Value |
@@ -178,7 +192,7 @@
 | **Retailer / Channel** | **Dell Refurbished (DFS)** |
 | **Pricing Breakdown** | **$579.00 USD** *(MSRP: $969.00 • Lowest Seen: $579.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳74,112 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳78,165 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i7-1365U (10 Cores / 12 Threads, up to 5.2 GHz, 13th Gen) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -191,6 +205,8 @@
 
 ---
 
+---
+
 ### #09: [Acer Swift Go 16 AI 16.0" 2K Touch OLED Laptop - Intel Core Ultra 5 - 16GB LPDDR5X - 512GB SSD - Certified Refurbished](https://www.ebay.com/itm/257533096037)
 
 | Detail Attribute | Specification & Audit Value |
@@ -199,7 +215,7 @@
 | **Retailer / Channel** | **eBay (Acer Official Outlet)** |
 | **Pricing Breakdown** | **$577.88 USD** *(MSRP: $999.99 • Lowest Seen: $577.88)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳73,969 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳78,014 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core Ultra 5 125H / Series 2 (AI Boost NPU) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Arc Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -214,6 +230,10 @@
 
 ## 🥇 Tier 1: High Budget ($450 – $550 USD)
 
+---
+
+## 🥇 Tier 1: High Budget ($450 – $550 USD)
+
 ### #10: [Dell Latitude 7330 13.3" FHD Laptop - Intel Core i7-1265U - 32GB RAM - 512GB SSD - Thunderbolt 4](https://computers.woot.com/offers/dell-latitude-7330-i7-1265u-32-512-w11p-3)
 
 | Detail Attribute | Specification & Audit Value |
@@ -222,7 +242,7 @@
 | **Retailer / Channel** | **Woot (An Amazon Company)** |
 | **Pricing Breakdown** | **$539.99 USD** *(MSRP: $1499.00 • Lowest Seen: $539.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳69,119 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳72,899 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i7-1265U (10 Cores / 12 Threads, up to 4.8 GHz vPro, 12th Gen) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
@@ -235,28 +255,9 @@
 
 ---
 
-### #11: [Dell Latitude 7430 14.0" FHD 2-in-1 Touch Laptop - Intel Core i7-1265U - 16GB RAM - 256GB SSD](https://computers.woot.com/offers/dell-latitude-7430-2in1-i7-1265u-16gb-256gb-w11p-1)
-
-| Detail Attribute | Specification & Audit Value |
-| :--- | :--- |
-| **Tracking ID & SKU** | `dell-latitude-7430-2in1-woot` • **SKU:** `Latitude-7430-2in1` |
-| **Retailer / Channel** | **Woot (An Amazon Company)** |
-| **Pricing Breakdown** | **$499.99 USD** *(MSRP: $1399.00 • Lowest Seen: $499.99)* |
-| **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳63,999 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳67,499 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
-| **Processor (CPU)** | Intel Core i7-1265U (10 Cores / 12 Threads, up to 4.8 GHz vPro, 12th Gen) |
-| **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
-| **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
-| **Display & Form Factor** | 14.0" FHD (1920x1080) Touchscreen 360° • **Touch:** Yes (Touchscreen) |
-| **SD Card & Expandability** | None (Requires USB-C Dongle) |
-| **Stylus & Special Gadgets** | None (Standard finger touch / non-stylus) |
-
-> **🔍 Curatorial Audit & Engineering Verdict:**  
-> Woot Microsoft Authorized Refurbished event. Upgrades to 12th Gen 10-core Core i7-1265U with 16GB RAM and full 360 convertible touch form factor for $499.99 (~৳67,499 landed). Thunderbolt 4 and 90-day warranty. CRITICAL ALERT: Live verification confirms final allocation unit holding ('Hurry only 1 left! - final hours before event turnover').
-
 ---
 
-### #12: [ASUS Vivobook 16 16.0" WUXGA Laptop - Intel Core i7-1355U - 16GB RAM - 512GB SSD](https://www.walmart.com/search?q=asus+vivobook+16+i7+16gb)
+### #11: [ASUS Vivobook 16 16.0" WUXGA Laptop - Intel Core i7-1355U - 16GB RAM - 512GB SSD](https://www.walmart.com/search?q=asus+vivobook+16+i7+16gb)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -264,7 +265,7 @@
 | **Retailer / Channel** | **Walmart** |
 | **Pricing Breakdown** | **$499.00 USD** *(MSRP: $649.99 • Lowest Seen: $499.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳63,872 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳67,365 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i7-1355U (10 Cores / 12 Threads, up to 5.0 GHz) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -277,7 +278,9 @@
 
 ---
 
-### #13: [Lenovo IdeaPad Slim 3i 15.6" FHD Laptop - Intel Core i5-1335U - 16GB RAM - 256GB SSD](https://www.bestbuy.com/site/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/6668499.p?skuId=6668499)
+---
+
+### #12: [Lenovo IdeaPad Slim 3i 15.6" FHD Laptop - Intel Core i5-1335U - 16GB RAM - 256GB SSD](https://www.bestbuy.com/site/lenovo-ideapad-slim-3i-15-6-full-hd-laptop-intel-core-i5-1335u-2023-16gb-memory-256gb-storage-arctic-grey/6668499.p?skuId=6668499)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -285,7 +288,7 @@
 | **Retailer / Channel** | **Best Buy** |
 | **Pricing Breakdown** | **$499.99 USD** *(MSRP: $899.99 • Lowest Seen: $499.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳63,999 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳67,499 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1335U (10 Cores / 12 Threads, up to 4.6 GHz) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -298,7 +301,9 @@
 
 ---
 
-### #14: [HP Victus 15.6" FHD 144Hz Gaming Laptop - AMD Ryzen 5 8645HS - 8GB DDR5 - NVIDIA GeForce RTX 4050 6GB - 512GB SSD](https://www.walmart.com/ip/HP-Victus-15-6-inch-FHD-144Hz-Gaming-Laptop-AMD-Ryzen-5-8645HS-NVIDIA-GeForce-RTX-4050-8GB-DDR4-512GB-SSD-Mica-Silver-2024/5395277312)
+---
+
+### #13: [HP Victus 15.6" FHD 144Hz Gaming Laptop - AMD Ryzen 5 8645HS - 8GB DDR5 - NVIDIA GeForce RTX 4050 6GB - 512GB SSD](https://www.walmart.com/ip/HP-Victus-15-6-inch-FHD-144Hz-Gaming-Laptop-AMD-Ryzen-5-8645HS-NVIDIA-GeForce-RTX-4050-8GB-DDR4-512GB-SSD-Mica-Silver-2024/5395277312)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -306,7 +311,7 @@
 | **Retailer / Channel** | **Walmart** |
 | **Pricing Breakdown** | **$499.00 USD** *(MSRP: $699.99 • Lowest Seen: $499.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳63,872 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳67,365 BDT** |
-| **Stock & Verification** | `OUT_OF_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `OUT_OF_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | AMD Ryzen 5 8645HS (6 Cores / 12 Threads, Zen 4, up to 5.0 GHz) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | NVIDIA GeForce RTX 4050 6GB GDDR6 (Dedicated)<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -319,7 +324,9 @@
 
 ---
 
-### #15: [MSI GF63 Thin 15.6" 144Hz Gaming Laptop - Intel Core i5 - 16GB RAM - NVIDIA GeForce RTX 3050 - 512GB SSD](https://www.walmart.com/search?q=msi+gf63+thin+rtx+3050)
+---
+
+### #14: [MSI GF63 Thin 15.6" 144Hz Gaming Laptop - Intel Core i5 - 16GB RAM - NVIDIA GeForce RTX 3050 - 512GB SSD](https://www.walmart.com/search?q=msi+gf63+thin+rtx+3050)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -327,7 +334,7 @@
 | **Retailer / Channel** | **Walmart** |
 | **Pricing Breakdown** | **$479.00 USD** *(MSRP: $699.99 • Lowest Seen: $449.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳61,312 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳64,665 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5 (H-Series) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | NVIDIA GeForce RTX 3050 (Dedicated)<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -340,7 +347,9 @@
 
 ---
 
-### #16: [Acer Aspire 3 15.6" Laptop - AMD Ryzen 5 7520U - 16GB RAM - 1TB SSD - Certified Refurbished](https://www.ebay.com/str/acer/Laptops/_i.html?store_cat=2792634010)
+---
+
+### #15: [Acer Aspire 3 15.6" Laptop - AMD Ryzen 5 7520U - 16GB RAM - 1TB SSD - Certified Refurbished](https://www.ebay.com/str/acer/Laptops/_i.html?store_cat=2792634010)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -348,7 +357,7 @@
 | **Retailer / Channel** | **eBay (Acer Official Outlet)** |
 | **Pricing Breakdown** | **$473.10 USD** *(MSRP: $599.99 • Lowest Seen: $449.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳60,557 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳63,868 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | AMD Ryzen 5 7520U (4 Cores / 8 Threads) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | AMD Radeon 610M Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -363,7 +372,11 @@
 
 ## 🥈 Tier 2: Mid Budget ($350 – $450 USD)
 
-### #17: [Dell Inspiron 15 3520/3530 15.6" Touch-Screen Laptop - Intel Core i5 - 8GB/16GB - 512GB SSD](https://www.bestbuy.com/site/searchpage.jsp?st=dell+inspiron+15+touchscreen+i5)
+---
+
+## 🥈 Tier 2: Mid Budget ($350 – $450 USD)
+
+### #16: [Dell Inspiron 15 3520/3530 15.6" Touch-Screen Laptop - Intel Core i5 - 8GB/16GB - 512GB SSD](https://www.bestbuy.com/site/searchpage.jsp?st=dell+inspiron+15+touchscreen+i5)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -371,7 +384,7 @@
 | **Retailer / Channel** | **Best Buy / Dell / Walmart** |
 | **Pricing Breakdown** | **$449.99 USD** *(MSRP: $599.99 • Lowest Seen: $379.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳57,599 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳60,749 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1235U / i5-1334U (10 Cores / 12 Threads) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -384,7 +397,9 @@
 
 ---
 
-### #18: [Dell Latitude 7430 14.0" FHD Touch Laptop - Intel Core i7-1265U - 32GB RAM - 256GB SSD](https://computers.woot.com/offers/dell-latitude-7430-14-fhd-touch-i7-1265u-32gb)
+---
+
+### #17: [Dell Latitude 7430 14.0" FHD Touch Laptop - Intel Core i7-1265U - 32GB RAM - 256GB SSD](https://computers.woot.com/offers/dell-latitude-7430-14-fhd-touch-i7-1265u-32gb)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -392,7 +407,7 @@
 | **Retailer / Channel** | **Woot (An Amazon Company)** |
 | **Pricing Breakdown** | **$449.99 USD** *(MSRP: $1599.00 • Lowest Seen: $449.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳57,599 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳60,749 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i7-1265U (10 Cores / 12 Threads, up to 4.8 GHz vPro, 12th Gen) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
@@ -405,6 +420,29 @@
 
 ---
 
+---
+
+### #18: [Dell Latitude 7430 14.0" FHD 2-in-1 Touch Laptop - Intel Core i7-1265U - 16GB RAM - 256GB SSD](https://computers.woot.com/offers/dell-latitude-7430-2in1-i7-1265u-16gb-256gb-w11p-1)
+
+| Detail Attribute | Specification & Audit Value |
+| :--- | :--- |
+| **Tracking ID & SKU** | `dell-latitude-7430-2in1-woot` • **SKU:** `Latitude-7430-2in1` |
+| **Retailer / Channel** | **Woot (An Amazon Company)** |
+| **Pricing Breakdown** | **$449.99 USD** *(MSRP: $1399.00 • Lowest Seen: $449.99)* |
+| **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳57,599 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳60,749 BDT** |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
+| **Processor (CPU)** | Intel Core i7-1265U (10 Cores / 12 Threads, up to 4.8 GHz vPro, 12th Gen) |
+| **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
+| **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
+| **Display & Form Factor** | 14.0" FHD (1920x1080) Touchscreen 360° • **Touch:** Yes (Touchscreen) |
+| **SD Card & Expandability** | MicroSD Card Slot (Standard built-in reader) |
+| **Stylus & Special Gadgets** | None (Standard finger touch / non-stylus) |
+
+> **🔍 Curatorial Audit & Engineering Verdict:**  
+> PRICE DROP $50: Slashes down from $499.99 to $449.99 (~৳60,749 landed / ~৳57,599 bank card rate) on Woot Microsoft Authorized Refurbished event. Packs 12th Gen 10-core Core i7-1265U with 16GB RAM, full 360 convertible touch form factor, dual Thunderbolt 4, Corning Gorilla Glass 6 DX, and 90-day warranty. Transitions into Tier 2 sweet spot.
+
+---
+
 ### #19: [Lenovo ThinkPad X13 Yoga Gen 3 13.3" 16:10 WUXGA Touch 2-in-1 - Intel Core i5-1245U vPro - 16GB RAM - 256GB SSD - Garaged Pen Pro](https://computers.woot.com/offers/lenovo-thinkpad-x13-yoga-gen-3-13-3-wuxga-touch-1)
 
 | Detail Attribute | Specification & Audit Value |
@@ -413,7 +451,7 @@
 | **Retailer / Channel** | **Woot (An Amazon Company)** |
 | **Pricing Breakdown** | **$439.99 USD** *(MSRP: $1499.00 • Lowest Seen: $439.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳56,319 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳59,399 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1245U (10 Cores / 12 Threads, up to 4.4 GHz vPro, 12th Gen) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
@@ -426,6 +464,8 @@
 
 ---
 
+---
+
 ### #20: [Dell Latitude 5320 13.3" 2-in-1 Touch Laptop - Intel Core i7-1185G7 - 32GB RAM - 512GB SSD](https://computers.woot.com/plus/microsoft-authorized-refurbished-laptops-67)
 
 | Detail Attribute | Specification & Audit Value |
@@ -434,7 +474,7 @@
 | **Retailer / Channel** | **Woot (An Amazon Company)** |
 | **Pricing Breakdown** | **$439.99 USD** *(MSRP: $1299.99 • Lowest Seen: $439.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳56,319 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳59,399 BDT** |
-| **Stock & Verification** | `OUT_OF_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `OUT_OF_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i7-1185G7 (4 Cores / 8 Threads, up to 4.8 GHz vPro) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics 96EU<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -447,6 +487,8 @@
 
 ---
 
+---
+
 ### #21: [Lenovo IdeaPad Slim 3i 15.3" 2K Touch Laptop - Intel Core 5 120U - 16GB RAM - 256GB SSD](https://www.bestbuy.com/site/searchpage.jsp?st=lenovo+ideapad+slim+3i+touchscreen)
 
 | Detail Attribute | Specification & Audit Value |
@@ -455,7 +497,7 @@
 | **Retailer / Channel** | **Best Buy** |
 | **Pricing Breakdown** | **$429.99 USD** *(MSRP: $729.99 • Lowest Seen: $429.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳55,039 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳58,049 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core 5 120U (10 Cores / 12 Threads, up to 5.0 GHz) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -468,6 +510,8 @@
 
 ---
 
+---
+
 ### #22: [Dell Latitude 5530 15.6" FHD Laptop - Intel Core i5-1235U - 8GB/16GB RAM - 256GB SSD - Grade B](https://www.dellrefurbished.com/item/dell-latitude-5530-000094/dell-latitude-5530/1.html)
 
 | Detail Attribute | Specification & Audit Value |
@@ -476,7 +520,7 @@
 | **Retailer / Channel** | **Dell Refurbished (DFS)** |
 | **Pricing Breakdown** | **$409.00 USD** *(MSRP: $719.00 • Lowest Seen: $429.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳52,352 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳55,215 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1235U (10 Cores / 12 Threads, 3.30 GHz, 12th Gen) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -489,6 +533,8 @@
 
 ---
 
+---
+
 ### #23: [Lenovo ThinkPad X1 Yoga Gen 6 14.0" 16:10 WUXGA Touch 2-in-1 - Intel Core i5-1135G7 / i7-1185G7 vPro - 16GB RAM - 512GB SSD - Garaged Pen Pro](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
 
 | Detail Attribute | Specification & Audit Value |
@@ -497,7 +543,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
 | **Pricing Breakdown** | **$379.00 USD** *(MSRP: $1799.00 • Lowest Seen: $369.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳48,512 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳51,165 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1135G7 / i7-1185G7 vPro (4 Cores / 8 Threads, up to 4.8 GHz) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
@@ -510,6 +556,8 @@
 
 ---
 
+---
+
 ### #24: [HP EliteBook 840 G8 14.0" Business Laptop - Intel Core i7-1185G7 - 16GB RAM - 256GB/512GB SSD](https://blairtech.com/laptops/)
 
 | Detail Attribute | Specification & Audit Value |
@@ -518,7 +566,7 @@
 | **Retailer / Channel** | **Target Restored / BlairTech** |
 | **Pricing Breakdown** | **$369.99 USD** *(MSRP: $1399.00 • Lowest Seen: $349.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳47,359 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳49,949 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i7-1185G7 (4 Cores / 8 Threads, up to 4.8 GHz) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -531,6 +579,8 @@
 
 ---
 
+---
+
 ### #25: [HP Envy x360 15.6" 2-in-1 Touch Laptop - AMD Ryzen 5 7530U / Ryzen 7 5700U - 16GB RAM - 512GB SSD - Nightfall Black](https://www.walmart.com/search?q=hp+envy+x360+16gb+ram+restored)
 
 | Detail Attribute | Specification & Audit Value |
@@ -539,7 +589,7 @@
 | **Retailer / Channel** | **Walmart Restored / eBay Certified Refurbished** |
 | **Pricing Breakdown** | **$369.00 USD** *(MSRP: $899.99 • Lowest Seen: $369.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳47,232 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳49,815 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | AMD Ryzen 5 7530U / Ryzen 7 5700U (up to 8 Cores / 16 Threads) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | AMD Radeon Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -552,6 +602,8 @@
 
 ---
 
+---
+
 ### #26: [Dell Inspiron 14 7430 14.0" FHD+ 2-in-1 Touch Laptop - Intel Core i5-1335U / Ryzen 5 7530U - 16GB RAM - 512GB SSD](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
 
 | Detail Attribute | Specification & Audit Value |
@@ -560,7 +612,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Dell Outlet / Amazon Renewed** |
 | **Pricing Breakdown** | **$369.00 USD** *(MSRP: $849.99 • Lowest Seen: $349.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳47,232 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳49,815 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1335U (10 Cores / 12 Threads, up to 4.6 GHz, 13th Gen) / AMD Ryzen 5 7530U |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics / AMD Radeon Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -573,6 +625,8 @@
 
 ---
 
+---
+
 ### #27: [Lenovo ThinkPad T14 Gen 3 14.0" 16:10 WUXGA Laptop - Intel Core i5-1245U vPro / AMD Ryzen 5 PRO 6650U - 16GB RAM - 256GB/512GB SSD - Dual TB4 / USB4](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
 
 | Detail Attribute | Specification & Audit Value |
@@ -581,7 +635,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
 | **Pricing Breakdown** | **$369.00 USD** *(MSRP: $1349.00 • Lowest Seen: $359.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳47,232 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳49,815 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1245U vPro (10 Cores / 12 Threads, up to 4.4 GHz) / AMD Ryzen 5 PRO 6650U (6 Cores / 12 Threads Zen 3+) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics / AMD Radeon 660M (RDNA 2)<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
@@ -594,6 +648,8 @@
 
 ---
 
+---
+
 ### #28: [Dell Latitude 7420 14.0" Business Ultrabook - Intel Core i7-1185G7 - 16GB RAM - 512GB SSD](https://www.dellrefurbished.com/laptops)
 
 | Detail Attribute | Specification & Audit Value |
@@ -602,7 +658,7 @@
 | **Retailer / Channel** | **Dell Refurbished (DFS)** |
 | **Pricing Breakdown** | **$365.00 USD** *(MSRP: $1499.00 • Lowest Seen: $325.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳46,720 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳49,275 BDT** |
-| **Stock & Verification** | `OUT_OF_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `OUT_OF_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i7-1185G7 (4 Cores / 8 Threads) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -615,6 +671,8 @@
 
 ---
 
+---
+
 ### #29: [Lenovo ThinkPad L13 Yoga Gen 3 13.3" 16:10 WUXGA Touch 2-in-1 - Intel Core i5-1245U vPro / AMD Ryzen 7 PRO 5875U - 16GB RAM - 256GB/512GB SSD - Garaged Pen Pro](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
 
 | Detail Attribute | Specification & Audit Value |
@@ -623,7 +681,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
 | **Pricing Breakdown** | **$359.00 USD** *(MSRP: $1299.00 • Lowest Seen: $349.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳45,952 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳48,465 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1245U vPro (10 Cores / 12 Threads, up to 4.4 GHz) / AMD Ryzen 7 PRO 5875U (8 Cores / 16 Threads) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics / AMD Radeon Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
@@ -638,7 +696,53 @@
 
 ## 🥉 Tier 3: Value & Convertibles Under $350 USD ($179 – $349 USD)
 
-### #30: [Dell Latitude 7330 13.3" FHD Laptop - Intel Core i5-1245U - 16GB RAM - 256GB SSD - Dual Thunderbolt 4](https://computers.woot.com/offers/dell-latitude-7330-13-3-fhd-i5-1245u-16gb-256gb)
+---
+
+## 🥉 Tier 3: Value & Convertibles Under $350 USD ($179 – $349 USD)
+
+### #30: [Dell Latitude 5330 13.3" FHD Touch 2-in-1 - Intel Core i5-1235U/i5-1245U vPro - 16GB RAM - 256GB/512GB SSD - Dual Thunderbolt 4](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
+
+| Detail Attribute | Specification & Audit Value |
+| :--- | :--- |
+| **Tracking ID & SKU** | `dell-latitude-5330-2in1` • **SKU:** `Latitude-5330-2in1-16G` |
+| **Retailer / Channel** | **eBay Certified Refurbished / Woot MAR** |
+| **Pricing Breakdown** | **$349.00 USD** *(MSRP: $1399.00 • Lowest Seen: $349.00)* |
+| **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳44,672 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳47,115 BDT** |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
+| **Processor (CPU)** | Intel Core i5-1235U / i5-1245U vPro (10 Cores / 12 Threads, up to 4.4 GHz, 12th Gen) |
+| **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
+| **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
+| **Display & Form Factor** | 13.3" FHD (1920x1080) IPS 360° Touchscreen (Corning Gorilla Glass 6 DX, 300 nits, Active Pen Support) • **Touch:** Yes (Touchscreen) |
+| **SD Card & Expandability** | MicroSD Card Slot (Standard built-in reader) |
+| **Stylus & Special Gadgets** | Active Pen Supported (Dell Active Pen PN5122W / Wacom AES compatible) |
+
+> **🔍 Curatorial Audit & Engineering Verdict:**  
+> Generational 12th Gen 10-Core Convertible Sweet Spot: Slashes 75% off original $1,399 enterprise MSRP down to $349.00 (~৳47,115 landed / ~৳44,672 bank card rate). Direct generational upgrade over the 11th Gen Latitude 5320 2-in-1, delivering a 10-core 12th Gen Intel Core i5 processor, 16GB RAM (satisfying the non-negotiable 16GB convertible protocol), 256GB/512GB NVMe SSD, dual Thunderbolt 4 / USB-C ports (40Gbps, full eGPU support), MicroSD card slot, Corning Gorilla Glass 6 DX touch display, and active stylus support in a durable carbon fiber/magnesium reinforced chassis. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty.
+
+---
+
+### #31: [Dell Latitude 5430 14.0" Business Laptop - Intel Core i5-1235U/i5-1245U vPro - 16GB RAM - 256GB/512GB SSD - Dual SODIMM Upgradeable - Dual Thunderbolt 4](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
+
+| Detail Attribute | Specification & Audit Value |
+| :--- | :--- |
+| **Tracking ID & SKU** | `dell-latitude-5430-i5` • **SKU:** `Latitude-5430-i5-16GB` |
+| **Retailer / Channel** | **eBay Certified Refurbished / Woot MAR** |
+| **Pricing Breakdown** | **$349.00 USD** *(MSRP: $1299.00 • Lowest Seen: $349.00)* |
+| **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳44,672 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳47,115 BDT** |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
+| **Processor (CPU)** | Intel Core i5-1235U / i5-1245U vPro (10 Cores / 12 Threads, up to 4.4 GHz, 12th Gen) |
+| **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: 2× un-soldered DDR4 SODIMM slots (up to 64GB) |
+| **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
+| **Display & Form Factor** | 14.0" FHD (1920x1080) Anti-glare IPS (300 nits) • **Touch:** No (Non-Touch Matte) |
+| **SD Card & Expandability** | MicroSD Card Slot (Standard built-in reader) |
+| **Stylus & Special Gadgets** | None (Standard finger touch / non-stylus) |
+
+> **🔍 Curatorial Audit & Engineering Verdict:**  
+> Sub-৳48k Dual-SODIMM 10-Core Enterprise Clamshell: Slashes 73% off original $1,299 MSRP down to $349.00 (~৳47,115 landed / ~৳44,672 bank card rate). Generational 10-core upgrade over the Latitude 5420 featuring 2x un-soldered DDR4 SODIMM slots (expandable up to 64GB RAM), dual Thunderbolt 4 / USB-C ports (40Gbps full eGPU support), MicroSD card reader, RJ-45 Gigabit Ethernet, HDMI 2.0, easily swappable modular components with captive screws, and MIL-STD-810H durability. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty.
+
+---
+
+### #32: [Dell Latitude 7330 13.3" FHD Laptop - Intel Core i5-1245U - 16GB RAM - 256GB SSD - Dual Thunderbolt 4](https://computers.woot.com/offers/dell-latitude-7330-13-3-fhd-i5-1245u-16gb-256gb)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -646,7 +750,7 @@
 | **Retailer / Channel** | **Woot (An Amazon Company)** |
 | **Pricing Breakdown** | **$349.99 USD** *(MSRP: $1299.00 • Lowest Seen: $349.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳44,799 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳47,249 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1245U (10 Cores / 12 Threads, up to 4.4 GHz vPro, 12th Gen) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
@@ -659,7 +763,9 @@
 
 ---
 
-### #31: [Lenovo IdeaPad Flex 5 14" FHD 2-in-1 Touch Laptop - AMD Ryzen 7 5700U/7730U - 16GB RAM - 512GB SSD](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
+---
+
+### #33: [Lenovo IdeaPad Flex 5 14" FHD 2-in-1 Touch Laptop - AMD Ryzen 7 5700U/7730U - 16GB RAM - 512GB SSD](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -667,7 +773,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
 | **Pricing Breakdown** | **$349.00 USD** *(MSRP: $699.99 • Lowest Seen: $349.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳44,672 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳47,115 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | AMD Ryzen 7 5700U / 7730U (8 Cores / 16 Threads, up to 4.5 GHz) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | AMD Radeon Vega 8 Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -680,7 +786,9 @@
 
 ---
 
-### #32: [Lenovo Yoga 6 13.3" FHD/WUXGA Touch 2-in-1 - AMD Ryzen 5 5500U/7530U / Ryzen 7 - 16GB RAM - 512GB SSD - Fabric / Aluminum 360°](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
+---
+
+### #34: [Lenovo Yoga 6 13.3" FHD/WUXGA Touch 2-in-1 - AMD Ryzen 5 5500U/7530U / Ryzen 7 - 16GB RAM - 512GB SSD - Fabric / Aluminum 360°](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -688,7 +796,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Best Buy Outlet** |
 | **Pricing Breakdown** | **$339.00 USD** *(MSRP: $799.99 • Lowest Seen: $329.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳43,392 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳45,765 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | AMD Ryzen 5 5500U / 7530U (6 Cores / 12 Threads) or Ryzen 7 5700U (8 Cores / 16 Threads) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | AMD Radeon Vega Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -701,7 +809,9 @@
 
 ---
 
-### #33: [Lenovo ThinkPad L13 Yoga Gen 2 13.3" FHD Touch 2-in-1 - Intel Core i5-1135G7 / Ryzen 5 - 16GB RAM - 256GB SSD - Garaged Stylus](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
+---
+
+### #35: [Lenovo ThinkPad L13 Yoga Gen 2 13.3" FHD Touch 2-in-1 - Intel Core i5-1135G7 / Ryzen 5 - 16GB RAM - 256GB SSD - Garaged Stylus](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -709,7 +819,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished** |
 | **Pricing Breakdown** | **$335.00 USD** *(MSRP: $1199.00 • Lowest Seen: $320.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳42,880 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳45,225 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1135G7 (4 Cores / 8 Threads) or AMD Ryzen 5 Pro 5650U |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe / AMD Radeon Vega<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -722,7 +832,9 @@
 
 ---
 
-### #34: [Lenovo ThinkPad X13 Yoga Gen 2 13.3" 16:10 WUXGA Touch 2-in-1 - Intel Core i5-1135G7 / i5-1145G7 vPro - 16GB RAM - 256GB SSD - Garaged Pen Pro](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
+---
+
+### #36: [Lenovo ThinkPad X13 Yoga Gen 2 13.3" 16:10 WUXGA Touch 2-in-1 - Intel Core i5-1135G7 / i5-1145G7 vPro - 16GB RAM - 256GB SSD - Garaged Pen Pro](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -730,7 +842,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished** |
 | **Pricing Breakdown** | **$329.00 USD** *(MSRP: $1399.00 • Lowest Seen: $319.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳42,112 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳44,415 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1135G7 / i5-1145G7 vPro (4 Cores / 8 Threads, up to 4.4 GHz) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
@@ -743,7 +855,9 @@
 
 ---
 
-### #35: [Dell Latitude 5420 14.0" Business Laptop - Intel Core i5-1145G7 - 16GB RAM - 256GB/512GB SSD](https://computers.woot.com/plus/microsoft-authorized-refurbished-laptops-67)
+---
+
+### #37: [Dell Latitude 5420 14.0" Business Laptop - Intel Core i5-1145G7 - 16GB RAM - 256GB/512GB SSD](https://computers.woot.com/plus/microsoft-authorized-refurbished-laptops-67)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -751,7 +865,7 @@
 | **Retailer / Channel** | **Woot (An Amazon Company)** |
 | **Pricing Breakdown** | **$319.99 USD** *(MSRP: $1199.00 • Lowest Seen: $299.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳40,959 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳43,199 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1145G7 (4 Cores / 8 Threads) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
@@ -764,7 +878,9 @@
 
 ---
 
-### #36: [Dell Latitude 5320 13.3" FHD 2-in-1 Touch Laptop - Intel Core i5-1145G7 - 16GB RAM - 256GB/512GB SSD](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
+---
+
+### #38: [Dell Latitude 5320 13.3" FHD 2-in-1 Touch Laptop - Intel Core i5-1145G7 - 16GB RAM - 256GB/512GB SSD](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -772,7 +888,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Dell Financial Services** |
 | **Pricing Breakdown** | **$319.00 USD** *(MSRP: $1299.00 • Lowest Seen: $299.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳40,832 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳43,065 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1145G7 (4 Cores / 8 Threads, up to 4.4 GHz vPro) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
@@ -785,7 +901,9 @@
 
 ---
 
-### #37: [Dell Latitude 7420 14.0" FHD 2-in-1 Touch Laptop - Intel Core i5-1145G7 vPro - 16GB RAM - 256GB SSD](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
+---
+
+### #39: [Dell Latitude 7420 14.0" FHD 2-in-1 Touch Laptop - Intel Core i5-1145G7 vPro - 16GB RAM - 256GB SSD](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -793,7 +911,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished** |
 | **Pricing Breakdown** | **$319.00 USD** *(MSRP: $1399.00 • Lowest Seen: $299.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳40,832 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳43,065 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1145G7 (4 Cores / 8 Threads, up to 4.4 GHz vPro) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
@@ -806,7 +924,9 @@
 
 ---
 
-### #38: [Lenovo ThinkBook 14s Yoga 14.0" FHD Touch 2-in-1 - Intel Core i5-1135G7 / i7-1165G7 - 16GB RAM - 512GB SSD - Garaged Smart Pen - Dual M.2 Slots](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
+---
+
+### #40: [Lenovo ThinkBook 14s Yoga 14.0" FHD Touch 2-in-1 - Intel Core i5-1135G7 / i7-1165G7 - 16GB RAM - 512GB SSD - Garaged Smart Pen - Dual M.2 Slots](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -814,7 +934,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
 | **Pricing Breakdown** | **$319.00 USD** *(MSRP: $1149.00 • Lowest Seen: $299.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳40,832 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳43,065 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1135G7 (4 Cores / 8 Threads, up to 4.2 GHz) / Core i7-1165G7 |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
@@ -827,7 +947,9 @@
 
 ---
 
-### #39: [HP EliteBook x360 1040 G8 14.0" FHD Touch 2-in-1 - Intel Core i5-1145G7 vPro / i7-1185G7 - 16GB RAM - 256GB/512GB SSD - Executive Flagship](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
+---
+
+### #41: [HP EliteBook x360 1040 G8 14.0" FHD Touch 2-in-1 - Intel Core i5-1145G7 vPro / i7-1185G7 - 16GB RAM - 256GB/512GB SSD - Executive Flagship](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -835,7 +957,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
 | **Pricing Breakdown** | **$319.00 USD** *(MSRP: $1999.00 • Lowest Seen: $299.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳40,832 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳43,065 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1145G7 vPro / i7-1185G7 (4 Cores / 8 Threads, up to 4.8 GHz vPro, 11th Gen) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
@@ -848,7 +970,9 @@
 
 ---
 
-### #40: [HP ProBook x360 435 G8 13.3" FHD Touch 2-in-1 - AMD Ryzen 5 PRO 5600U / Ryzen 7 PRO 5850U - 16GB RAM - 256GB/512GB SSD - Dual SODIMM Upgradeable](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
+---
+
+### #42: [HP ProBook x360 435 G8 13.3" FHD Touch 2-in-1 - AMD Ryzen 5 PRO 5600U / Ryzen 7 PRO 5850U - 16GB RAM - 256GB/512GB SSD - Dual SODIMM Upgradeable](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -856,7 +980,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
 | **Pricing Breakdown** | **$309.00 USD** *(MSRP: $1249.00 • Lowest Seen: $299.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳39,552 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳41,715 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | AMD Ryzen 5 PRO 5600U (6 Cores / 12 Threads) / Ryzen 7 PRO 5850U (8 Cores / 16 Threads, Zen 3) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | AMD Radeon Vega Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -869,7 +993,9 @@
 
 ---
 
-### #41: [HP EliteBook x360 830 G8 13.3" FHD Touch 2-in-1 - Intel Core i5-1145G7 vPro - 16GB RAM - 256GB SSD - All-Aluminum](https://www.target.com/s?searchTerm=hp+elitebook+x360+830+g8+refurbished)
+---
+
+### #43: [HP EliteBook x360 830 G8 13.3" FHD Touch 2-in-1 - Intel Core i5-1145G7 vPro - 16GB RAM - 256GB SSD - All-Aluminum](https://www.target.com/s?searchTerm=hp+elitebook+x360+830+g8+refurbished)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -877,7 +1003,7 @@
 | **Retailer / Channel** | **Target Restored / Walmart Restored / eBay Certified Refurbished** |
 | **Pricing Breakdown** | **$299.00 USD** *(MSRP: $1449.00 • Lowest Seen: $289.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳38,272 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳40,365 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1145G7 vPro (4 Cores / 8 Threads, up to 4.4 GHz, 11th Gen) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
@@ -890,7 +1016,9 @@
 
 ---
 
-### #42: [Lenovo ThinkPad T14 Gen 2 14.0" Laptop - AMD Ryzen 5 PRO 5650U / Intel Core i5 11th Gen - 16GB RAM - 256GB SSD](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
+---
+
+### #44: [Lenovo ThinkPad T14 Gen 2 14.0" Laptop - AMD Ryzen 5 PRO 5650U / Intel Core i5 11th Gen - 16GB RAM - 256GB SSD](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -898,7 +1026,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
 | **Pricing Breakdown** | **$294.27 USD** *(MSRP: $1199.00 • Lowest Seen: $279.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳37,667 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳39,726 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | AMD Ryzen 5 PRO 5650U (6 Cores / 12 Threads) or Core i5-1135G7 |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | AMD Radeon Vega Graphics / Intel Iris Xe<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -911,7 +1039,9 @@
 
 ---
 
-### #43: [HP EliteBook 840 G7 14.0" Business Laptop - Intel Core i5 10th Gen - 16GB RAM - 256GB SSD](https://www.target.com/s?searchTerm=refurbished+laptop)
+---
+
+### #45: [HP EliteBook 840 G7 14.0" Business Laptop - Intel Core i5 10th Gen - 16GB RAM - 256GB SSD](https://www.target.com/s?searchTerm=refurbished+laptop)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -919,7 +1049,7 @@
 | **Retailer / Channel** | **Target Restored / Walmart Restored** |
 | **Pricing Breakdown** | **$259.99 USD** *(MSRP: $1099.00 • Lowest Seen: $249.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳33,279 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳35,099 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-10210U / i5-10310U (4 Cores / 8 Threads) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel UHD Graphics<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -932,7 +1062,9 @@
 
 ---
 
-### #44: [Dell Latitude 7320 13.3" FHD Touch 2-in-1 - Intel Core i5-1145G7 vPro / i7-1185G7 - 16GB RAM - 256GB/512GB SSD - All-Aluminum / Carbon Fiber](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
+---
+
+### #46: [Dell Latitude 7320 13.3" FHD Touch 2-in-1 - Intel Core i5-1145G7 vPro / i7-1185G7 - 16GB RAM - 256GB/512GB SSD - All-Aluminum / Carbon Fiber](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -940,7 +1072,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed / Discount Computer Depot** |
 | **Pricing Breakdown** | **$259.00 USD** *(MSRP: $1399.00 • Lowest Seen: $249.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳33,152 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳34,965 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-1145G7 vPro / i7-1185G7 (4 Cores / 8 Threads, up to 4.8 GHz) |
 | **Memory (RAM) Architecture** | SOLDERED: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | Intel Iris Xe Graphics<br>• **External GPU (eGPU):** Supported (Thunderbolt 4 / USB4 40Gbps eGPU ready with 4 PCIe lanes) |
@@ -953,7 +1085,9 @@
 
 ---
 
-### #45: [Dell Precision 3550 15.6" Mobile Workstation - Intel Core i5 10th Gen - 8GB/16GB - Dedicated NVIDIA Quadro - 256GB SSD](https://blairtech.com/scratch-dent-dell-precision-3550-15-6-workstation-laptop-intel-quad-core-i5-10th-gen-i5-10310u-250gb-nvme-8gb-ram-windows-11-home-backlit-keyboard-webcam-s-n-8f24673/)
+---
+
+### #47: [Dell Precision 3550 15.6" Mobile Workstation - Intel Core i5 10th Gen - 8GB/16GB - Dedicated NVIDIA Quadro - 256GB SSD](https://blairtech.com/scratch-dent-dell-precision-3550-15-6-workstation-laptop-intel-quad-core-i5-10th-gen-i5-10310u-250gb-nvme-8gb-ram-windows-11-home-backlit-keyboard-webcam-s-n-8f24673/)
 
 | Detail Attribute | Specification & Audit Value |
 | :--- | :--- |
@@ -961,7 +1095,7 @@
 | **Retailer / Channel** | **Blair Technology Group** |
 | **Pricing Breakdown** | **$179.99 USD** *(MSRP: $1299.00 • Lowest Seen: $179.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳23,039 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳24,299 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T03:15:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T05:04:00+06:00` |
 | **Processor (CPU)** | Intel Core i5-10310U (4 Cores / 8 Threads) |
 | **Memory (RAM) Architecture** | UPGRADEABLE SODIMM: Detailed in notes below |
 | **Graphics (GPU) & eGPU** | NVIDIA Quadro P520 / T500 (Dedicated Workstation GPU)<br>• **External GPU (eGPU):** Not Supported (Standard USB-C data only, no external GPU support) |
@@ -971,6 +1105,8 @@
 
 > **🔍 Curatorial Audit & Engineering Verdict:**  
 > Extreme budget value verified live in stock at $179.99. Precision workstation with Intel Quad Core i5 10th Gen, 250GB NVMe SSD, 8GB RAM (expandable via 2x un-soldered SODIMM slots up to 64GB DDR4), and 30-Day BlairTech Warranty for ~৳24,299 BDT landed.
+
+---
 
 ---
 
