@@ -7,18 +7,18 @@
 [![Cadence](https://img.shields.io/badge/Cadence-Every%202%20Hours-blue?style=for-the-badge&logo=clockify)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B355k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.34.0-informational?style=for-the-badge)](docs/laptop-tracker/DEALS_LEDGER.json)
-[![Full Archive](https://img.shields.io/badge/Checked%20Listings-56%20Audited%20Deals-success?style=for-the-badge)](docs/laptop-tracker/ALL_CHECKED_DEALS.md)
+[![Version](https://img.shields.io/badge/Ledger-v2.35.0-informational?style=for-the-badge)](docs/laptop-tracker/DEALS_LEDGER.json)
+[![Full Archive](https://img.shields.io/badge/Checked%20Listings-59%20Audited%20Deals-success?style=for-the-badge)](docs/laptop-tracker/ALL_CHECKED_DEALS.md)
 
-**An autonomous, multi-tier intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories across 49 serialized models.**
+**An autonomous, multi-tier intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories across 50 serialized models.**
 
-[🎯 Core Sweet Spot (Sub-৳55k)](#-tier-3-value--convertibles-under-350-usd-179--349-usd) • [🔄 Touch & 360° Convertibles](#-tier-3-value--convertibles-under-350-usd-179--349-usd) • [📚 Master Directory (56 Audited)](#-exhaustive-master-directory-of-all-checked-deals) • [🏛️ Series Architecture Guide](#-brand--model-series-architectural-comparison-guide) • [🚀 Tier 4](#-tier-4-gravity-stretchers-550--699-usd) • [🥇 Tier 1](#-tier-1-high-budget-450--550-usd) • [🥈 Tier 2](#-tier-2-mid-budget-350--450-usd) • [💡 Landed Cost Model](#-the-landed-cost-architecture-usd--bdt)
+[🎯 Core Sweet Spot (Sub-৳55k)](#-tier-3-value--convertibles-under-350-usd-179--349-usd) • [🔄 Touch & 360° Convertibles](#-tier-3-value--convertibles-under-350-usd-179--349-usd) • [📚 Master Directory (59 Audited)](#-exhaustive-master-directory-of-all-checked-deals) • [🏛️ Series Architecture Guide](#-brand--model-series-architectural-comparison-guide) • [🚀 Tier 4](#-tier-4-gravity-stretchers-550--699-usd) • [🥇 Tier 1](#-tier-1-high-budget-450--550-usd) • [🥈 Tier 2](#-tier-2-mid-budget-350--450-usd) • [💡 Landed Cost Model](#-the-landed-cost-architecture-usd--bdt)
 
 </div>
 
 ---
 
-> **🕒 Last Verified:** `2026-11-05 03:15:00 (+06:00 Asia/Dhaka)` • All 49 active models and 7 archived listings verified live  
+> **🕒 Last Verified:** `2026-11-05 09:35:00 (+06:00 Asia/Dhaka)` • All 50 active models and 9 archived listings verified live
 > **🎯 Strategic Focus Active:** 1) Deep research on sub-৳50k–৳55k BDT models • 2) Dedicated tracking of Touchscreen & 360° convertibles with 16GB RAM • 3) Radar on high-gravity outlier discounts (Tier 4).  
 > **🎉 Target Early Black Friday LIVE TODAY:** Target's official 3-day Early Black Friday holiday electronic sale is **NOW LIVE (Thursday, Nov 5 through Saturday, Nov 7)**!  
 > **🏷️ <24-Hour Alert (Best Buy Early Black Friday):** Official weekly doorbuster drops begin **tomorrow, Friday, Nov 6**, backed by Best Buy's Holiday Price Match Guarantee and extended holiday return window through January 15, 2027.  
@@ -32,9 +32,9 @@
 
 > [!TIP]
 > ### 🔍 Want to explore every single laptop deal we have ever audited?
-> We maintain a dedicated, un-truncated ledger detailing **all 56 checked, evaluated, active, and archived listings**. Each listing includes full SKU identifiers, direct store URLs, complete hardware bus configs, eGPU capability details, SD card formats, garaged stylus mechanics, and our curatorial engineering verdicts.
+> We maintain a dedicated, un-truncated ledger detailing **all 59 checked, evaluated, active, and archived listings**. Each listing includes full SKU identifiers, direct store URLs, complete hardware bus configs, eGPU capability details, SD card formats, garaged stylus mechanics, and our curatorial engineering verdicts.
 >
-> 👉 **[Explore the Complete Directory of All 56 Checked Deals (`ALL_CHECKED_DEALS.md`) →](docs/laptop-tracker/ALL_CHECKED_DEALS.md)**
+> 👉 **[Explore the Complete Directory of All 59 Checked Deals (`ALL_CHECKED_DEALS.md`) →](docs/laptop-tracker/ALL_CHECKED_DEALS.md)**
 
 ---
 
@@ -213,31 +213,34 @@ Black Friday discounts execute in rolling waves throughout November:
      * Upgrades to 10-core 12th Gen Intel Core i5-1245U vPro processing with modern **16:10 WUXGA (1920x1200) touch panel**, 16GB RAM, integrated **garaged rechargeable ThinkPad Pen Pro**, dual Thunderbolt 4 eGPU ready, and MIL-STD-810H durability under ৳60,000 landed.
    * **[#30 ThinkPad L13 Yoga Gen 3](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000) — $359.00 USD (~৳48,465 landed / ~৳45,952 bank)**
      * The sub-৳49k 12th Gen 16:10 convertible champion: Slashes 72% off $1,299 MSRP, delivering 10-core i5 vPro or 8-core Ryzen 7 PRO compute, 16GB RAM, and **garaged rechargeable pen** under ৳49,000 landed!
-3. **The Sub-৳46k AMD Zen 3 Dual-SODIMM Corporate Workhorse:**
+3. **The Sub-৳37k Zen 3 Dual-SODIMM Value Champion:**
+   * **[#50 HP ProBook 445 G8](https://www.ebay.com/itm/257755940497) — $272.99 USD (~৳36,854 landed / ~৳34,943 bank)**
+     * Slashes 72% off $999 MSRP to deliver a true **6-core / 12-thread AMD Zen 3** processor with **2× un-soldered DDR4 SODIMM slots (up to 64GB)**, SuperSpeed USB-C 10Gbps with Power Delivery & DisplayPort, and aluminum deck under ৳37,000 landed, outperforming the baseline EliteBook 840 G8 for ~৳13k less.
+4. **The Sub-৳46k AMD Zen 3 Dual-SODIMM Corporate Workhorse:**
    * **[#36 HP EliteBook 845 G8](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000) — $339.00 USD (~৳45,765 landed / ~৳43,392 bank)**
      * Smashes the baseline 840 G8 benchmark by delivering a **6-core / 12-thread AMD Ryzen 5 PRO 5650U Zen 3** processor, **2× un-soldered DDR4 SODIMM slots (up to 64GB)**, military-grade CNC all-aluminum unibody chassis, and 400-nit low power display under ৳46,000 landed.
-4. **The Sub-৳48k 12th Gen Breakthroughs:**
+5. **The Sub-৳48k 12th Gen Breakthroughs:**
    * **[#31 Dell Latitude 5330 2-in-1 Touch](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000) — $349.00 USD (~৳47,115 landed / ~৳44,672 bank)**
      * The first 12th Gen 10-core 360° convertible under ৳48k: 10-core Core i5-1235U, 16GB dual-channel LPDDR4x, 13.3" FHD touch with Corning Gorilla Glass 6 DX, dual Thunderbolt 4 ports (full eGPU support), and MicroSD reader.
    * **[#32 Dell Latitude 5430 Business Laptop](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000) — $349.00 USD (~৳47,115 landed / ~৳44,672 bank)**
      * Generational 10-core upgrade over the Latitude 5420: Features **2× un-soldered DDR4 SODIMM slots (up to 64GB RAM)**, dual Thunderbolt 4 / USB-C 40Gbps ports (full eGPU ready), MicroSD card reader, RJ-45 Gigabit Ethernet, and modular captive-screw design under ৳48,000 landed.
-5. **The Sub-৳50k 16:10 Clamshell Breakthroughs:**
+6. **The Sub-৳50k 16:10 Clamshell Breakthroughs:**
    * **[#28 Lenovo ThinkPad T14 Gen 3](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000) — $369.00 USD (~৳49,815 landed / ~৳47,232 bank)**
      * Slashes under the ৳50k landed barrier with modern **16:10 WUXGA (1920x1200)** display, 12th Gen / Ryzen 6000 architecture, dual Thunderbolt 4 / USB4 eGPU ready, un-soldered SODIMM slot (up to 48GB), and MicroSD reader.
    * **[#33 Dell Latitude 7330](https://computers.woot.com/offers/dell-latitude-7330-13-3-fhd-i5-1245u-16gb-256gb) — $349.99 USD (~৳47,249 landed / ~৳44,799 bank)**
      * Smashes the sub-$350 price floor for 10-core 12th Gen Core i5 processing, 16GB RAM, 400-nit low power FHD screen, dual Thunderbolt 4 ports, and MicroSD reader under ৳48,000 landed.
-6. **The Executive Flagship Convertibles (Sub-৳52k Landed):**
+7. **The Executive Flagship Convertibles (Sub-৳52k Landed):**
    * **[#24 ThinkPad X1 Yoga Gen 6](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000) — $379.00 USD (~৳51,165 landed / ~৳48,512 bank)**
      * CNC Storm Grey aluminum unibody, taller **16:10 400-nit low power display**, quad Dolby Atmos speakers, garaged stylus.
    * **[#43 HP EliteBook x360 1040 G8](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000) — $319.00 USD (~৳43,065 landed)**
      * Slashes 84% from original $1,999 MSRP. Ultra-slim 16.6mm magnesium unibody, **400-nit low-power 100% sRGB panel**, Bang & Olufsen quad audio.
-7. **The Dual-SODIMM 2-in-1 Unicorn:**
+8. **The Dual-SODIMM 2-in-1 Unicorn:**
    * **[#44 HP ProBook x360 435 G8](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000) — $309.00 USD (~৳41,715 landed)**
    * *Why it wins:* **Two completely un-soldered DDR4 SODIMM slots (up to 64GB)** in a 360° convertible with Zen 3 6-core Ryzen 5 PRO.
-8. **The Budget Clamshell Upgrader Kings:**
+9. **The Budget Clamshell Upgrader Kings:**
    * **[#39 Dell Latitude 5420](https://computers.woot.com/plus/microsoft-authorized-refurbished-laptops-67) ($319.99)** & **[#46 ThinkPad T14 Gen 2](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000) ($294.27)**
    * Built for 10-year longevity with easily accessible screws, dual heat pipes, MicroSD, and modular components.
-9. **The Apex Tier 4 Powerhouses & Next-Gen Convertibles:**
+10. **The Apex Tier 4 Powerhouses & Next-Gen Convertibles:**
    * **[#10 HP OmniBook X Flip 14"](https://www.bestbuy.com/site/searchpage.jsp?st=hp+omnibook+x+flip+14+touch) ($649.99):** Next-Gen **Intel Core Ultra 5 226V (Lunar Lake)** Copilot+ PC with 40+ TOPS AI NPU, 16GB LPDDR5X-8533, 2K 360° Touchscreen, dual TB4 ports, and 20+ hr battery.
    * **[#02 ASUS TUF A15](https://www.bestbuy.com/site/searchpage.jsp?st=asus+tuf+gaming+a15+rtx+4060) ($679.99):** Unthrottled **140W full-wattage RTX 4060** with MUX switch and dual DDR5 slots.
    * **[#09 Acer Swift Go 16 AI OLED](https://www.ebay.com/itm/257533096037) ($577.88):** 16.0" 2K/3.2K Touch OLED (100% DCI-P3), Core Ultra 5 AI NPU, dual M.2 slots, 2-Year Allstate Warranty.
@@ -264,5 +267,5 @@ Online US retailer prices **exclude taxes and processing fees**. To ensure reali
 ---
 
 <div align="center">
-<sub>The Black Friday Deals Intelligence Suite monitors 49 serialized models and 56 audited listings across all retail and certified refurbished channels.</sub>
+<sub>The Black Friday Deals Intelligence Suite monitors 50 serialized models and 59 audited listings across all retail and certified refurbished channels.</sub>
 </div>

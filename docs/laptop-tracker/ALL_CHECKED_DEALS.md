@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-56%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Active Curated](https://img.shields.io/badge/Active%20Tracked-49%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-7%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-59%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Active Curated](https://img.shields.io/badge/Active%20Tracked-50%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-9%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**
@@ -16,8 +16,8 @@
 * **[🚀 Tier 4: Gravity Stretchers (#01 – #10)](#-tier-4-gravity-stretchers-550--699-usd)** — RTX 4060 GPUs, Precision RTX A500 workstation, Lunar Lake AI 2-in-1, 32GB RAM flagships, OLED AI PCs
 * **[🥇 Tier 1: High Budget (#11 – #16)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget (#17 – #30)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
-* **[🥉 Tier 3: Value Under $350 (#31 – #49)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations, 6-core Zen 3 EliteBook
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A7)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[🥉 Tier 3: Value Under $350 (#31 – #50)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations, 6-core Zen 3 EliteBook
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A9)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -1058,6 +1058,27 @@
 
 ---
 
+### #50: [HP ProBook 445 G8 14.0" Business Laptop - AMD Ryzen 5 5600U - 16GB DDR4 - 256GB SSD - Dual SODIMM Upgradeable](https://www.ebay.com/itm/257755940497)
+
+| Detail Attribute | Specification & Audit Value |
+| :--- | :--- |
+| **Tracking ID & SKU** | `hp-probook-445-g8-r5` • **SKU:** `ProBook-445-G8-R5` |
+| **Retailer / Channel** | **eBay (Newegg Outlet) / HP Certified Refurbished** |
+| **Pricing Breakdown** | **$272.99 USD** *(MSRP: $999.00 • Lowest Seen: $267.99)* |
+| **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳34,943 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳36,854 BDT** |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T09:35:00+06:00` |
+| **Processor (CPU)** | AMD Ryzen 5 5600U (6 Cores / 12 Threads, 2.3 GHz base, up to 4.2 GHz Boost, Zen 3) |
+| **Memory (RAM) Architecture** | UPGRADEABLE_SODIMM: Upgradeable via un-soldered SODIMM slots (up to 40GB–64GB) |
+| **Graphics (GPU) & eGPU** | **AMD Radeon Vega 7 Graphics**<br>• **External GPU (eGPU):** Not Supported (Standard USB-C 3.2 data only, no external GPU support) |
+| **Display & Form Factor** | 14.0" FHD (1920x1080) Anti-glare IPS (250 nits) • **Touch:** No (Non-Touch Matte) |
+| **SD Card & Expandability** | None (Requires USB-C Dongle) |
+| **Stylus & Special Gadgets** | None (Standard finger touch / non-stylus clamshell) |
+
+> **🔍 Curatorial Audit & Engineering Verdict:**  
+> Sub-৳37k AMD Zen 3 Dual-SODIMM Corporate Workhorse: Slashes 72% off $999 MSRP down to $272.99 (~৳36,854 landed / ~৳34,943 bank card rate) on eBay / Newegg Outlet. Delivers a 6-core / 12-thread AMD Ryzen 5 5600U Zen 3 processor with 16GB DDR4 RAM (2x un-soldered SODIMM slots upgradeable to 64GB), 256GB PCIe NVMe SSD, aluminum keyboard deck, SuperSpeed USB-C 10Gbps with Power Delivery & DisplayPort 1.4, full-size HDMI, and Windows 11 Pro. Smashes the 4-core i5-1135G7 baseline under ৳37,000 landed.
+
+---
+
 ## 📦 Historical Archives & Disqualified Listings
 
 The following models were investigated, benchmarked, or tracked during prior sweeps and subsequently archived due to stock depletion, successor upgrades, or failing rigorous performance/throttling standards:
@@ -1101,6 +1122,18 @@ The following models were investigated, benchmarked, or tracked during prior swe
 * **Retailer / Platform:** Walmart / Target / Best Buy • **Price:** **$199.00 – $249.00 USD**
 * **Audit Status:** `DISQUALIFIED / PERMANENTLY BANNED`
 * **Audit Verdict:** **REJECTED UNDER STRICT SPEC PROTOCOL.** Permanently disqualified due to 1) 4GB–8GB non-upgradeable soldered RAM, 2) inferior 220–250 nit 45% NTSC TN panels, 3) brittle plastic hinge anchors that fail under normal use, and 4) slow eMMC or baseline dual-core CPUs failing the HP EliteBook 840 G8 baseline benchmark.
+
+### #A8: Lenovo ThinkPad L15 Gen 3 (15.6" FHD IPS, AMD Ryzen 5 PRO 5675U 6C/12T, 16GB DDR4, 512GB SSD)
+* **Retailer / Platform:** Woot (Computers.Woot) • **SKU:** `WT726642C`
+* **Historical Cart Price:** **$389.99 USD** (~৳49,919 bank / ~৳52,649 landed)
+* **Audit Status:** `ARCHIVED (SOLD OUT)`
+* **Audit Verdict:** Full-size 15.6" ThinkPad corporate workhorse with numeric keypad and dual un-soldered DDR4 SODIMM slots. Scraped and audited on Woot Nov 5; verified completely sold out. Actively tracked alternative remains the **ThinkPad T14 Gen 2 ($294.27 / ~৳39,726 landed)** and **HP ProBook 445 G8 ($272.99 / ~৳36,854 landed)**.
+
+### #A9: HP Envy x360 16 Touch 2-in-1 (16.0" FHD+ Touch, Intel Core Ultra 7 155U, 16GB RAM, 512GB SSD)
+* **Retailer / Platform:** eBay (Antonline / HP Certified Refurbished) • **SKU:** `9S1R6UAR#ABA`
+* **Historical Cart Price:** **$676.97 USD** (~৳86,652 bank / ~৳91,391 landed)
+* **Audit Status:** `ARCHIVED (SOLD OUT)`
+* **Audit Verdict:** 16-inch Core Ultra 7 Meteor Lake convertible with 1920x1200 touch panel and HP Certified Refurbished warranty. Scraped on eBay Nov 5; listing confirmed out of stock. Active alternative is the **Lenovo Yoga 7i 16" 2-in-1 ($599.99 / ~৳80,999 landed)** and **HP OmniBook X Flip 14" Lunar Lake ($649.99 / ~৳87,749 landed)**.
 
 ---
 
