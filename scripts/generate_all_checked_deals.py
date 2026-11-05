@@ -5,14 +5,38 @@ def build_all_checked_deals():
         ledger = json.load(f)
 
     items = ledger['tracked_items']
+    archived_count = 7
+    total_audited = len(items) + archived_count
 
-    md = """# 📚 Master Directory of All Checked Laptop Deals & Hardware Audits
+    tiers = [
+        ("Tier 4: Gravity Stretcher", "🚀 Tier 4: Gravity Stretchers ($550 – $699+ USD)"),
+        ("Tier 1: High Budget ($450-$550)", "🥇 Tier 1: High Budget ($450 – $550 USD)"),
+        ("Tier 2: Mid Budget ($350-$450)", "🥈 Tier 2: Mid Budget ($350 – $450 USD)"),
+        ("Tier 3: Value / Under $350", "🥉 Tier 3: Value & Convertibles Under $350 USD ($179 – $349 USD)")
+    ]
+
+    # Calculate dynamic serial ranges for navigation
+    tier_ranges = {}
+    running_count = 1
+    for t_key, t_name in tiers:
+        t_items = [it for it in items if it['tier'] == t_key]
+        start_idx = running_count
+        end_idx = running_count + len(t_items) - 1
+        tier_ranges[t_key] = (start_idx, end_idx)
+        running_count = end_idx + 1
+
+    t4_start, t4_end = tier_ranges["Tier 4: Gravity Stretcher"]
+    t1_start, t1_end = tier_ranges["Tier 1: High Budget ($450-$550)"]
+    t2_start, t2_end = tier_ranges["Tier 2: Mid Budget ($350-$450)"]
+    t3_start, t3_end = tier_ranges["Tier 3: Value / Under $350"]
+
+    md = f"""# 📚 Master Directory of All Checked Laptop Deals & Hardware Audits
 ### Complete Exhaustive Telemetry, Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-54%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Active Curated](https://img.shields.io/badge/Active%20Tracked-47%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-7%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-{total_audited}%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Active Curated](https://img.shields.io/badge/Active%20Tracked-{len(items)}%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-{archived_count}%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**
@@ -21,22 +45,15 @@ def build_all_checked_deals():
 
 ## 🧭 Navigation Index
 
-* **[🚀 Tier 4: Gravity Stretchers (#01 – #09)](#-tier-4-gravity-stretchers-550--699-usd)** — RTX 4060 GPUs, Precision RTX A500 workstation, 32GB RAM flagships, OLED AI PCs
-* **[🥇 Tier 1: High Budget (#10 – #16)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
-* **[🥈 Tier 2: Mid Budget (#17 – #28)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
-* **[🥉 Tier 3: Value Under $350 (#29 – #47)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
+* **[🚀 Tier 4: Gravity Stretchers (#{t4_start:02d} – #{t4_end:02d})](#-tier-4-gravity-stretchers-550--699-usd)** — RTX 4060 GPUs, Precision RTX A500 workstation, Lunar Lake AI 2-in-1, 32GB RAM flagships, OLED AI PCs
+* **[🥇 Tier 1: High Budget (#{t1_start:02d} – #{t1_end:02d})](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
+* **[🥈 Tier 2: Mid Budget (#{t2_start:02d} – #{t2_end:02d})](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
+* **[🥉 Tier 3: Value Under $350 (#{t3_start:02d} – #{t3_end:02d})](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations, 6-core Zen 3 EliteBook
 * **[📦 Historical Archives & Disqualified Listings (#A1 – #A7)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
 """
-
-    tiers = [
-        ("Tier 4: Gravity Stretcher", "🚀 Tier 4: Gravity Stretchers ($550 – $699+ USD)"),
-        ("Tier 1: High Budget ($450-$550)", "🥇 Tier 1: High Budget ($450 – $550 USD)"),
-        ("Tier 2: Mid Budget ($350-$450)", "🥈 Tier 2: Mid Budget ($350 – $450 USD)"),
-        ("Tier 3: Value / Under $350", "🥉 Tier 3: Value & Convertibles Under $350 USD ($179 – $349 USD)")
-    ]
 
     serial_counter = 1
 
@@ -89,15 +106,19 @@ def build_all_checked_deals():
                 egpu_text = "Not Supported (Standard USB-C 3.2 data only, no external GPU support)"
 
             # SD Card detection
-            if "full-size sd" in notes_lower or "sd card reader" in notes_lower and "micro" not in notes_lower:
+            if "full-size sd" in notes_lower or ("sd card reader" in notes_lower and "micro" not in notes_lower):
                 sd_text = "Full-size SD Media Card Reader"
-            elif "microsd" in notes_lower or any(k in id_lower for k in ['latitude', 'thinkpad', 'precision', 'elitebook', 'thinkbook']):
+            elif "no sd slot" in notes_lower or "none" in notes_lower and "sd" in notes_lower:
+                sd_text = "None (Requires USB-C Dongle)"
+            elif "microsd" in notes_lower or any(k in id_lower for k in ['latitude', 'thinkpad', 'precision', 'elitebook-x360', 'thinkbook', 'omnibook']):
                 sd_text = "MicroSD Card Slot (Integrated)"
+            elif "elitebook-845" in id_lower or "elitebook-840" in id_lower:
+                sd_text = "None (Requires USB-C Dongle)"
             else:
                 sd_text = "None (Requires USB-C Dongle)"
 
             # Stylus detection
-            if "garaged" in notes_lower or "pen pro" in notes_lower or "stylus" in notes_lower and "garaged" in notes_lower:
+            if "garaged" in notes_lower or "pen pro" in notes_lower or ("stylus" in notes_lower and "garaged" in notes_lower):
                 stylus_text = "Built-in Garaged Rechargeable Active Stylus (4,096 levels of pressure, 15s quick-charge inside chassis)"
             elif "stylus" in notes_lower or "pen" in notes_lower or it.get('touchscreen'):
                 stylus_text = "Active Stylus Supported (Wacom AES / MPP 2.0 protocol, sold separately)"
@@ -184,7 +205,7 @@ The following models were investigated, benchmarked, or tracked during prior swe
     with open('D:/WebDev/BlackFridayDeals/docs/laptop-tracker/ALL_CHECKED_DEALS.md', 'w', encoding='utf-8') as f:
         f.write(md)
 
-    print(f"ALL_CHECKED_DEALS.md successfully generated with {len(items)} active + 7 archived listings!")
+    print(f"ALL_CHECKED_DEALS.md successfully generated with {len(items)} active + {archived_count} archived listings = {total_audited} total!")
 
 if __name__ == '__main__':
     build_all_checked_deals()
