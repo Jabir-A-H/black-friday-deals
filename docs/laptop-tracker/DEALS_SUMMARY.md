@@ -7,21 +7,21 @@
 [![Cadence](https://img.shields.io/badge/Cadence-Every%202%20Hours-blue?style=for-the-badge&logo=clockify)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B355k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.35.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
-[![Full Archive](https://img.shields.io/badge/Checked%20Listings-61%20Audited%20Deals-success?style=for-the-badge)](ALL_CHECKED_DEALS.md)
+[![Version](https://img.shields.io/badge/Ledger-v2.36.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
+[![Full Archive](https://img.shields.io/badge/Checked%20Listings-62%20Audited%20Deals-success?style=for-the-badge)](ALL_CHECKED_DEALS.md)
 
 **An autonomous, multi-tier intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories across 52 serialized models.**
 
-[🎯 Core Sweet Spot (Sub-৳55k)](#-tier-3-value--convertibles-under-350-usd-179--349-usd) • [🔄 Touch & 360° Convertibles](#-tier-3-value--convertibles-under-350-usd-179--349-usd) • [📚 Master Directory (61 Audited)](#-exhaustive-master-directory-of-all-checked-deals) • [🏛️ Series Architecture Guide](#-brand--model-series-architectural-comparison-guide) • [🚀 Tier 4](#-tier-4-gravity-stretchers-550--699-usd) • [🥇 Tier 1](#-tier-1-high-budget-450--550-usd) • [🥈 Tier 2](#-tier-2-mid-budget-350--450-usd) • [💡 Landed Cost Model](#-the-landed-cost-architecture-usd--bdt)
+[🎯 Core Sweet Spot (Sub-৳55k)](#-tier-3-value--convertibles-under-350-usd-179--349-usd) • [🔄 Touch & 360° Convertibles](#-tier-3-value--convertibles-under-350-usd-179--349-usd) • [📚 Master Directory (62 Audited)](#-exhaustive-master-directory-of-all-checked-deals) • [🏛️ Series Architecture Guide](#-brand--model-series-architectural-comparison-guide) • [🚀 Tier 4](#-tier-4-gravity-stretchers-550--699-usd) • [🥇 Tier 1](#-tier-1-high-budget-450--550-usd) • [🥈 Tier 2](#-tier-2-mid-budget-350--450-usd) • [💡 Landed Cost Model](#-the-landed-cost-architecture-usd--bdt)
 
 </div>
 
 ---
 
-> **🕒 Last Verified:** `2026-11-05 09:35:00 (+06:00 Asia/Dhaka)` • All 52 active models and 9 archived listings verified live  
+> **🕒 Last Verified:** `2026-11-05 11:35:00 (+06:00 Asia/Dhaka)` • All 52 active models and 10 archived listings verified live  
 > **🎯 Strategic Focus Active:** 1) Deep research on sub-৳50k–৳55k BDT models • 2) Dedicated tracking of Touchscreen & 360° convertibles with 16GB RAM • 3) Radar on high-gravity outlier discounts (Tier 4).  
 > **🎉 Target Early Black Friday LIVE TODAY:** Target's official 3-day Early Black Friday holiday electronic sale is **NOW LIVE (Thursday, Nov 5 through Saturday, Nov 7)**!  
-> **🏷️ <24-Hour Alert (Best Buy Early Black Friday):** Official weekly doorbuster drops begin **tomorrow, Friday, Nov 6**, backed by Best Buy's Holiday Price Match Guarantee and extended holiday return window through January 15, 2027.  
+> **🏷️ <20-Hour Alert (Best Buy Early Black Friday):** Official weekly doorbuster drops begin **tomorrow, Friday, Nov 6**, backed by Best Buy's Holiday Price Match Guarantee and extended holiday return window through January 15, 2027.  
 > **🏢 DFS Transition Alert:** Dell Refurbished instant 40%–50% Hot Deals active on Precision 3581 12-core RTX A500 workstation ($619) and Latitude 7340 32GB QHD+ ($579).  
 > **🛒 Walmart Event 1 Confirmed:** Scheduled for **Nov 12–15** (online Nov 12 at 12:01 AM ET for Walmart+) — high alert for $499 HP Victus RTX 4050 restocks.  
 > **📊 Structured Data:** [`DEALS_LEDGER.json`](DEALS_LEDGER.json) • **Evaluation Rules:** [`TRACKER_SPEC.md`](TRACKER_SPEC.md) • **Master Directory:** [`ALL_CHECKED_DEALS.md`](ALL_CHECKED_DEALS.md)
@@ -32,9 +32,9 @@
 
 > [!TIP]
 > ### 🔍 Want to explore every single laptop deal we have ever audited?
-> We maintain a dedicated, un-truncated master directory detailing **all 61 checked, evaluated, active, and archived listings**. Each listing includes full SKU identifiers, direct store URLs, complete hardware bus configs, eGPU capability details, SD card formats, garaged stylus mechanics, and our curatorial engineering verdicts.
+> We maintain a dedicated, un-truncated master directory detailing **all 62 checked, evaluated, active, and archived listings**. Each listing includes full SKU identifiers, direct store URLs, complete hardware bus configs, eGPU capability details, SD card formats, garaged stylus mechanics, and our curatorial engineering verdicts.
 >
-> 👉 **[Explore the Complete Directory of All 61 Checked Deals (`ALL_CHECKED_DEALS.md`) →](ALL_CHECKED_DEALS.md)**
+> 👉 **[Explore the Complete Directory of All 62 Checked Deals (`ALL_CHECKED_DEALS.md`) →](ALL_CHECKED_DEALS.md)**
 
 ---
 
@@ -276,5 +276,5 @@ Online US retailer prices **exclude taxes and processing fees**. To ensure reali
 ---
 
 <div align="center">
-<sub>The Black Friday Deals Intelligence Suite monitors 52 serialized models and 61 audited listings across all retail and certified refurbished channels.</sub>
+<sub>The Black Friday Deals Intelligence Suite monitors 52 serialized models and 62 audited listings across all retail and certified refurbished channels.</sub>
 </div>
