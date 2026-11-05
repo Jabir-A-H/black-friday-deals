@@ -294,6 +294,19 @@ OEM_PROFILES = {
         "inputs_arch": "Legendary ThinkPad 6-row spill-resistant keyboard with drain holes, 1.8mm deep key travel, white LED backlighting • Classic TrackPoint red pointing stick + 3 physical click buttons • Glass-like Mylar touchpad",
         "security_arch": "720p HD + IR hybrid webcam with ThinkShutter physical slider and Windows Hello facial recognition • Match-on-Chip Touch Fingerprint Reader on palmrest • Discrete TPM 2.0 (TCG certified) • User-facing Dolby Audio stereo speakers"
     },
+    "thinkpad-t14s-gen3-ebay": {
+        "cpu_arch": "AMD Ryzen 5 PRO 6650U (Zen 3+ on TSMC 6nm, 6 Cores / 12 Threads, 2.90 GHz base, up to 4.50 GHz Boost, 16MB L3 Cache, 15W–28W cTDP) OR Intel 12th Gen Alder Lake-U Core i5-1245U vPro (10 Cores / 12 Threads up to 4.40 GHz)",
+        "gpu_arch": "AMD Radeon 660M RDNA 2 Graphics (6 Compute Units / 384 Shaders, 1.9 GHz clock, DirectX 12 Ultimate, Ray Tracing capable) OR Intel Iris Xe Graphics (96EU) • Full 40Gbps Dual USB4 / Thunderbolt 4 eGPU support",
+        "ram_arch": "16GB LPDDR5-6400 MHz ultra-fast dual-channel memory • 100% Soldered (Ultra-low power draw, maximum memory bandwidth for RDNA 2 graphics architecture)",
+        "storage_arch": "256GB / 512GB PCIe Gen 4 x4 NVMe M.2 2280 SSD • 1× M.2 2280 PCIe Gen 4 x4 slot (swappable up to 2TB/4TB NVMe SSD)",
+        "display_arch": "14.0\" 16:10 WUXGA (1920x1200) IPS Anti-glare display, 300 nits brightness (400 nits Low Power 100% sRGB option), 1000:1 contrast ratio, TÜV Low Blue Light certified, 85° viewing angles",
+        "io_arch": "2× USB4 40Gbps / Thunderbolt 4 (Power Delivery 3.0, DisplayPort 1.4 alt mode, dual 40Gbps eGPU ready); 2× USB 3.2 Gen 1 Type-A (1 Always On); 1× HDMI 2.0b (up to 4K @ 60Hz); 1× 3.5mm combo audio jack; 1× Kensington nano security slot",
+        "sd_arch": "None (Sacrificed for ultra-thin 16.6mm carbon/magnesium chassis profile; requires USB dongle)",
+        "power_arch": "Massive 57Wh Lithium-Polymer battery with Rapid Charge (charges to 80% in 60 minutes) • 65W USB Type-C AC Adapter • Exceptional battery endurance (13–15 hours productivity playback)",
+        "chassis_arch": "Carbon-fiber reinforced hybrid polymer top lid with magnesium alloy chassis base in Deep Black • Weight: 1.22 kg (2.69 lbs) • Ultra-slim 16.6 mm profile • Passed 12 MIL-STD-810H military durability test standards (26 procedures) • Quiet copper heatpipe cooling with bottom intake and side exhaust",
+        "inputs_arch": "Legendary ThinkPad 6-row spill-resistant keyboard with 1.5mm key travel, unified TrackPoint pointing device with physical mouse buttons, LED backlighting • Smooth glass-like Mylar surface Precision Clickpad • Non-touch clamshell",
+        "security_arch": "FHD 1080p RGB + IR hybrid webcam with physical ThinkShutter privacy slider and Windows Hello facial recognition • Match-on-Chip Fingerprint Reader integrated into power key • Discrete TPM 2.0 (TCG certified) • Dual far-field Dolby Voice microphones • Stereo speakers (2W×2) with Dolby Audio"
+    },
     "hp-probook-445-g8-r5": {
         "cpu_arch": "AMD Ryzen 5 5600U (6 Cores / 12 Threads, 2.3 GHz base, up to 4.2 GHz Max Boost, Zen 3 architecture, 16MB L3 Cache, 15W Base TDP / 25W cTDP, 7nm TSMC process)",
         "gpu_arch": "AMD Radeon Vega 7 Graphics (7 Compute Units, 1800 MHz, DirectX 12, hardware VP9/H.265/AV1 decode, supports 3 external displays up to 4K via USB-C DP & HDMI)",
@@ -440,7 +453,7 @@ def build_all_checked_deals():
 
     items = ledger['tracked_items']
     active_count = len(items)
-    total_count = active_count + 9
+    total_count = active_count + 12
 
     md = f"""# 📚 Master Directory of All Checked Laptop Deals & Hardware Audits
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
@@ -448,7 +461,7 @@ def build_all_checked_deals():
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Total Audited](https://img.shields.io/badge/Total%20Audited-{total_count}%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-{active_count}%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-9%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-12%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -462,7 +475,7 @@ def build_all_checked_deals():
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A9)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A12)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -582,6 +595,32 @@ The following models were investigated, benchmarked, or tracked during prior swe
 * **Audit Status:** `ARCHIVED (SOLD OUT)`
 * **Audit Verdict:** Premium 16-inch 2K 360-degree convertible with Intel Core Ultra 7 Meteor Lake silicon and active stylus support. Official eBay refurbished inventory was exhausted during pre-holiday clearance. Actively tracked alternatives on the dashboard: the **Lenovo Yoga 7i 16" 2-in-1 ($599.99 / ~৳80,999 landed)** delivers identical 16-inch Core Ultra convertible capabilities with Dolby Vision for over $76 less, and the **HP OmniBook X Flip 14" ($649.99 / ~৳87,749 landed)** brings revolutionary Intel Lunar Lake Copilot+ architecture.
 
+### #A10: Lenovo Legion 5 / Slim 5 16" Gaming Laptop (16.0" WQXGA 165Hz, AMD Ryzen 7 7735HS / 8845HS, 16GB DDR5, NVIDIA GeForce RTX 4060 8GB, 512GB/1TB SSD)
+* **Retailer / Platform:** Best Buy / Walmart / B&H • **SKU:** `Legion-Slim-5-16`
+* **Historical Cart Price:** **$849.00 – $899.99 USD** (~৳108,672 – ~৳115,199 bank / ~৳114,615 – ~৳121,499 landed)
+* **Audit Status:** `DISQUALIFIED / BUDGET EXCEEDED (TIER 4 CEILING)`
+* **Audit Verdict:** **REJECTED DUE TO EXCEEDING TIER 4 HARD CAP ($699 MAX).** While the Lenovo Legion 5 / Slim 5 is a premium chassis with great cooling and a 16:10 165Hz display, its Black Friday promotional price of $849–$899 pushes total realistic landed cost to ৳114,600–৳121,500 BDT—exceeding our maximum budget ceiling by over $150–$200 USD. For buyers targeting an uncompromised 8GB VRAM NVIDIA GeForce RTX 4060, our actively tracked **Lenovo LOQ 15 ($699.99 / ~৳94,499 landed)** and **ASUS TUF Gaming A15 ($679.99 / ~৳91,799 landed, unthrottled 140W full TGP)** provide 95%–100% of the raw GPU compute and gaming performance while keeping landed costs strictly within our Tier 4 radar envelope!
+
+### #A11: Dell XPS 13 (9315 / 9320 Plus) 13.4" Ultrabook (Intel Core i5-1230U / i7-1260P / i7-1360P, 16GB LPDDR5, 512GB SSD, InfinityEdge Display)
+* **Retailer / Platform:** Dell Outlet / Best Buy Geek Squad / eBay Certified Refurbished • **SKUs:** `XPS-9315-Refurb` / `XPS-9320-Plus`
+* **Historical Cart Price:** **$549.00 – $649.00 USD** (~৳70,272 – ~৳83,072 bank / ~৳74,115 – ~৳87,615 landed)
+* **Audit Status:** `EVALUATED & REJECTED / THERMAL & ERGONOMIC PITFALL`
+* **Audit Verdict:** **REJECTED IN FAVOR OF CORPORATE 7000-SERIES & THINKPAD ALTERNATIVES.** While the Dell XPS 13 9315 and 9320 Plus look striking on paper, extensive technical audits reveal severe engineering compromises:
+  1. **Thermal Throttling & Power Capping:** The XPS 13 9315 is hobbled by an ultra-low-power 9W–12W U-series CPU that throttles under sustained multitasking. Conversely, the XPS 13 Plus 9320 attempts to run a 28W P-series chip in a wafer-thin chassis, resulting in excessive skin temperatures and aggressive thermal throttling.
+  2. **Severe Port Starvation:** The chassis offers only 2× Thunderbolt 4 ports. It lacks an audio jack, USB-A port, and SD/MicroSD card reader entirely, forcing total dongle reliance.
+  3. **Ergonomic Friction:** The XPS 13 Plus features a polarizing zero-lattice keyboard, invisible borderless capacitive touch function row (no physical Esc/function keys), and an edge-to-edge invisible glass haptic trackpad that suffers from frequent palm-rejection misfires.
+  4. **Superior Actively Tracked Alternatives:** For comparable or lower cost, the **Dell Latitude 7340 32GB QHD+ ($579.00 / ~৳78,165 landed)** offers 32GB LPDDR5 RAM (double the memory), a 500-nit QHD+ 16:10 touchscreen, dual Thunderbolt 4, physical keys, and superior cooling. In clamshells, the **Lenovo ThinkPad T14 Gen 3 ($369.00 / ~৳49,815 landed)** delivers full port arrays (RJ-45, HDMI, MicroSD, dual TB4) and modular upgradeable RAM for over $180 less!
+
+### #A12: HP Pavilion x360 14" 2-in-1 (14.0" FHD Touch, Intel Core i5-1335U / i3-1215U, 8GB DDR4 Soldered, 256GB/512GB SSD)
+* **Retailer / Platform:** Best Buy / Target / Walmart Early Black Friday Doorbuster • **SKUs:** `14-ek0033dx` / `14-ek1013dx`
+* **Promotional Door-buster Price:** **$349.99 – $399.99 USD** (~৳44,799 – ~৳51,199 bank / ~৳47,249 – ~৳53,999 landed)
+* **Audit Status:** `DISQUALIFIED / FAILED 16GB MINIMUM PROTOCOL`
+* **Audit Verdict:** **REJECTED UNDER CONVERTIBLE QUALITY & LONGEVITY PROTOCOL.** While marketed aggressively as an entry-level Black Friday touch convertible doorbuster under $400:
+  1. **8GB Soldered RAM Bottleneck:** Sub-$400 retail configurations ship with 8GB non-upgradeable DDR4 RAM soldered to the motherboard. In 2026, running Windows 11 with typical browser tabs and web apps immediately consumes 85%+ system memory, leading to heavy paging and system stutters.
+  2. **Fragile Plastic Hinge Mounts:** Consumer Pavilion x360 chassis use plastic screw mount anchors inside the palmrest casing rather than magnesium or aluminum structural reinforcement. In heavy 360-degree daily rotation, these hinges are prone to cracking or separating from the display housing.
+  3. **Dim 250-Nit 45% NTSC Display:** The panel suffers from washed-out colors (~62.5% sRGB) and low brightness unsuitable for well-lit rooms.
+  4. **Superior Actively Tracked Alternatives:** In the identical sub-$350 price bracket, the **Dell Latitude 5330 2-in-1 ($349.00 / ~৳47,115 landed)** delivers 10-core i5 vPro performance, **16GB RAM**, dual Thunderbolt 4 (eGPU ready), and military-grade durability. For pen work, the **ThinkBook 14s Yoga ($319.00 / ~৳43,065 landed)** provides un-soldered upgradeable RAM (up to 40GB), dual M.2 NVMe slots, all-aluminum unibody, and an internal garaged rechargeable Smart Pen for less money!
+
 ---
 
 <div align="center">
@@ -592,7 +631,7 @@ The following models were investigated, benchmarked, or tracked during prior swe
     with open('D:/WebDev/BlackFridayDeals/docs/laptop-tracker/ALL_CHECKED_DEALS.md', 'w', encoding='utf-8') as f:
         f.write(md)
 
-    print(f"ALL_CHECKED_DEALS.md successfully generated with {active_count} active + 9 archived listings with exhaustive OEM telemetry!")
+    print(f"ALL_CHECKED_DEALS.md successfully generated with {active_count} active + 12 archived listings with exhaustive OEM telemetry!")
 
 if __name__ == '__main__':
     build_all_checked_deals()
