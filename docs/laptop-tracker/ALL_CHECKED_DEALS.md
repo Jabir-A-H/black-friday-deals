@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-59%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-61%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-52%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-7%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-9%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A7)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A9)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -817,17 +817,17 @@
 | **Pricing Breakdown** | **$369.00 USD** *(MSRP: $1449.00 • Lowest Seen: $359.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳47,232 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳49,815 BDT** |
 | **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T09:35:00+06:00` |
-| **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake (Intel Core i5-1245U vPro / i7-1265U (10 Cores / 12 Threads, up to 4.8 GHz vPro, 12th Gen), Intel Smart Cache, 15W Base / 55W Turbo Power) |
-| **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (96EU, Dual Thunderbolt 4 40Gbps eGPU ready) • External eGPU: Supported (Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes) |
-| **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
-| **Storage Subsystem (SSD/HDD)** | 256GB/512GB PCIe Gen 3/4 x4 NVMe M.2 SSD • 1× M.2 SSD slot (User swappable up to 2TB/4TB NVMe SSD) |
-| **Display Panel & Visuals** | 13.3" FHD (1920x1080) IPS 360° Touchscreen (Corning Gorilla Glass 6 DX, 300 nits, Active Pen Support) • Format: 16:9 FHD • Surface & Interaction: Touchscreen 360° Convertible (10-point multi-touch, active pen digitizer support) |
-| **I/O Connectivity & Bus Speeds** | USB-C 3.2 Gen 2 (10Gbps, Power Delivery, DP); 2× to 3× USB 3.2 Gen 1/Gen 2 Type-A; HDMI 2.0 / 2.1; Wi-Fi 6 / 6E + Bluetooth 5.2/5.3 (Requires USB-C RJ-45 dongle if wired LAN needed); 1× 3.5mm combo audio jack |
-| **Card Reader & Expandability** | MicroSD Media Card Reader (Integrated) |
-| **Battery, Power & Thermals** | 45Wh–58Wh Lithium-Ion battery with Supports Fast Charging (ExpressCharge / Rapid Charge 80% in 60 mins) • 65W/100W USB Type-C AC Adapter |
-| **Chassis, Materials & Durability** | CNC-Machined Aluminum or Carbon Fiber composite unibody • Weight: ~1.15–1.35 kg (~2.5–3.0 lbs) • MIL-STD-810H military certified |
-| **Keyboard, Trackpad & Stylus** | Spill-resistant backlit keyboard with 1.4–1.5mm key travel • Multi-touch Precision Touchpad • Active Stylus Supported (Wacom AES / MPP 2.0 protocol, sold separately) |
-| **Webcam, Audio & Biometrics** | FHD 1080p or 720p HD webcam with physical privacy shutter • Match-on-chip fingerprint reader • Discrete TPM 2.0 security chip • Stereo speakers with Dolby Audio / Waves MaxxAudio |
+| **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake-U Core i5-1245U vPro (10 Cores / 12 Threads: 2 Performance Cores up to 4.40 GHz Turbo + 8 Efficient Cores up to 3.30 GHz, 12MB Cache, 15W Base / 55W Turbo, Intel vPro Enterprise management) |
+| **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (96 Execution Units, up to 1.20 GHz, DirectX 12.1, OpenGL 4.6, QuickSync Video hardware AV1 decode, Dual Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes) |
+| **Memory Architecture (RAM)** | 16GB LPDDR4x-4266 MHz dual-channel memory • 100% On-Board Soldered (Meets the 16GB non-negotiable convertible protocol for reliable multitasking) |
+| **Storage Subsystem (SSD/HDD)** | 256GB / 512GB PCIe Gen 4 x4 NVMe Solid State Drive • 1× M.2 2280/2230 PCIe Gen 4 x4 slot (upgradeable to 2TB M.2 NVMe SSD) |
+| **Display Panel & Visuals** | 13.3" 16:9 Full HD (1920x1080) WVA/IPS 360° Touchscreen, 300 nits brightness, 72% NTSC (~100% sRGB), Corning Gorilla Glass 6 DX, Anti-reflective / Anti-smudge coating, active stylus support |
+| **I/O Connectivity & Bus Speeds** | 2× Thunderbolt 4 (40Gbps, Power Delivery 3.0, DisplayPort 1.4 alt mode, dual eGPU ready); 1× USB 3.2 Gen 1 Type-A with PowerShare; 1× HDMI 2.0 (up to 4K @ 60Hz); 1× Universal Audio Jack (3.5mm) |
+| **Card Reader & Expandability** | MicroSD 4.0 Media Card Reader (Integrated) |
+| **Battery, Power & Thermals** | 4-cell 58Wh Lithium-Ion battery with ExpressCharge 2.0 (charges to 80% in 60 minutes) • 65W/90W USB Type-C AC Adapter • Up to 11–13 hours mixed web productivity |
+| **Chassis, Materials & Durability** | CNC-Machined Aluminum or Woven Carbon Fiber 2-in-1 unibody in Titan Grey • Weight: 1.36 kg (3.00 lbs) • 360-degree dual-torque geared hinges (Laptop, Tent, Stand, Tablet modes) • Passed 16 MIL-STD-810H durability tests |
+| **Keyboard, Trackpad & Stylus** | Spill-resistant single-pointing backlit chiclet keyboard with 1.5mm key travel • Glass-feel Precision Clickpad • 10-point capacitive multi-touch with Dell Active Pen PN5122W / PN7522W (Wacom AES 2.0) |
+| **Webcam, Audio & Biometrics** | FHD 1080p + IR camera with SafeShutter mechanical privacy curtain, ExpressSign-in proximity sensor, Windows Hello facial login • Match-on-Chip Fingerprint Reader • Discrete TPM 2.0 • Waves MaxxAudio Pro stereo speakers |
 
 > **🔍 Curatorial Audit & Engineering Verdict:**  
 > Sub-৳50k 12th Gen 10-Core Executive Convertible: Slashes 74% off original $1,449 MSRP down to $369.00 (~৳49,815 landed / ~৳47,232 bank card rate), breaking the sub-৳50,000 landed barrier for Dell's 12th Gen 7000-series executive convertible. Features an ultra-premium CNC machined aluminum or woven carbon fiber chassis, 10-core 12th Gen Intel Core i5-1245U vPro processing, 16GB dual-channel LPDDR4x RAM (meeting the non-negotiable 16GB convertible protocol), 256GB/512GB PCIe Gen 4 NVMe SSD, dual Thunderbolt 4 / USB-C ports (full 40Gbps eGPU support), MicroSD card reader, IR facial recognition webcam with SafeShutter, and active stylus support. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty.
@@ -843,17 +843,17 @@
 | **Pricing Breakdown** | **$359.00 USD** *(MSRP: $1399.00 • Lowest Seen: $349.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳45,952 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳48,465 BDT** |
 | **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T09:35:00+06:00` |
-| **Processor & Silicon Architecture (CPU)** | Intel 11th Gen Tiger Lake (AMD Ryzen 7 PRO 5850U (8 Cores / 16 Threads, up to 4.4 GHz Zen 3) / Intel Core i7-1165G7, 10nm SuperFin, 12W–28W configurable TDP) |
-| **Graphics Subsystem (GPU & eGPU)** | AMD Radeon Vega 8 Graphics / NVIDIA Quadro T500 4GB GDDR6 (ISV Certified for AutoCAD/SolidWorks) • External eGPU: Supported (Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes) |
-| **Memory Architecture (RAM)** | 16GB/32GB DDR4 or DDR5 • 2× un-soldered SODIMM slots (upgradeable up to 64GB total dual-channel) |
-| **Storage Subsystem (SSD/HDD)** | 256GB/512GB PCIe Gen 3/4 x4 NVMe M.2 SSD • 1× M.2 SSD slot (User swappable up to 2TB/4TB NVMe SSD) |
-| **Display Panel & Visuals** | 14.0" FHD (1920x1080) Low Power IPS Anti-glare (300-400 nits, 100% sRGB or 72% NTSC) • Format: 16:9 FHD • Surface & Interaction: Anti-glare Matte Clamshell (Non-touch) |
-| **I/O Connectivity & Bus Speeds** | USB-C 3.2 Gen 2 (10Gbps, Power Delivery, DP); 2× to 3× USB 3.2 Gen 1/Gen 2 Type-A; HDMI 2.0 / 2.1; RJ-45 Gigabit Ethernet port included; 1× 3.5mm combo audio jack |
+| **Processor & Silicon Architecture (CPU)** | AMD Ryzen 7 PRO 5850U (8 Cores / 16 Threads, 1.9 GHz base, up to 4.4 GHz Max Boost, Zen 3 architecture, 16MB L3 Cache, 15W Base TDP / 25W cTDP, AMD PRO Security & Manageability) OR Intel Core i7-1165G7 (4C/8T up to 4.7 GHz) |
+| **Graphics Subsystem (GPU & eGPU)** | AMD Radeon Vega 8 Graphics (8 Compute Units, 2000 MHz) OR NVIDIA Quadro T500 4GB GDDR6 dedicated GPU (896 CUDA Cores, 64-bit, 18W–25W TGP, ISV-Certified Enterprise Drivers for SolidWorks/AutoCAD/CATIA/Revit) |
+| **Memory Architecture (RAM)** | 16GB DDR4-3200 MHz memory (16GB soldered or 8GB soldered + 8GB SODIMM) • 1× open un-soldered DDR4 SODIMM slot (upgradeable up to 40GB–48GB total; non-negotiable repairability) |
+| **Storage Subsystem (SSD/HDD)** | 512GB PCIe Gen 3/Gen 4 x4 NVMe M.2 2280 SSD • 1× M.2 2280 PCIe NVMe slot (supports fast PCIe Gen 4 SSD upgrades up to 2TB/4TB) |
+| **Display Panel & Visuals** | 14.0" 16:9 Full HD (1920x1080) Low Power IPS Anti-glare display, 400 nits brightness (or 300 nits IPS), 100% sRGB / 72% NTSC, 800:1 contrast ratio, 178° viewing angle, non-touch matte finish |
+| **I/O Connectivity & Bus Speeds** | Dual USB-C ports (2× USB 3.2 Gen 2 Type-C on AMD with PD 3.0 & DP 1.4; 2× Thunderbolt 4 40Gbps on Intel with eGPU support); 2× USB 3.2 Gen 1 Type-A (1 Always On); 1× HDMI 2.0; 1× RJ-45 Gigabit Ethernet; 1× 3.5mm audio combo jack; 1× Smart Card reader (select models) |
 | **Card Reader & Expandability** | MicroSD Media Card Reader (Integrated) |
-| **Battery, Power & Thermals** | 45Wh–58Wh Lithium-Ion battery with Supports Fast Charging (ExpressCharge / Rapid Charge 80% in 60 mins) • 65W/100W USB Type-C AC Adapter |
-| **Chassis, Materials & Durability** | Polycarbonate / ABS commercial chassis • Weight: ~1.7–2.2 kg • Tested to manufacturer commercial durability standards |
-| **Keyboard, Trackpad & Stylus** | Spill-resistant backlit keyboard with 1.4–1.5mm key travel • Multi-touch Precision Touchpad • Non-touch clamshell (Standard keyboard & precision clickpad) |
-| **Webcam, Audio & Biometrics** | FHD 1080p or 720p HD webcam with physical privacy shutter • Match-on-chip fingerprint reader • Discrete TPM 2.0 security chip • Stereo speakers with Dolby Audio / Waves MaxxAudio |
+| **Battery, Power & Thermals** | 50Wh Lithium-Ion battery with Rapid Charge (charges to 80% in 1 hour) • 65W USB Type-C AC Adapter • Up to 9.5–12.5 hours mixed battery endurance |
+| **Chassis, Materials & Durability** | Magnesium internal roll-cage with glass-fiber reinforced plastic (PPS top cover + PA bottom) in ThinkPad Black • Weight: 1.46 kg (3.24 lbs) • Tested to 12 MIL-STD-810H methods across 22 procedures |
+| **Keyboard, Trackpad & Stylus** | Legendary ThinkPad 6-row spill-resistant keyboard with drain holes, 1.8mm deep key travel, white LED backlighting • Classic TrackPoint red pointing stick + 3 physical click buttons • Glass-like Mylar touchpad |
+| **Webcam, Audio & Biometrics** | 720p HD + IR hybrid webcam with ThinkShutter physical slider and Windows Hello facial recognition • Match-on-Chip Touch Fingerprint Reader on palmrest • Discrete TPM 2.0 (TCG certified) • User-facing Dolby Audio stereo speakers |
 
 > **🔍 Curatorial Audit & Engineering Verdict:**  
 > Sub-৳49k ThinkPad P-Series Mobile Workstation Sweet Spot: Slashes 74% off original $1,399 enterprise MSRP down to $359.00 (~৳48,465 landed / ~৳45,952 bank card rate). The P14s Gen 2 is an ISV-certified mobile workstation built for engineering and professional compute. Features an 8-core / 16-thread AMD Ryzen 7 PRO 5850U (or Intel Core i7 with dedicated NVIDIA Quadro T500 4GB GPU), 16GB DDR4 RAM with an un-soldered SODIMM expansion slot (expandable up to 48GB total), 512GB PCIe NVMe SSD, MicroSD card reader, dual USB-C / Thunderbolt 4 (Intel), full-size HDMI 2.0, RJ-45 Gigabit Ethernet, legendary spill-resistant ThinkPad keyboard with TrackPoint, and MIL-STD-810H durability. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty.
@@ -1365,17 +1365,17 @@
 | **Pricing Breakdown** | **$272.99 USD** *(MSRP: $999.00 • Lowest Seen: $267.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳34,943 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳36,854 BDT** |
 | **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-05T09:35:00+06:00` |
-| **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake (AMD Ryzen 5 5600U (6 Cores / 12 Threads, 2.3 GHz base, up to 4.2 GHz Boost, Zen 3), Intel Smart Cache, 15W Base / 55W Turbo Power) |
-| **Graphics Subsystem (GPU & eGPU)** | AMD Radeon Vega 7 Graphics • External eGPU: Not Supported (Standard USB-C 3.2 data/DP only, no PCIe tunneling) |
-| **Memory Architecture (RAM)** | 16GB/32GB DDR4 or DDR5 • 2× un-soldered SODIMM slots (upgradeable up to 64GB total dual-channel) |
-| **Storage Subsystem (SSD/HDD)** | 256GB/512GB PCIe Gen 3/4 x4 NVMe M.2 SSD • 1× M.2 SSD slot (User swappable up to 2TB/4TB NVMe SSD) |
-| **Display Panel & Visuals** | 14.0" FHD (1920x1080) Anti-glare IPS (250 nits) • Format: 16:9 FHD • Surface & Interaction: Anti-glare Matte Clamshell (Non-touch) |
-| **I/O Connectivity & Bus Speeds** | USB-C 3.2 Gen 2 (10Gbps, Power Delivery, DP); 2× to 3× USB 3.2 Gen 1/Gen 2 Type-A; HDMI 1.4b; Wi-Fi 6 / 6E + Bluetooth 5.2/5.3 (Requires USB-C RJ-45 dongle if wired LAN needed); 1× 3.5mm combo audio jack |
-| **Card Reader & Expandability** | None (Requires USB-C hub / dongle) |
-| **Battery, Power & Thermals** | 45Wh–58Wh Lithium-Ion battery with Supports Fast Charging (ExpressCharge / Rapid Charge 80% in 60 mins) • 65W/100W USB Type-C AC Adapter |
-| **Chassis, Materials & Durability** | High-durability bio-polymer and aluminum/magnesium reinforced hybrid • Weight: ~1.35–1.50 kg (~2.9–3.3 lbs) • MIL-STD-810H certified |
-| **Keyboard, Trackpad & Stylus** | Spill-resistant backlit keyboard with 1.4–1.5mm key travel • Multi-touch Precision Touchpad • Non-touch clamshell (Standard keyboard & precision clickpad) |
-| **Webcam, Audio & Biometrics** | FHD 1080p or 720p HD webcam with physical privacy shutter • Match-on-chip fingerprint reader • Discrete TPM 2.0 security chip • Stereo speakers with Dolby Audio / Waves MaxxAudio |
+| **Processor & Silicon Architecture (CPU)** | AMD Ryzen 5 5600U (6 Cores / 12 Threads, 2.3 GHz base, up to 4.2 GHz Max Boost, Zen 3 architecture, 16MB L3 Cache, 15W Base TDP / 25W cTDP, 7nm TSMC process) |
+| **Graphics Subsystem (GPU & eGPU)** | AMD Radeon Vega 7 Graphics (7 Compute Units, 1800 MHz, DirectX 12, hardware VP9/H.265/AV1 decode, supports 3 external displays up to 4K via USB-C DP & HDMI) |
+| **Memory Architecture (RAM)** | 16GB DDR4-3200 MHz dual-channel memory • 2× un-soldered SODIMM slots (both upgradeable up to 32GB/64GB total with standard non-ECC DDR4 SODIMM sticks) |
+| **Storage Subsystem (SSD/HDD)** | 256GB PCIe NVMe M.2 2280 Value SSD • 1× M.2 2280 PCIe NVMe SSD slot (easily swappable with captive bottom screws up to 2TB) |
+| **Display Panel & Visuals** | 14.0" 16:9 Full HD (1920x1080) IPS Anti-glare WLED-backlit display, 250 nits brightness, 45% NTSC color gamut (~62.5% sRGB), slim narrow bezel |
+| **I/O Connectivity & Bus Speeds** | 1× SuperSpeed USB Type-C 10Gbps signaling rate (USB Power Delivery, DisplayPort 1.4); 3× SuperSpeed USB Type-A 5Gbps (1 charging, 1 powered); 1× HDMI 1.4b (up to 4K @ 30Hz); 1× RJ-45 Gigabit Ethernet port; 1× 3.5mm headphone/mic combo jack |
+| **Card Reader & Expandability** | MicroSD Media Card Reader (Integrated) |
+| **Battery, Power & Thermals** | 3-cell 45Wh Long Life Lithium-Ion battery • HP Fast Charge (charges up to 50% in 30 minutes) • 45W/65W Smart AC Adapter • Up to 10–12 hours mixed productivity |
+| **Chassis, Materials & Durability** | Pike Silver anodized aluminum keyboard deck and stamped aluminum top cover with high-durability composite base • Weight: 1.37 kg (3.03 lbs) • Passed 19 MIL-STD-810H military tests • Aluminum hinge caps |
+| **Keyboard, Trackpad & Stylus** | HP Premium spill-resistant keyboard with drain hole and DuraKeys coating • Clickpad with multi-touch gesture support and image sensor • Non-touch matte clamshell |
+| **Webcam, Audio & Biometrics** | 720p HD privacy camera with physical privacy shutter • Fingerprint sensor on palmrest • HP Wolf Security for Business (hardware-enforced BIOS protection) • Discrete TPM 2.0 • Dual stereo speakers with HP Audio Boost |
 
 > **🔍 Curatorial Audit & Engineering Verdict:**  
 > Sub-৳37k AMD Zen 3 Dual-SODIMM Corporate Workhorse: Slashes 72% off $999 MSRP down to $272.99 (~৳36,854 landed / ~৳34,943 bank card rate) on eBay / Newegg Outlet. Delivers a 6-core / 12-thread AMD Ryzen 5 5600U Zen 3 processor with 16GB DDR4 RAM (2x un-soldered SODIMM slots upgradeable to 64GB), 256GB PCIe NVMe SSD, aluminum keyboard deck, SuperSpeed USB-C 10Gbps with Power Delivery & DisplayPort 1.4, full-size HDMI, and Windows 11 Pro. Smashes the 4-core i5-1135G7 baseline under ৳37,000 landed.
@@ -1425,6 +1425,19 @@ The following models were investigated, benchmarked, or tracked during prior swe
 * **Retailer / Platform:** Walmart / Target / Best Buy • **Price:** **$199.00 – $249.00 USD**
 * **Audit Status:** `DISQUALIFIED / PERMANENTLY BANNED`
 * **Audit Verdict:** **REJECTED UNDER STRICT SPEC PROTOCOL.** Permanently disqualified due to 1) 4GB–8GB non-upgradeable soldered RAM, 2) inferior 220–250 nit 45% NTSC TN panels, 3) brittle plastic hinge anchors that fail under normal use, and 4) slow eMMC or baseline dual-core CPUs failing the HP EliteBook 840 G8 baseline benchmark.
+
+
+### #A8: Lenovo ThinkPad X13 Yoga Gen 2 & ThinkPad L15 Gen 3 (Woot MAR Refurbished Batches)
+* **Retailer / Platform:** Woot (Microsoft Authorized Refurbished) • **SKUs:** `X13Y-G2-W11P` / `L15-G3-W11P`
+* **Historical Cart Price:** **$389.99 – $509.99 USD** (~৳49,918 – ~৳65,278 bank / ~৳52,649 – ~৳68,849 landed)
+* **Audit Status:** `ARCHIVED (SOLD OUT ON WOOT)`
+* **Audit Verdict:** Highly rated enterprise batches on Woot MAR. The 15.6" dual-SODIMM ThinkPad L15 Gen 3 ($389.99) and 13.3" 16:10 X13 Yoga Gen 2 ($509.99) allocations completely sold out during the early November Woot event. Actively tracked alternatives: the **ThinkPad X13 Yoga Gen 2 on eBay Refurbished ($329.00 / ~৳44,415 landed)** offers identical hardware for $180 less, while the **ThinkPad L13 Yoga Gen 3 ($359.00 / ~৳48,465 landed)** provides next-gen 10-core 16:10 compute.
+
+### #A9: HP Envy x360 16" Core Ultra 7 2-in-1 (16.0" 2K Touch, Core Ultra 7 155U, 16GB LPDDR5, 512GB SSD)
+* **Retailer / Platform:** eBay Certified Refurbished (Allstate 2-Year Warranty) • **SKU:** `Envy-x360-16-U7`
+* **Historical Cart Price:** **$676.97 USD** (~৳86,652 bank / ~৳91,391 landed)
+* **Audit Status:** `ARCHIVED (SOLD OUT)`
+* **Audit Verdict:** Premium 16-inch 2K 360-degree convertible with Intel Core Ultra 7 Meteor Lake silicon and active stylus support. Official eBay refurbished inventory was exhausted during pre-holiday clearance. Actively tracked alternatives on the dashboard: the **Lenovo Yoga 7i 16" 2-in-1 ($599.99 / ~৳80,999 landed)** delivers identical 16-inch Core Ultra convertible capabilities with Dolby Vision for over $76 less, and the **HP OmniBook X Flip 14" ($649.99 / ~৳87,749 landed)** brings revolutionary Intel Lunar Lake Copilot+ architecture.
 
 ---
 

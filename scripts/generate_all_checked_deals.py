@@ -267,9 +267,7 @@ OEM_PROFILES = {
         "chassis_arch": "High-density polycarbonate/carbon fiber composite chassis in Titan Grey • Weight: 1.86 kg (4.09 lbs) • Tested to MIL-STD-810G military ruggedness standards",
         "inputs_arch": "Full-size single-pointing spill-resistant keyboard with 10-key numeric keypad, white LED backlight • Precision Clickpad • Non-touch matte clamshell",
         "security_arch": "720p HD webcam with physical privacy sliding shutter • Discrete TPM 2.0 • Wedge lock slot • Dual stereo speakers tuned by Waves MaxxAudio Pro"
-    }
-}
-
+    },
     "dell-latitude-7330-2in1-touch": {
         "cpu_arch": "Intel 12th Gen Alder Lake-U Core i5-1245U vPro (10 Cores / 12 Threads: 2 Performance Cores up to 4.40 GHz Turbo + 8 Efficient Cores up to 3.30 GHz, 12MB Cache, 15W Base / 55W Turbo, Intel vPro Enterprise management)",
         "gpu_arch": "Intel Iris Xe Graphics (96 Execution Units, up to 1.20 GHz, DirectX 12.1, OpenGL 4.6, QuickSync Video hardware AV1 decode, Dual Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes)",
@@ -308,7 +306,8 @@ OEM_PROFILES = {
         "chassis_arch": "Pike Silver anodized aluminum keyboard deck and stamped aluminum top cover with high-durability composite base • Weight: 1.37 kg (3.03 lbs) • Passed 19 MIL-STD-810H military tests • Aluminum hinge caps",
         "inputs_arch": "HP Premium spill-resistant keyboard with drain hole and DuraKeys coating • Clickpad with multi-touch gesture support and image sensor • Non-touch matte clamshell",
         "security_arch": "720p HD privacy camera with physical privacy shutter • Fingerprint sensor on palmrest • HP Wolf Security for Business (hardware-enforced BIOS protection) • Discrete TPM 2.0 • Dual stereo speakers with HP Audio Boost"
-    },
+    }
+}
 
 def synthesize_oem_telemetry(item):
     item_id = item.get('id', '')
