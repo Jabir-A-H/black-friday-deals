@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-70%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-71%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-15%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-16%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A15)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A16)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -1579,8 +1579,24 @@ The following models were investigated, benchmarked, or tracked during prior swe
   4. **Dim 250-Nit 45% NTSC Display:** The 15.6" panel suffers from a restricted color gamut (~62% sRGB) and weak 250-nit peak brightness that washes out in bright indoor or classroom lighting.
   5. **Superior Actively Tracked Alternatives:** In the same ultra-budget sub-$300 bracket, our actively tracked **HP ProBook 445 G8 ($272.99 / ~৳36,854 landed)** crushes this machine with a true 6-core/12-thread AMD Ryzen 5 5600U, **dual un-soldered SODIMM slots (expandable to 64GB DDR4)**, aluminum keyboard deck, and USB-C 10Gbps PD/DP. For ultraportables, the **Dell Latitude 7320 2-in-1 ($259.00 / ~৳34,965 landed)** provides full 360° touch with dual Thunderbolt 4 ports, while the **ThinkPad T14 Gen 2 ($294.27 / ~৳39,726 landed)** delivers legendary military-grade durability and dual-channel memory!
 
+
+### #A16: Samsung Galaxy Book2 360 & Galaxy Book3 360 (13.3" / 15.6" AMOLED Touchscreen, Intel Core i5-1235U / i7-1355U, 16GB LPDDR4x/LPDDR5 Soldered, 512GB SSD)
+* **Retailer / Platform:** Best Buy / Amazon / eBay Certified Refurbished • **SKUs:** `NP730QED-KB2US` / `NP750QFG-KA1US`
+* **Promotional Cart Price:** **$320.00 – $549.99 USD** (~৳40,960 – ~৳70,399 bank / ~৳43,200 – ~৳74,249 landed)
+* **Audit Status:** `DISQUALIFIED / SEVERE CHASSIS FLEX & SPONTANEOUS SCREEN CRACKING HAZARD`
+* **Audit Verdict:** **REJECTED UNDER ADVERSARIAL LONGEVITY & FIELD RELIABILITY EVALUATION.** Highly tempting on paper due to vivid Super AMOLED displays, ultra-slim profiles, and S-Pen compatibility, but disqualified following an exhaustive reliability investigation:
+  1. **Spontaneous AMOLED Screen Cracking ("The Diagonal Hairline Fracture"):** Documented across hundreds of user reports on Reddit, Samsung Community Forums, and consumer investigations (including *The Guardian*). The wafer-thin aluminum display lid and chassis exhibit significant torsional flex. Regular handling, opening the lid from a corner, or placing the laptop in a backpack causes physical torque to transfer directly to the ultra-thin AMOLED glass, resulting in spontaneous hairline fractures originating near the hinges or corners without any drop or impact.
+  2. **Catastrophic International Warranty Denial Risk:** Samsung and retail service centers routinely classify these spontaneous hairline fractures as "user-induced accidental damage" and deny warranty claims. For buyers importing to Bangladesh, where no authorized Samsung US warranty exists, a cracked display results in a total loss or out-of-pocket repair costs exceeding **$400–$500 USD** (often rivaling the purchase price of the laptop).
+  3. **High-Torque 360° Hinge & Brittle Internal Clips:** The stiff 360-degree hinge mechanism places severe mechanical stress on brittle internal plastic anchor bosses. Over time, hinge resistance stiffens, warping the display bezel and triggering screen delamination.
+  4. **Soldered RAM & Thermal Throttling:** Non-upgradeable soldered LPDDR memory limits long-term expandability, and the whisper-thin chassis aggressively throttles 12th/13th Gen Intel chips down to single-fan thermal limits under sustained multitasking.
+  5. **Superior Actively Tracked Alternatives:** In the same sub-$360 sweet spot, our tracker offers rock-solid, MIL-STD-810H tested executive convertibles with zero screen-fracture history:
+     * **ThinkPad X1 Yoga Gen 6 ($335.99 / ~৳45,359 landed):** CNC unibody aluminum, 400-nit 16:10 low power display, garaged stylus, dual Thunderbolt 4, and 100% verified battery health with 1-Year Allstate Warranty.
+     * **Dell Latitude 9420 2-in-1 ($354.99 / ~৳47,924 landed):** Diamond-cut CNC aluminum unibody, 500-nit QHD+ (2560x1600) 16:10 display, Gorilla Glass 6 DX, motorized SafeShutter webcam, and 2-Year Allstate Warranty.
+     * **Dell Latitude 5330 2-in-1 ($299.00 / ~৳40,365 landed):** 10-core 12th Gen i7-1265U, carbon-fiber reinforced structure, and dual TB4 ports.
+     * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** 8-core/16-thread AMD Ryzen 7 PRO 5850U with **dual un-soldered SODIMM slots (up to 64GB)** and Corning Gorilla Glass 5.
+
 ---
 
 <div align="center">
-<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker.</sub>
+<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 16 archived/disqualified listings = 71 total audited).</sub>
 </div>
