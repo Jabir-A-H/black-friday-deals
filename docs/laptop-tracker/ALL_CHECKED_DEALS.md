@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-72%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-73%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-17%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-18%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A17)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A18)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -1612,6 +1612,23 @@ The following models were investigated, benchmarked, or tracked during prior swe
 
 ---
 
+### #A18: MSI Modern 14 & Modern 15 (C12M / C13M / B12M / B7M / B13M) 14.0" & 15.6" Ultralight Clamshell (Intel Core i5-1235U/i5-1335U / AMD Ryzen 5 7530U, 8GB-16GB Soldered/SODIMM, 512GB SSD)
+* **Retailer / Platform:** Walmart / Amazon / Newegg Early Black Friday Promotion • **SKUs:** `Modern 14 C12M-072US` / `Modern 15 B12M-014US` / `Modern 15 B7M-245US`
+* **Promotional Price:** **$329.99 – $449.99 USD** (~৳42,239 – ~৳57,599 bank / ~৳44,549 – ~৳60,749 landed)
+* **Audit Status:** `DISQUALIFIED / SEVERE STRUCTURAL HINGE STANDOFF SNAPPING & WARRANTY DENIAL TRAP`
+* **Audit Verdict:** **REJECTED UNDER ADVERSARIAL LONGEVITY & FIELD RELIABILITY EVALUATION.** Aggressively promoted across major US retailers as an affordable, lightweight 14" / 15.6" everyday laptop under $450 with attractive on-paper specs (12th/13th Gen Intel Core i5 or AMD Ryzen 5 with 16GB RAM and sleek aluminum lid):
+  1. **Fragile Plastic Hinge Mounting ("The Exploding Hinge"):** The single most widespread and notorious hardware defect on MSI Modern series laptops. While the top lid outer shell has a thin aluminum veneer, the metal screen hinges are anchored directly into **thin, unreinforced plastic screw pillars (standoffs)** with embedded brass inserts inside the rear lid and palmrest casing. Over time, the internal hinge mechanism stiffens. Opening the laptop places immense physical leverage on the brittle plastic anchors, causing the screw bosses to crack, shatter, and rip completely out of the lid.
+  2. **Catastrophic Bezel Popping & Screen Panel Fracture:** When the plastic anchor fails, the metal hinge lever pops outward through the casing, prying the display bezel apart and snapping internal retention clips. In dozens of documented cases across r/MSILaptops and MSI Global Forums, this violent mechanical failure transfers direct bending stress to the LCD matrix, causing the display panel itself to crack or develop permanent vertical lines.
+  3. **High-Risk International Warranty Denial:** Because the failure manifests as broken plastic and a separated chassis, MSI and retail customer service departments routinely categorize the damage as "user accidental damage" or "physical abuse," rejecting warranty claims. For buyers importing to Bangladesh without local MSI warranty coverage, out-of-pocket shell and panel replacements cost **$200–$350+ USD**, turning the machine into an economic total loss.
+  4. **Dim 250-Nit 45% NTSC Display & Mushy Keyboard:** Beyond the structural defect, the Modern 14 and Modern 15 use low-cost 250-nit panels with washed-out color gamuts (~60% sRGB) and spongy keyboard decks with noticeable flex.
+  5. **Superior Actively Tracked Alternatives:** In the identical $279–$369 price envelope, our tracker provides rock-solid, military-grade enterprise alternatives with zero hinge failure history:
+     * **Dell Latitude 7330 ($279.59 / ~৳37,745 landed):** 10-core 12th Gen i5-1245U vPro, 16GB dual-channel RAM, **400-nit high-brightness 100% sRGB low-power display**, dual Thunderbolt 4, ultralight 1.13 kg magnesium-aluminum chassis, and 1-Year Allstate Warranty.
+     * **HP ProBook 445 G8 ($272.99 / ~৳36,854 landed):** 6-core/12-thread AMD Ryzen 5 5600U, **dual un-soldered SODIMM slots (up to 64GB DDR4)**, aluminum keyboard deck, and 2-Year Allstate Warranty.
+     * **Lenovo ThinkPad T14 Gen 2 ($294.27 / ~৳39,726 landed):** 6-core AMD Ryzen 5 PRO 5650U, un-soldered SODIMM expansion, legendary spill-resistant keyboard, TrackPoint, and MIL-STD-810H durability.
+     * **Lenovo ThinkPad X1 Carbon Gen 9 ($349.00 / ~৳47,115 landed):** Featherlight **1.13 kg** carbon-fiber/magnesium unibody, 16:10 400-nit WUXGA display, dual Thunderbolt 4, and quad Dolby Atmos speakers.
+
+---
+
 <div align="center">
-<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 17 archived/disqualified listings = 72 total audited).</sub>
+<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 18 archived/disqualified listings = 73 total audited).</sub>
 </div>
