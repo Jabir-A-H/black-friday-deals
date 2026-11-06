@@ -14,7 +14,7 @@ for filename in ["README.md", "docs/laptop-tracker/DEALS_SUMMARY.md"]:
     # Check serial numbers in tables
     serials = re.findall(r'\|\s*\*\*#(\d+)\*\*\s*\|', content)
     print("Found table serials count:", len(serials))
-    assert len(serials) == 56, f"Expected 56 rows, got {len(serials)}"
+    assert len(serials) == 55, f"Expected 55 rows, got {len(serials)}"
     print("Min serial:", serials[0], "Max serial:", serials[-1])
     
     # Check champions table

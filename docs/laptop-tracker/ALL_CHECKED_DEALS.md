@@ -2,8 +2,8 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-70%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Active Curated](https://img.shields.io/badge/Active%20Tracked-56%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-69%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-14%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
@@ -1434,68 +1434,44 @@
 
 ---
 
-### #55: [Lenovo ThinkPad X1 Yoga Gen 7 14.0" 16:10 WUXGA Touch 2-in-1 - Intel Core i5-1245U vPro / i7-1265U - 16GB LPDDR5 - 256GB/512GB Gen 4 SSD - Garaged Pen Pro](https://www.ebay.com/itm/307227774971)
 
-| Component Subsystem | Official OEM Specification & Telemetry Breakdown |
-| :--- | :--- |
-| **Tracking ID & SKU** | `thinkpad-x1-yoga-gen7` • **SKU:** `ThinkPad-X1-Yoga-G7-WUXGA` |
-| **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
-| **Pricing Breakdown** | **$389.00 USD** *(MSRP: $1899.00 • Lowest Seen: $389.00)* |
-| **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳49,792 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳52,515 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
-| **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake Core i5-1245U vPro / i7-1265U (10 Cores / 12 Threads: 2 Performance Cores up to 4.80 GHz Turbo + 8 Efficient Cores up to 3.60 GHz, 12MB Intel Smart Cache, 15W Base TDP / 55W Turbo Power, Intel vPro Enterprise management) |
-| **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (96 Execution Units / 768 ALUs up to 1.25 GHz, DirectX 12.1, OpenGL 4.6, QuickSync Video hardware AV1 decode) • **Dual Thunderbolt 4 / USB4 (40Gbps, full eGPU support with 4 PCIe lanes)** |
-| **Memory Architecture (RAM)** | 16GB LPDDR5-5200 MHz dual-channel memory • 100% Soldered (Ultra-high frequency Alder Lake bandwidth; satisfies non-negotiable 16GB convertible protocol) |
-| **Storage Subsystem (SSD/HDD)** | 256GB / 512GB PCIe Gen 4 x4 NVMe M.2 2280 SSD • 1× M.2 2280 PCIe Gen 4 x4 slot (swappable and upgradeable up to 2TB/4TB NVMe SSD) |
-| **Display Panel & Visuals** | 14.0" 16:10 WUXGA (1920x1200) Low Power IPS 360° Touchscreen, 400 nits high brightness, 100% sRGB color gamut, 1000:1 contrast ratio, Anti-reflective / Anti-smudge coating, TÜV Low Blue Light certified, Eyesafe Certified, 360° Yoga drop-down hinge |
-| **I/O Connectivity & Bus Speeds** | 2× Thunderbolt 4 / USB4 40Gbps (Power Delivery 3.0, DisplayPort 1.4a alt mode, dual eGPU ready); 2× USB 3.2 Gen 1 Type-A (1 Always On); 1× HDMI 2.0b (up to 4K @ 60Hz); Intel Wi-Fi 6E AX211 802.11ax (2x2) + Bluetooth 5.1; 1× 3.5mm headphone/mic combo jack |
-| **Card Reader & Expandability** | None (Requires USB-C hub or docking station) |
-| **Battery, Power & Thermals** | 57Wh Lithium-Polymer battery with Rapid Charge (charges to 80% in 60 minutes) • 65W USB Type-C AC Adapter • Up to 14–16 hours mixed productivity • Dual-fan cooling architecture with quad exhaust |
-| **Chassis, Materials & Durability** | Ultra-premium CNC-Machined Aluminum unibody chassis in Storm Grey • Weight: 1.38 kg (3.04 lbs) • Dimensions: 314.4 × 222.3 × 15.53 mm • 360° dual-torque hinges • Passed 12 MIL-STD-810H military durability test methods |
-| **Keyboard, Trackpad & Stylus** | Legendary ThinkPad spill-resistant backlit keyboard, 1.5mm key travel, TrackPoint + 3 physical buttons • Glass-surfaced Precision Touchpad (110 × 56 mm) • **Built-in rechargeable ThinkPad Pen Pro** (Garaged inside right chassis silo, 4,096 pressure levels, charges in 15 seconds) |
-| **Webcam, Audio & Biometrics** | FHD 1080p + IR hybrid webcam with ThinkShutter physical privacy cover and Computer Vision human presence sensing (auto-lock & wake) • Match-on-chip fingerprint reader on power button • Discrete TPM 2.0 • **Quad speakers:** 2× 2W woofers + 2× 0.8W tweeters with Dolby Atmos • Quad 360° far-field microphones with Dolby Voice AI noise suppression |
 
-> **🔍 Curatorial Audit & Engineering Verdict:**  
-> NEW DOORBUSTER ADDITION / EXECUTIVE 12TH GEN CONVERTIBLE KING: Slashes 79%+ off original $1,899+ MSRP down to $389.00 (~৳52,515 landed / ~৳49,792 bank card rate), entering directly into our prime sub-৳55,000 BDT sweet spot. The ThinkPad X1 Yoga Gen 7 is Lenovo's flagship commercial 2-in-1, pairing a 10-core 12th Gen Intel hybrid processor with high-speed 16GB LPDDR5-5200 RAM, a taller 16:10 WUXGA 400-nit low-power touch display (100% sRGB), built-in garaged rechargeable ThinkPad Pen Pro, dual Thunderbolt 4 ports (40Gbps eGPU ready), quad Dolby Atmos speakers, quad far-field microphones, and a military-grade CNC aluminum unibody. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty.
-
----
-
-### #56: [Lenovo ThinkPad X1 Carbon Gen 9 14.0" 16:10 WUXGA Laptop - Intel Core i5-1145G7 vPro / i7-1185G7 - 16GB RAM - 512GB SSD - Dual TB4 - Ultralight 1.13kg](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
+### #55: [Lenovo ThinkPad X1 Carbon Gen 9 14.0" 16:10 WUXGA Laptop - Intel Core i5-1145G7 vPro / i7-1185G7 - 16GB RAM - 512GB SSD - Dual TB4 - Ultralight 1.13kg](https://www.ebay.com/sch/i.html?_nkw=ThinkPad+X1+Carbon+Gen+9+16GB&LH_BIN=1&LH_ItemCondition=2000|2500)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
 | **Tracking ID & SKU** | `thinkpad-x1-carbon-gen9-ebay` • **SKU:** `ThinkPad-X1-Carbon-G9` |
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
-| **Pricing Breakdown** | **$349.00 USD** *(MSRP: $1,699.00 • Lowest Seen: $349.00)* |
+| **Pricing Breakdown** | **$349.00 USD** *(MSRP: $1699.00 • Lowest Seen: $339.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳44,672 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳47,115 BDT** |
 | **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T13:10:00+06:00` |
-| **Processor & Silicon Architecture (CPU)** | Intel 11th Gen Tiger Lake-U Core i5-1145G7 vPro / i7-1185G7 (4 Cores / 8 Threads, 2.60 GHz base, up to 4.80 GHz Max Turbo, 12MB Intel Smart Cache, 10nm SuperFin, 12W–28W cTDP, Intel vPro Enterprise management) |
-| **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (96 Execution Units / 768 ALUs, up to 1.35 GHz, DirectX 12.1, OpenGL 4.6, QuickSync Video hardware AV1/HEVC decode, supports up to 3 external displays) • **Dual Thunderbolt 4 / USB4 (40Gbps, full eGPU support with 4 PCIe lanes)** |
-| **Memory Architecture (RAM)** | 16GB LPDDR4x-4266 MHz dual-channel memory • 100% On-Board Soldered (Apex executive tier: satisfies non-negotiable 16GB protocol, zero RAM bottlenecks for multitasking) |
+| **Processor & Silicon Architecture (CPU)** | Intel 11th Gen Tiger Lake-U Core i5-1145G7 vPro / Core i7-1185G7 (4 Cores / 8 Threads, 2.60 GHz base, up to 4.40 GHz / 4.80 GHz Max Turbo, 8MB / 12MB Intel Smart Cache, 10nm SuperFin, 12W–28W cTDP, Intel vPro Enterprise management) |
+| **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (80EU on i5 / 96EU on i7, up to 1.35 GHz, DirectX 12.1, OpenGL 4.6, QuickSync Video hardware AV1/HEVC decode, supports 3 external 4K displays or 1 8K display) • **Dual Thunderbolt 4 / USB4 (40Gbps, full eGPU support with 4 PCIe lanes)** |
+| **Memory Architecture (RAM)** | 16GB LPDDR4x-4266 MHz dual-channel memory • 100% On-Board Soldered (Apex ultralight executive tier: satisfies non-negotiable 16GB protocol, ultra-high 4266MHz bandwidth, zero RAM bottlenecks) |
 | **Storage Subsystem (SSD/HDD)** | 512GB PCIe Gen 4 x4 NVMe Solid State Drive • 1× M.2 2280 PCIe NVMe SSD slot (easily swappable and upgradeable up to 2TB/4TB NVMe SSD) |
-| **Display Panel & Visuals** | 14.0" 16:10 WUXGA (1920x1200) Low Power IPS Anti-glare Display, 400 nits high-brightness panel, 100% sRGB color gamut, TÜV Rheinland Eyesafe hardware low blue light certified, Anti-reflective coating |
-| **I/O Connectivity & Bus Speeds** | 2× Thunderbolt 4 / USB4 40Gbps (Power Delivery 3.0, DisplayPort 1.4a, full 40Gbps eGPU ready); 2× USB 3.2 Gen 1 Type-A (1 Always On); 1× HDMI 2.0b (up to 4K @ 60Hz); Intel Wi-Fi 6 AX201 + Bluetooth 5.2; 1× 3.5mm headphone/microphone combo jack |
-| **Card Reader & Expandability** | None (Requires external USB-C hub / dongle) |
-| **Battery, Power & Thermals** | 57Wh Lithium-Polymer battery with Rapid Charge (charges to 80% in 60 minutes) • 65W USB Type-C AC Adapter • Up to 14+ hours mixed productivity battery life • Dual-fan rear-exhaust thermal system |
-| **Chassis, Materials & Durability** | Carbon fiber reinforced top cover with magnesium-aluminum unibody bottom in Deep Black / Storm Grey • Ultralight Weight: 1.13 kg (2.49 lbs) • Passed 12 MIL-STD-810H military durability methods and 26 rigorous procedures |
-| **Keyboard, Trackpad & Stylus** | Legendary spill-resistant ThinkPad backlit keyboard with ergonomic dished keycaps, 1.5mm key travel • TrackPoint pointing stick with physical click buttons + large glass-surface multi-touch TrackPad • Non-touch clamshell (No stylus required) |
-| **Webcam, Audio & Biometrics** | FHD 1080p + IR hybrid webcam with physical Privacy Shutter, human presence sensing (walk-away lock & wake-on-approach), Windows Hello facial recognition • Match-on-Chip Fingerprint Reader integrated into power key • Discrete TPM 2.0 chip • Dolby Atmos 4-speaker sound system (2 upward-firing tweeters + 2 downward-firing woofers) • Quad 360-degree far-field microphones |
+| **Display Panel & Visuals** | 14.0" 16:10 WUXGA (1920x1200) Low Power IPS Anti-glare panel, 400 nits high-brightness, 100% sRGB color gamut, TÜV Rheinland Eyesafe certified hardware low blue light, 1000:1 contrast ratio, 178° viewing angles, clamshell form factor |
+| **I/O Connectivity & Bus Speeds** | 2× Thunderbolt 4 / USB4 40Gbps (Power Delivery 3.0, DisplayPort 1.4a alt mode, full 40Gbps eGPU ready); 2× USB 3.2 Gen 1 Type-A (one Always On); 1× HDMI 2.0b (up to 4K @ 60Hz); Intel Wi-Fi 6 AX201 (802.11ax 2x2) + Bluetooth 5.2; 1× Headphone / microphone combo jack (3.5mm) |
+| **Card Reader & Expandability** | None (Ultralight form factor omits SD card reader; high-speed USB-C/TB4 external card readers supported) |
+| **Battery, Power & Thermals** | 4-cell 57Wh Lithium-Polymer battery with Rapid Charge (charges up to 80% in 60 minutes) • 65W USB Type-C AC Adapter • Up to 14–16 hours mixed web productivity • Dual-fan active cooling system with rear exhaust |
+| **Chassis, Materials & Durability** | Carbon-Fiber reinforced hybrid top lid + Magnesium-Aluminum alloy bottom chassis in Deep Black • Weight: featherlight **1.13 kg (2.49 lbs)** • Tested against 12 MIL-STD-810H military-grade specifications (20+ procedures) • 180° lay-flat zinc-alloy hinges |
+| **Keyboard, Trackpad & Stylus** | Legendary spill-resistant ThinkPad keyboard with 1.5mm key travel, unified communication function keys, white LED backlighting • Glass-surfaced Precision Touchpad with 3-button TrackPoint pointing stick • Clamshell form factor (non-touch) |
+| **Webcam, Audio & Biometrics** | 720p HD / 1080p FHD camera with ThinkShutter physical privacy slider • Match-on-Chip Fingerprint Reader integrated into power button • Discrete TPM 2.0 security chip • **Dolby Atmos Speaker System** (2× 2W upward-firing woofers + 2× 0.8W downward-firing tweeters) • 4× 360-degree far-field quad-microphone array with Dolby Voice |
 
 > **🔍 Curatorial Audit & Engineering Verdict:**  
 > Sub-৳48k 1.13kg Carbon Fiber Ultralight Flagship: Slashes 79%+ off original $1,699 enterprise MSRP down to $349.00 USD (~৳47,115 landed / ~৳44,672 bank card rate), entering directly into our prime sub-৳48,000 BDT sweet spot. The apex 9th-generation ThinkPad X1 Carbon features an ultralight 1.13 kg (2.49 lbs) carbon fiber and magnesium-aluminum chassis, 11th Gen Intel Core i5-1145G7 vPro / i7-1185G7 processor, 16GB LPDDR4x-4266 dual-channel memory (satisfies 16GB minimum protocol), 512GB PCIe Gen 4 NVMe SSD, modern 16:10 WUXGA 400-nit low-power 100% sRGB display, dual Thunderbolt 4 / USB4 ports (40Gbps full eGPU support), 57Wh battery with Rapid Charge (up to 14+ hours), Dolby Atmos quad speakers, quad 360-degree far-field microphones, Match-on-Chip fingerprint reader, and MIL-STD-810H durability. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty.
 
 ---
 
+
 ## 📦 Historical Archives & Disqualified Listings
 
 The following models were investigated, benchmarked, or tracked during prior sweeps and subsequently archived due to stock depletion, successor upgrades, or failing rigorous performance/throttling standards:
 
-### #A1: Lenovo ThinkPad X1 Yoga Gen 7 (14.0" WUXGA OLED Touch, Core i7-1270P, 16GB LPDDR5, 512GB SSD)
-* **Retailer / Platform:** eBay Certified Refurbished (Allstate 2-Year Warranty) • **SKU:** `20UN000PUS-R`
-* **Historical Cart Price:** **$620.99 USD** (~৳79,486 bank / ~৳83,833 landed)
-* **Audit Status:** `ARCHIVED (SOLD OUT)`
-* **Audit Verdict:** Highly sought-after 12th Gen Core i7 Alder Lake executive flagship with 16:10 OLED display and garaged pen. All verified eBay inventory officially sold out on Nov 2. Replaced on the active dashboard by the **ThinkPad X1 Yoga Gen 6 ($379.00 / ~৳51,165 landed)**, which offers 90% of the executive experience for over $240 less!
-* **Status Update (Nov 6, 2026):** RESTOCKED & REACTIVATED AT NEW ALL-TIME LOW! While the original $620 OLED config remains sold out, a brand-new certified refurbished batch of ThinkPad X1 Yoga Gen 7 14.0" 16:10 WUXGA Touch units has landed on eBay at an unprecedented **$389.00 USD** (~৳52,515 landed). Promoted to active tracking as **#55**!
+### #A1: Lenovo ThinkPad X1 Yoga Gen 7 (14.0" WUXGA Touch / OLED, Core i5/i7 12th Gen, 16GB LPDDR5, 512GB SSD)
+* **Retailer / Platform:** eBay / Amazon Renewed • **SKU:** `ThinkPad-X1-Yoga-G7-WUXGA`
+* **Historical Cart Price:** **$389.00 – $620.99 USD** (~৳52,515 – ~৳83,833 landed)
+* **Audit Status:** `ARCHIVED (DISQUALIFIED / HARDWARE DEFECT TRAP)`
+* **Audit Verdict:** Highly sought-after 12th Gen Core i5/i7 Alder Lake executive flagship with 16:10 display and garaged pen. **CRITICAL AUDIT FINDING:** Deep curatorial inspection of recent sub-$400 eBay listings (such as item #307227774971) revealed that sellers are heavily discounting these units because they carry explicit hardware defect flags: **"BATTERY ISSUE"** (non-functional/failing internal battery). Authentic, 100% functional Certified Refurbished Gen 7 units with verified battery health and 1-Year Allstate Warranty remain above **$650–$730+ USD**. Importing a laptop with a failing battery to Bangladesh is high-risk due to international lithium shipping restrictions and high battery replacement costs ($75–$100). The Gen 7 is therefore **DISQUALIFIED & ARCHIVED** from active budget recommendations. The premier sub-৳52k executive convertible remains the **ThinkPad X1 Yoga Gen 6 ($379.00 / ~৳51,165 landed)** which offers flawless hardware, 100% battery health, and a 1-Year Allstate Warranty!
 
 ### #A2: Dell Latitude 7340 16GB Touch Grade B (13.3" FHD+ 16:10, Core i7-1365U vPro, 16GB LPDDR5, 256GB SSD)
 * **Retailer / Platform:** Dell Refurbished (DFS Hot Deal) • **SKU:** `000018`
