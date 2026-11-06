@@ -18,8 +18,8 @@ for filename in ["README.md", "docs/laptop-tracker/DEALS_SUMMARY.md"]:
     print("Min serial:", serials[0], "Max serial:", serials[-1])
     
     # Check champions table
-    champions = re.findall(r'\|\s*(👑|✍️|🏆|💎|🛠️|🔄|☀️|🦄|🏗️|🎮)\s*\*\*.*?\*\*\s*\|', content)
+    champions = re.findall(r'\|\s*(👑|🪶|✍️|🏆|💎|🛠️|🔄|☀️|🦄|🏗️|🎮)\s*\*\*.*?\*\*\s*\|', content)
     print("Found champions count:", len(champions))
-    assert len(champions) == 10, f"Expected 10 champions, got {len(champions)}"
+    assert len(champions) == 11, f"Expected 11 champions, got {len(champions)}"
 
 print("\nALL DASHBOARD VERIFICATIONS PASSED CLEANLY!")

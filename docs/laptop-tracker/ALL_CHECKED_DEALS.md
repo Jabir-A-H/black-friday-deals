@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-69%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-70%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-14%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-15%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A14)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A15)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -1567,6 +1567,17 @@ The following models were investigated, benchmarked, or tracked during prior swe
   3. **No USB-C Power Delivery / DisplayPort:** Budget 3000-series motherboards lack USB-C charging, forcing users to carry proprietary 4.5mm barrel chargers. Display output is capped at HDMI 1.4 (restricted to 1080p @ 60Hz or 4K @ 30Hz), with zero Thunderbolt / eGPU capability.
   4. **8GB Single-Channel RAM & Dual/Quad-Core CPUs:** Ships with 8GB single-channel RAM and entry-level quad-core Ryzen 3 or dual/quad-core Core i3 silicon that fail our mandatory HP EliteBook 840 G8 baseline benchmark.
   5. **Superior Actively Tracked Alternatives:** For the identical $259–$299 price, the **HP EliteBook 840 G7 ($259.99 / ~৳35,099 landed)** and **Dell Latitude 7320 2-in-1 ($259.00 / ~৳34,965 landed)** offer CNC all-aluminum / carbon fiber unibody construction, 16GB dual-channel RAM, dual Thunderbolt ports (40Gbps eGPU ready), and military durability. The **HP ProBook 445 G8 ($272.99 / ~৳36,854 landed)** and **ThinkPad T14 Gen 2 ($294.27 / ~৳39,726 landed)** deliver 6-core Zen 3 compute and dual un-soldered SODIMM slots for under $300!
+
+### #A15: Acer Aspire Go 15 & Aspire 3 (AG15-31P / A315) 15.6" Slim Laptop (Intel Core i3-N305 / Ryzen 3 7320U, 8GB LPDDR5 Soldered, 128GB UFS / 256GB SSD)
+* **Retailer / Platform:** Amazon / Walmart / Target Early Black Friday Doorbuster • **SKUs:** `AG15-31P-3947` / `A315-24P-R7VH`
+* **Promotional Doorbuster Price:** **$199.99 – $249.99 USD** (~৳25,599 – ~৳31,999 bank / ~৳26,999 – ~৳33,749 landed)
+* **Audit Status:** `DISQUALIFIED / FAILED MEMORY EXPANSION & RIGIDITY BENCHMARKS`
+* **Audit Verdict:** **REJECTED UNDER ADVERSARIAL LONGEVITY & SPEC PROTOCOL.** Mass-marketed across major US retailers as an aggressive sub-$250 Black Friday entry-level laptop:
+  1. **8GB Soldered Non-Upgradeable RAM:** Configured with 8GB LPDDR5 memory soldered directly to the motherboard with zero SODIMM slots for expansion. Windows 11 with background tasks and modern web browsers immediately consumes 85%+ of this pool, leading to inescapable SSD page-file swapping and sluggish multitasking.
+  2. **Single-Channel Memory Bottleneck:** Intel's Alder Lake-N architecture (Core i3-N305) and AMD Mendocino (Ryzen 3 7320U) are limited to single-channel memory interfaces, choking integrated graphics throughput and reducing CPU compute efficiency under sustained loads.
+  3. **Brittle Plastic Chassis & Hinge Flex:** Built inside an unreinforced plastic shell lacking internal magnesium or aluminum structural framing. The keyboard deck exhibits prominent downward flex during typing, and the display hinge brackets mount into plastic screw bosses that easily crack under daily travel torque.
+  4. **Dim 250-Nit 45% NTSC Display:** The 15.6" panel suffers from a restricted color gamut (~62% sRGB) and weak 250-nit peak brightness that washes out in bright indoor or classroom lighting.
+  5. **Superior Actively Tracked Alternatives:** In the same ultra-budget sub-$300 bracket, our actively tracked **HP ProBook 445 G8 ($272.99 / ~৳36,854 landed)** crushes this machine with a true 6-core/12-thread AMD Ryzen 5 5600U, **dual un-soldered SODIMM slots (expandable to 64GB DDR4)**, aluminum keyboard deck, and USB-C 10Gbps PD/DP. For ultraportables, the **Dell Latitude 7320 2-in-1 ($259.00 / ~৳34,965 landed)** provides full 360° touch with dual Thunderbolt 4 ports, while the **ThinkPad T14 Gen 2 ($294.27 / ~৳39,726 landed)** delivers legendary military-grade durability and dual-channel memory!
 
 ---
 

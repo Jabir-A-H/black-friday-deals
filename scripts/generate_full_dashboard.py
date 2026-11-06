@@ -104,7 +104,7 @@ def generate_markdown(is_summary=False):
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Bank](https://img.shields.io/badge/Bank%20Card-1%20USD%20%E2%89%88%20128%20BDT-yellow?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B355k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.41.0-informational?style=for-the-badge)]({ledger_link})
+[![Version](https://img.shields.io/badge/Ledger-v2.42.0-informational?style=for-the-badge)]({ledger_link})
 [![Full Archive](https://img.shields.io/badge/Checked%20Listings-70%20Audited%20Deals-success?style=for-the-badge)]({deals_dir_link})
 
 **An executive, high-density intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories.**
@@ -115,7 +115,7 @@ def generate_markdown(is_summary=False):
 
 ---
 
-> **🕒 Last Verified:** `2026-11-06 13:10:00 (+06:00 Asia/Dhaka)` • All 55 active models and 14 archived listings verified live  
+> **🕒 Last Verified:** `2026-11-06 15:15:00 (+06:00 Asia/Dhaka)` • All 55 active models and 15 archived listings verified live  
 > **🎯 Strategic Focus Active:** 1) Deep research on sub-৳50k–৳55k BDT models • 2) Dedicated tracking of Touchscreen & 360° convertibles with 16GB RAM • 3) Radar on high-gravity outlier discounts (Tier 4).  
 > **🎉 Target Early Black Friday LIVE (Day 2 of 3):** Target's official 3-day Early Black Friday holiday electronic sale is active featuring daily tech drops!  
 > **🏷️ Best Buy Early Black Friday LIVE TODAY:** Official weekly doorbuster drops are rolling out, backed by Best Buy's Holiday Price Match Guarantee and extended holiday return window through January 15, 2027.  
@@ -129,7 +129,7 @@ def generate_markdown(is_summary=False):
 ---
 
 ## 🏆 Top Recommended Champions & Best-in-Class Winners
-*The needed info first: the absolute highest-value, verified doorbuster champions selected from 69 audited listings.*
+*The needed info first: the absolute highest-value, verified doorbuster champions selected from 70 audited listings.*
 
 | Winner Category | Recommended Model & Channel | Price (USD / Landed BDT) | Key Hardware Architecture | Why It Wins (Key Decision Factor) | Direct Deal Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :---: |
@@ -166,7 +166,7 @@ def generate_markdown(is_summary=False):
 ## 📚 Deep Research & Evaluation Library
 *For those who want to examine the deeper technical evaluations, OEM telemetry, brand architectures, and landed cost models:*
 
-* 📚 **[Complete Master Directory of All 69 Checked Deals (`ALL_CHECKED_DEALS.md`)]({deals_dir_link})**  
+* 📚 **[Complete Master Directory of All 70 Checked Deals (`ALL_CHECKED_DEALS.md`)]({deals_dir_link})**  
   *Exhaustive 16-point component breakdown for every single tracked laptop (exact CPU silicon codenames, RAM MT/s, display color gamuts, cooling heatpipes, bus speeds) plus the historical archives and disqualified listings.*
 
 * 🏛️ **[Brand & Model Series Architectural Comparison Guide (`BRAND_SERIES_GUIDE.md`)]({brand_guide_link})**  
@@ -184,7 +184,7 @@ def generate_markdown(is_summary=False):
 ---
 
 <div align="center">
-<sub>The Black Friday Deals Intelligence Suite monitors 55 active serialized models and 69 audited listings across US retail and certified refurbished channels.</sub>
+<sub>The Black Friday Deals Intelligence Suite monitors 55 active serialized models and 70 audited listings across US retail and certified refurbished channels.</sub>
 </div>
 """
     return md
