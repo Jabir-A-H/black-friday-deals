@@ -8,28 +8,29 @@
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Bank](https://img.shields.io/badge/Bank%20Card-1%20USD%20%E2%89%88%20128%20BDT-yellow?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B355k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.45.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
-[![Full Archive](https://img.shields.io/badge/Checked%20Listings-73%20Audited%20Deals-success?style=for-the-badge)](ALL_CHECKED_DEALS.md)
+[![Version](https://img.shields.io/badge/Ledger-v2.46.0-informational?style=for-the-badge)](DEALS_LEDGER.json)
+[![Full Archive](https://img.shields.io/badge/Checked%20Listings-74%20Audited%20Deals-success?style=for-the-badge)](ALL_CHECKED_DEALS.md)
+[![Workstation Convertibles](https://img.shields.io/badge/Specialist%20Dossier-Workstation%20%26%20Gaming%20Convertibles-blueviolet?style=for-the-badge)](workstation_convertibles/README.md)
 
 **An executive, high-density intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories.**
 
-[🏆 Top Champions](#-top-recommended-champions--best-in-class-winners) • [🥉 Core Sweet Spot (Sub-৳48k)](#-tier-3-value--convertibles-under-350-usd-179--349-usd) • [🥈 Tier 2 ($350–$450)](#-tier-2-mid-budget-350--450-usd) • [🥇 Tier 1 ($450–$550)](#-tier-1-high-budget-450--550-usd) • [🚀 Tier 4 Stretchers](#-tier-4-gravity-stretchers-550--699-usd) • [📚 Reference Library](#-deep-research--evaluation-library)
+[🏆 Top Champions](#-top-recommended-champions--best-in-class-winners) • [⚡ Workstation Convertibles](workstation_convertibles/README.md) • [🥉 Core Sweet Spot (Sub-৳48k)](#-tier-3-value--convertibles-under-350-usd-179--349-usd) • [🥈 Tier 2 ($350–$450)](#-tier-2-mid-budget-350--450-usd) • [🥇 Tier 1 ($450–$550)](#-tier-1-high-budget-450--550-usd) • [🚀 Tier 4 Stretchers](#-tier-4-gravity-stretchers-550--699-usd) • [📚 Reference Library](#-deep-research--evaluation-library)
 
 </div>
 
 ---
 
-> **🕒 Last Verified:** `2026-11-06 21:10:00 (+06:00 Asia/Dhaka)` • All 55 active models and 18 archived listings verified live  
+> **🕒 Last Verified:** `2026-11-06 23:15:00 (+06:00 Asia/Dhaka)` • All 55 active models and 19 archived listings verified live  
 > **🎯 Strategic Focus Active:** 1) Deep research on sub-৳50k–৳55k BDT models • 2) Dedicated tracking of Touchscreen & 360° convertibles with 16GB RAM • 3) Radar on high-gravity outlier discounts (Tier 4).  
 > **⚡ Best Buy Friday Early Black Friday Wave LIVE TODAY:** Best Buy's weekly Early Black Friday doorbusters launched today (Friday, Nov 6) with Price Match Guarantee and extended holiday returns through Jan 15, 2027: Lenovo IdeaPad Slim 3i Touch ($429.99, save $300), HP OmniBook X Flip 14 ($649.99, save $350), Lenovo LOQ 15 RTX 4060 ($699.99), and ASUS TUF A15 RTX 4060 ($679.99). Target Day 2 tech drops holding!  
 > **🔗 100% Direct Link Audit Complete:** Mobilized 6 parallel subagents under Chief of Staff protocol. Replaced search placeholders with **live, verified, defect-free direct item listing URLs** (`https://www.ebay.com/itm/...`, Dell DFS cart items, Best Buy direct SKUs) paired with clean, un-borked discoverability search links.  
 > **🔥 Dead Link Fixed & Massive Price Cuts:** Sourced live eBay Refurbished winner for **Dell Latitude 7330** at **$279.59 USD** (~৳37,745 landed, 1-Yr Allstate) replacing dead Woot 404 and saving **$70.40 USD (~৳9,500 Landed BDT)**! ThinkPad X1 Yoga Gen 6 price dropped to **$335.99 USD** (~৳45,359 landed), Latitude 5330 2-in-1 dropped to **$299.00 USD** (~৳40,365 landed), and Latitude 5430 dropped to **$329.99 USD** (~৳44,549 landed)!  
-> **🛡️ Adversarial Defect Gate Active:** Disqualified candidate #A18 (MSI Modern 14 / Modern 15) due to wafer-thin plastic hinge standoff fracture popping bezels and cracking LCDs, alongside past disqualifications (#A17 Vivobook Flip plastic hinge failure, #A16 Galaxy Book flex/cracks, #A15 Aspire Go single-channel RAM).  
+> **🛡️ Adversarial Defect Gate Active:** Disqualified candidate #A19 (HP 15-fd/fc/dy/ef) due to plastic hinge blowout, 41Wh battery starvation & crippled data-only USB-C port, alongside past disqualifications (#A18 MSI Modern 14/15 hinge popping, #A17 Vivobook Flip plastic hinge failure, #A16 Galaxy Book flex/cracks, #A15 Aspire Go single-channel RAM).  
 
 ---
 
 ## 🏆 Top Recommended Champions & Best-in-Class Winners
-*The needed info first: the absolute highest-value, verified doorbuster champions selected from 73 audited listings.*
+*The needed info first: the absolute highest-value, verified doorbuster champions selected from 74 audited listings.*
 
 | Winner Category | Recommended Model & Channel | Price (USD / Landed BDT) | Key Hardware Architecture | Why It Wins (Key Decision Factor) | Direct Verified Link & Discovery |
 | :--- | :--- | :--- | :--- | :--- | :---: |
@@ -145,8 +146,11 @@
 ## 📚 Deep Research & Evaluation Library
 *For those who want to examine the deeper technical evaluations, OEM telemetry, brand architectures, and landed cost models:*
 
-* 📚 **[Complete Master Directory of All 73 Checked Deals (`ALL_CHECKED_DEALS.md`)](ALL_CHECKED_DEALS.md)**  
+* 📚 **[Complete Master Directory of All 74 Checked Deals (`ALL_CHECKED_DEALS.md`)](ALL_CHECKED_DEALS.md)**  
   *Exhaustive 16-point component breakdown for every single tracked laptop (exact CPU silicon codenames, RAM MT/s, display color gamuts, cooling heatpipes, bus speeds) plus the historical archives and disqualified listings.*
+
+* ⚡ **[Heavy-Duty Workstation & Gaming Convertible Guide (`workstation_convertibles/README.md`)](workstation_convertibles/README.md)**  
+  *Exhaustive multi-subagent architectural investigation into heavy-usage convertible and foldable laptops featuring high-TGP discrete GPUs (up to 125W), dual internal M.2 storage bays, un-soldered SODIMM RAM slots, WWAN 4G LTE cellular modems, active digitizers, and the complete 2.5" SATA SSD engineering migration roadmap.*
 
 * 🏛️ **[Brand & Model Series Architectural Comparison Guide (`BRAND_SERIES_GUIDE.md`)](BRAND_SERIES_GUIDE.md)**  
   *Comprehensive engineering guide comparing ThinkPad X vs T vs L vs Yoga, Dell Latitude 7000 vs 5000 vs Precision, HP EliteBook vs ProBook, eGPU PCIe lanes, RAM slot modularity, and hinge mechanics.*
@@ -163,5 +167,5 @@
 ---
 
 <div align="center">
-<sub>The Black Friday Deals Intelligence Suite monitors 55 active serialized models and 73 audited listings across US retail and certified refurbished channels.</sub>
+<sub>The Black Friday Deals Intelligence Suite monitors 55 active serialized models and 74 audited listings across US retail and certified refurbished channels.</sub>
 </div>

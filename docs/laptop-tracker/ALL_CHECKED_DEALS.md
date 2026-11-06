@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-73%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-74%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-18%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-19%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A18)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A19)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -1629,6 +1629,24 @@ The following models were investigated, benchmarked, or tracked during prior swe
 
 ---
 
+### #A19: HP 15 (15-fd / 15-fc / 15-dy / 15-ef) 15.6" Clamshell Laptop (Intel Core i5-1235U/1335U / AMD Ryzen 5 5500U/7520U/7530U, 8GB-16GB RAM, 256GB/512GB SSD)
+* **Retailer / Platform:** Walmart / Target / Best Buy Black Friday Early Doorbusters • **SKUs:** `15-fd0000` / `15-fc0000` / `15-dy2000`
+* **Promotional Price:** **$249.99 – $399.99 USD** (~৳31,999 – ~৳51,199 bank / ~৳33,749 – ~৳53,999 landed)
+* **Audit Status:** `DISQUALIFIED / SEVERE HINGE CASING SEPARATION, 41WH BATTERY STARVATION & DATA-ONLY USB-C TRAP`
+* **Audit Verdict:** **REJECTED UNDER ADVERSARIAL LONGEVITY & FIELD RELIABILITY EVALUATION.** Advertised extensively as headliner $250–$400 Black Friday doorbusters across Walmart, Target, and Best Buy, featuring attractive on-paper specs (12th/13th Gen Core i5 or Ryzen 5 with up to 16GB RAM and Full HD display):
+  1. **Fragile Unreinforced Plastic Hinge Blowout:** The screen hinges are anchored directly into thin, brittle polycarbonate screw standoffs molded into the lower chassis tub with brass heat-set inserts. With normal daily opening and closing, the high mechanical leverage of the 15.6" lid snaps these plastic posts. The rear corners of the bottom tub and palmrest split completely apart, breaking structural integrity and often cracking the display bezel or LCD matrix.
+  2. **41Wh Diminutive Battery Starvation:** Ships with an undersized 3-cell 41Wh battery (compared to 53Wh–68Wh in enterprise Latitude 5000/7000, 57Wh in ThinkPad T14/X1 Carbon, and 56Wh in EliteBook 840). Real-world multitasking yields only 3 to 4 hours of battery runtime, forcing continuous AC tethering.
+  3. **Crippled Data-Only USB-C Port:** In virtually all sub-$400 retail configurations, the single USB-C port is strictly 5Gbps data-only. It **DOES NOT support USB Power Delivery** (meaning the laptop cannot be powered or charged with modern USB-C GaN travel chargers or power banks—requiring users to haul HP's proprietary 4.5mm barrel brick) and **DOES NOT support DisplayPort Alt Mode** (cannot drive external monitors over USB-C).
+  4. **Dim 250-Nit 45% NTSC Display & Spongy Deck Flex:** Utilizes low-cost 250-nit panels with washed-out colors (~62.5% sRGB) and a flexible plastic keyboard deck that bows noticeably under moderate typing pressure.
+  5. **Fails Floor Benchmark:** Fails against our strict HP EliteBook 840 G8 baseline benchmark across chassis build quality, battery endurance, thermal dissipation, and port expandability.
+  6. **Superior Actively Tracked Alternatives:** For comparable or lower cost, our tracker provides military-grade enterprise alternatives with zero hinge failure history, all-metal/magnesium chassis, and full Thunderbolt 4 / USB-PD capabilities:
+     * **Dell Latitude 7330 ($279.59 / ~৳37,745 landed):** 10-core 12th Gen i7-1265U vPro, 16GB dual-channel RAM, **400-nit high-brightness 100% sRGB low-power display**, dual Thunderbolt 4 with 100W PD and dual 4K display output, ultralight 1.13 kg magnesium-aluminum chassis, and 1-Year Allstate Warranty.
+     * **HP ProBook 445 G8 ($272.99 / ~৳36,854 landed):** 6-core/12-thread AMD Ryzen 5 5600U, **dual un-soldered SODIMM slots (up to 64GB DDR4)**, aluminum keyboard deck, SuperSpeed USB-C with Power Delivery & DisplayPort, and 2-Year Allstate Warranty.
+     * **Lenovo ThinkPad T14 Gen 2 ($294.27 / ~৳39,726 landed):** 6-core AMD Ryzen 5 PRO 5650U, un-soldered SODIMM expansion, legendary spill-resistant keyboard, TrackPoint, and MIL-STD-810H durability.
+     * **Lenovo ThinkPad X1 Carbon Gen 9 ($349.00 / ~৳47,115 landed):** Featherlight **1.13 kg** carbon-fiber/magnesium unibody, 16:10 400-nit WUXGA display, dual Thunderbolt 4, quad Dolby Atmos speakers, and 57Wh battery.
+
+---
+
 <div align="center">
-<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 18 archived/disqualified listings = 73 total audited).</sub>
+<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 19 archived/disqualified listings = 74 total audited).</sub>
 </div>
