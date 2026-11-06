@@ -206,7 +206,7 @@
 
 ---
 
-### #08: [Lenovo Yoga 7i 16" 2-in-1 Touch Laptop - Intel Core Ultra 5 / Ultra 7 - 16GB RAM - 512GB SSD - Lunar Grey](https://www.bestbuy.com/site/searchpage.jsp?st=lenovo+yoga+7i+16+touchscreen)
+### #08: [Lenovo Yoga 7i 16" 2-in-1 Touch Laptop - Intel Core Ultra 5 / Ultra 7 - 16GB RAM - 512GB SSD - Lunar Grey](https://www.bestbuy.com/site/lenovo-yoga-7i-16-wuxga-2-in-1-touch-screen-laptop-intel-core-i7-1355u-16gb-memory-512gb-ssd-storm-grey/6533950.p?skuId=6533950)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1434,7 +1434,7 @@
 
 ---
 
-### #55: [Lenovo ThinkPad X1 Yoga Gen 7 14.0" 16:10 WUXGA Touch 2-in-1 - Intel Core i5-1245U vPro / i7-1265U - 16GB LPDDR5 - 256GB/512GB Gen 4 SSD - Garaged Pen Pro](https://www.ebay.com/b/Laptops-Netbooks/175672/bn_1648276?rt=nc&LH_ItemCondition=2000)
+### #55: [Lenovo ThinkPad X1 Yoga Gen 7 14.0" 16:10 WUXGA Touch 2-in-1 - Intel Core i5-1245U vPro / i7-1265U - 16GB LPDDR5 - 256GB/512GB Gen 4 SSD - Garaged Pen Pro](https://www.ebay.com/itm/307227774971)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
