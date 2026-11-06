@@ -8,8 +8,8 @@
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Bank](https://img.shields.io/badge/Bank%20Card-1%20USD%20%E2%89%88%20128%20BDT-yellow?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B355k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.43.0-informational?style=for-the-badge)](docs/laptop-tracker/DEALS_LEDGER.json)
-[![Full Archive](https://img.shields.io/badge/Checked%20Listings-71%20Audited%20Deals-success?style=for-the-badge)](docs/laptop-tracker/ALL_CHECKED_DEALS.md)
+[![Version](https://img.shields.io/badge/Ledger-v2.44.0-informational?style=for-the-badge)](docs/laptop-tracker/DEALS_LEDGER.json)
+[![Full Archive](https://img.shields.io/badge/Checked%20Listings-72%20Audited%20Deals-success?style=for-the-badge)](docs/laptop-tracker/ALL_CHECKED_DEALS.md)
 
 **An executive, high-density intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories.**
 
@@ -19,17 +19,17 @@
 
 ---
 
-> **🕒 Last Verified:** `2026-11-06 17:15:00 (+06:00 Asia/Dhaka)` • All 55 active models and 16 archived listings verified live  
+> **🕒 Last Verified:** `2026-11-06 19:05:00 (+06:00 Asia/Dhaka)` • All 55 active models and 17 archived listings verified live  
 > **🎯 Strategic Focus Active:** 1) Deep research on sub-৳50k–৳55k BDT models • 2) Dedicated tracking of Touchscreen & 360° convertibles with 16GB RAM • 3) Radar on high-gravity outlier discounts (Tier 4).  
 > **⚡ Best Buy Friday Early Black Friday Wave LIVE TODAY:** Best Buy's weekly Early Black Friday doorbusters launched today (Friday, Nov 6) with Price Match Guarantee and extended holiday returns through Jan 15, 2027: Lenovo IdeaPad Slim 3i Touch ($429.99, save $300), HP OmniBook X Flip 14 ($649.99, save $350), Lenovo LOQ 15 RTX 4060 ($699.99), and ASUS TUF A15 RTX 4060 ($679.99). Target Day 2 tech drops holding!  
 > **🔗 100% Direct Link Audit Complete:** Mobilized 6 parallel subagents under Chief of Staff protocol. Replaced search placeholders with **live, verified, defect-free direct item listing URLs** (`https://www.ebay.com/itm/...`, Dell DFS cart items, Best Buy direct SKUs) paired with clean, un-borked discoverability search links.  
 > **🔥 Dead Link Fixed & Massive Price Cuts:** Sourced live eBay Refurbished winner for **Dell Latitude 7330** at **$279.59 USD** (~৳37,745 landed, 1-Yr Allstate) replacing dead Woot 404 and saving **$70.40 USD (~৳9,500 Landed BDT)**! ThinkPad X1 Yoga Gen 6 price dropped to **$335.99 USD** (~৳45,359 landed), Latitude 5330 2-in-1 dropped to **$299.00 USD** (~৳40,365 landed), and Latitude 5430 dropped to **$329.99 USD** (~৳44,549 landed)!  
-> **🛡️ Adversarial Defect Gate Active:** Disqualified candidate #A16 (Samsung Galaxy Book2 360 / Pro 360) due to documented chassis flex causing spontaneous AMOLED hairline screen cracking and warranty denial traps, along with battery failure traps and fake retailer SKUs.  
+> **🛡️ Adversarial Defect Gate Active:** Disqualified candidate #A17 (ASUS Vivobook 14 Flip / Vivobook S 14 Flip) due to unreinforced plastic hinge anchor snapping, lateral screen torque causing touchscreen glass stress fractures, and international warranty denial traps, alongside past disqualifications (#A16 Galaxy Book flex/cracks, #A15 Aspire Go 15 single-channel RAM).  
 
 ---
 
-## 🏆 Top Recommended Champions & Best-in-Class Winners & Best-in-Class Winners
-*The needed info first: the absolute highest-value, verified doorbuster champions selected from 70 audited listings.*
+## 🏆 Top Recommended Champions & Best-in-Class Winners
+*The needed info first: the absolute highest-value, verified doorbuster champions selected from 72 audited listings.*
 
 | Winner Category | Recommended Model & Channel | Price (USD / Landed BDT) | Key Hardware Architecture | Why It Wins (Key Decision Factor) | Direct Verified Link & Discovery |
 | :--- | :--- | :--- | :--- | :--- | :---: |
@@ -145,7 +145,7 @@
 ## 📚 Deep Research & Evaluation Library
 *For those who want to examine the deeper technical evaluations, OEM telemetry, brand architectures, and landed cost models:*
 
-* 📚 **[Complete Master Directory of All 71 Checked Deals (`ALL_CHECKED_DEALS.md`)](docs/laptop-tracker/ALL_CHECKED_DEALS.md)**  
+* 📚 **[Complete Master Directory of All 72 Checked Deals (`ALL_CHECKED_DEALS.md`)](docs/laptop-tracker/ALL_CHECKED_DEALS.md)**  
   *Exhaustive 16-point component breakdown for every single tracked laptop (exact CPU silicon codenames, RAM MT/s, display color gamuts, cooling heatpipes, bus speeds) plus the historical archives and disqualified listings.*
 
 * 🏛️ **[Brand & Model Series Architectural Comparison Guide (`BRAND_SERIES_GUIDE.md`)](docs/laptop-tracker/BRAND_SERIES_GUIDE.md)**  
@@ -163,5 +163,5 @@
 ---
 
 <div align="center">
-<sub>The Black Friday Deals Intelligence Suite monitors 55 active serialized models and 71 audited listings across US retail and certified refurbished channels.</sub>
+<sub>The Black Friday Deals Intelligence Suite monitors 55 active serialized models and 72 audited listings across US retail and certified refurbished channels.</sub>
 </div>

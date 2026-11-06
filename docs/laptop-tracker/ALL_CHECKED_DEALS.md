@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-71%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-72%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-16%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-17%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A16)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A17)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -1595,8 +1595,23 @@ The following models were investigated, benchmarked, or tracked during prior swe
      * **Dell Latitude 5330 2-in-1 ($299.00 / ~৳40,365 landed):** 10-core 12th Gen i7-1265U, carbon-fiber reinforced structure, and dual TB4 ports.
      * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** 8-core/16-thread AMD Ryzen 7 PRO 5850U with **dual un-soldered SODIMM slots (up to 64GB)** and Corning Gorilla Glass 5.
 
+### #A17: ASUS Vivobook 14 Flip & Vivobook S 14 Flip (TP1400 / TP3400 / TN3402 / TP3402) 14.0" FHD/WUXGA Touch 2-in-1 (AMD Ryzen 5 5600H/7530U / Intel Core i5-1235U/1335U, 8GB-16GB Soldered RAM, 256GB/512GB SSD)
+* **Retailer / Platform:** Best Buy / Amazon / Walmart / Newegg Early Black Friday Doorbuster • **SKUs:** `TN3402YA-WS54` / `TP3402VA-DS52T`
+* **Promotional Doorbuster Price:** **$349.99 – $499.99 USD** (~৳44,799 – ~৳63,999 bank / ~৳47,249 – ~৳67,499 landed)
+* **Audit Status:** `DISQUALIFIED / SEVERE HINGE PLASTIC ANCHOR SNAPPING & SCREEN CRACKING HAZARD`
+* **Audit Verdict:** **REJECTED UNDER CONVERTIBLE STRUCTURAL INTEGRITY & POST-SALE RELIABILITY AUDIT.** Marketed heavily as an attractive budget-to-midrange 14-inch 360-degree touch convertible under $500, but disqualified following an exhaustive mechanical and field reliability investigation:
+  1. **Plastic Hinge Mount Failure ("The Stiff Hinge Snap"):** Unlike enterprise 360° convertibles engineered with unibody aluminum or magnesium-alloy chassis, the Vivobook 14 Flip series anchors its high-torque dual steel hinges directly into **unreinforced plastic screw standoffs (bosses)** molded into the chassis and display frame. Over repeated opening, closing, and flipping into tablet mode, the high rotational torque shears the plastic screw bosses. The hinge pops outward, rupturing the plastic casing, creating audible snapping, and separating the display bezel.
+  2. **Catastrophic Screen Stress Cracking & Delamination:** Because the hinge assembly is positioned flush against the LCD/touch digitizer assembly, a bound or dislodged hinge transfers direct lateral torsion onto the glass panel. Countless users and repair technicians report opening the laptop only to hear a sharp pop as the panel suffers spontaneous diagonal hairline fractures or internal touch-digitizer failure without any drops or impacts.
+  3. **High-Risk International Warranty Denial:** Authorized service centers routinely classify hinge breakage and consequent screen cracking as "user-induced accidental damage" rather than structural fatigue. For buyers importing to Bangladesh without official local ASUS US warranty coverage, out-of-warranty screen and palmrest shell replacements exceed **$300–$400+ USD**, rendering the machine an economic total loss.
+  4. **Soldered RAM Bottleneck:** Most promotional sub-$450 configurations ship with 8GB of non-upgradeable soldered RAM (violating our strict 16GB non-negotiable protocol). Higher-end 16GB models often solder 8GB with a single 8GB SODIMM, limiting dual-channel performance ceilings.
+  5. **Superior Actively Tracked Alternatives:** In the same $299–$369 price window, our tracker provides rock-solid, military-grade enterprise convertibles with zero structural hinge failure history:
+     * **ThinkPad X1 Yoga Gen 6 ($335.99 / ~৳45,359 landed):** Dual-cam reinforced steel hinges, CNC all-aluminum unibody, 14.0" 16:10 400-nit low power touch display, garaged stylus, dual Thunderbolt 4, and 100% verified battery health with 1-Year Allstate Warranty.
+     * **Dell Latitude 9420 2-in-1 ($354.99 / ~৳47,924 landed):** Diamond-cut CNC aluminum unibody, 500-nit 16:10 QHD+ (2560x1600) display, Corning Gorilla Glass 6 DX, motorized SafeShutter webcam, and 2-Year Allstate Warranty.
+     * **Dell Latitude 5330 2-in-1 ($299.00 / ~৳40,365 landed):** 10-core 12th Gen i7-1265U vPro, carbon-fiber reinforced chassis, dual TB4 ports, and active pen support for under $300.
+     * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** 8-core/16-thread AMD Ryzen 7 PRO 5850U with **dual un-soldered SODIMM slots (up to 64GB)**, aluminum keyboard deck, and Corning Gorilla Glass 5.
+
 ---
 
 <div align="center">
-<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 16 archived/disqualified listings = 71 total audited).</sub>
+<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 17 archived/disqualified listings = 72 total audited).</sub>
 </div>
