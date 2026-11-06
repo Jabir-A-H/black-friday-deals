@@ -32,7 +32,7 @@
 | **Retailer / Channel** | **Walmart / Amazon / Newegg** |
 | **Pricing Breakdown** | **$649.99 USD** *(MSRP: $999.99 • Lowest Seen: $599.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳83,199 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳87,749 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel Raptor Lake-H Core i7-13620H (10 Cores / 16 Threads: 6 Performance Cores up to 4.90 GHz + 4 Efficient Cores up to 3.60 GHz, 24MB Intel Smart Cache, 45W Base TDP / 115W Turbo Power) |
 | **Graphics Subsystem (GPU & eGPU)** | NVIDIA GeForce RTX 4060 Laptop GPU (8GB GDDR6 dedicated, 3,072 CUDA Cores, 128-bit memory bus, 75W TGP with Dynamic Boost, Ada Lovelace AD107, DLSS 3 Frame Generation, 144Hz G-SYNC external) |
 | **Memory Architecture (RAM)** | 16GB DDR5-5200 MHz in dual-channel • 2× un-soldered SODIMM slots (both upgradeable up to 32GB/64GB total) |
@@ -58,7 +58,7 @@
 | **Retailer / Channel** | **Walmart** |
 | **Pricing Breakdown** | **$649.00 USD** *(MSRP: $999.00 • Lowest Seen: $649.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳83,072 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳87,615 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Apple M2 Silicon (8-Core CPU: 4 Avalanche Performance Cores up to 3.49 GHz + 4 Blizzard Efficiency Cores up to 2.42 GHz, 16-Core Neural Engine @ 15.8 TOPS, 100 GB/s unified memory bandwidth) |
 | **Graphics Subsystem (GPU & eGPU)** | Apple M2 8-Core / 10-Core Integrated GPU (Metal 3 hardware acceleration, ProRes & ProRes RAW hardware decode/encode engines, 8K H.264/HEVC decode, supports 1 external display up to 6K @ 60Hz) |
 | **Memory Architecture (RAM)** | 8GB / 16GB Unified Memory (LPDDR5-6400 MHz, 100 GB/s bandwidth) • 100% On-Package Soldered (Non-upgradeable post-purchase; verify 16GB model for heavier multitasking) |
@@ -84,7 +84,7 @@
 | **Retailer / Channel** | **Dell Refurbished (DFS)** |
 | **Pricing Breakdown** | **$579.00 USD** *(MSRP: $969.00 • Lowest Seen: $579.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳74,112 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳78,165 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 13th Gen Raptor Lake-U Core i7-1365U vPro (10 Cores / 12 Threads: 2 Performance Cores up to 5.20 GHz Turbo + 8 Efficient Cores up to 3.90 GHz, 12MB Intel Smart Cache, 15W Base TDP / 55W Maximum Turbo Power, Intel vPro Enterprise management) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (96 Execution Units / 768 ALUs, up to 1.30 GHz graphics frequency, DirectX 12.1, OpenGL 4.6, OpenCL 3.0, QuickSync Video hardware AV1/HEVC decode, supports 3 external 4K displays) |
 | **Memory Architecture (RAM)** | 32GB LPDDR5-4800 MHz dual-channel memory • 100% On-Board Soldered (Apex executive tier: pre-configured at maximum capacity, perfectly future-proofed for VMs, heavy IDEs, and local AI workflows) |
@@ -110,7 +110,7 @@
 | **Retailer / Channel** | **eBay (Acer Official Outlet)** |
 | **Pricing Breakdown** | **$577.88 USD** *(MSRP: $999.99 • Lowest Seen: $577.88)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳73,969 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳78,014 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel Core Ultra 5 125H / Ultra 7 155H (Meteor Lake, 14 Cores / 18 Threads: 4 P-cores up to 4.50 GHz + 8 E-cores up to 3.60 GHz + 2 Low Power E-cores, 18MB Cache, 28W Base / 115W Turbo, Intel AI Boost NPU engine for on-device AI tasks) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Arc Graphics (7 Xe-Cores / 112 Vector Engines or 8 Xe-Cores / 128 Vector Engines, up to 2.25 GHz, hardware Ray Tracing units, Intel XeSS AI upscaling, hardware AV1 encode/decode, DirectX 12 Ultimate) |
 | **Memory Architecture (RAM)** | 16GB LPDDR5x-6400 MHz ultra-high-speed dual-channel memory • 100% Soldered (Optimized for maximum iGPU Arc memory bandwidth and low latency AI inference) |
@@ -136,7 +136,7 @@
 | **Retailer / Channel** | **Dell Refurbished (DFS)** |
 | **Pricing Breakdown** | **$619.00 USD** *(MSRP: $1039.00 • Lowest Seen: $619.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳79,232 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳83,565 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 13th Gen Raptor Lake-H Core i5-13600H (12 Cores / 16 Threads: 4 Performance Cores up to 4.80 GHz Turbo + 8 Efficient Cores up to 3.60 GHz, 18MB Intel Smart Cache, 45W Base TDP / 115W Maximum Turbo Power, heavy-duty sustained multi-threading) |
 | **Graphics Subsystem (GPU & eGPU)** | NVIDIA RTX A500 Laptop GPU (4GB GDDR6 dedicated VRAM, 2,048 CUDA Cores, 64 3rd-Gen Tensor Cores for AI matrix acceleration, 16 2nd-Gen Ray Tracing Cores, 64-bit bus, ~112 GB/s bandwidth, 35W–50W TGP, Ampere GA107, ISV-Certified Enterprise Studio Drivers for SolidWorks/AutoCAD/CATIA/PTC Creo, full Dual Thunderbolt 4 eGPU support) |
 | **Memory Architecture (RAM)** | 16GB DDR5-5200 MHz dual-channel memory • 2× un-soldered SODIMM slots (both upgradeable up to 64GB DDR5-5200 with 2× 32GB modules; non-soldered commercial architecture) |
@@ -162,7 +162,7 @@
 | **Retailer / Channel** | **Best Buy / Walmart** |
 | **Pricing Breakdown** | **$679.99 USD** *(MSRP: $1099.99 • Lowest Seen: $679.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳87,039 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳91,799 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | AMD Ryzen 5 7535HS (6 Cores / 12 Threads, 3.3 GHz base, up to 4.55 GHz Boost, Zen 3+, 16MB L3 Cache, 35W–54W TDP) OR AMD Ryzen 7 7435HS (8 Cores / 16 Threads, up to 4.5 GHz, 16MB Cache) |
 | **Graphics Subsystem (GPU & eGPU)** | NVIDIA GeForce RTX 4060 Laptop GPU (8GB GDDR6 dedicated, 3,072 CUDA Cores, 128-bit bus, Full-wattage 140W Maximum TGP with Dynamic Boost, MUX Switch with NVIDIA Advanced Optimus, Ada Lovelace AD107, DLSS 3 Frame Generation) |
 | **Memory Architecture (RAM)** | 16GB DDR5-4800 MHz dual-channel memory • 2× un-soldered SODIMM slots (both upgradeable up to 64GB DDR5) |
@@ -188,7 +188,7 @@
 | **Retailer / Channel** | **Best Buy / Walmart** |
 | **Pricing Breakdown** | **$699.99 USD** *(MSRP: $999.99 • Lowest Seen: $699.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳89,599 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳94,499 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | AMD Ryzen 7 7435HS (8 Cores / 16 Threads, 3.10 GHz base clock, up to 4.50 GHz Max Boost, Zen 3+ architecture, 16MB L3 Cache, 35W–54W TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | NVIDIA GeForce RTX 4060 Laptop GPU (8GB GDDR6 dedicated, 3,072 CUDA Cores, 128-bit bus, 115W TGP with Dynamic Boost, MUX Switch + NVIDIA Advanced Optimus, Ada Lovelace AD107, DLSS 3 Frame Gen) |
 | **Memory Architecture (RAM)** | 16GB DDR5-4800 MHz dual-channel memory • 2× un-soldered SODIMM slots (upgradeable up to 32GB/64GB total) |
@@ -214,7 +214,7 @@
 | **Retailer / Channel** | **Best Buy** |
 | **Pricing Breakdown** | **$599.99 USD** *(MSRP: $999.99 • Lowest Seen: $599.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳76,799 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳80,999 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel Core Ultra 5 125U / Ultra 7 155U (Meteor Lake, 12 Cores / 14 Threads: 2 P-cores up to 4.30/4.80 GHz + 8 E-cores up to 3.60/3.80 GHz + 2 LPE-cores, 12MB Cache, 15W Base / 57W Turbo, Intel AI Boost NPU) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Graphics / Intel Arc Graphics (4 Xe-cores or 7 Xe-cores, DirectX 12 Ultimate, AV1 hardware decode, supports 3 external 4K displays) |
 | **Memory Architecture (RAM)** | 16GB LPDDR5x-7467 MHz ultra-fast dual-channel memory • 100% Soldered (Ultra-high frequency for responsive multitasking and NPU data handling) |
@@ -240,7 +240,7 @@
 | **Retailer / Channel** | **Dell Refurbished (DFS)** |
 | **Pricing Breakdown** | **$599.00 USD** *(MSRP: $899.00 • Lowest Seen: $539.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳76,672 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳80,865 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 13th Gen Raptor Lake-U Core i7-1365U vPro (10 Cores / 12 Threads: 2 Performance Cores up to 5.20 GHz Turbo + 8 Efficient Cores up to 3.90 GHz, 12MB Intel Smart Cache, 15W Base / 55W Turbo, Intel vPro Enterprise) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (96 Execution Units, up to 1.30 GHz graphics frequency, DirectX 12.1, OpenGL 4.6, QuickSync Video, supports 3 external 4K displays) |
 | **Memory Architecture (RAM)** | 16GB LPDDR5-4800 MHz dual-channel memory • 100% On-Board Soldered (Meets the 16GB non-negotiable operational baseline) |
@@ -266,7 +266,7 @@
 | **Retailer / Channel** | **Best Buy** |
 | **Pricing Breakdown** | **$649.99 USD** *(MSRP: $999.99 • Lowest Seen: $649.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳83,199 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳87,749 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel Meteor Lake Core Ultra (Intel Core Ultra 5 226V (8 Cores: 4 Lion Cove P-cores + 4 Skymont E-cores, up to 4.5 GHz, Lunar Lake with 40+ TOPS NPU)) with Intel AI Boost NPU engine (15W–28W Base / up to 115W Turbo) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Arc Graphics 130V (Xe2 architecture with direct Ray Tracing & XMX AI engines) • External eGPU: Supported (Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -294,7 +294,7 @@
 | **Retailer / Channel** | **Walmart** |
 | **Pricing Breakdown** | **$499.00 USD** *(MSRP: $699.99 • Lowest Seen: $499.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳63,872 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳67,365 BDT** |
-| **Stock & Verification** | `OUT_OF_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `OUT_OF_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | AMD Ryzen 5 8645HS (6 Cores / 12 Threads, 4.30 GHz base, up to 5.0 GHz Max Boost, Zen 4 architecture on 4nm TSMC process, 16MB L3 Cache, 45W Base TDP, built-in AMD Ryzen AI NPU up to 16 TOPS) |
 | **Graphics Subsystem (GPU & eGPU)** | NVIDIA GeForce RTX 4050 Laptop GPU (6GB GDDR6 dedicated, 2,560 CUDA Cores, 96-bit bus, 75W TGP with Dynamic Boost, Ada Lovelace AD107, DLSS 3 Frame Generation, 144Hz external G-SYNC) + AMD Radeon 760M iGPU |
 | **Memory Architecture (RAM)** | 8GB / 16GB DDR5-5600 MHz high-speed memory • 2× un-soldered SODIMM slots (both upgradeable up to 32GB/64GB total DDR5) |
@@ -320,7 +320,7 @@
 | **Retailer / Channel** | **Woot (An Amazon Company)** |
 | **Pricing Breakdown** | **$539.99 USD** *(MSRP: $1499.00 • Lowest Seen: $539.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳69,119 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳72,899 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake (Intel Core i7-1265U (10 Cores / 12 Threads, up to 4.8 GHz vPro, 12th Gen), Intel Smart Cache, 15W Base / 55W Turbo Power) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Supported (Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -346,7 +346,7 @@
 | **Retailer / Channel** | **Walmart** |
 | **Pricing Breakdown** | **$479.00 USD** *(MSRP: $699.99 • Lowest Seen: $449.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳61,312 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳64,665 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel Core i5 (H-Series) (Official OEM Platform Architecture) |
 | **Graphics Subsystem (GPU & eGPU)** | NVIDIA GeForce RTX 3050 Laptop GPU (6GB GDDR6 dedicated, 2048 CUDA cores, 45W TGP with Dynamic Boost) • External eGPU: Not Supported (Standard USB-C 3.2 data/DP only, no PCIe tunneling) |
 | **Memory Architecture (RAM)** | 16GB/32GB DDR4 or DDR5 • 2× un-soldered SODIMM slots (upgradeable up to 64GB total dual-channel) |
@@ -372,7 +372,7 @@
 | **Retailer / Channel** | **Walmart** |
 | **Pricing Breakdown** | **$499.00 USD** *(MSRP: $649.99 • Lowest Seen: $499.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳63,872 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳67,365 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 13th Gen Raptor Lake (Intel Core i7-1355U (10 Cores / 12 Threads, up to 5.0 GHz), Intel Smart Cache, 15W–45W configurable TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Not Supported (Standard USB-C 3.2 data/DP only, no PCIe tunneling) |
 | **Memory Architecture (RAM)** | 16GB/32GB DDR4 or DDR5 • 2× un-soldered SODIMM slots (upgradeable up to 64GB total dual-channel) |
@@ -398,7 +398,7 @@
 | **Retailer / Channel** | **Best Buy** |
 | **Pricing Breakdown** | **$499.99 USD** *(MSRP: $899.99 • Lowest Seen: $499.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳63,999 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳67,499 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 13th Gen Raptor Lake (Intel Core i5-1335U (10 Cores / 12 Threads, up to 4.6 GHz), Intel Smart Cache, 15W–45W configurable TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Not Supported (Standard USB-C 3.2 data/DP only, no PCIe tunneling) |
 | **Memory Architecture (RAM)** | 16GB/32GB DDR4 or DDR5 • 2× un-soldered SODIMM slots (upgradeable up to 64GB total dual-channel) |
@@ -424,7 +424,7 @@
 | **Retailer / Channel** | **eBay (Acer Official Outlet)** |
 | **Pricing Breakdown** | **$473.10 USD** *(MSRP: $599.99 • Lowest Seen: $449.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳60,557 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳63,868 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | AMD Ryzen 5 7520U (4 Cores / 8 Threads) (Official OEM Platform Architecture) |
 | **Graphics Subsystem (GPU & eGPU)** | AMD Radeon 610M Graphics • External eGPU: Not Supported (Standard USB-C 3.2 data/DP only, no PCIe tunneling) |
 | **Memory Architecture (RAM)** | 16GB/32GB DDR4 or DDR5 • 2× un-soldered SODIMM slots (upgradeable up to 64GB total dual-channel) |
@@ -452,7 +452,7 @@
 | **Retailer / Channel** | **Woot (An Amazon Company)** |
 | **Pricing Breakdown** | **$379.00 USD** *(MSRP: $1399.00 • Lowest Seen: $379.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳48,512 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳51,165 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake (Intel Core i7-1265U (10 Cores / 12 Threads, up to 4.8 GHz vPro, 12th Gen), Intel Smart Cache, 15W Base / 55W Turbo Power) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Supported (Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -478,7 +478,7 @@
 | **Retailer / Channel** | **Woot (An Amazon Company)** |
 | **Pricing Breakdown** | **$439.99 USD** *(MSRP: $1299.99 • Lowest Seen: $439.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳56,319 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳59,399 BDT** |
-| **Stock & Verification** | `OUT_OF_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `OUT_OF_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 11th Gen Tiger Lake (Intel Core i7-1185G7 (4 Cores / 8 Threads, up to 4.8 GHz vPro), 10nm SuperFin, 12W–28W configurable TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics 96EU • External eGPU: Supported (Thunderbolt 3/4 40Gbps eGPU ready) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -504,7 +504,7 @@
 | **Retailer / Channel** | **Best Buy / Dell / Walmart** |
 | **Pricing Breakdown** | **$449.99 USD** *(MSRP: $599.99 • Lowest Seen: $379.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳57,599 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳60,749 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 13th Gen Raptor Lake (Intel Core i5-1235U / i5-1334U (10 Cores / 12 Threads), Intel Smart Cache, 15W–45W configurable TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Not Supported (Standard USB-C 3.2 data/DP only, no PCIe tunneling) |
 | **Memory Architecture (RAM)** | 16GB/32GB DDR4 or DDR5 • 2× un-soldered SODIMM slots (upgradeable up to 64GB total dual-channel) |
@@ -530,7 +530,7 @@
 | **Retailer / Channel** | **Woot (An Amazon Company)** |
 | **Pricing Breakdown** | **$449.99 USD** *(MSRP: $1599.00 • Lowest Seen: $449.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳57,599 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳60,749 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake (Intel Core i7-1265U (10 Cores / 12 Threads, up to 4.8 GHz vPro, 12th Gen), Intel Smart Cache, 15W Base / 55W Turbo Power) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Supported (Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -556,7 +556,7 @@
 | **Retailer / Channel** | **Dell Refurbished (DFS)** |
 | **Pricing Breakdown** | **$409.00 USD** *(MSRP: $719.00 • Lowest Seen: $429.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳52,352 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳55,215 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake (Intel Core i5-1235U (10 Cores / 12 Threads, 3.30 GHz, 12th Gen), Intel Smart Cache, 15W Base / 55W Turbo Power) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Supported (Thunderbolt 3/4 40Gbps eGPU ready) |
 | **Memory Architecture (RAM)** | 16GB/32GB DDR4 or DDR5 • 2× un-soldered SODIMM slots (upgradeable up to 64GB total dual-channel) |
@@ -582,7 +582,7 @@
 | **Retailer / Channel** | **Best Buy** |
 | **Pricing Breakdown** | **$429.99 USD** *(MSRP: $729.99 • Lowest Seen: $429.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳55,039 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳58,049 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake (Intel Core 5 120U (10 Cores / 12 Threads, up to 5.0 GHz), Intel Smart Cache, 15W Base / 55W Turbo Power) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Graphics • External eGPU: Not Supported (Standard USB-C 3.2 data/DP only, no PCIe tunneling) |
 | **Memory Architecture (RAM)** | 16GB/32GB DDR4 or DDR5 • 2× un-soldered SODIMM slots (upgradeable up to 64GB total dual-channel) |
@@ -606,9 +606,9 @@
 | :--- | :--- |
 | **Tracking ID & SKU** | `hp-envy-x360-15-touch` • **SKU:** `Envy-x360-15-16GB` |
 | **Retailer / Channel** | **Walmart Restored / eBay Certified Refurbished** |
-| **Pricing Breakdown** | **$369.00 USD** *(MSRP: $899.99 • Lowest Seen: $369.00)* |
+| **Pricing Breakdown** | **$339.99 USD** *(MSRP: $899.99 • Lowest Seen: $369.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳47,232 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳49,815 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | AMD Ryzen 5 7530U / Ryzen 7 5700U (up to 8 Cores / 16 Threads) (Official OEM Platform Architecture) |
 | **Graphics Subsystem (GPU & eGPU)** | AMD Radeon Graphics • External eGPU: Not Supported (Standard USB-C 3.2 data/DP only, no PCIe tunneling) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -632,9 +632,9 @@
 | :--- | :--- |
 | **Tracking ID & SKU** | `thinkpad-x1-yoga-gen6` • **SKU:** `ThinkPad-X1-Yoga-G6` |
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
-| **Pricing Breakdown** | **$379.00 USD** *(MSRP: $1799.00 • Lowest Seen: $369.00)* |
+| **Pricing Breakdown** | **$335.99 USD** *(MSRP: $1799.00 • Lowest Seen: $369.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳48,512 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳51,165 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 11th Gen Tiger Lake Core i5-1135G7 / i7-1185G7 vPro (4 Cores / 8 Threads, up to 4.80 GHz Turbo, 12MB Cache, 12W–28W configurable TDP, Intel Evo platform certified) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (96 Execution Units / 768 ALUs @ 1.35 GHz, DirectX 12.1, OpenGL 4.6, dual Thunderbolt 4 eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB LPDDR4x-4266 MHz dual-channel memory • 100% Soldered (High-frequency executive memory architecture) |
@@ -660,7 +660,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Dell Outlet / Amazon Renewed** |
 | **Pricing Breakdown** | **$369.00 USD** *(MSRP: $849.99 • Lowest Seen: $349.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳47,232 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳49,815 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 13th Gen Raptor Lake (Intel Core i5-1335U (10 Cores / 12 Threads, up to 4.6 GHz, 13th Gen) / AMD Ryzen 5 7530U, Intel Smart Cache, 15W–45W configurable TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics / AMD Radeon Graphics • External eGPU: Not Supported (Standard USB-C 3.2 data/DP only, no PCIe tunneling) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -686,7 +686,7 @@
 | **Retailer / Channel** | **Dell Refurbished (DFS)** |
 | **Pricing Breakdown** | **$365.00 USD** *(MSRP: $1499.00 • Lowest Seen: $325.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳46,720 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳49,275 BDT** |
-| **Stock & Verification** | `OUT_OF_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `OUT_OF_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 11th Gen Tiger Lake (Intel Core i7-1185G7 (4 Cores / 8 Threads), 10nm SuperFin, 12W–28W configurable TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Supported (Thunderbolt 3/4 40Gbps eGPU ready) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -710,9 +710,9 @@
 | :--- | :--- |
 | **Tracking ID & SKU** | `hp-elitebook-840-g8-i7-16gb` • **SKU:** `840G8-i7-16GB` |
 | **Retailer / Channel** | **Target Restored / BlairTech** |
-| **Pricing Breakdown** | **$369.99 USD** *(MSRP: $1399.00 • Lowest Seen: $349.99)* |
+| **Pricing Breakdown** | **$269.99 USD** *(MSRP: $1399.00 • Lowest Seen: $349.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳47,359 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳49,949 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 11th Gen Tiger Lake (Intel Core i7-1185G7 (4 Cores / 8 Threads, up to 4.8 GHz), 10nm SuperFin, 12W–28W configurable TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Supported (Thunderbolt 3/4 40Gbps eGPU ready) |
 | **Memory Architecture (RAM)** | 16GB/32GB DDR4 or DDR5 • 2× un-soldered SODIMM slots (upgradeable up to 64GB total dual-channel) |
@@ -738,7 +738,7 @@
 | **Retailer / Channel** | **Woot (An Amazon Company)** |
 | **Pricing Breakdown** | **$439.99 USD** *(MSRP: $1499.00 • Lowest Seen: $439.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳56,319 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳59,399 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake (Intel Core i5-1245U (10 Cores / 12 Threads, up to 4.4 GHz vPro, 12th Gen), Intel Smart Cache, 15W Base / 55W Turbo Power) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Supported (Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -764,7 +764,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
 | **Pricing Breakdown** | **$369.00 USD** *(MSRP: $1349.00 • Lowest Seen: $359.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳47,232 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳49,815 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake-U Core i5-1245U vPro (10 Cores / 12 Threads: 2 P-cores up to 4.40 GHz + 8 E-cores up to 3.30 GHz, 12MB Cache, 15W Base / 55W Turbo) OR AMD Ryzen 5 PRO 6650U (6 Cores / 12 Threads Zen 3+, 2.9 GHz base, 4.5 GHz Boost, 16MB L3 Cache, 15W–28W) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (80 Execution Units) OR AMD Radeon 660M (RDNA 2 architecture, 6 Compute Units @ 1.9 GHz, DirectX 12 Ultimate, hardware AV1 decode) • Full Thunderbolt 4 / USB4 eGPU ready |
 | **Memory Architecture (RAM)** | Intel: 8GB or 16GB DDR4-3200 soldered + 1× open un-soldered DDR4 SODIMM slot (upgradeable up to 40GB or 48GB total DDR4) • AMD: 16GB/32GB LPDDR5-6400 soldered dual-channel |
@@ -790,7 +790,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
 | **Pricing Breakdown** | **$339.00 USD** *(MSRP: $1299.00 • Lowest Seen: $339.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳43,392 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳45,765 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake-U Core i5-1245U vPro (10 Cores / 12 Threads: 2 P-cores up to 4.40 GHz + 8 E-cores up to 3.30 GHz, 12MB Cache, 15W Base / 55W Turbo) OR AMD Ryzen 7 PRO 5875U (8 Cores / 16 Threads Zen 3, 2.0 GHz base, up to 4.5 GHz Boost, 16MB L3 Cache, 15W TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (80EU / 96EU) OR AMD Radeon Vega 8 Graphics (8 Compute Units @ 2.0 GHz, DirectX 12) • eGPU ready via Thunderbolt 4 on Intel SKU |
 | **Memory Architecture (RAM)** | 16GB DDR4-3200 (Intel) or 16GB LPDDR4x-4266 (AMD) dual-channel memory • 100% Soldered (Meets non-negotiable 16GB convertible baseline protocol) |
@@ -816,7 +816,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Dell Outlet / Amazon Renewed** |
 | **Pricing Breakdown** | **$369.00 USD** *(MSRP: $1449.00 • Lowest Seen: $359.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳47,232 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳49,815 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake-U Core i5-1245U vPro (10 Cores / 12 Threads: 2 Performance Cores up to 4.40 GHz Turbo + 8 Efficient Cores up to 3.30 GHz, 12MB Cache, 15W Base / 55W Turbo, Intel vPro Enterprise management) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (96 Execution Units, up to 1.20 GHz, DirectX 12.1, OpenGL 4.6, QuickSync Video hardware AV1 decode, Dual Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB LPDDR4x-4266 MHz dual-channel memory • 100% On-Board Soldered (Meets the 16GB non-negotiable convertible protocol for reliable multitasking) |
@@ -842,7 +842,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
 | **Pricing Breakdown** | **$359.00 USD** *(MSRP: $1399.00 • Lowest Seen: $349.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳45,952 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳48,465 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | AMD Ryzen 7 PRO 5850U (8 Cores / 16 Threads, 1.9 GHz base, up to 4.4 GHz Max Boost, Zen 3 architecture, 16MB L3 Cache, 15W Base TDP / 25W cTDP, AMD PRO Security & Manageability) OR Intel Core i7-1165G7 (4C/8T up to 4.7 GHz) |
 | **Graphics Subsystem (GPU & eGPU)** | AMD Radeon Vega 8 Graphics (8 Compute Units, 2000 MHz) OR NVIDIA Quadro T500 4GB GDDR6 dedicated GPU (896 CUDA Cores, 64-bit, 18W–25W TGP, ISV-Certified Enterprise Drivers for SolidWorks/AutoCAD/CATIA/Revit) |
 | **Memory Architecture (RAM)** | 16GB DDR4-3200 MHz memory (16GB soldered or 8GB soldered + 8GB SODIMM) • 1× open un-soldered DDR4 SODIMM slot (upgradeable up to 40GB–48GB total; non-negotiable repairability) |
@@ -868,7 +868,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished** |
 | **Pricing Breakdown** | **$369.00 USD** *(MSRP: $1449.00 • Lowest Seen: $369.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳47,232 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳49,815 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | AMD Ryzen 5 PRO 6650U (Zen 3+ on TSMC 6nm, 6 Cores / 12 Threads, 2.90 GHz base, up to 4.50 GHz Boost, 16MB L3 Cache, 15W–28W cTDP) OR Intel 12th Gen Alder Lake-U Core i5-1245U vPro (10 Cores / 12 Threads up to 4.40 GHz) |
 | **Graphics Subsystem (GPU & eGPU)** | AMD Radeon 660M RDNA 2 Graphics (6 Compute Units / 384 Shaders, 1.9 GHz clock, DirectX 12 Ultimate, Ray Tracing capable) OR Intel Iris Xe Graphics (96EU) • Full 40Gbps Dual USB4 / Thunderbolt 4 eGPU support |
 | **Memory Architecture (RAM)** | 16GB LPDDR5-6400 MHz ultra-fast dual-channel memory • 100% Soldered (Ultra-low power draw, maximum memory bandwidth for RDNA 2 graphics architecture) |
@@ -896,7 +896,7 @@
 | **Retailer / Channel** | **Blair Technology Group** |
 | **Pricing Breakdown** | **$179.99 USD** *(MSRP: $1299.00 • Lowest Seen: $179.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳23,039 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳24,299 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 10th Gen Comet Lake-U Core i5-10310U vPro (4 Cores / 8 Threads, 1.70 GHz base, up to 4.40 GHz Turbo, 6MB Intel Smart Cache, 15W Base TDP / 25W Max) |
 | **Graphics Subsystem (GPU & eGPU)** | NVIDIA Quadro P520 (2GB GDDR5 dedicated VRAM, 384 CUDA Cores, 64-bit bus, 18W TGP, Pascal architecture, ISV-Certified Enterprise Drivers for AutoCAD/SolidWorks) • 1× Thunderbolt 3 eGPU ready |
 | **Memory Architecture (RAM)** | 8GB / 16GB DDR4-2666 MHz memory • 2× un-soldered SODIMM slots (both upgradeable up to 64GB DDR4 with 2× 32GB modules) |
@@ -922,7 +922,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
 | **Pricing Breakdown** | **$294.27 USD** *(MSRP: $1199.00 • Lowest Seen: $279.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳37,667 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳39,726 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | AMD Ryzen 5 PRO 5650U (6 Cores / 12 Threads, 2.30 GHz base, up to 4.20 GHz Boost, Zen 3 architecture, 16MB L3 Cache, 15W TDP) OR Intel Core i5-1135G7 (4C/8T) |
 | **Graphics Subsystem (GPU & eGPU)** | AMD Radeon Vega 7 Graphics (7 Compute Units @ 1.8 GHz, DirectX 12) OR Intel Iris Xe (80EU) • Thunderbolt 4 eGPU support on Intel SKU |
 | **Memory Architecture (RAM)** | 16GB DDR4-3200 MHz memory • 8GB or 16GB soldered + 1× open un-soldered DDR4 SODIMM slot (upgradeable up to 40GB or 48GB total DDR4) |
@@ -948,7 +948,7 @@
 | **Retailer / Channel** | **Woot (An Amazon Company)** |
 | **Pricing Breakdown** | **$319.99 USD** *(MSRP: $1199.00 • Lowest Seen: $299.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳40,959 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳43,199 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 11th Gen Tiger Lake (Intel Core i5-1145G7 (4 Cores / 8 Threads), 10nm SuperFin, 12W–28W configurable TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Supported (Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB/32GB DDR4 or DDR5 • 2× un-soldered SODIMM slots (upgradeable up to 64GB total dual-channel) |
@@ -974,7 +974,7 @@
 | **Retailer / Channel** | **Target Restored / Walmart Restored** |
 | **Pricing Breakdown** | **$259.99 USD** *(MSRP: $1099.00 • Lowest Seen: $249.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳33,279 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳35,099 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 10th Gen Comet Lake (Intel Core i5-10210U / i5-10310U (4 Cores / 8 Threads), 14nm, 15W Base TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel UHD Graphics • External eGPU: Supported (Thunderbolt 3/4 40Gbps eGPU ready) |
 | **Memory Architecture (RAM)** | 16GB/32GB DDR4 or DDR5 • 2× un-soldered SODIMM slots (upgradeable up to 64GB total dual-channel) |
@@ -1000,7 +1000,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed / Discount Computer Depot** |
 | **Pricing Breakdown** | **$259.00 USD** *(MSRP: $1399.00 • Lowest Seen: $249.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳33,152 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳34,965 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 11th Gen Tiger Lake (Intel Core i5-1145G7 vPro / i7-1185G7 (4 Cores / 8 Threads, up to 4.8 GHz), 10nm SuperFin, 12W–28W configurable TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Supported (Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -1026,7 +1026,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Dell Financial Services** |
 | **Pricing Breakdown** | **$319.00 USD** *(MSRP: $1299.00 • Lowest Seen: $299.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳40,832 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳43,065 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 11th Gen Tiger Lake (Intel Core i5-1145G7 (4 Cores / 8 Threads, up to 4.4 GHz vPro), 10nm SuperFin, 12W–28W configurable TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Supported (Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -1052,7 +1052,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished** |
 | **Pricing Breakdown** | **$319.00 USD** *(MSRP: $1399.00 • Lowest Seen: $299.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳40,832 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳43,065 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 11th Gen Tiger Lake (Intel Core i5-1145G7 (4 Cores / 8 Threads, up to 4.4 GHz vPro), 10nm SuperFin, 12W–28W configurable TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Supported (Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -1078,7 +1078,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished** |
 | **Pricing Breakdown** | **$335.00 USD** *(MSRP: $1199.00 • Lowest Seen: $320.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳42,880 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳45,225 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 13th Gen Raptor Lake (Intel Core i5-1135G7 (4 Cores / 8 Threads) or AMD Ryzen 5 Pro 5650U, Intel Smart Cache, 15W–45W configurable TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe / AMD Radeon Vega • External eGPU: Not Supported (Standard USB-C 3.2 data/DP only, no PCIe tunneling) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -1104,7 +1104,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished** |
 | **Pricing Breakdown** | **$329.00 USD** *(MSRP: $1399.00 • Lowest Seen: $319.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳42,112 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳44,415 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 13th Gen Raptor Lake (Intel Core i5-1135G7 / i5-1145G7 vPro (4 Cores / 8 Threads, up to 4.4 GHz), Intel Smart Cache, 15W–45W configurable TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Supported (Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -1128,9 +1128,9 @@
 | :--- | :--- |
 | **Tracking ID & SKU** | `lenovo-ideapad-flex-5-14-touch` • **SKU:** `IdeaPad-Flex-5-14-R7` |
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
-| **Pricing Breakdown** | **$349.00 USD** *(MSRP: $699.99 • Lowest Seen: $349.00)* |
+| **Pricing Breakdown** | **$208.99 USD** *(MSRP: $699.99 • Lowest Seen: $349.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳44,672 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳47,115 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | AMD Ryzen 7 5700U / 7730U (8 Cores / 16 Threads, up to 4.5 GHz) (Official OEM Platform Architecture) |
 | **Graphics Subsystem (GPU & eGPU)** | AMD Radeon Vega 8 Graphics • External eGPU: Not Supported (Standard USB-C 3.2 data/DP only, no PCIe tunneling) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -1156,7 +1156,7 @@
 | **Retailer / Channel** | **Target Restored / Walmart Restored / eBay Certified Refurbished** |
 | **Pricing Breakdown** | **$299.00 USD** *(MSRP: $1449.00 • Lowest Seen: $289.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳38,272 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳40,365 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 11th Gen Tiger Lake (Intel Core i5-1145G7 vPro (4 Cores / 8 Threads, up to 4.4 GHz, 11th Gen), 10nm SuperFin, 12W–28W configurable TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Supported (Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -1180,9 +1180,9 @@
 | :--- | :--- |
 | **Tracking ID & SKU** | `hp-probook-x360-435-g8` • **SKU:** `ProBook-x360-435-G8` |
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
-| **Pricing Breakdown** | **$309.00 USD** *(MSRP: $1249.00 • Lowest Seen: $299.00)* |
+| **Pricing Breakdown** | **$306.90 USD** *(MSRP: $1249.00 • Lowest Seen: $299.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳39,552 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳41,715 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | AMD Ryzen 5 PRO 5600U (6 Cores / 12 Threads, 2.30 GHz base, up to 4.20 GHz Boost, Zen 3 architecture, 16MB L3 Cache, 15W TDP) OR Ryzen 7 PRO 5850U (8 Cores / 16 Threads, up to 4.4 GHz) |
 | **Graphics Subsystem (GPU & eGPU)** | AMD Radeon Vega 7 / Vega 8 Graphics (7 or 8 Compute Units up to 2.0 GHz, DirectX 12, supports 2 external displays via USB-C & HDMI) |
 | **Memory Architecture (RAM)** | 16GB DDR4-3200 MHz dual-channel memory • 2× un-soldered SODIMM slots (both upgradeable up to 64GB DDR4-3200; the only sub-$350 360° convertible with dual SODIMM slots!) |
@@ -1208,7 +1208,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Best Buy Outlet** |
 | **Pricing Breakdown** | **$339.00 USD** *(MSRP: $799.99 • Lowest Seen: $329.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳43,392 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳45,765 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake (AMD Ryzen 5 5500U / 7530U (6 Cores / 12 Threads) or Ryzen 7 5700U (8 Cores / 16 Threads), Intel Smart Cache, 15W Base / 55W Turbo Power) |
 | **Graphics Subsystem (GPU & eGPU)** | AMD Radeon Vega Graphics • External eGPU: Not Supported (Standard USB-C 3.2 data/DP only, no PCIe tunneling) |
 | **Memory Architecture (RAM)** | 16GB/32GB LPDDR4x/LPDDR5/LPDDR5x dual-channel memory • 100% Soldered (Verified meets 16GB non-negotiable protocol) |
@@ -1234,7 +1234,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
 | **Pricing Breakdown** | **$319.00 USD** *(MSRP: $1149.00 • Lowest Seen: $299.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳40,832 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳43,065 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 13th Gen Raptor Lake (Intel Core i5-1135G7 (4 Cores / 8 Threads, up to 4.2 GHz) / Core i7-1165G7, Intel Smart Cache, 15W–45W configurable TDP) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics • External eGPU: Supported (Thunderbolt 4 40Gbps eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB/32GB DDR4 or DDR5 • 2× un-soldered SODIMM slots (upgradeable up to 64GB total dual-channel) |
@@ -1260,7 +1260,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
 | **Pricing Breakdown** | **$319.00 USD** *(MSRP: $1999.00 • Lowest Seen: $299.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳40,832 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳43,065 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 11th Gen Tiger Lake Core i5-1145G7 vPro / i7-1185G7 vPro (4 Cores / 8 Threads, up to 4.80 GHz Turbo, 12MB Cache, 12W–28W configurable TDP, Intel Evo platform) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (96 Execution Units / 768 ALUs @ 1.35 GHz, DirectX 12.1, dual Thunderbolt 4 eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB LPDDR4x-4266 MHz dual-channel memory • 100% On-Board Soldered (High-frequency executive memory architecture) |
@@ -1284,9 +1284,9 @@
 | :--- | :--- |
 | **Tracking ID & SKU** | `dell-latitude-7330-i5-woot` • **SKU:** `Latitude-7330-i5-16GB` |
 | **Retailer / Channel** | **Woot (An Amazon Company)** |
-| **Pricing Breakdown** | **$349.99 USD** *(MSRP: $1299.00 • Lowest Seen: $349.99)* |
+| **Pricing Breakdown** | **$279.59 USD** *(MSRP: $1299.00 • Lowest Seen: $349.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳44,799 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳47,249 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake-U Core i5-1245U vPro (10 Cores / 12 Threads: 2 P-cores up to 4.40 GHz Turbo + 8 E-cores up to 3.30 GHz, 12MB Intel Smart Cache, 15W Base / 55W Turbo, Intel vPro Enterprise management) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (80 Execution Units, up to 1.20 GHz, DirectX 12.1, QuickSync, dual Thunderbolt 4 eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB DDR4-3200 MHz dual-channel memory • 100% On-Board Soldered (Integrated high-stability memory) |
@@ -1310,9 +1310,9 @@
 | :--- | :--- |
 | **Tracking ID & SKU** | `dell-latitude-5330-2in1` • **SKU:** `Latitude-5330-2in1-16G` |
 | **Retailer / Channel** | **eBay Certified Refurbished / Woot MAR** |
-| **Pricing Breakdown** | **$349.00 USD** *(MSRP: $1399.00 • Lowest Seen: $349.00)* |
+| **Pricing Breakdown** | **$299.00 USD** *(MSRP: $1399.00 • Lowest Seen: $349.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳44,672 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳47,115 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake-U Core i5-1235U / i5-1245U vPro (10 Cores / 12 Threads: 2 P-cores up to 4.40 GHz + 8 E-cores up to 3.30 GHz, 12MB Intel Smart Cache, 15W Base / 55W Turbo, Intel vPro Enterprise) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (80EU / 96EU, up to 1.20 GHz, DirectX 12.1, OpenCL 3.0, QuickSync Video, dual Thunderbolt 4 eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB LPDDR4x-4266 MHz dual-channel memory • 100% Soldered (High-efficiency low-power memory meeting 16GB protocol) |
@@ -1336,9 +1336,9 @@
 | :--- | :--- |
 | **Tracking ID & SKU** | `dell-latitude-5430-i5` • **SKU:** `Latitude-5430-i5-16GB` |
 | **Retailer / Channel** | **eBay Certified Refurbished / Woot MAR** |
-| **Pricing Breakdown** | **$349.00 USD** *(MSRP: $1299.00 • Lowest Seen: $349.00)* |
+| **Pricing Breakdown** | **$329.99 USD** *(MSRP: $1299.00 • Lowest Seen: $349.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳44,672 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳47,115 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake-U Core i5-1235U / i5-1245U vPro (10 Cores / 12 Threads: 2 Performance Cores up to 4.40 GHz + 8 Efficient Cores up to 3.30 GHz, 12MB Cache, 15W Base / 55W Turbo, Intel vPro Enterprise) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (80EU / 96EU, up to 1.20 GHz, DirectX 12.1, QuickSync, dual Thunderbolt 4 eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB DDR4-3200 MHz dual-channel memory • 2× un-soldered SODIMM slots (both slots upgradeable up to 64GB DDR4-3200; total modular longevity king) |
@@ -1362,9 +1362,9 @@
 | :--- | :--- |
 | **Tracking ID & SKU** | `hp-elitebook-845-g8-r5` • **SKU:** `EliteBook-845-G8-R5` |
 | **Retailer / Channel** | **eBay Certified Refurbished / Newegg / Best Buy Refurbished** |
-| **Pricing Breakdown** | **$339.00 USD** *(MSRP: $1249.00 • Lowest Seen: $329.00)* |
+| **Pricing Breakdown** | **$289.99 USD** *(MSRP: $1249.00 • Lowest Seen: $329.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳43,392 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳45,765 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 12th Gen Alder Lake (AMD Ryzen 5 PRO 5650U (6 Cores / 12 Threads, 2.3 GHz base, up to 4.2 GHz Boost, Zen 3), Intel Smart Cache, 15W Base / 55W Turbo Power) |
 | **Graphics Subsystem (GPU & eGPU)** | AMD Radeon Vega 7 Graphics • External eGPU: Not Supported (Standard USB-C 3.2 data/DP only, no PCIe tunneling) |
 | **Memory Architecture (RAM)** | 16GB/32GB DDR4 or DDR5 • 2× un-soldered SODIMM slots (upgradeable up to 64GB total dual-channel) |
@@ -1390,7 +1390,7 @@
 | **Retailer / Channel** | **eBay (Newegg Outlet) / HP Certified Refurbished** |
 | **Pricing Breakdown** | **$272.99 USD** *(MSRP: $999.00 • Lowest Seen: $267.99)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳34,943 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳36,854 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | AMD Ryzen 5 5600U (6 Cores / 12 Threads, 2.3 GHz base, up to 4.2 GHz Max Boost, Zen 3 architecture, 16MB L3 Cache, 15W Base TDP / 25W cTDP, 7nm TSMC process) |
 | **Graphics Subsystem (GPU & eGPU)** | AMD Radeon Vega 7 Graphics (7 Compute Units, 1800 MHz, DirectX 12, hardware VP9/H.265/AV1 decode, supports 3 external displays up to 4K via USB-C DP & HDMI) |
 | **Memory Architecture (RAM)** | 16GB DDR4-3200 MHz dual-channel memory • 2× un-soldered SODIMM slots (both upgradeable up to 32GB/64GB total with standard non-ECC DDR4 SODIMM sticks) |
@@ -1414,9 +1414,9 @@
 | :--- | :--- |
 | **Tracking ID & SKU** | `dell-latitude-9420-2in1` • **SKU:** `Latitude-9420-2in1-QHD` |
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed / Dell Financial Services** |
-| **Pricing Breakdown** | **$369.00 USD** *(MSRP: $1699.00 • Lowest Seen: $359.00)* |
+| **Pricing Breakdown** | **$354.99 USD** *(MSRP: $1699.00 • Lowest Seen: $359.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳47,232 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳49,815 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T06:45:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 11th Gen Tiger Lake-U Core i7-1185G7 vPro (4 Cores / 8 Threads, 3.00 GHz base, up to 4.80 GHz Max Turbo, 12MB Intel Smart Cache, 10nm SuperFin, 12W–28W cTDP, Intel vPro Enterprise management) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (96 Execution Units / 768 ALUs, up to 1.35 GHz, DirectX 12.1, OpenGL 4.6, QuickSync Video hardware AV1/HEVC decode, supports 3 external 4K displays or 1 8K display) • **Dual Thunderbolt 4 / USB4 (40Gbps, full eGPU support with 4 PCIe lanes)** |
 | **Memory Architecture (RAM)** | 16GB LPDDR4x-4266 MHz dual-channel memory • 100% On-Board Soldered (Apex executive tier: satisfies non-negotiable 16GB convertible protocol, zero RAM bottlenecks for multitasking) |
@@ -1444,7 +1444,7 @@
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
 | **Pricing Breakdown** | **$349.00 USD** *(MSRP: $1699.00 • Lowest Seen: $339.00)* |
 | **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳44,672 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳47,115 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-06T13:10:00+06:00` |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-07T01:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 11th Gen Tiger Lake-U Core i5-1145G7 vPro / Core i7-1185G7 (4 Cores / 8 Threads, 2.60 GHz base, up to 4.40 GHz / 4.80 GHz Max Turbo, 8MB / 12MB Intel Smart Cache, 10nm SuperFin, 12W–28W cTDP, Intel vPro Enterprise management) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (80EU on i5 / 96EU on i7, up to 1.35 GHz, DirectX 12.1, OpenGL 4.6, QuickSync Video hardware AV1/HEVC decode, supports 3 external 4K displays or 1 8K display) • **Dual Thunderbolt 4 / USB4 (40Gbps, full eGPU support with 4 PCIe lanes)** |
 | **Memory Architecture (RAM)** | 16GB LPDDR4x-4266 MHz dual-channel memory • 100% On-Board Soldered (Apex ultralight executive tier: satisfies non-negotiable 16GB protocol, ultra-high 4266MHz bandwidth, zero RAM bottlenecks) |
