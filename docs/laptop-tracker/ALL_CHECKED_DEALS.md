@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-82%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-83%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-27%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-28%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A27)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A28)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -1796,5 +1796,24 @@ The following models were investigated, benchmarked, or tracked during prior swe
      * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** 8-core / 16-thread AMD Ryzen 7 PRO 5850U, **dual un-soldered SODIMM slots (up to 64GB DDR4)**, aluminum keyboard deck, Corning Gorilla Glass 5, and 1-Year Allstate Warranty.
      * **Dell Latitude 7430 2-in-1 ($379.00 / ~৳51,165 landed):** 10-core 12th Gen Core i7-1265U vPro, **16GB RAM**, 14.0" FHD Touch with Gorilla Glass 6 DX, dual Thunderbolt 4, and CNC aluminum unibody chassis.
 
-<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 27 archived/disqualified listings = 82 total audited).</sub>
+### #A28: Lenovo IdeaPad Flex 3 & Flex 3i (11.6", 14.0", & 15.6" 2-in-1 Touchscreen Convertibles / Chromebooks) (Intel Celeron N4020/N4500 / Processor N100/N200 / Core i3-N305 / MediaTek MT8183, 4GB-8GB Soldered LPDDR4x/LPDDR5 RAM, 64GB eMMC 5.1 / 128GB-256GB SSD)
+* **Retailer / Platform:** Best Buy / Walmart / Target / Amazon Black Friday Doorbusters • **SKUs:** `82HG0006US` / `82T60010US` / `82V70005US` / `83EK0000US`
+* **Promotional Price:** **$179.99 – $299.99 USD** (~৳23,039 – ~৳38,399 bank / ~৳24,299 – ~৳40,499 landed)
+* **Audit Status:** `DISQUALIFIED / 4GB-8GB SOLDERED RAM CEILING, ANEMIC E-CORE/CELERON SILICON & HIGH-FAILURE 360° PLASTIC HINGE BLOWOUT TRAP`
+* **Audit Verdict:** **REJECTED UNDER CONVERTIBLE HARDWARE PROTOCOL & ADVERSARIAL LONGEVITY GATE.** Prominently featured across Best Buy, Walmart, and Target holiday circulars as an attractive "$179 to $279 2-in-1 Touchscreen Laptop with 360-degree flip hinge", trapping budget-conscious shoppers, college students, and parents seeking an affordable portable touch device:
+  1. **Strict 16GB Protocol Violation (4GB/8GB Soldered Non-Upgradeable RAM):** Configured with either 4GB or 8GB of low-power LPDDR4x/LPDDR5 memory soldered directly to the motherboard with **zero SODIMM expansion slots**. Under our tracker's non-negotiable convertible standard (*"For convertibles with soldered RAM: 16GB RAM minimum is non-negotiable"*), all 4GB and 8GB soldered convertibles are permanently disqualified. With Windows 11 background services, Windows Defender, and Edge tabs consuming 5.5GB–6.5GB immediately upon boot, 4GB/8GB models enter severe continuous paging to disk, producing acute touch UI stutter, unresponsive screen rotation, and 1–2 second stylus input lag.
+  2. **Anemic Celeron / E-Core Only Silicon (Celeron N4020/N4500 / Intel Processor N100/N200):** Built on low-power Gracemont E-cores or archaic 2-core Gemini Lake Celeron silicon without Performance cores. Lacks AVX-512 and multi-threaded headroom, staggering to a crawl during multi-tab web browsing, video conference calls with screen sharing, PDF annotation, or office spreadsheet recalculations.
+  3. **High-Failure 360° Plastic Barrel Hinge Standoff Failure:** Features stiff dual-axis metal 360-degree hinges anchored directly into low-density ABS/polycarbonate plastic bosses on the lower tub and display lid. Because flipping 360 degrees places immense rotational torque on small brass heat-set inserts, the plastic screw posts routinely shear off within 6 to 12 months. This causes the palmrest seam to burst open, pops the front glass bezel, and shears the delicate touchscreen digitizer ribbon cable.
+  4. **Sluggish eMMC 5.1 Storage Bottleneck:** Many entry sub-$220 holiday configurations substitute genuine PCIe NVMe SSDs with primitive 64GB or 128GB eMMC 5.1 flash storage running at sequential read speeds under 250 MB/s (10x slower than modern Gen 4 NVMe SSDs), creating painful boot times and rapid storage exhaustion once Windows update recovery images accumulate.
+  5. **Dim 250-Nit 45% NTSC Washed-Out Display with Extreme Glare:** Employs an entry-grade glossy touch digitizer bonded over a dim 250-nit panel with an anemic 45% NTSC color gamut (~62.5% sRGB). High ambient reflections in bright classrooms, coffee shops, or outdoors wash out contrast and induce severe eyestrain.
+  6. **Superior Actively Tracked Alternatives:** In the same $208–$314 price window (~৳28,000–~৳43,000 landed), our tracker delivers full Windows 11 enterprise 360° convertibles with 16GB RAM, military-grade chassis, and full Thunderbolt 4 / USB-PD capabilities:
+     * **Lenovo IdeaPad Flex 5 ($208.99 / ~৳28,214 landed):** 8-core / 16-thread AMD Ryzen 7 5700U/7730U, **16GB RAM**, 512GB NVMe SSD, modern 14.0" WUXGA 16:10 touch display, and full SD card reader.
+     * **Dell Latitude 7320 2-in-1 ($259.00 / ~৳34,965 landed):** 11th Gen vPro Core i5, **16GB RAM**, dual Thunderbolt 4 (40Gbps eGPU ready), Gorilla Glass 6 DX touch panel, and CNC aluminum/carbon fiber build under ৳35,000 landed.
+     * **HP EliteBook x360 830 G8 ($288.99 / ~৳39,014 landed):** 11th Gen Core i5 vPro, **16GB RAM**, dual Thunderbolt 4 ports, Bang & Olufsen audio, and CNC all-aluminum chassis under ৳40,000 landed.
+     * **Dell Latitude 5330 2-in-1 ($299.00 / ~৳40,365 landed):** 10-core 12th Gen Core i7-1265U vPro (4.8 GHz), **16GB RAM**, Corning Gorilla Glass 6 DX, dual Thunderbolt 4 (40Gbps eGPU ready), Dell Active Pen support, and carbon-fiber reinforced durability.
+     * **ThinkPad X13 Yoga Gen 2 ($314.99 / ~৳42,524 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, taller 16:10 WUXGA touch display, **rechargeable ThinkPad Pen Pro garaged directly in the side chassis**, magnesium alloy build, and dual Thunderbolt 4.
+
+---
+
+<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 28 archived/disqualified listings = 83 total audited).</sub>
 </div>

@@ -18,11 +18,11 @@ print("Archived items count:", len(archived_items))
 print("Total audited:", len(active_items) + len(archived_items))
 
 assert len(active_items) == 55, f"Expected 55 active items, got {len(active_items)}"
-assert len(archived_items) == 23, f"Expected 14 archived items, got {len(archived_items)}"
+assert len(archived_items) == 28, f"Expected 28 archived items, got {len(archived_items)}"
 
 # Check badges
-assert "Total%20Audited-78%20Listings" in content, "Missing Total Audited badge"
+assert "Total%20Audited-83%20Listings" in content, "Missing Total Audited badge"
 assert "Active%20Tracked-55%20Models" in content, "Missing Active Tracked badge"
-assert "Archived%20%2F%20Filtered-23%20Listings" in content, "Missing Archived badge"
+assert "Archived%20%2F%20Filtered-28%20Listings" in content, "Missing Archived badge"
 
 print("\nALL_CHECKED_DEALS.md VERIFICATION PASSED CLEANLY!")
