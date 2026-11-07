@@ -8,8 +8,8 @@
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Bank](https://img.shields.io/badge/Bank%20Card-1%20USD%20%E2%89%88%20128%20BDT-yellow?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B355k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.52.0-informational?style=for-the-badge)](docs/laptop-tracker/DEALS_LEDGER.json)
-[![Full Archive](https://img.shields.io/badge/Checked%20Listings-79%20Audited%20Deals-success?style=for-the-badge)](docs/laptop-tracker/ALL_CHECKED_DEALS.md)
+[![Version](https://img.shields.io/badge/Ledger-v2.53.0-informational?style=for-the-badge)](docs/laptop-tracker/DEALS_LEDGER.json)
+[![Full Archive](https://img.shields.io/badge/Checked%20Listings-80%20Audited%20Deals-success?style=for-the-badge)](docs/laptop-tracker/ALL_CHECKED_DEALS.md)
 [![Workstation Convertibles](https://img.shields.io/badge/Specialist%20Dossier-Workstation%20%26%20Gaming%20Convertibles-blueviolet?style=for-the-badge)](docs/laptop-tracker/workstation_convertibles/README.md)
 
 **An executive, high-density intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories.**
@@ -20,17 +20,17 @@
 
 ---
 
-> **🕒 Last Verified:** `2026-11-07 09:15:00 (+06:00 Asia/Dhaka)` • All 55 active models and 24 archived listings verified live  
+> **🕒 Last Verified:** `2026-11-07 11:15:00 (+06:00 Asia/Dhaka)` • All 55 active models and 25 archived listings verified live  
 > **🎯 Strategic Focus Active:** 1) Deep research on sub-৳50k–৳55k BDT models • 2) Dedicated tracking of Touchscreen & 360° convertibles with 16GB RAM • 3) Radar on high-gravity outlier discounts (Tier 4).  
 > **⚡ Best Buy Friday Early Black Friday Wave LIVE TODAY:** Best Buy's weekly Early Black Friday doorbusters launched with Price Match Guarantee and extended holiday returns through Jan 15, 2027: Lenovo IdeaPad Slim 3i Touch ($429.99, save $300), HP OmniBook X Flip 14 ($649.99, save $350), Lenovo LOQ 15 RTX 4060 ($699.99), and ASUS TUF A15 RTX 4060 ($679.99). Target Day 2 tech drops holding!  
 > **🔗 100% Direct Link Audit Complete:** Mobilized parallel subagents under Chief of Staff protocol. Every tracked listing pairs verified, defect-free direct item listing URLs (`https://www.ebay.com/itm/...`, Dell DFS cart items, Best Buy direct SKUs) with clean, un-borked discoverability search links.  
 > **🔥 Dead Link Fixed & Massive Price Cuts:** Sourced live eBay Refurbished winner for **Dell Latitude 7330** at **$279.59 USD** (~৳37,745 landed, 1-Yr Allstate) replacing dead Woot 404 and saving **$70.40 USD (~৳9,500 Landed BDT)**! ThinkPad X1 Yoga Gen 6 price dropped to **$335.99 USD** (~৳45,359 landed), Latitude 5330 2-in-1 dropped to **$299.00 USD** (~৳40,365 landed), and Latitude 5430 dropped to **$329.99 USD** (~৳44,549 landed)!  
-> **🛡️ Adversarial Defect Gate Active:** Disqualified candidate #A24 (Gateway Ultra Slim battery swelling & orphaned brand) & candidate #A23 (Acer Aspire 5 ErgoLift hinge fracture & soldered RAM), alongside past disqualifications (#A22 Vivobook Go 14/15, #A21 HP 14 hinge blowout, #A20 IdeaPad 1 4GB/8GB soldered trap, #A19 HP 15 hinge blowout, #A18 MSI Modern 14/15 hinge popping, #A17 Vivobook Flip plastic hinge failure, #A16 Galaxy Book flex/cracks, #A15 Aspire Go single-channel RAM).
+> **🛡️ Adversarial Defect Gate Active:** Disqualified candidate #A25 (HP 17/17z 17.3" hinge blowout, 900p TN & tiny 41Wh battery trap), candidate #A24 (Gateway Ultra Slim battery swelling & orphaned brand) & candidate #A23 (Acer Aspire 5 ErgoLift hinge fracture & soldered RAM), alongside past disqualifications (#A22 Vivobook Go 14/15, #A21 HP 14 hinge blowout, #A20 IdeaPad 1 4GB/8GB soldered trap, #A19 HP 15 hinge blowout, #A18 MSI Modern 14/15 hinge popping, #A17 Vivobook Flip plastic hinge failure, #A16 Galaxy Book flex/cracks, #A15 Aspire Go single-channel RAM).
 
 ---
 
 ## 🏆 Top Recommended Champions & Best-in-Class Winners
-*The needed info first: the absolute highest-value, verified doorbuster champions selected from 79 audited listings.*
+*The needed info first: the absolute highest-value, verified doorbuster champions selected from 80 audited listings.*
 
 | Winner Category | Recommended Model & Channel | Price (USD / Landed BDT) | Key Hardware Architecture | Why It Wins (Key Decision Factor) | Direct Verified Link & Discovery |
 | :--- | :--- | :--- | :--- | :--- | :---: |
@@ -146,7 +146,7 @@
 ## 📚 Deep Research & Evaluation Library
 *For those who want to examine the deeper technical evaluations, OEM telemetry, brand architectures, and landed cost models:*
 
-* 📚 **[Complete Master Directory of All 79 Checked Deals (`ALL_CHECKED_DEALS.md`)](docs/laptop-tracker/ALL_CHECKED_DEALS.md)**  
+* 📚 **[Complete Master Directory of All 80 Checked Deals (`ALL_CHECKED_DEALS.md`)](docs/laptop-tracker/ALL_CHECKED_DEALS.md)**  
   *Exhaustive 16-point component breakdown for every single tracked laptop (exact CPU silicon codenames, RAM MT/s, display color gamuts, cooling heatpipes, bus speeds) plus the historical archives and disqualified listings.*
 
 * ⚡ **[Heavy-Duty Workstation & Gaming Convertible Guide (`workstation_convertibles/README.md`)](docs/laptop-tracker/workstation_convertibles/README.md)**  
@@ -167,5 +167,5 @@
 ---
 
 <div align="center">
-<sub>The Black Friday Deals Intelligence Suite monitors 55 active serialized models and 79 audited listings across US retail and certified refurbished channels.</sub>
+<sub>The Black Friday Deals Intelligence Suite monitors 55 active serialized models and 80 audited listings across US retail and certified refurbished channels.</sub>
 </div>
