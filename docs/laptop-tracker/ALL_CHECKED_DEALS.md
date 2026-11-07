@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-78%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-79%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-23%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-24%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A23)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A24)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -1723,5 +1723,25 @@ The following models were investigated, benchmarked, or tracked during prior swe
 
 ---
 
-<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 23 archived/disqualified listings = 78 total audited).</sub>
+### #A24: Gateway Ultra Slim Notebook 14.1" & 15.6" (GWTN141-1 / GWTN141-3 / GWTN141-10 / GWTN156-1 / GWTN156-5 / GWTN156-9 series by EVOO / Bmorn Technology) Everyday Clamshell Laptop (Intel Core i3-1115G4 / Core i5-1135G7 / Celeron N4020, 4GB-8GB Soldered LPDDR4, 128GB eMMC / 256GB/512GB SSD)
+* **Retailer / Platform:** Walmart Black Friday Exclusive / Amazon / Woot • **SKUs:** `GWTN141-1BK` / `GWTN141-3BL` / `GWTN141-10GR` / `GWTN156-1GR` / `GWTN156-5BL` / `GWTN156-9BK`
+* **Promotional Price:** **$149.99 – $249.99 USD** (~৳19,199 – ~৳31,999 bank / ~৳20,249 – ~৳33,749 landed)
+* **Audit Status:** `DISQUALIFIED / SEVERE LITHIUM POUCH BATTERY BLOATING HAZARD, PLASTIC HINGE STRIPPING & ORPHANED BRAND ZERO-SUPPORT TRAP`
+* **Audit Verdict:** **REJECTED UNDER ADVERSARIAL LONGEVITY, SAFETY & HARDWARE REPAIRABILITY AUDIT.** Marketed heavily as an aggressive sub-$200 holiday doorbuster at Walmart with vibrant pastel colors, "FHD IPS Display", and "Tuned by THX" audio branding, but disqualified following extensive field and repair telemetry:
+  1. **Severe Lithium-Ion Pouch Battery Swelling & Fire Hazard:** The low-tier lithium polymer pouch cells sourced by ODM contractor Bmorn Technology suffer from alarming rates of premature electrolyte decomposition and gas expansion after 12 to 18 months. The swelling battery physically buckles the trackpad upward (preventing clicks), warps the lower chassis, and shears internal screw bosses. Operating a severely bloated pouch battery inside a thin plastic casing represents an acute fire and safety risk.
+  2. **Brittle Plastic Hinge Mounts & Outer Casing Fracture:** Display hinges are anchored directly into thin, unreinforced plastic standoffs with heat-set brass threaded inserts. Over continuous open-close cycles, the stiff torsional resistance of the steel hinge shears these plastic standoffs clean off the bottom shell. This ruptures the casing seam, pops the display bezel, and places destructive lateral tension on the eDP display ribbon cable and internal Wi-Fi antennas.
+  3. **Proprietary Barrel Charger & Lack of USB Power Delivery:** Relies on a fragile proprietary 19V barrel plug prone to pin bending and socket breakage. Crucially, the USB-C port is strictly data-only (5Gbps) and **DOES NOT support USB Power Delivery (PD)** charging or DisplayPort video output, preventing the use of standard universal GaN travel chargers or USB-C docking monitors.
+  4. **Orphaned Zombie Brand & Complete Lack of OEM Spare Parts:** The modern "Gateway" brand was a licensed trademark operated by EVOO / Bmorn Technology, which has effectively ceased US customer operations and warranty administration. There is no replacement battery supply chain, no replacement keyboards or motherboards, zero BIOS security microcode patches, and no official driver repositories if Windows requires a clean re-installation.
+  5. **Permanent 4GB / 8GB Soldered Memory Ceiling:** In virtually all sub-$250 holiday configurations, RAM is 100% soldered directly to the motherboard with **zero SODIMM expansion slots**. System memory is completely exhausted upon loading Windows 11 and background services, permanently violating our non-negotiable 16GB RAM protocol.
+  6. **100% Economic Write-off for International Importers in Bangladesh:** When the battery inevitably expands or the hinge posts snap, international buyers in Bangladesh have zero local parts availability, no certified technicians, and no warranty recourse—turning the laptop into an irreparable total financial loss.
+  7. **Superior Actively Tracked Alternatives:** In the same $179–$294 budget range, our tracker offers military-grade, fully modular enterprise workstations and commercial laptops with dual-channel RAM, modular batteries, readily available replacement parts, and dual Thunderbolt / USB-PD:
+     * **Dell Precision 3550 ($179.99 / ~৳24,299 landed):** Dedicated NVIDIA Quadro P520 GPU, **dual un-soldered SODIMM slots (up to 64GB DDR4)**, modular M.2 NVMe SSD, Thunderbolt 3, and military-grade MIL-STD-810G durability under ৳25,000 landed.
+     * **Dell Latitude 5420 ($209.99 / ~৳28,349 landed):** 11th Gen Core i5-1135G7, **dual un-soldered SODIMM slots**, dual Thunderbolt 4 with 100W PD charging, and MIL-STD chassis.
+     * **Dell Latitude 7320 2-in-1 ($259.00 / ~৳34,965 landed):** 11th Gen vPro Core i5, **16GB RAM**, dual Thunderbolt 4 ports, and full 360° touch convertible versatility under ৳35,000 landed.
+     * **HP ProBook 445 G8 ($267.99 / ~৳36,179 landed):** 6-core/12-thread AMD Ryzen 5 5600U, **dual un-soldered SODIMM slots (up to 64GB DDR4)**, aluminum keyboard deck, SuperSpeed USB-C with Power Delivery & DisplayPort, and 2-Year Allstate Warranty.
+     * **Lenovo ThinkPad T14 Gen 2 ($294.27 / ~৳39,726 landed):** 6-core AMD Ryzen 5 PRO 5650U, un-soldered SODIMM expansion, legendary spill-resistant keyboard, TrackPoint, and MIL-STD-810H durability.
+
+---
+
+<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 24 archived/disqualified listings = 79 total audited).</sub>
 </div>
