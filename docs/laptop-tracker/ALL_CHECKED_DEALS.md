@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-84%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-85%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-29%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-30%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A29)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A30)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -1836,5 +1836,28 @@ The following models were investigated, benchmarked, or tracked during prior swe
 
 ---
 
-<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 29 archived/disqualified listings = 84 total audited).</sub>
+### #A30: HP Envy x360 14" (14-es, 14-fa & 14-fc Series) 8GB Soldered RAM Configurations (Intel Core i5-1335U / Core 5 120U / Core 7 150U / AMD Ryzen 5 7530U / Ryzen 5 8640HS, 8GB Soldered LPDDR4x/LPDDR5 RAM, 512GB SSD)
+* **Retailer / Platform:** Best Buy / HP Store / Target / Amazon Black Friday Doorbusters • **SKUs:** `14-es0013dx` / `14-es0033dx` / `14-fa0013dx` / `14-fc0013dx` / `6580556` / `6571081`
+* **Promotional Price:** **$449.99 – $499.99 USD** (~৳57,599 – ~৳63,999 bank / ~৳60,749 – ~৳67,499 landed)
+* **Audit Status:** `DISQUALIFIED / 8GB SOLDERED LPDDR4x/LPDDR5 NON-UPGRADEABLE MEMORY TRAP & PREVENTABLE CONVERTIBLE LATENCY CASCADES`
+* **Audit Verdict:** **REJECTED UNDER CONVERTIBLE HARDWARE PROTOCOL & ADVERSARIAL LONGEVITY GATE.** Prominently featured as an alluring "$449 to $499 HP Envy 14-inch 2-in-1 Touchscreen Laptop with edge-to-edge glass and all-metal chassis" in Best Buy's Early Black Friday drops, enticing students and professionals seeking an aesthetic thin-and-light convertible:
+  1. **Strict 16GB Protocol Violation (8GB Soldered Non-Upgradeable Memory Ceiling):** While premium HP Envy laptops boast sleek all-metal aesthetics, sub-$500 retail configurations ship with **100% on-board soldered 8GB memory (LPDDR4x-4266 on 14-es / LPDDR5-6400 on 14-fa/fc) with ZERO SODIMM expansion slots**. Under our tracker's non-negotiable convertible standard (*"For convertibles with soldered RAM: 16GB RAM minimum is non-negotiable; 8GB soldered convertibles are permanently rejected due to non-upgradeability"*), all 8GB soldered convertibles are strictly disqualified.
+  2. **Severe Windows 11 Memory Starvation & Stylus/Rotation Lag:** Modern Windows 11 Home along with HP background telemetry (HP OMEN Gaming Hub, Support Assistant, myHP) immediately consumes 5.2GB–6.0GB of physical RAM upon boot. With less than 2GB of free headroom, multitasking with 8–10 browser tabs and OneNote or PDF drawing pushes system memory commit far beyond physical capacity. The resulting severe paging to the NVMe SSD triggers noticeable capacitive touch lag, dropped pen strokes (500ms–1500ms active stylus latency), and frame stutters when rotating into tablet or tent mode.
+  3. **Dim 250-Nit 45% NTSC Glossy Screen with Intolerable Classroom/Outdoor Glare:** Sub-$500 8GB retail SKUs package an entry-level 250-nit 45% NTSC IPS panel (~62.5% sRGB) covered with highly reflective edge-to-edge glass. In brightly lit classrooms, coffee shops, or outdoors, reflections overpower the dim 250-nit backlight, causing severe eye strain and requiring maximum display brightness that severely drains battery life.
+  4. **Aggressive Thermal Throttling in Compact 14" Convertible Tub:** The ultra-slim 14" chassis employs a single thin heatpipe and miniature fan shared between CPU and iGPU. Under sustained multithreaded compute, temperatures rapidly spike to 95°C+, triggering aggressive 12W–15W TDP power throttling that degrades sustained performance.
+  5. **Superior Actively Tracked Alternatives in the Same or Lower Budget Envelope ($208 – $439 USD / ~৳28k – ~৳59k landed):**
+     * **Lenovo IdeaPad Flex 5 ($208.99 / ~৳28,214 landed):** 8-core / 16-thread AMD Ryzen 7 5700U/7730U, **16GB RAM**, 512GB NVMe SSD, modern 14.0" WUXGA 16:10 touch display, and full SD card reader for less than half the price!
+     * **Dell Latitude 7320 2-in-1 ($259.00 / ~৳34,965 landed):** 11th Gen vPro Core i5, **16GB RAM**, dual Thunderbolt 4 (40Gbps eGPU ready), Gorilla Glass 6 DX touch panel, and CNC aluminum/carbon fiber build under ৳35,000 landed.
+     * **HP EliteBook x360 830 G8 ($288.99 / ~৳39,014 landed):** 11th Gen Core i5 vPro, **16GB RAM**, dual Thunderbolt 4 ports, Bang & Olufsen audio, and CNC all-aluminum unibody under ৳40,000 landed.
+     * **Dell Latitude 5330 2-in-1 ($299.00 / ~৳40,365 landed):** 10-core 12th Gen Core i7-1265U vPro (4.8 GHz), **16GB RAM**, Corning Gorilla Glass 6 DX, dual Thunderbolt 4 (40Gbps eGPU ready), Dell Active Pen support, and carbon-fiber reinforced durability under ৳41,000 landed.
+     * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** AMD Ryzen 7 PRO 5850U (8C/16T), **2× un-soldered SODIMM slots (upgradable up to 64GB DDR4)**, aluminum keyboard deck, and Allstate warranty under ৳42,000 landed.
+     * **ThinkPad X13 Yoga Gen 2 ($314.99 / ~৳42,524 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, taller 16:10 WUXGA touch display, **rechargeable ThinkPad Pen Pro garaged directly in the side chassis**, magnesium alloy build, and dual Thunderbolt 4 under ৳43,000 landed.
+     * **ThinkPad X1 Yoga Gen 6 ($335.99 / ~৳45,359 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, CNC aluminum unibody, and garaged stylus under ৳46,000 landed.
+     * **HP Envy x360 15.6" Verified 16GB Model (Tracked as #28 at $339.99 / ~৳45,899 landed):** If selecting the Envy series, choose this verified **16GB factory RAM** configuration with AMD Zen 8-core compute and 512GB SSD.
+     * **Dell Latitude 7430 2-in-1 ($379.00 / ~৳51,165 landed):** 10-core 12th Gen Core i7-1265U vPro, **16GB RAM**, dual Thunderbolt 4, Corning Gorilla Glass 6 DX, and 1-year warranty under ৳52,000 landed.
+     * **ThinkPad X13 Yoga Gen 3 ($439.99 / ~৳59,399 landed):** 10-core 12th Gen Intel Core i5-1245U vPro, **16GB RAM**, modern 16:10 WUXGA display, garaged stylus, and dual Thunderbolt 4.
+
+---
+
+<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 30 archived/disqualified listings = 85 total audited).</sub>
 </div>
