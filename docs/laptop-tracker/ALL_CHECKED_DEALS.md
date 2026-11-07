@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-83%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-84%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-28%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-29%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A28)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A29)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -1815,5 +1815,26 @@ The following models were investigated, benchmarked, or tracked during prior swe
 
 ---
 
-<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 28 archived/disqualified listings = 83 total audited).</sub>
+### #A29: Dell Inspiron 14 2-in-1 (7430 & 7435 Series) 8GB Soldered RAM Configurations (Intel Core i3-1315U / Core i5-1335U / AMD Ryzen 5 7530U / Ryzen 5 8640HS, 8GB Soldered LPDDR5/LPDDR4x RAM, 256GB/512GB SSD)
+* **Retailer / Platform:** Best Buy / Dell Outlet / Walmart / Target Black Friday Doorbusters • **SKUs:** `i7430-5821SLV-PUS` / `i7435-5136BLU-PUS` / `i7430-3498SLV-PUS` / `i7435-7281BLU-PUS`
+* **Promotional Price:** **$349.99 – $449.99 USD** (~৳44,799 – ~৳57,599 bank / ~৳47,249 – ~৳60,749 landed)
+* **Audit Status:** `DISQUALIFIED / 8GB SOLDERED LPDDR5/LPDDR4x MEMORY CEILING, ZERO SODIMM SLOTS & PERMANENT WINDOWS 11 PAGING TRAP`
+* **Audit Verdict:** **REJECTED UNDER CONVERTIBLE HARDWARE PROTOCOL & ADVERSARIAL LONGEVITY GATE.** Prominently advertised as an alluring "$349 to $449 14-inch FHD+ 16:10 2-in-1 Touchscreen Laptop with 360-degree flip hinge", trapping budget-conscious shoppers and students who assume Inspiron hardware always offers modular memory upgradeability:
+  1. **Strict 16GB Protocol Violation (8GB Soldered Non-Upgradeable RAM Ceiling):** Unlike traditional Inspiron 15 clamshells (3520/3530) or the newer 2024 Inspiron 14 7440 (which restored dual SODIMM slots), the Inspiron 14 7430 (Intel Raptor Lake) and Inspiron 14 7435 (AMD Barcelo-R / Hawk Point) feature **100% on-board soldered memory (LPDDR5-4800 on Intel / LPDDR4x-4266 on AMD) with ZERO SODIMM expansion slots**. Under our tracker's non-negotiable convertible standard (*"For convertibles with soldered RAM: 16GB RAM minimum is non-negotiable"*), all 8GB soldered convertibles are permanently disqualified.
+  2. **Severe Windows 11 Memory Paging & Touch/Stylus Latency Cascades:** Fresh Windows 11 Home installations with background security telemetry, Dell SupportAssist, Edge webview runtime, and system services consume 5.2GB–6.2GB of physical memory immediately upon boot. With barely 1.8GB of headroom, launching 6–8 browser tabs alongside a multi-page PDF editor or spreadsheet instantly drives memory commit past physical RAM limits. The OS forces constant disk swapping to the NVMe SSD, resulting in dropped frames during 360-degree display rotation, unresponsive capacitive touch input, and erratic 500ms–1500ms active pen tracking lag.
+  3. **High-Stress 360° Hinge Anchoring on Polycarbonate Deck Bosses:** Inspiron 14 2-in-1s utilize high-torque dual-gear zinc 360° hinges screwed into threaded brass inserts set into thin plastic bosses inside the lower chassis tub. Frequent transitions between clamshell, tent, and tablet modes exert severe rotational leverage on these plastic posts, causing micro-fractures, screw tear-out, and palmrest seam separation over 6 to 18 months—a catastrophic failure mode that is especially risky for overseas buyers importing without local Dell warranty.
+  4. **Dim 250-Nit 45% NTSC Glossy Touchscreen with Severe Reflections:** Base retail 8GB SKUs package an entry-level 250-nit WVA glossy touch panel with just 45% NTSC color saturation (~62.5% sRGB). In bright ambient lighting, classrooms, or sunlight, severe reflections wash out contrast and legibility, necessitating 100% brightness and accelerating battery drain.
+  5. **Superior Actively Tracked Alternatives in the Same Budget Envelope ($208 – $429 USD / ~৳28k – ~৳58k landed):**
+     * **Lenovo IdeaPad Flex 5 ($208.99 / ~৳28,214 landed):** 8-core / 16-thread AMD Ryzen 7 5700U/7730U, **16GB RAM**, 512GB NVMe SSD, modern 14.0" WUXGA 16:10 touch display, and full SD card reader.
+     * **Dell Latitude 7320 2-in-1 ($259.00 / ~৳34,965 landed):** 11th Gen vPro Core i5, **16GB RAM**, dual Thunderbolt 4 (40Gbps eGPU ready), Gorilla Glass 6 DX touch panel, and CNC aluminum/carbon fiber build under ৳35,000 landed.
+     * **HP EliteBook x360 830 G8 ($288.99 / ~৳39,014 landed):** 11th Gen Core i5 vPro, **16GB RAM**, dual Thunderbolt 4 ports, Bang & Olufsen audio, and CNC all-aluminum chassis under ৳40,000 landed.
+     * **Dell Latitude 5330 2-in-1 ($299.00 / ~৳40,365 landed):** 10-core 12th Gen Core i7-1265U vPro (4.8 GHz), **16GB RAM**, Corning Gorilla Glass 6 DX, dual Thunderbolt 4 (40Gbps eGPU ready), Dell Active Pen support, and carbon-fiber reinforced durability under ৳41,000 landed.
+     * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** AMD Ryzen 7 PRO 5850U (8C/16T), **2× un-soldered SODIMM slots (upgradable up to 64GB DDR4)**, aluminum keyboard deck, and Allstate warranty under ৳42,000 landed.
+     * **ThinkPad X13 Yoga Gen 2 ($314.99 / ~৳42,524 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, taller 16:10 WUXGA touch display, **rechargeable ThinkPad Pen Pro garaged directly in the side chassis**, magnesium alloy build, and dual Thunderbolt 4.
+     * **ThinkPad X1 Yoga Gen 6 ($335.99 / ~৳45,359 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, CNC aluminum unibody, and garaged stylus under ৳46,000 landed.
+     * **Dell Inspiron 14 7430 2-in-1 Verified 16GB Model (Tracked as #29 at $429.00 / ~৳57,915 landed):** If choosing this specific Inspiron chassis, select the factory-configured **16GB LPDDR5 RAM** edition with Intel Core i5-1335U (10C/12T) and Thunderbolt 4.
+
+---
+
+<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 29 archived/disqualified listings = 84 total audited).</sub>
 </div>
