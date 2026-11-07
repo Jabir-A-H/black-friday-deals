@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-80%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-81%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-25%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-26%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A25)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A26)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -1761,5 +1761,23 @@ The following models were investigated, benchmarked, or tracked during prior swe
 
 ---
 
-<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 25 archived/disqualified listings = 80 total audited).</sub>
+### #A26: HP Chromebook 14, Acer Chromebook 314/315 & Lenovo IdeaPad Slim 3 Chromebook (14.0" & 15.6" Budget ChromeOS Clamshell Laptops) (Intel Celeron N4020/N4120/N4500 / Intel N100/N200 / MediaTek MT8183 / Kompanio 520, 4GB Soldered LPDDR4x/LPDDR5 RAM, 32GB-64GB eMMC 5.1 Storage)
+* **Retailer / Platform:** Walmart Black Friday / Target / Best Buy / Amazon Doorbusters • **SKUs:** `14a-na0010nr` / `CB314-1H` / `CB315-3H` / `82XJ0000US`
+* **Promotional Price:** **$99.99 – $179.99 USD** (~৳12,799 – ~৳23,039 bank / ~৳13,499 – ~৳24,299 landed)
+* **Audit Status:** `DISQUALIFIED / 4GB SOLDERED RAM CEILING, SLOW eMMC STORAGE, GOOGLE AUE OBSOLESCENCE & ZERO WINDOWS/.EXE COMPATIBILITY TRAP`
+* **Audit Verdict:** **REJECTED UNDER ADVERSARIAL LONGEVITY, OPERATING SYSTEM & HARDWARE UTILITY PROTOCOL.** Prominently showcased on front-page holiday flyers and doorbuster banners across Walmart, Target, and Best Buy as an alluring "$99 to $149 brand-new laptop," trapping countless holiday shoppers, students, and overseas gift-buyers:
+  1. **The $99–$149 "Laptop" Illusion & Total OS Incompatibility:** Promoted simply as "HP 14-inch Laptop" or "Acer 15.6-inch Laptop" without prominent OS warnings. Buyers expecting a functional Windows environment find ChromeOS completely incapable of running native Windows `.exe` / `.msi` applications, incapable of installing desktop Microsoft Office (leaving users crippled with web apps lacking VBA/macro support), incapable of running standard IDEs (Visual Studio, JetBrains suites, local Docker/database environments without fragile Linux container overhead), and incapable of supporting specialized engineering or local accounting software.
+  2. **Severe 4GB Soldered Memory Ceiling:** Equipped with only 4GB of LPDDR4x or LPDDR5 RAM soldered directly to the system board with **zero SODIMM expansion slots**. Modern web applications and heavy JavaScript pages rapidly exhaust this diminutive memory footprint; having 8–10 browser tabs, Google Docs, and a 1080p YouTube video active simultaneously causes persistent tab reloading, out-of-memory browser crashes, and interface freezing. Violates our non-negotiable 16GB RAM protocol.
+  3. **Sluggish eMMC 5.1 Storage Bottleneck:** Substitutes true high-speed PCIe NVMe SSDs with primitive eMMC 5.1 flash storage running at read/write speeds of only 150–250 MB/s (10x slower than modern NVMe drives). Crucially, 32GB–64GB capacities leave virtually no storage headroom once ChromeOS system files and local offline caches accumulate.
+  4. **Hardcoded Google Auto Update Expiration (AUE) Obsolescence:** ChromeOS devices carry a hardcoded hardware software death date ("Auto Update Expiration"). Retailers routinely use Black Friday doorbusters to liquidate surplus clearance inventory manufactured 2 to 3 years prior. As a result, purchasers often receive hardware with only 2–3 years of remaining browser security updates, after which the OS permanently stops receiving patches and modern secure websites refuse to negotiate SSL connections.
+  5. **Abysmal 1366x768 (HD) / 220-Nit TN Displays & Zero Local Resale in Bangladesh:** Entry-level configurations employ archaic 1366x768 (HD) resolution TN panels with coarse ~112 PPI pixel density, 200–220 nits brightness, washed-out 45% NTSC colors, and acute vertical color inversion. For Bangladesh buyers, importing a Chromebook with bank settlement and international parcel freight is an absolute dead-end: local IT markets (Elephant Road, IDB Bhaban) offer zero second-hand resale demand, and local repair shops lack spare parts or programmer tooling for proprietary ChromeOS firmware.
+  6. **Superior Actively Tracked Alternatives:** In the identical entry budget window ($179–$267 USD / ~৳24,000–~৳36,000 landed), our tracker delivers full Windows 11 Pro commercial enterprise workhorses with upgradable RAM, dedicated GPUs, or 360° touch convertibles:
+     * **Dell Precision 3550 ($179.99 / ~৳24,299 landed):** Dedicated NVIDIA Quadro P520 GPU (ISV Certified), **dual un-soldered SODIMM slots (up to 64GB DDR4)**, modular M.2 NVMe SSD, Thunderbolt 3, 15.6" FHD IPS display, and full Windows 11 Pro under ৳25,000 landed.
+     * **Dell Latitude 5420 ($209.99 / ~৳28,349 landed):** 11th Gen Core i5, **dual un-soldered SODIMM slots**, dual Thunderbolt 4 with 100W PD charging, MIL-STD chassis, and full Windows 11 Pro.
+     * **Dell Latitude 7320 2-in-1 ($259.00 / ~৳34,965 landed):** 11th Gen vPro Core i5, **16GB RAM**, dual Thunderbolt 4 ports, and full 360° touch convertible versatility under ৳35,000 landed.
+     * **HP ProBook 445 G8 ($267.99 / ~৳36,179 landed):** 6-core/12-thread AMD Ryzen 5 5600U, **dual un-soldered SODIMM slots (up to 64GB DDR4)**, aluminum keyboard deck, SuperSpeed USB-C with Power Delivery & DisplayPort, and 2-Year Allstate Warranty.
+
+---
+
+<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 26 archived/disqualified listings = 81 total audited).</sub>
 </div>
