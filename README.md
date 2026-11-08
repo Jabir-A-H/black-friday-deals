@@ -8,8 +8,8 @@
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Bank](https://img.shields.io/badge/Bank%20Card-1%20USD%20%E2%89%88%20128%20BDT-yellow?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B355k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v2.63.0-informational?style=for-the-badge)](docs/laptop-tracker/DEALS_LEDGER.json)
-[![Full Archive](https://img.shields.io/badge/Checked%20Listings-90%20Audited%20Deals-success?style=for-the-badge)](docs/laptop-tracker/ALL_CHECKED_DEALS.md)
+[![Version](https://img.shields.io/badge/Ledger-v2.64.0-informational?style=for-the-badge)](docs/laptop-tracker/DEALS_LEDGER.json)
+[![Full Archive](https://img.shields.io/badge/Checked%20Listings-91%20Audited%20Deals-success?style=for-the-badge)](docs/laptop-tracker/ALL_CHECKED_DEALS.md)
 [![Workstation Convertibles](https://img.shields.io/badge/Specialist%20Dossier-Workstation%20%26%20Gaming%20Convertibles-blueviolet?style=for-the-badge)](docs/laptop-tracker/workstation_convertibles/README.md)
 
 **An executive, high-density intelligence dashboard continuously monitoring US retail doorbusters, certified refurbished outlets, and manufacturer clearance inventories.**
@@ -20,12 +20,12 @@
 
 ---
 
-> **🕒 Last Verified:** `2026-11-08 21:05:00 (+06:00 Asia/Dhaka)` • All 55 active models and 35 archived listings verified live  
+> **🕒 Last Verified:** `2026-11-08 23:10:00 (+06:00 Asia/Dhaka)` • All 55 active models and 36 archived listings verified live
 > **🎯 Strategic Focus Active:** 1) Deep research on sub-৳50k–৳55k BDT models • 2) Dedicated tracking of Touchscreen & 360° convertibles with 16GB RAM • 3) Radar on high-gravity outlier discounts (Tier 4).  
-> **⚡ Best Buy & Dell DFS Weekend Doorbuster Waves LIVE:** Best Buy Early Black Friday doorbusters holding strong into Sunday night (Lenovo IdeaPad Slim 3i Touch $429.99, HP OmniBook X Flip 14 $649.99, LOQ 15 RTX 4060 $699.99, ASUS TUF A15 RTX 4060 $679.99). DFS inventory sweep: Precision 3581 Grade A RTX A500 holding at 4 units ($619; 14-core i7 SKU 000038 at $559), Latitude 7340 32GB QHD+ holding at final 1 unit ($579), and Latitude 5530 holding at 1 unit ($409)!
+> **⚡ Best Buy & Dell DFS Weekend Doorbuster Waves LIVE:** Best Buy Early Black Friday doorbusters active into late-night Sunday sweep (Lenovo IdeaPad Slim 3i Touch $429.99, HP OmniBook X Flip 14 $649.99, LOQ 15 RTX 4060 $699.99 with rapid inventory turnover, ASUS TUF A15 RTX 4060 $679.99). DFS inventory sweep: Precision 3581 Grade A RTX A500 holding at 4 units ($619; 14-core i7 SKU 000038 at $559), Latitude 7340 32GB QHD+ holding at final 1 unit ($579), and Latitude 5530 holding at 1 unit ($409)!
 > **🔗 100% Direct Link Audit Complete:** Mobilized parallel subagents under Chief of Staff protocol. Every tracked listing pairs verified, defect-free direct item listing URLs (`https://www.ebay.com/itm/...`, Dell DFS cart items, Best Buy direct SKUs) with clean, un-borked discoverability search links.  
 > **🔥 Fresh Doorbuster Price Drops & Highlights:** ThinkPad X13 Yoga Gen 2 holding at **$314.99 USD** (~৳42,524 landed / ~৳40,319 bank with 16:10 display & garaged stylus)! Sourced live winner for **Dell Latitude 7330** at **$279.59 USD** (~৳37,745 landed), ThinkPad X1 Yoga Gen 6 holding at **$335.99 USD** (~৳45,359 landed), Latitude 5330 2-in-1 at **$299.00 USD** (~৳40,365 landed), and Latitude 5430 at **$329.99 USD** (~৳44,549 landed)!  
-> **🛡️ Adversarial Defect Gate Active:** Disqualified candidate #A35 (HP Pavilion x360 14\" & 15\" 8GB memory configurations: non-upgradeable 8GB soldered/single-channel RAM violating 16GB convertible protocol, notorious plastic hinge screw-boss shear ['Pavilion hinge blowout'] causing structural lower tub separation, and severe glossy glare) and candidate #A34 (Dell Inspiron 16 8GB soldered memory configurations: non-upgradeable 8GB soldered RAM trap on a wide 16\" deck, severe unified VRAM starvation with Intel Iris Xe, and pronounced palmrest flex), alongside candidate #A33 (Lenovo Yoga 7/7i 14\" 8GB soldered), candidate #A32 (ASUS Zenbook 14 OLED 8GB soldered), candidate #A31 (Surface Pro/Laptop 8GB soldered), candidate #A30 (HP Envy x360 14\" 8GB soldered), candidate #A29 (Dell Inspiron 14 2-in-1 8GB soldered), candidate #A28 (IdeaPad Flex 3/3i), candidate #A27 (Aspire 3 Spin 14), candidate #A26 (Chromebooks 4GB soldered), candidate #A25 (HP 17/17z hinge blowout) & candidate #A24 (Gateway battery swelling).
+> **🛡️ Adversarial Defect Gate Active:** Disqualified candidate #A36 (Samsung Galaxy Book4 & Galaxy Book4 360 8GB soldered memory configurations: non-upgradeable 8GB soldered RAM trap, heavy Samsung ecosystem background bloatware consuming 5.8GB+ at boot, severe unified VRAM starvation with Intel Iris Xe, and S Pen active stylus stroke latency cascades), candidate #A35 (HP Pavilion x360 14" & 15" 8GB memory: non-upgradeable 8GB soldered/single-channel RAM violating 16GB convertible protocol, notorious plastic hinge screw-boss shear ['Pavilion hinge blowout'] causing structural lower tub separation, and severe glossy glare) and candidate #A34 (Dell Inspiron 16 8GB soldered memory: non-upgradeable 8GB soldered RAM trap on a wide 16" deck, severe unified VRAM starvation, and pronounced palmrest flex), alongside candidate #A33 (Lenovo Yoga 7/7i 14" 8GB soldered), candidate #A32 (ASUS Zenbook 14 OLED 8GB soldered), candidate #A31 (Surface Pro/Laptop 8GB soldered), candidate #A30 (HP Envy x360 14" 8GB soldered), candidate #A29 (Dell Inspiron 14 2-in-1 8GB soldered), candidate #A28 (IdeaPad Flex 3/3i), candidate #A27 (Aspire 3 Spin 14), candidate #A26 (Chromebooks 4GB soldered), candidate #A25 (HP 17/17z hinge blowout) & candidate #A24 (Gateway battery swelling).
 
 ---
 
@@ -146,7 +146,7 @@
 ## 📚 Deep Research & Evaluation Library
 *For those who want to examine the deeper technical evaluations, OEM telemetry, brand architectures, and landed cost models:*
 
-* 📚 **[Complete Master Directory of All 88 Checked Deals (`ALL_CHECKED_DEALS.md`)](docs/laptop-tracker/ALL_CHECKED_DEALS.md)**  
+* 📚 **[Complete Master Directory of All 91 Audited Deals (`ALL_CHECKED_DEALS.md`)](docs/laptop-tracker/ALL_CHECKED_DEALS.md)**  
   *Exhaustive 16-point component breakdown for every single tracked laptop (exact CPU silicon codenames, RAM MT/s, display color gamuts, cooling heatpipes, bus speeds) plus the historical archives and disqualified listings.*
 
 * ⚡ **[Heavy-Duty Workstation & Gaming Convertible Guide (`workstation_convertibles/README.md`)](docs/laptop-tracker/workstation_convertibles/README.md)**  
@@ -167,5 +167,5 @@
 ---
 
 <div align="center">
-<sub>The Black Friday Deals Intelligence Suite monitors 55 active serialized models and 90 audited listings across US retail and certified refurbished channels.</sub>
+<sub>The Black Friday Deals Intelligence Suite monitors 55 active serialized models and 91 audited listings across US retail and certified refurbished channels.</sub>
 </div>
