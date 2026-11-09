@@ -632,9 +632,9 @@
 | :--- | :--- |
 | **Tracking ID & SKU** | `thinkpad-x1-yoga-gen6` • **SKU:** `ThinkPad-X1-Yoga-G6` |
 | **Retailer / Channel** | **eBay Certified Refurbished / Amazon Renewed** |
-| **Pricing Breakdown** | **$335.99 USD** *(MSRP: $1799.00 • Lowest Seen: $369.00)* |
-| **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳48,512 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳51,165 BDT** |
-| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-09T11:15:00+06:00` |
+| **Pricing Breakdown** | **$328.99 USD** *(MSRP: $1,799.00 • Lowest Seen: $328.99)* |
+| **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳42,111 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳44,414 BDT** |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-09T09:15:00+06:00` |
 | **Processor & Silicon Architecture (CPU)** | Intel 11th Gen Tiger Lake Core i5-1135G7 / i7-1185G7 vPro (4 Cores / 8 Threads, up to 4.80 GHz Turbo, 12MB Cache, 12W–28W configurable TDP, Intel Evo platform certified) |
 | **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (96 Execution Units / 768 ALUs @ 1.35 GHz, DirectX 12.1, OpenGL 4.6, dual Thunderbolt 4 eGPU ready with 4 PCIe lanes) |
 | **Memory Architecture (RAM)** | 16GB LPDDR4x-4266 MHz dual-channel memory • 100% Soldered (High-frequency executive memory architecture) |
@@ -648,7 +648,7 @@
 | **Webcam, Audio & Biometrics** | 720p HD + IR hybrid camera with ThinkShutter privacy cover, human presence detection (walk-away lock & zero-touch login) • Match-on-chip fingerprint reader on power key • Discrete TPM 2.0 • Quad speakers: 2× 2W woofers + 2× 0.8W tweeters with Dolby Atmos • 4× 360° far-field microphones |
 
 > **🔍 Curatorial Audit & Engineering Verdict:**  
-> Flagship X1 Convertible Sweet Spot: Slashes 78%+ off original $1,799 MSRP down to $379.00 (~৳51,165 landed / ~৳48,512 bank), landing squarely within the sub-৳55,000 BDT sweet spot. The flagship X1 Yoga Gen 6 features premium Storm Grey CNC aluminum unibody construction, taller 16:10 WUXGA 400-nit low-power touch display, integrated rechargeable ThinkPad Pen Pro garaged in the chassis, 16GB LPDDR4x RAM (satisfying the non-negotiable 16GB convertible protocol), 512GB NVMe SSD, Dolby Atmos quad-speaker sound system, quad far-field microphones, dual Thunderbolt 4 ports, and MIL-STD-810H durability. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty / Amazon Renewed Guarantee.
+> Flagship X1 Convertible Sweet Spot: FRESH PRICE DROP -$7.00 DOWN TO $328.99 USD (~৳44,414 landed / ~৳42,111 bank card rate)! Slashes 81%+ off original $1,799 MSRP, landing squarely within the sub-৳45,000 BDT sweet spot. The flagship X1 Yoga Gen 6 features premium Storm Grey CNC aluminum unibody construction, taller 16:10 WUXGA 400-nit low-power touch display, integrated rechargeable ThinkPad Pen Pro garaged in the chassis, 16GB LPDDR4x RAM (satisfying the non-negotiable 16GB convertible protocol), 512GB NVMe SSD, Dolby Atmos quad-speaker sound system, quad far-field microphones, dual Thunderbolt 4 ports, 4G LTE cellular connectivity, and MIL-STD-810H durability. Backed by Swing Computers (99.6% positive) with tested 100% battery health and Allstate 1-to-2 Year Certified Refurbished Warranty.
 
 ---
 
@@ -1590,7 +1590,7 @@ The following models were investigated, benchmarked, or tracked during prior swe
   3. **High-Torque 360° Hinge & Brittle Internal Clips:** The stiff 360-degree hinge mechanism places severe mechanical stress on brittle internal plastic anchor bosses. Over time, hinge resistance stiffens, warping the display bezel and triggering screen delamination.
   4. **Soldered RAM & Thermal Throttling:** Non-upgradeable soldered LPDDR memory limits long-term expandability, and the whisper-thin chassis aggressively throttles 12th/13th Gen Intel chips down to single-fan thermal limits under sustained multitasking.
   5. **Superior Actively Tracked Alternatives:** In the same sub-$360 sweet spot, our tracker offers rock-solid, MIL-STD-810H tested executive convertibles with zero screen-fracture history:
-     * **ThinkPad X1 Yoga Gen 6 ($335.99 / ~৳45,359 landed):** CNC unibody aluminum, 400-nit 16:10 low power display, garaged stylus, dual Thunderbolt 4, and 100% verified battery health with 1-Year Allstate Warranty.
+     * **ThinkPad X1 Yoga Gen 6 ($328.99 / ~৳44,414 landed):** CNC unibody aluminum, 400-nit 16:10 low power display, garaged stylus, dual Thunderbolt 4, and 100% verified battery health with 1-Year Allstate Warranty.
      * **Dell Latitude 9420 2-in-1 ($354.99 / ~৳47,924 landed):** Diamond-cut CNC aluminum unibody, 500-nit QHD+ (2560x1600) 16:10 display, Gorilla Glass 6 DX, motorized SafeShutter webcam, and 2-Year Allstate Warranty.
      * **Dell Latitude 5330 2-in-1 ($299.00 / ~৳40,365 landed):** 10-core 12th Gen i7-1265U, carbon-fiber reinforced structure, and dual TB4 ports.
      * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** 8-core/16-thread AMD Ryzen 7 PRO 5850U with **dual un-soldered SODIMM slots (up to 64GB)** and Corning Gorilla Glass 5.
@@ -1605,7 +1605,7 @@ The following models were investigated, benchmarked, or tracked during prior swe
   3. **High-Risk International Warranty Denial:** Authorized service centers routinely classify hinge breakage and consequent screen cracking as "user-induced accidental damage" rather than structural fatigue. For buyers importing to Bangladesh without official local ASUS US warranty coverage, out-of-warranty screen and palmrest shell replacements exceed **$300–$400+ USD**, rendering the machine an economic total loss.
   4. **Soldered RAM Bottleneck:** Most promotional sub-$450 configurations ship with 8GB of non-upgradeable soldered RAM (violating our strict 16GB non-negotiable protocol). Higher-end 16GB models often solder 8GB with a single 8GB SODIMM, limiting dual-channel performance ceilings.
   5. **Superior Actively Tracked Alternatives:** In the same $299–$369 price window, our tracker provides rock-solid, military-grade enterprise convertibles with zero structural hinge failure history:
-     * **ThinkPad X1 Yoga Gen 6 ($335.99 / ~৳45,359 landed):** Dual-cam reinforced steel hinges, CNC all-aluminum unibody, 14.0" 16:10 400-nit low power touch display, garaged stylus, dual Thunderbolt 4, and 100% verified battery health with 1-Year Allstate Warranty.
+     * **ThinkPad X1 Yoga Gen 6 ($328.99 / ~৳44,414 landed):** Dual-cam reinforced steel hinges, CNC all-aluminum unibody, 14.0" 16:10 400-nit low power touch display, garaged stylus, dual Thunderbolt 4, and 100% verified battery health with 1-Year Allstate Warranty.
      * **Dell Latitude 9420 2-in-1 ($354.99 / ~৳47,924 landed):** Diamond-cut CNC aluminum unibody, 500-nit 16:10 QHD+ (2560x1600) display, Corning Gorilla Glass 6 DX, motorized SafeShutter webcam, and 2-Year Allstate Warranty.
      * **Dell Latitude 5330 2-in-1 ($299.00 / ~৳40,365 landed):** 10-core 12th Gen i7-1265U vPro, carbon-fiber reinforced chassis, dual TB4 ports, and active pen support for under $300.
      * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** 8-core/16-thread AMD Ryzen 7 PRO 5850U with **dual un-soldered SODIMM slots (up to 64GB)**, aluminum keyboard deck, and Corning Gorilla Glass 5.
@@ -1831,7 +1831,7 @@ The following models were investigated, benchmarked, or tracked during prior swe
      * **Dell Latitude 5330 2-in-1 ($299.00 / ~৳40,365 landed):** 10-core 12th Gen Core i7-1265U vPro (4.8 GHz), **16GB RAM**, Corning Gorilla Glass 6 DX, dual Thunderbolt 4 (40Gbps eGPU ready), Dell Active Pen support, and carbon-fiber reinforced durability under ৳41,000 landed.
      * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** AMD Ryzen 7 PRO 5850U (8C/16T), **2× un-soldered SODIMM slots (upgradable up to 64GB DDR4)**, aluminum keyboard deck, and Allstate warranty under ৳42,000 landed.
      * **ThinkPad X13 Yoga Gen 2 ($314.99 / ~৳42,524 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, taller 16:10 WUXGA touch display, **rechargeable ThinkPad Pen Pro garaged directly in the side chassis**, magnesium alloy build, and dual Thunderbolt 4.
-     * **ThinkPad X1 Yoga Gen 6 ($335.99 / ~৳45,359 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, CNC aluminum unibody, and garaged stylus under ৳46,000 landed.
+     * **ThinkPad X1 Yoga Gen 6 ($328.99 / ~৳44,414 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, CNC aluminum unibody, and garaged stylus under ৳46,000 landed.
      * **Dell Inspiron 14 7430 2-in-1 Verified 16GB Model (Tracked as #29 at $429.00 / ~৳57,915 landed):** If choosing this specific Inspiron chassis, select the factory-configured **16GB LPDDR5 RAM** edition with Intel Core i5-1335U (10C/12T) and Thunderbolt 4.
 
 ---
@@ -1852,7 +1852,7 @@ The following models were investigated, benchmarked, or tracked during prior swe
      * **Dell Latitude 5330 2-in-1 ($299.00 / ~৳40,365 landed):** 10-core 12th Gen Core i7-1265U vPro (4.8 GHz), **16GB RAM**, Corning Gorilla Glass 6 DX, dual Thunderbolt 4 (40Gbps eGPU ready), Dell Active Pen support, and carbon-fiber reinforced durability under ৳41,000 landed.
      * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** AMD Ryzen 7 PRO 5850U (8C/16T), **2× un-soldered SODIMM slots (upgradable up to 64GB DDR4)**, aluminum keyboard deck, and Allstate warranty under ৳42,000 landed.
      * **ThinkPad X13 Yoga Gen 2 ($314.99 / ~৳42,524 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, taller 16:10 WUXGA touch display, **rechargeable ThinkPad Pen Pro garaged directly in the side chassis**, magnesium alloy build, and dual Thunderbolt 4 under ৳43,000 landed.
-     * **ThinkPad X1 Yoga Gen 6 ($335.99 / ~৳45,359 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, CNC aluminum unibody, and garaged stylus under ৳46,000 landed.
+     * **ThinkPad X1 Yoga Gen 6 ($328.99 / ~৳44,414 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, CNC aluminum unibody, and garaged stylus under ৳46,000 landed.
      * **HP Envy x360 15.6" Verified 16GB Model (Tracked as #28 at $339.99 / ~৳45,899 landed):** If selecting the Envy series, choose this verified **16GB factory RAM** configuration with AMD Zen 8-core compute and 512GB SSD.
      * **Dell Latitude 7430 2-in-1 ($379.00 / ~৳51,165 landed):** 10-core 12th Gen Core i7-1265U vPro, **16GB RAM**, dual Thunderbolt 4, Corning Gorilla Glass 6 DX, and 1-year warranty under ৳52,000 landed.
      * **ThinkPad X13 Yoga Gen 3 ($439.99 / ~৳59,399 landed):** 10-core 12th Gen Intel Core i5-1245U vPro, **16GB RAM**, modern 16:10 WUXGA display, garaged stylus, and dual Thunderbolt 4.
@@ -1878,7 +1878,7 @@ The following models were investigated, benchmarked, or tracked during prior swe
      * **Dell Latitude 5330 2-in-1 ($299.00 / ~৳40,365 landed):** 10-core 12th Gen Core i7-1265U vPro (4.8 GHz), **16GB RAM**, Corning Gorilla Glass 6 DX, dual Thunderbolt 4 (40Gbps eGPU ready), Dell Active Pen support, and carbon-fiber reinforced durability under ৳41,000 landed.
      * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** AMD Ryzen 7 PRO 5850U (8C/16T), **2× un-soldered SODIMM slots (upgradable up to 64GB DDR4)**, aluminum keyboard deck, and Allstate warranty under ৳42,000 landed.
      * **ThinkPad X13 Yoga Gen 2 ($314.99 / ~৳42,524 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, taller 16:10 WUXGA touch display, **rechargeable ThinkPad Pen Pro garaged directly in the side chassis**, magnesium alloy build, and dual Thunderbolt 4 under ৳43,000 landed.
-     * **ThinkPad X1 Yoga Gen 6 ($335.99 / ~৳45,359 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, CNC aluminum unibody, and garaged stylus under ৳46,000 landed.
+     * **ThinkPad X1 Yoga Gen 6 ($328.99 / ~৳44,414 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, CNC aluminum unibody, and garaged stylus under ৳46,000 landed.
      * **Dell Latitude 9420 2-in-1 ($354.99 / ~৳47,924 landed):** 11th Gen Core i7 vPro, **16GB RAM**, 14.0" 16:10 QHD+ 500-nit touch display, diamond-cut CNC aluminum unibody, dual TB4, quad speakers, and motorized SafeShutter webcam under ৳48,000 landed.
 
 ---
@@ -1918,7 +1918,7 @@ The following models were investigated, benchmarked, or tracked during prior swe
      * **Dell Latitude 5330 2-in-1 ($299.00 / ~৳40,365 landed):** 10-core 12th Gen Core i7-1265U vPro (4.8 GHz), **16GB RAM**, Corning Gorilla Glass 6 DX, dual Thunderbolt 4 (40Gbps eGPU ready), Dell Active Pen support, and carbon-fiber reinforced durability under ৳41,000 landed.
      * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** AMD Ryzen 7 PRO 5850U (8C/16T), **2× un-soldered SODIMM slots (upgradable up to 64GB DDR4)**, aluminum keyboard deck, and Allstate warranty under ৳42,000 landed.
      * **ThinkPad X13 Yoga Gen 2 ($314.99 / ~৳42,524 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, taller 16:10 WUXGA touch display, **rechargeable ThinkPad Pen Pro garaged directly in the side chassis**, magnesium alloy build, and dual Thunderbolt 4 under ৳43,000 landed.
-     * **ThinkPad X1 Yoga Gen 6 ($335.99 / ~৳45,359 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, CNC aluminum unibody, and garaged stylus under ৳46,000 landed.
+     * **ThinkPad X1 Yoga Gen 6 ($328.99 / ~৳44,414 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, CNC aluminum unibody, and garaged stylus under ৳46,000 landed.
      * **Dell Latitude 9420 2-in-1 ($354.99 / ~৳47,924 landed):** 11th Gen Core i7 vPro, **16GB RAM**, 14.0" 16:10 QHD+ 500-nit touch display, diamond-cut CNC aluminum unibody, dual TB4, quad speakers, and motorized SafeShutter webcam under ৳48,000 landed.
      * **Dell Latitude 7430 2-in-1 ($379.00 / ~৳51,165 landed):** 10-core 12th Gen Core i7-1265U vPro, **16GB RAM**, dual Thunderbolt 4, Corning Gorilla Glass 6 DX, and 1-year warranty under ৳52,000 landed.
      * **ThinkPad X13 Yoga Gen 3 ($439.99 / ~৳59,399 landed):** 10-core 12th Gen Intel Core i5-1245U vPro, **16GB RAM**, modern 16:10 WUXGA display, garaged stylus, and dual Thunderbolt 4.
@@ -1960,7 +1960,7 @@ The following models were investigated, benchmarked, or tracked during prior swe
      * **Dell Latitude 5330 2-in-1 ($299.00 / ~৳40,365 landed):** 10-core 12th Gen Core i7-1265U vPro (4.8 GHz), **16GB RAM**, Corning Gorilla Glass 6 DX, dual Thunderbolt 4 (40Gbps eGPU ready), Dell Active Pen support, and carbon-fiber reinforced durability under ৳41,000 landed.
      * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** AMD Ryzen 7 PRO 5850U (8C/16T), **2× un-soldered SODIMM slots (upgradable up to 64GB DDR4)**, aluminum keyboard deck, and Allstate warranty under ৳42,000 landed.
      * **ThinkPad X13 Yoga Gen 2 ($314.99 / ~৳42,524 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, taller 16:10 WUXGA touch display, **rechargeable ThinkPad Pen Pro garaged directly in the side chassis**, magnesium alloy build, and dual Thunderbolt 4 under ৳43,000 landed.
-     * **ThinkPad X1 Yoga Gen 6 ($335.99 / ~৳45,359 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, CNC aluminum unibody, and garaged stylus under ৳46,000 landed.
+     * **ThinkPad X1 Yoga Gen 6 ($328.99 / ~৳44,414 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, CNC aluminum unibody, and garaged stylus under ৳46,000 landed.
      * **Dell Latitude 9420 2-in-1 ($354.99 / ~৳47,924 landed):** 11th Gen Core i7 vPro, **16GB RAM**, 14.0" 16:10 QHD+ 500-nit touch display, diamond-cut CNC aluminum unibody, dual TB4, quad speakers, and motorized SafeShutter webcam under ৳48,000 landed.
      * **Dell Latitude 7430 2-in-1 ($379.00 / ~৳51,165 landed):** 10-core 12th Gen Core i7-1265U vPro, **16GB RAM**, dual Thunderbolt 4, Corning Gorilla Glass 6 DX, and 1-year warranty under ৳52,000 landed.
      * **ThinkPad X13 Yoga Gen 3 ($439.99 / ~৳59,399 landed):** 10-core 12th Gen Intel Core i5-1245U vPro, **16GB RAM**, modern 16:10 WUXGA display, garaged stylus, and dual Thunderbolt 4.
@@ -1983,7 +1983,7 @@ The following models were investigated, benchmarked, or tracked during prior swe
      * **Dell Latitude 5330 2-in-1 ($299.00 / ~৳40,365 landed):** 10-core 12th Gen Core i7-1265U vPro (4.8 GHz), **16GB RAM**, Corning Gorilla Glass 6 DX, dual Thunderbolt 4 (40Gbps eGPU ready), Dell Active Pen support, and carbon-fiber reinforced durability under ৳41,000 landed.
      * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** AMD Ryzen 7 PRO 5850U (8C/16T), **2× un-soldered SODIMM slots (upgradable up to 64GB DDR4)**, aluminum keyboard deck, and Allstate warranty under ৳42,000 landed.
      * **ThinkPad X13 Yoga Gen 2 ($314.99 / ~৳42,524 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, taller 16:10 WUXGA touch display, **rechargeable ThinkPad Pen Pro garaged directly in the side chassis**, magnesium alloy build, and dual Thunderbolt 4 under ৳43,000 landed.
-     * **ThinkPad X1 Yoga Gen 6 ($335.99 / ~৳45,359 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, CNC aluminum unibody, and garaged stylus under ৳46,000 landed.
+     * **ThinkPad X1 Yoga Gen 6 ($328.99 / ~৳44,414 landed):** 11th Gen vPro Core i5/i7, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, CNC aluminum unibody, and garaged stylus under ৳46,000 landed.
      * **Dell Latitude 9420 2-in-1 ($354.99 / ~৳47,924 landed):** 11th Gen Core i7 vPro, **16GB RAM**, 14.0" 16:10 QHD+ 500-nit touch display, diamond-cut CNC aluminum unibody, dual TB4, quad speakers, and motorized SafeShutter webcam under ৳48,000 landed.
      * **Dell Latitude 7430 2-in-1 ($379.00 / ~৳51,165 landed):** 10-core 12th Gen Core i7-1265U vPro, **16GB RAM**, dual Thunderbolt 4, Corning Gorilla Glass 6 DX, and 1-year warranty under ৳52,000 landed.
      * **ThinkPad X13 Yoga Gen 3 ($439.99 / ~৳59,399 landed):** 10-core 12th Gen Intel Core i5-1245U vPro, **16GB RAM**, modern 16:10 WUXGA display, garaged stylus, and dual Thunderbolt 4.
