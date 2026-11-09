@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "2.70.0",
-    "last_updated": "2026-11-09T23:15:00+06:00",
+    "version": "2.71.0",
+    "last_updated": "2026-11-10T01:15:00+06:00",
     "currency_rates": {
       "base_mid_market_usd_to_bdt": 124,
       "bank_card_settlement_rate": 128,
@@ -68,7 +68,7 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS",
       "touchscreen": false,
       "notes": "The ultimate budget stretcher. Slashing $350 off MSRP to hit $649 unlocks a true RTX 4060 with 8GB VRAM (allowing unquantized 8B LLMs, 1080p Ultra gaming with full Ray Tracing/DLSS 3, and 16-thread Core i7 compute). Dual un-soldered DDR5 slots. Full cooling beats 45W throttled models.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -90,7 +90,7 @@
       "display": "13.6\" Liquid Retina Display (2560x1664) 500-nits True Tone",
       "touchscreen": false,
       "notes": "Historical all-time low tracking. Direct Walmart brand-new stock fluctuates rapidly around $649 (currently restored like-new active at $618.89). Class-leading 18-hour battery, CNC unibody aluminum build, Liquid Retina display. Ideal for iOS/web development and college carry.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -112,7 +112,7 @@
       "display": "13.3\" QHD+ (2560x1600) 16:10 Touchscreen",
       "touchscreen": true,
       "notes": "High-gravity productivity outlier: 40% instant DFS discount gives 32GB RAM, 10-core 13th Gen i7, and ultra-sharp 2560x1600 16:10 touch panel for $579. Real-time DFS inventory update: Grade B SKU 000003 holding at ONLY 1 unit remaining in stock! Grade A variant (SKU 000010) active at $629 (1 unit left); Grade A FHD+ Touch (SKU 000015) active at $599 (5 units left).",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -134,7 +134,7 @@
       "display": "16.0\" 2K/3.2K Touch OLED (100% DCI-P3, 500 nits, DisplayHDR 500)",
       "touchscreen": true,
       "notes": "Apex Tier 4 Display & AI PC Discovery: Slashes 42% ($422 off $1,000 MSRP) down to $577.88 (~৳78,014 landed / ~৳73,969 bank) using coupon NICEFIND10 at the official Acer eBay Store. Features a brilliant 16.0-inch 16:10 Touch OLED display with 100% DCI-P3 color gamut, Intel Core Ultra 5 processing with dedicated AI NPU, 16GB LPDDR5X RAM, 512GB NVMe SSD, massive 71 Whr battery, and direct 2-Year Allstate Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -156,7 +156,7 @@
       "display": "15.6\" FHD (1920x1080) Anti-glare IPS",
       "touchscreen": false,
       "notes": "High-gravity workstation outlier: DFS Hot Deal verified live with 40% instant discount ($619.00 / ~৳83,565 landed). NVIDIA RTX A500 (4GB GDDR6 dedicated, ISV Certified) + 12-core 45W Core i5-13600H, 16GB DDR5 (2x SODIMM upgradeable to 64GB), 512GB Gen 4 SSD, dual Thunderbolt 4, Grade A, 100-Day Dell direct warranty. Real-time DFS inventory check: Grade A SKU 000028 down to 4 units remaining (from 5). New discovery: DFS SKU 000038 Grade B with 14-core Core i7-13700H + RTX A500 slashed to $559.00 (~৳75,465 landed, only 2 units left!).",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "GRAVITY_DEAL",
       "search_url": "https://www.dellrefurbished.com/hot-deals?model_f[]=Precision%203581"
     },
@@ -179,7 +179,7 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS Anti-glare",
       "touchscreen": false,
       "notes": "Apex Tier 4 GPU Outlier: Slashes $420 (38%+) off MSRP to unlock a true full-wattage 140W TGP NVIDIA GeForce RTX 4060 (8GB GDDR6 dedicated VRAM with Dynamic Boost and MUX switch), drastically outperforming thermal-throttled 45W thin-and-lights. AMD Ryzen 5/7, 16GB DDR5 RAM (2x un-soldered SODIMM slots upgradeable to 64GB), 512GB PCIe 4.0 SSD, and military-grade MIL-STD-810H durability.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -201,7 +201,7 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS (300 nits, 100% sRGB, G-SYNC)",
       "touchscreen": false,
       "notes": "Apex Tier 4 GPU Outlier: $699.99 Best Buy early Black Friday drop unlocks full RTX 4060 8GB GDDR6 (115W TGP with MUX switch) and 8-core/16-thread Ryzen 7 7435HS. Best Buy inventory fluctuates rapidly with high demand; open-box options available from $639-$679. Dual un-soldered DDR5 SODIMM slots upgradeable to 64GB; 2x M.2 Gen 4 SSD bays.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -223,7 +223,7 @@
       "display": "16.0\" WUXGA (1920x1200) IPS 360° Touchscreen (300 nits, Dolby Vision)",
       "touchscreen": true,
       "notes": "Gravity Outlier & AI PC Convertible: Best Buy promotional clearance slashes 40% ($400 off MSRP) to deliver a 360° convertible with next-gen Intel Core Ultra silicon (featuring dedicated AI NPU for local inferencing), 16GB LPDDR5X RAM, 512GB PCIe 4.0 SSD, all-aluminum chassis, Dolby Atmos quad speakers, and active stylus support. Perfect crossover for creative design and local AI development under ৳81,000 landed.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "GRAVITY_DEAL",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Lenovo+Yoga+7i+16+16GB&LH_BIN=1"
     },
@@ -246,7 +246,7 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS",
       "touchscreen": false,
       "notes": "Apex GPU doorbuster under $500. Direct Walmart 1P inventory remains temporarily sold through; currently 3rd-party marketplace reseller markup at $998. Maintained on alert watch for Walmart's official Black Friday Event 1 kickoff (Nov 12-15). Dual DDR5 SODIMM slots allow expansion up to 64GB.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "STOCK_DEPLETED",
       "search_url": "https://www.walmart.com/ip/HP-Victus-15-6-inch-FHD-144Hz-Gaming-Laptop-AMD-Ryzen-5-8645HS-NVIDIA-GeForce-RTX-4050-8GB-DDR5-512GB-SSD-Mica-Silver-2024/5395277340"
     },
@@ -269,7 +269,7 @@
       "display": "13.3\" FHD+ (1920x1200) 16:10 Touchscreen",
       "touchscreen": true,
       "notes": "Live DFS Hot Deal update: Grade B $539 variant (SKU 000018) sold out. Grade A variant (SKU 000015) active at $599.00 (~৳80,865 landed) with 6 units remaining. Note: the 32GB RAM / 512GB SSD QHD+ Grade B variant (SKU 000003) is currently available on DFS for $579.00 ($20 LESS than this 16GB Grade A), making it the superior value buy!",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "LOW_STOCK_WARNING"
     },
     {
@@ -291,7 +291,7 @@
       "display": "13.3\" FHD (1920x1080) Non-Touch IPS",
       "touchscreen": false,
       "notes": "Tier 1 32GB RAM Breakthrough: Woot Microsoft Authorized Refurbished event. Packs 32GB DDR4 RAM pre-installed, 10-core 12th Gen i7-1265U, 512GB SSD, and dual Thunderbolt 4 ports for $539.99 (~৳72,899 landed). Eliminates memory ceilings for heavy Docker/VM/dev workloads under $550. CRITICAL ALERT: Live verification confirms final allocation unit holding ('Hurry only 1 left! - final hours of MAR event').",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "LOW_STOCK_WARNING",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Latitude+7330+16GB&LH_BIN=1"
     },
@@ -314,7 +314,7 @@
       "display": "14.0\" FHD (1920x1080) Touchscreen 360°",
       "touchscreen": true,
       "notes": "PRICE DROP -$70.99 (DOWN TO $379.00): Slashes down from $449.99 to $379.00 USD (~৳51,165 landed / ~৳48,512 bank card rate) on Woot / eBay Refurbished. Packs 12th Gen 10-core Core i7-1265U with 16GB RAM, full 360° convertible touch form factor, dual Thunderbolt 4 (40Gbps eGPU ready), Corning Gorilla Glass 6 DX, active stylus support, and 1-year warranty. Enters the prime sub-৳55,000 BDT sweet spot!",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "PRICE_DROP",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Latitude+7430+2-in-1+16GB&LH_BIN=1"
     },
@@ -337,7 +337,7 @@
       "display": "15.6\" FHD (1920x1080) 144Hz IPS",
       "touchscreen": false,
       "notes": "Ships with 16GB RAM out of the box (dual SODIMM slots). Dedicated RTX 3050 for local LLMs and Adobe Suite under $480.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -359,7 +359,7 @@
       "display": "16.0\" WUXGA (1920x1200) 16:10 NanoEdge Display",
       "touchscreen": false,
       "notes": "Productivity doorbuster. Packs a 10-core Core i7, 16GB factory RAM, and taller 16:10 16-inch display under $500. Features 1 open SODIMM slot for upgrading up to 40GB total.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -381,7 +381,7 @@
       "display": "15.6\" FHD (1920x1080) Anti-glare",
       "touchscreen": false,
       "notes": "Best Buy direct 1P Black Friday doorbuster (DoorBOOsters / Early Black Friday): $400 instant discount brings a 13th Gen 10-core Core i5 with 16GB RAM down to $499.99 (~৳67,499 landed). Direct manufacturer 1-year warranty. Verified live via Best Buy SKU 6668499.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -403,7 +403,7 @@
       "display": "15.6\" FHD (1920x1080) IPS Display",
       "touchscreen": false,
       "notes": "Includes free 2-Year Allstate Warranty. Pre-configured with 16GB RAM and huge 1TB SSD. Direct manufacturer certified.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "STEADY"
     },
     {
@@ -425,7 +425,7 @@
       "display": "13.3\" FHD (1920x1080) IPS 360° Touchscreen",
       "touchscreen": true,
       "notes": "Sold out on Woot event 67. Succeeded by Dell Latitude 7430 2-in-1 (12th Gen i7-1265U) and Dell Latitude 7330 32GB RAM.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "STOCK_DEPLETED",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Latitude+5320+2-in-1+16GB&LH_BIN=1"
     },
@@ -448,7 +448,7 @@
       "display": "15.6\" FHD (1920x1080) 120Hz Touchscreen",
       "touchscreen": true,
       "notes": "Brand New in factory sealed box: Expunged invalid Best Buy gas range SKU 6573752. Dell Inspiron 15 3530 Touch with 13th Gen Intel Core i5-1334U (10-core), 8GB DDR4 (2x un-soldered SODIMM slots, upgradeable to 64GB), 512GB NVMe SSD, 15.6\" 120Hz FHD Touchscreen, 1-Year OEM warranty. Direct Dell store promotional link also available at $449.99.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Inspiron+15+3530+Touch+16GB&LH_BIN=1"
     },
@@ -471,7 +471,7 @@
       "display": "14.0\" FHD (1920x1080) Anti-glare Touchscreen (300 nits)",
       "touchscreen": true,
       "notes": "Huge 32GB Touch Doorbuster on Woot: Slashes $1,150 off original $1,599 enterprise MSRP down to $449.99 (~৳60,749 landed / ~৳57,599 bank card rate). Combines a massive 32GB RAM pre-installed configuration with a 10-core 12th Gen Intel Core i7-1265U vPro processor and 14.0-inch Full HD touch display. Delivers dual Thunderbolt 4 ports, enterprise carbon fiber/aluminum build, and Microsoft Authorized Refurbished warranty, completely shattering the price floor for 32GB touch machines.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Latitude+7430+32GB&LH_BIN=1"
     },
@@ -494,7 +494,7 @@
       "display": "15.6\" FHD (1920x1080) Anti-glare",
       "touchscreen": false,
       "notes": "Dell DFS Grade A Refurbished with 100-Day Direct Warranty and verified healthy OEM battery. 10-core i5-1235U, dual un-soldered DDR4 SODIMM slots (upgradeable to 64GB), 256GB SSD, 15.6\" FHD. Regular coupons lower price to ~$409. 11 units in stock.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "LOW_STOCK_WARNING",
       "search_url": "https://www.dellrefurbished.com/hot-deals?model_f[]=Latitude%205530"
     },
@@ -517,7 +517,7 @@
       "display": "15.3\" WUXGA / 2K (1920x1200) IPS Touchscreen",
       "touchscreen": true,
       "notes": "Best Buy DoorBOOsters Doorbuster (concluding tonight, Nov 1): Slashes $300 off MSRP down to $429.99 (~৳58,049 landed / ~৳55,039 bank). Delivers brand new 10-core Intel Core 5 120U compute paired with 16GB RAM and a 15.3-inch 2K 16:10 touchscreen. Direct 1P Best Buy warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Lenovo+IdeaPad+Slim+3i+16GB&LH_BIN=1"
     },
@@ -540,7 +540,7 @@
       "display": "15.6\" FHD (1920x1080) IPS Edge-to-Edge Glass 360° Touchscreen",
       "touchscreen": true,
       "notes": "Sub-৳50k Premium Convertible Champion: Slashes through the ৳50,000 BDT landed boundary (~৳49,815 landed / $369 USD) while packing 16GB factory RAM, AMD 6-to-8 core Zen architecture, 512GB NVMe SSD, and 360-degree rotating touchscreen with digital pen support. Premium CNC all-aluminum unibody chassis, Bang & Olufsen audio, and 90-day Walmart Restored Guarantee / 1-2 Year Allstate Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=HP+Envy+x360+15+16GB&LH_BIN=1"
     },
@@ -563,7 +563,7 @@
       "display": "14.0\" 16:10 WUXGA (1920x1200) Low Power IPS 360° Touchscreen (400 nits, 100% sRGB)",
       "touchscreen": true,
       "notes": "Flagship X1 Convertible Sweet Spot: FRESH PRICE DROP -$7.00 DOWN TO $328.99 USD (~৳44,414 landed / ~৳42,111 bank card rate)! Slashes 81%+ off original $1,799 MSRP, landing squarely within the sub-৳45,000 BDT sweet spot. The flagship X1 Yoga Gen 6 features premium Storm Grey CNC aluminum unibody construction, taller 16:10 WUXGA 400-nit low-power touch display, integrated rechargeable ThinkPad Pen Pro garaged in the chassis, 16GB LPDDR4x RAM (satisfying the non-negotiable 16GB convertible protocol), 512GB NVMe SSD, Dolby Atmos quad-speaker sound system, quad far-field microphones, dual Thunderbolt 4 ports, 4G LTE cellular connectivity, and MIL-STD-810H durability. Backed by Swing Computers (99.6% positive) with tested 100% battery health and Allstate 1-to-2 Year Certified Refurbished Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "PRICE_DROP",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=ThinkPad+X1+Yoga+Gen+6+16GB&LH_BIN=1"
     },
@@ -586,7 +586,7 @@
       "display": "14.0\" FHD+ (1920x1200) 16:10 IPS 360° Touchscreen (ComfortView, Active Pen Support)",
       "touchscreen": true,
       "notes": "Replaced broken search filter with direct Best Buy product link for Core i7-1355U / 16GB / 1TB SSD / 14\" FHD+ 16:10 Touch. Refurbished direct eBay deal active at $429.99 (item 388915003180). Passed Defect Gate (disqualified scrap bare motherboard 227467760148).",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Inspiron+14+7430+2-in-1+16GB&LH_BIN=1"
     },
@@ -609,7 +609,7 @@
       "display": "14.0\" FHD (1920x1080) 400-nit Low Blue Light IPS",
       "touchscreen": false,
       "notes": "DFS stock exhausted: 0 units remaining in active Dell Refurbished catalog. Dell Latitude 7340 Touch ($539) and Latitude 7340 QHD+ 32GB ($579) remain active alternatives on DFS Hot Deals.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "STOCK_DEPLETED",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Latitude+7420+16GB&LH_BIN=1"
     },
@@ -632,7 +632,7 @@
       "display": "14.0\" FHD (1920x1080) IPS Anti-glare",
       "touchscreen": false,
       "notes": "Enterprise clamshell upgrade: moves to Core i7-1185G7 and doubles RAM to 16GB out of the box while keeping dual un-soldered SODIMM expansion up to 64GB.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "PRICE_DROP",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=HP+EliteBook+840+G8+16GB&LH_BIN=1"
     },
@@ -655,7 +655,7 @@
       "display": "15.6\" FHD (1920x1080) IPS",
       "touchscreen": false,
       "notes": "Replaced OOS and battery-untested BlairTech listing (which also lacked Quadro GPU) with live verified Grade B workstation from Top Rated seller Auditmacs. Features dedicated NVIDIA Quadro P520 (2GB GDDR5), Intel Core i5-10310U, 16GB RAM (2x un-soldered SODIMM slots), 256GB SSD, 15.6\" FHD, tested healthy OEM battery, 30-day returns.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "PRICE_DROP",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Precision+3550+Quadro+16GB&LH_BIN=1"
     },
@@ -678,7 +678,7 @@
       "display": "14.0\" FHD (1920x1080) IPS Display",
       "touchscreen": false,
       "notes": "Certified Refurbished baseline verified live across eBay refurbishers (active listings between $289.99 - $296.99, benchmarked at $294.27). Features military-grade ThinkPad chassis, 6-core Ryzen 5 Pro / 11th Gen i5, 16GB RAM, 512GB SSD, breaking below the ৳40,000 BDT landed barrier (~৳39,726) with Allstate 1-to-2 Year Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "STEADY",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=ThinkPad+T14+Gen+2+16GB&LH_BIN=1"
     },
@@ -701,7 +701,7 @@
       "display": "14.0\" FHD (1920x1080) IPS",
       "touchscreen": false,
       "notes": "Sub-$220 dual-SODIMM enterprise clamshell: Replaced stale Woot collection link with live verified eBay deal from top seller g-electronic (151k feedback, 99.7%). Intel Core i7-1185G7, 16GB RAM (2x un-soldered SODIMM slots), 256GB SSD, 14.0\" FHD, 30-day returns, battery tested functional. DFS Grade A alternative at $619.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "STEADY",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Latitude+5420+16GB&LH_BIN=1"
     },
@@ -724,7 +724,7 @@
       "display": "14.0\" FHD (1920x1080) IPS",
       "touchscreen": false,
       "notes": "CNC all-aluminum chassis, equipped with 16GB RAM and dual SODIMM slots for ~৳35,000 BDT landed. Highly durable, affordable enterprise workhorse for everyday productivity.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "STEADY",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=HP+EliteBook+840+G7+16GB&LH_BIN=1"
     },
@@ -747,7 +747,7 @@
       "display": "13.3\" FHD (1920x1080) IPS 360° Touchscreen (Gorilla Glass 6 DX, 300 nits, Active Pen Support)",
       "touchscreen": true,
       "notes": "Sub-৳35k Flagship 7000-Series Convertible: Exceptional Tier 3 value slashes 81%+ off MSRP down to $259.00 (~৳34,965 landed / ~৳33,152 bank card rate), shattering price barriers for a premium 7000-series corporate convertible. Packs 16GB RAM (meeting the 16GB non-negotiable convertible protocol), 11th Gen vPro processing, 256GB/512GB NVMe SSD, dual Thunderbolt 4 / USB-C ports with Power Delivery, Corning Gorilla Glass 6 DX, and full 360-degree rotation. Backed by Allstate 1-2 Year Certified Refurbished Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Latitude+7320+2-in-1+16GB&LH_BIN=1"
     },
@@ -770,7 +770,7 @@
       "display": "13.3\" FHD (1920x1080) IPS 360° Touchscreen (300 nits)",
       "touchscreen": true,
       "notes": "Live verified direct 2-in-1 deal: Replaced broken search filter with direct item link. Intel Core i7-1185G7, 16GB RAM (soldered dual-channel), 512GB NVMe SSD, 13.3\" FHD 360° IPS Touchscreen. Fully tested with 90-day seller warranty. Passed Defect Gate (disqualified cracked hinge unit 307154414802). DFS Grade A alternative at $519.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Latitude+5320+2-in-1+16GB&LH_BIN=1"
     },
@@ -793,7 +793,7 @@
       "display": "14.0\" FHD (1920x1080) IPS 360° Touchscreen (300 nits)",
       "touchscreen": true,
       "notes": "Sub-৳45k 14-inch Convertible Expansion: Certified Refurbished / enterprise benchmark at $319.00 (~৳43,065 landed / ~৳40,832 bank). Offers a full 360-degree rotating 14.0-inch form factor, carbon fiber or aluminum chassis, 16GB RAM, dual Thunderbolt 4 ports, and active pen support, backed by 1-to-2 Year Allstate Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Latitude+7420+2-in-1+16GB&LH_BIN=1"
     },
@@ -816,7 +816,7 @@
       "display": "13.3\" FHD (1920x1080) IPS 360° Touchscreen",
       "touchscreen": true,
       "notes": "Best-in-class convertible note-taker: Features an integrated, rechargeable ThinkPad Pen Pro garaged inside the side of the chassis. Legendary ThinkPad keyboard, military-grade MIL-STD-810H chassis, 16GB RAM, and 360 hinge under ৳46,000 landed. Backed by Allstate 1-2 Year Warranty on eBay Refurbished.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=ThinkPad+L13+Yoga+Gen+2+16GB&LH_BIN=1"
     },
@@ -839,7 +839,7 @@
       "display": "13.3\" WUXGA (1920x1200) 16:10 IPS 360° Touchscreen (300 nits, Anti-reflective)",
       "touchscreen": true,
       "notes": "PRICE DROP -$14.01 (DOWN TO $314.99): Slashes down to $314.99 USD (~৳42,524 landed / ~৳40,319 bank card rate) on eBay Certified Refurbished with 1-Year Allstate Warranty! Packs a taller 16:10 WUXGA (1920x1200) IPS touch display, premium magnesium/carbon-fiber ultralight chassis (~1.25kg), integrated rechargeable ThinkPad Pen Pro garaged directly in the side frame, 16GB RAM (meeting the non-negotiable convertible protocol), dual Thunderbolt 4 ports, and MIL-STD-810H durability.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "PRICE_DROP",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=ThinkPad+X13+Yoga+Gen+2+16GB&LH_BIN=1"
     },
@@ -862,7 +862,7 @@
       "display": "14.0\" FHD / WUXGA (1920x1080 / 1920x1200) IPS 360° Touchscreen (300 nits)",
       "touchscreen": true,
       "notes": "Core Sub-৳50k Convertible Discovery: Certified Refurbished / Renewed benchmark drops below $350 (~৳47,115 landed). Packs an 8-core / 16-thread AMD Ryzen 7 5700U/7730U or 12th Gen Intel Core i5, 16GB RAM (meeting the non-negotiable 16GB minimum protocol), 512GB NVMe SSD, and 14.0\" IPS 360-degree rotating touchscreen with digital pen support. Backed by certified refurbished warranty (Allstate 1-2 Year / Amazon Renewed Guarantee).",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Lenovo+IdeaPad+Flex+5+14+16GB&LH_BIN=1"
     },
@@ -885,7 +885,7 @@
       "display": "13.3\" FHD (1920x1080) IPS 360° Touchscreen (400 nits / Gorilla Glass 5)",
       "touchscreen": true,
       "notes": "Direct convertible flagship counterpart to the HP EliteBook 840 G8 benchmark: Slashes under $300 ($299.00 / ~৳40,365 landed / ~৳38,272 bank card rate) while delivering a premium 360-degree rotating hinge, CNC all-aluminum unibody chassis, 16GB RAM (satisfying the non-negotiable convertible protocol), dual Thunderbolt 4 ports, Bang & Olufsen audio, and active stylus support. Backed by Target/Walmart Restored guarantee & 1-2 Year Allstate Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=HP+EliteBook+x360+830+G8+16GB&LH_BIN=1"
     },
@@ -908,7 +908,7 @@
       "display": "13.3\" FHD (1920x1080) IPS 360° Touchscreen (Corning Gorilla Glass 5, Active Pen Support)",
       "touchscreen": true,
       "notes": "The convertible unicorn with un-soldered RAM: Unlike nearly all thin-and-light convertibles that solder RAM, the ProBook x360 435 G8 features 2x un-soldered DDR4 SODIMM slots (expandable to 32GB/64GB). Slashes down to $309.00 (~৳41,715 landed / ~৳39,552 bank), delivering powerful 6-to-8 core AMD Zen 3 processing (Ryzen 5 PRO 5600U / Ryzen 7 PRO 5850U), anodized aluminum chassis, MIL-STD-810H durability, and active pen support. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=HP+ProBook+x360+435+G8+16GB&LH_BIN=1"
     },
@@ -931,7 +931,7 @@
       "display": "13.3\" FHD / WUXGA (1920x1080 / 1920x1200) IPS 360° Touchscreen (300 nits, Dolby Vision, Active Pen Support)",
       "touchscreen": true,
       "notes": "Sub-৳46k Lifestyle Convertible Pick: Slashes 57%+ off MSRP down to $339.00 (~৳45,765 landed / ~৳43,392 bank card rate), delivering an ultra-portable 13.3-inch 360-degree convertible with unique stain-resistant fabric-wrapped or dark teal aluminum lid. Packed with up to 8-core AMD Zen processing, 16GB RAM (meeting the non-negotiable 16GB convertible protocol), 512GB NVMe SSD, Dolby Atmos front-facing stereo speakers, 12+ hour battery life, and active stylus support. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty on eBay Refurbished.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Lenovo+Yoga+6+13+16GB&LH_BIN=1"
     },
@@ -954,7 +954,7 @@
       "display": "14.0\" FHD (1920x1080) IPS 360° Touchscreen (300 nits, 100% sRGB, Corning Gorilla Glass, Active Pen)",
       "touchscreen": true,
       "notes": "Sub-৳45k Expandable Convertible Wonder: Slashes 72%+ off original $1,149 MSRP down to $319.00 (~৳43,065 landed / ~৳40,832 bank card rate). Solves the two major flaws of thin-and-light convertibles: features an un-soldered DDR4 SODIMM expansion slot (expandable up to 40GB total) AND dual M.2 NVMe PCIe SSD slots (allowing dual-drive storage expansion). Includes built-in Lenovo Integrated Smart Pen that recharges directly inside the side frame, CNC all-aluminum unibody chassis in Mineral Grey, Harman Kardon stereo speakers with Dolby Audio, dual USB-C (Thunderbolt 4 + USB 3.2 Gen 2 PD/DP), full-size HDMI, and Allstate 1-2 Year Certified Refurbished Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Lenovo+ThinkBook+14s+Yoga+16GB&LH_BIN=1"
     },
@@ -977,7 +977,7 @@
       "display": "14.0\" FHD (1920x1080) Low Power IPS 360° Touchscreen (400 nits, 100% sRGB, Corning Gorilla Glass 5, Active Pen Support)",
       "touchscreen": true,
       "notes": "Executive 1000-Series Corporate Flagship: Slashes 84% off original $1,999 MSRP down to $319.00 (~৳43,065 landed / ~৳40,832 bank card rate). Positioned above the 800-series as HP's ultimate corporate convertible (direct rival to ThinkPad X1 Yoga and Latitude 9000). Features ultra-slim 16.6mm CNC-machined aluminum unibody chassis, 400-nit low-power 100% sRGB touch panel, 16GB RAM (meeting the non-negotiable 16GB convertible protocol), Bang & Olufsen quad-speaker system with discrete amplifiers, quad-array microphones with world-facing noise reduction, dual Thunderbolt 4 ports, and Tile tracking. Backed by Allstate 1-2 Year Certified Refurbished Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=HP+EliteBook+x360+1040+G8+16GB&LH_BIN=1"
     },
@@ -1000,7 +1000,7 @@
       "display": "13.3\" 16:10 WUXGA (1920x1200) IPS 360° Touchscreen (300 nits, Anti-reflective)",
       "touchscreen": true,
       "notes": "Generational 12th Gen Convertible Doorbuster on Woot: Slashes 70%+ from original $1,499 enterprise MSRP down to $439.99 (~৳59,399 landed / ~৳56,319 bank). Upgrades to a 10-core 12th Gen Intel Core i5-1245U vPro processor, modern 16:10 WUXGA (1920x1200) touch panel, 16GB RAM (satisfying the non-negotiable 16GB convertible protocol), integrated rechargeable ThinkPad Pen Pro garaged inside the side frame, dual Thunderbolt 4 ports (eGPU ready), and MIL-STD-810H durability. Backed by Microsoft Authorized Refurbished warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=ThinkPad+X13+Yoga+Gen+3+16GB&LH_BIN=1"
     },
@@ -1023,7 +1023,7 @@
       "display": "13.3\" FHD (1920x1080) 400 nits Super Low Power Anti-glare IPS",
       "touchscreen": false,
       "notes": "Sub-৳48k 10-Core Enterprise Clamshell Doorbuster: Slashes down to $349.99 (~৳47,249 landed / ~৳44,799 bank card rate) on Woot Microsoft Authorized Refurbished event. Smashes the sub-$350 price floor for 12th Gen 10-core Intel Core i5-1245U vPro processing with 16GB RAM, 400-nit low power display, dual Thunderbolt 4 ports (full 40Gbps eGPU ready), and MicroSD card reader under ৳48,000 landed.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "STEADY",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Latitude+7330+16GB&LH_BIN=1"
     },
@@ -1046,7 +1046,7 @@
       "display": "14.0\" 16:10 WUXGA (1920x1200) Anti-glare IPS (300 nits)",
       "touchscreen": false,
       "notes": "Sub-৳50k 16:10 Corporate Workhorse Upgrade: Slashes 72%+ off original $1,349 enterprise MSRP down to $369.00 (~৳49,815 landed / ~৳47,232 bank card rate), breaking the sub-৳50,000 landed barrier for 12th Gen / Ryzen 6000 ThinkPad T-Series. Generational upgrade over the T14 Gen 2 with modern 16:10 WUXGA display real estate, PCIe Gen 4 SSD architecture, 16GB RAM (upgradeable via un-soldered SODIMM slot up to 40GB/48GB total), dual Thunderbolt 4 / USB4 (40Gbps full eGPU support), MicroSD card reader, spill-resistant ThinkPad keyboard, and TrackPoint. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "STEADY",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=ThinkPad+T14+Gen+3+16GB&LH_BIN=1"
     },
@@ -1069,7 +1069,7 @@
       "display": "13.3\" 16:10 WUXGA (1920x1200) IPS 360° Touchscreen (300 nits, Anti-reflective)",
       "touchscreen": true,
       "notes": "PRICE DROP -$20.00 (SUB-৳46k SWEET SPOT): Slashes down to $339.00 USD (~৳45,765 landed / ~৳43,392 bank card rate). Upgrades the classic L13 Yoga with a modern taller 16:10 WUXGA (1920x1200) touch panel, 10-core 12th Gen Intel Core i5-1245U vPro or 8-core AMD Ryzen 7 PRO 5875U silicon, 16GB RAM (meeting the non-negotiable convertible protocol), integrated rechargeable ThinkPad Pen Pro garaged directly in the side frame, Thunderbolt 4 (eGPU ready on Intel), MicroSD card reader, and MIL-STD-810H durability. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "PRICE_DROP",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=ThinkPad+L13+Yoga+Gen+3+16GB&LH_BIN=1"
     },
@@ -1092,7 +1092,7 @@
       "display": "13.3\" FHD (1920x1080) IPS 360° Touchscreen (Corning Gorilla Glass 6 DX, 300 nits, Active Pen Support)",
       "touchscreen": true,
       "notes": "Generational 12th Gen 10-Core Convertible Sweet Spot: Slashes 75% off original $1,399 enterprise MSRP down to $349.00 (~৳47,115 landed / ~৳44,672 bank card rate). Direct generational upgrade over the 11th Gen Latitude 5320 2-in-1, delivering a 10-core 12th Gen Intel Core i5 processor, 16GB RAM (satisfying the non-negotiable 16GB convertible protocol), 256GB/512GB NVMe SSD, dual Thunderbolt 4 / USB-C ports (40Gbps, full eGPU support), MicroSD card slot, Corning Gorilla Glass 6 DX touch display, and active stylus support in a durable carbon fiber/magnesium reinforced chassis. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Latitude+5330+2-in-1+16GB&LH_BIN=1"
     },
@@ -1115,7 +1115,7 @@
       "display": "14.0\" FHD (1920x1080) Anti-glare IPS (300 nits)",
       "touchscreen": false,
       "notes": "Sub-৳48k Dual-SODIMM 10-Core Enterprise Clamshell: Slashes 73% off original $1,299 MSRP down to $349.00 (~৳47,115 landed / ~৳44,672 bank card rate). Generational 10-core upgrade over the Latitude 5420 featuring 2x un-soldered DDR4 SODIMM slots (expandable up to 64GB RAM), dual Thunderbolt 4 / USB-C ports (40Gbps full eGPU support), MicroSD card reader, RJ-45 Gigabit Ethernet, HDMI 2.0, easily swappable modular components with captive screws, and MIL-STD-810H durability. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "STEADY",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Latitude+5430+i5-1235U+16GB&LH_BIN=1"
     },
@@ -1138,7 +1138,7 @@
       "display": "14.0\" 2K (1920x1200) IPS 360° Touchscreen (300 nits, edge-to-edge glass, Corning Gorilla Glass)",
       "touchscreen": true,
       "notes": "Next-Gen Lunar Lake Copilot+ 2-in-1 Doorbuster: Slashes $350 (35% off $999.99 MSRP) down to $649.99 (~৳87,749 landed / ~৳83,199 bank card rate) in Best Buy's Early Black Friday event. Powered by Intel's breakthrough Core Ultra 5 226V (Lunar Lake) with on-package 16GB LPDDR5X-8533 RAM and dedicated 40+ TOPS AI NPU, delivering unmatched power efficiency and up to 20+ hours of battery life. Features a 14.0-inch 360-degree rotating 2K touchscreen, 512GB PCIe Gen 4 SSD, dual Thunderbolt 4 / USB4 ports (40Gbps full eGPU support), all-aluminum unibody in Atmospheric Blue, and direct 1-year manufacturer warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "GRAVITY_DEAL"
     },
     {
@@ -1160,7 +1160,7 @@
       "display": "14.0\" FHD (1920x1080) Anti-glare IPS (400 nits Low Power / 100% sRGB or 250 nits)",
       "touchscreen": false,
       "notes": "Sub-৳46k AMD Zen 3 Dual-SODIMM Corporate Workhorse: Slashes 72%+ off original $1,249 MSRP down to $339.00 (~৳45,765 landed / ~৳43,392 bank card rate). Smashes the baseline HP EliteBook 840 G8 (4-core i5-1135G7) by providing a 6-core / 12-thread AMD Ryzen 5 PRO 5650U processor with superior multithreaded compute and battery efficiency. Built with the same military-grade CNC all-aluminum unibody chassis, 2x un-soldered DDR4 SODIMM slots (expandable up to 64GB), dual USB-C 3.2 Gen 2 ports, Bang & Olufsen audio, and spill-resistant keyboard with drain holes. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "STEADY",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=HP+EliteBook+845+G8+Ryzen+5+16GB&LH_BIN=1"
     },
@@ -1183,7 +1183,7 @@
       "display": "14.0\" FHD (1920x1080) Anti-glare IPS (250 nits)",
       "touchscreen": false,
       "notes": "Sub-৳37k AMD Zen 3 Dual-SODIMM Corporate Workhorse: Slashes 73% off $999 MSRP down to $267.99 (~৳36,179 landed / ~৳34,303 bank card rate) on eBay / Newegg Outlet using verified promo code COUNTDOWN20. Delivers a 6-core / 12-thread AMD Ryzen 5 5600U Zen 3 processor with 16GB DDR4 RAM (2x un-soldered SODIMM slots upgradeable to 64GB), 256GB PCIe NVMe SSD, aluminum keyboard deck, SuperSpeed USB-C 10Gbps with Power Delivery & DisplayPort 1.4, full-size HDMI, and Windows 11 Pro. Smashes the 4-core i5-1135G7 baseline under ৳37,000 landed.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "PRICE_DROP",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=HP+ProBook+445+G8+16GB&LH_BIN=1"
     },
@@ -1206,7 +1206,7 @@
       "display": "13.3\" FHD (1920x1080) IPS 360° Touchscreen (Corning Gorilla Glass 6 DX, 300 nits, Active Pen Support)",
       "touchscreen": true,
       "notes": "Sub-৳50k 12th Gen 10-Core Executive Convertible: Slashes 74% off original $1,449 MSRP down to $369.00 (~৳49,815 landed / ~৳47,232 bank card rate), breaking the sub-৳50,000 landed barrier for Dell's 12th Gen 7000-series executive convertible. Features an ultra-premium CNC machined aluminum or woven carbon fiber chassis, 10-core 12th Gen Intel Core i5-1245U vPro processing, 16GB dual-channel LPDDR4x RAM (meeting the non-negotiable 16GB convertible protocol), 256GB/512GB PCIe Gen 4 NVMe SSD, dual Thunderbolt 4 / USB-C ports (full 40Gbps eGPU support), MicroSD card reader, IR facial recognition webcam with SafeShutter, and active stylus support. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Latitude+7330+2-in-1+16GB&LH_BIN=1"
     },
@@ -1229,7 +1229,7 @@
       "display": "14.0\" FHD (1920x1080) Low Power IPS Anti-glare (300-400 nits, 100% sRGB or 72% NTSC)",
       "touchscreen": false,
       "notes": "Sub-৳49k ThinkPad P-Series Mobile Workstation Sweet Spot: Slashes 74% off original $1,399 enterprise MSRP down to $359.00 (~৳48,465 landed / ~৳45,952 bank card rate). The P14s Gen 2 is an ISV-certified mobile workstation built for engineering and professional compute. Features an 8-core / 16-thread AMD Ryzen 7 PRO 5850U (or Intel Core i7 with dedicated NVIDIA Quadro T500 4GB GPU), 16GB DDR4 RAM with an un-soldered SODIMM expansion slot (expandable up to 48GB total), 512GB PCIe NVMe SSD, MicroSD card reader, dual USB-C / Thunderbolt 4 (Intel), full-size HDMI 2.0, RJ-45 Gigabit Ethernet, legendary spill-resistant ThinkPad keyboard with TrackPoint, and MIL-STD-810H durability. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "STEADY",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=ThinkPad+P14s+Gen+2+16GB&LH_BIN=1"
     },
@@ -1252,7 +1252,7 @@
       "display": "14.0\" 16:10 WUXGA (1920x1200) IPS Anti-glare (300 nits, 100% sRGB low power option)",
       "touchscreen": false,
       "notes": "Sub-৳50k 1.2kg Ultralight Flagship: Slashes 74%+ off original $1,449 enterprise MSRP down to $369.00 (~৳49,815 landed / ~৳47,232 bank card rate). The 's' slimline variant pairs carbon fiber and magnesium unibody construction, shaving weight down to just 1.22 kg (2.7 lbs) with a massive 57Wh battery (14+ hours). Modern 16:10 WUXGA display, blazing-fast LPDDR5-6400 memory, dual USB4 / Thunderbolt 4 ports (full 40Gbps eGPU ready), TrackPoint, and MIL-STD-810H durability backed by 1-to-2 Year Allstate Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "STEADY",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=ThinkPad+T14s+Gen+3+16GB&LH_BIN=1"
     },
@@ -1275,7 +1275,7 @@
       "display": "14.0\" 16:10 QHD+ (2560x1600) IPS 360° Touchscreen (500 nits, 100% sRGB, ComfortView Plus, Gorilla Glass 6 DX, Active Pen Support)",
       "touchscreen": true,
       "notes": "Dell's Apex 9000-Series Executive Flagship Convertible: Slashes 78%+ off original $1,699+ MSRP down to $369.00 (~৳49,815 landed / ~৳47,232 bank card rate), breaking the sub-৳50,000 landed barrier. The 9420 is Dell's highest-tier commercial machine (positioned above the 7000 and 5000 series, directly rivaling the ThinkPad X1 Yoga and HP EliteBook 1040). Features an ultra-premium CNC-machined aluminum unibody chassis with diamond-cut edges, 14.0-inch 16:10 QHD+ (2560x1600) 500-nit touch display, 16GB dual-channel RAM (satisfying the non-negotiable 16GB convertible protocol), 512GB PCIe NVMe SSD, dual Thunderbolt 4 / USB-C ports (40Gbps full eGPU support), MicroSD 4.0 slot, motorized SafeShutter webcam that automatically opens and closes, quad-speaker array with dual top-firing tweeters and bottom woofers, quad noise-canceling beamforming microphones, and Dell Active Pen support. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "TOUCH_CONVERTIBLE_PICK",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=Dell+Latitude+9420+2-in-1+16GB&LH_BIN=1"
     },
@@ -1298,12 +1298,16 @@
       "display": "14.0\" 16:10 WUXGA (1920x1200) Low Power IPS Anti-glare (400 nits, 100% sRGB, TÜV Rheinland Eyesafe Certified)",
       "touchscreen": false,
       "notes": "Sub-৳48k 1.13kg Carbon Fiber Ultralight Flagship: Slashes 79%+ off original $1,699 enterprise MSRP down to $349.00 USD (~৳47,115 landed / ~৳44,672 bank card rate), entering directly into our prime sub-৳48,000 BDT sweet spot. The apex 9th-generation ThinkPad X1 Carbon features an ultralight 1.13 kg (2.49 lbs) carbon fiber and magnesium-aluminum chassis, 11th Gen Intel Core i5-1145G7 vPro / i7-1185G7 processor, 16GB LPDDR4x-4266 dual-channel memory (satisfies 16GB minimum protocol), 512GB PCIe Gen 4 NVMe SSD, modern 16:10 WUXGA 400-nit low-power 100% sRGB display, dual Thunderbolt 4 / USB4 ports (40Gbps full eGPU support), 57Wh battery with Rapid Charge (up to 14+ hours), Dolby Atmos quad speakers, quad 360-degree far-field microphones, Match-on-Chip fingerprint reader, and MIL-STD-810H durability. Backed by Allstate 1-to-2 Year Certified Refurbished Warranty.",
-      "last_checked": "2026-11-09T23:15:00+06:00",
+      "last_checked": "2026-11-10T01:15:00+06:00",
       "alert_trigger": "NEW_DOORBUSTER",
       "search_url": "https://www.ebay.com/sch/i.html?_nkw=ThinkPad+X1+Carbon+Gen+9+16GB&LH_BIN=1"
     }
   ],
   "reconciled_history": [
+    {
+      "timestamp": "2026-11-10T01:15:00+06:00",
+      "summary": "November 10 Tuesday early-morning Black Friday live deals synchronization pass (01:15 AM / 01:15): Executed multi-retailer intelligence sweep across Best Buy, Target, Walmart, Woot, Amazon, Dell Refurbished (DFS), and eBay Certified Refurbished. Verified Best Buy Early Black Friday doorbuster wave remains active into Tuesday early morning (Lenovo IdeaPad Slim 3i Touch at $429.99, HP OmniBook X Flip 14 at $649.99, Lenovo Yoga 7i 16 at $599.99, Lenovo LOQ 15 RTX 4060 at $699.99 with rapid inventory turnover, ASUS TUF A15 RTX 4060 at $679.99) backed by Holiday Price Match Guarantee and extended holiday return window through Jan 15, 2027; Dell Refurbished instant 40%-50% Hot Deals verified holding on Precision 3581 ($619 Grade A RTX A500, 4 units left; 14-core i7-13700H SKU 000038 at $559), Latitude 7340 32GB QHD+ ($579, final unit remaining), and Latitude 5530 ($409, 1 unit remaining); Walmart Event 1 kickoff countdown active for Nov 12-15 ($499 HP Victus RTX 4050 restock watch; Apple MacBook Air M2 holding at $649). Sourced and validated all sub-55k BDT ($300-$407 USD landed) champions, including ThinkPad T14 Gen 3 ($369-$379.95), ThinkPad X1 Carbon Gen 9 ($349.00), ThinkPad X1 Yoga Gen 6 ($328.99 with verified 100% battery health, 4G LTE, and garaged stylus), ThinkPad L13 Yoga Gen 3 ($339.00-$346.55), Dell Latitude 9420 2-in-1 ($354.99), Dell Latitude 5430 ($329.99), Dell Latitude 5330 2-in-1 ($299.00), Dell Latitude 7330 ($279.59), and HP ProBook x360 435 G8 ($306.90). Conducted rigorous Adversarial Doubt Gate audit on candidate #A43: Dell Inspiron 15 (3511, 3515, 3520, 3521, 3525, 3530, 3535 Series) 8GB Single-Channel RAM / Core i3 / Ryzen 3 Configurations (15.6\" FHD Display, Intel Core i3-1115G4/1215U/1315U / Core i5-1135G7/1235U / AMD Athlon Silver 7120U / Ryzen 3 7320U / Ryzen 5 5500U/7520U, 8GB DDR4 RAM, 256GB/512GB SSD, $249-$379 holiday circular doorbusters at Best Buy, Walmart, Dell.com, Target, and Amazon: rejected and disqualified due to notorious 'lift hinge' lower tub screw-boss tear-out ['Inspiron hinge blowout / palmrest separation'] where opening torque systematically shears brass threaded inserts out of brittle PC-ABS plastic standoffs in the lower tub and palmrest, bursting open the chassis and severing eDP display ribbons; strict 16GB protocol violation with 8GB single-channel memory bandwidth throttling and unified VRAM starvation; dull 220-to-250 nit 45% NTSC TN/low-tier WVA panels with poor contrast; fragile proprietary 4.5mm DC barrel charging; and crippled data-only USB-C lacking USB-PD charging and DisplayPort video output). Master directory expanded to 98 audited listings (55 active serialized models + 43 archived/disqualified listings). Reconciled ledger to v2.71.0, synchronized README.md, DEALS_SUMMARY.md, and ALL_CHECKED_DEALS.md."
+    },
     {
       "timestamp": "2026-11-09T23:15:00+06:00",
       "summary": "November 9 Monday late-night Black Friday live deals synchronization pass (11:15 PM / 23:15): Executed multi-retailer intelligence sweep across Best Buy, Target, Walmart, Woot, Amazon, Dell Refurbished (DFS), and eBay Certified Refurbished. Verified Best Buy Early Black Friday doorbuster wave remains active into late Monday night (Lenovo IdeaPad Slim 3i Touch at $429.99, HP OmniBook X Flip 14 at $649.99, Lenovo Yoga 7i 16 at $599.99, Lenovo LOQ 15 RTX 4060 at $699.99 with rapid inventory turnover, ASUS TUF A15 RTX 4060 at $679.99) backed by Holiday Price Match Guarantee and extended holiday return window through Jan 15, 2027; Dell Refurbished instant 40%-50% Hot Deals verified holding on Precision 3581 ($619 Grade A RTX A500, 4 units left; 14-core i7-13700H SKU 000038 at $559), Latitude 7340 32GB QHD+ ($579, final unit remaining), and Latitude 5530 ($409, 1 unit remaining); Walmart Event 1 kickoff countdown active for Nov 11/12-15 ($499 HP Victus RTX 4050 restock watch; Apple MacBook Air M2 holding at $649). Sourced and validated all sub-55k BDT ($300-$407 USD landed) champions, including ThinkPad T14 Gen 3 ($369-$379.95), ThinkPad X1 Carbon Gen 9 ($349.00), ThinkPad X1 Yoga Gen 6 ($328.99 with verified 100% battery health, 4G LTE, and garaged stylus), ThinkPad L13 Yoga Gen 3 ($339.00-$346.55), Dell Latitude 9420 2-in-1 ($354.99), Dell Latitude 5430 ($329.99), Dell Latitude 5330 2-in-1 ($299.00), Dell Latitude 7330 ($279.59), and HP ProBook x360 435 G8 ($306.90). Conducted rigorous Adversarial Doubt Gate audit on candidate #A42: HP Pavilion 15 & Pavilion 15 Plus (15-eg, 15-eh, 15-er Series) 8GB Soldered or Single-Channel RAM Configurations (Intel Core i3-1215U/1315U / Core i5-1235U/1335U / AMD Ryzen 5 5500U/7530U, 8GB DDR4/LPDDR5 RAM, 256GB/512GB SSD, $329.99-$449.99 holiday doorbusters across Walmart, Target, Best Buy, and Amazon: rejected and disqualified due to non-upgradeable 8GB soldered/single-channel memory bottleneck violating our 16GB non-negotiable protocol; chronic plastic lower tub hinge screw-boss tear-out ['Pavilion hinge blowout / palmrest separation'] where opening torque systematically shears the brass threaded inserts out of brittle PC-ABS plastic standoffs in the lower chassis; dull 250-nit 45% NTSC reflective TN/low-tier IPS panels with severe indoor glare; and crippled data-only USB-C with fragile round barrel chargers on budget circular SKUs). Master directory expanded to 97 audited listings (55 active serialized models + 42 archived/disqualified listings). Reconciled ledger to v2.70.0, synchronized README.md, DEALS_SUMMARY.md, and ALL_CHECKED_DEALS.md."
