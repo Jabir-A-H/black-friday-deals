@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-96%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-97%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-41%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-42%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A41)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A42)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -2110,5 +2110,35 @@ The following models were investigated, benchmarked, or tracked during prior swe
 
 ---
 
-<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 41 archived/disqualified listings = 96 total audited).</sub>
+
+
+### #A42: HP Pavilion 15 & Pavilion 15 Plus (15-eg, 15-eh, 15-er Series) 8GB Soldered or Single-Channel RAM Configurations (Intel Core i3-1215U/1315U / Core i5-1235U/1335U / AMD Ryzen 5 5500U/7530U, 8GB DDR4/LPDDR5 RAM, 256GB/512GB SSD)
+* **Retailer / Platform:** Walmart / Target / Best Buy / Amazon Black Friday Doorbusters • **SKUs:** `15-eg3053cl` / `15-eh3047nr` / `15-eg0025nr` / `15-eh1075cl` / `6534596` / `6551269` / `B0CH7NVSN6`
+* **Promotional Price:** **$329.99 – $449.99 USD** (~৳42,239 – ~৳57,599 bank / ~৳44,549 – ~৳60,749 landed) *(MSRP: $549.99 – $699.99)*
+* **Audit Status:** `DISQUALIFIED / 8GB SOLDERED OR SINGLE-CHANNEL MEMORY BOTTLENECK, CHRONIC LOWER TUB HINGE SCREW-BOSS TEAR-OUT ("PAVILION HINGE BLOWOUT"), DULL 250-NIT 45% NTSC PANEL & CRIPPLED DATA-ONLY USB-C`
+* **Audit Verdict:** **REJECTED UNDER ADVERSARIAL STRUCTURAL INTEGRITY, MEMORY PROTOCOL & THERMAL LONGEVITY GATE.** Prominently advertised on store circular covers, digital endcaps, and "Early Black Friday Hot Buys" across Walmart, Target, Best Buy, and Amazon as an alluring "$329 to $449 Core i5 / Ryzen 5 15.6-inch aluminum-lid laptop", tempting buyers who mistake its stamped aluminum lid for a durable all-metal unibody:
+  1. **Chronic Plastic Lower Tub Hinge Screw-Boss Standoff Fracture ("HP Pavilion Hinge Blowout / Palmrest Separation"):** While the top lid of the Pavilion 15 is stamped aluminum, the entire lower tub and internal framework are molded from standard PC-ABS plastic. High-torque zinc display hinges are anchored directly into microscopic threaded brass inserts heat-pressed into thin, unreinforced plastic standoffs in the lower chassis tub. Over 6 to 14 months of daily opening and closing, mechanical friction stiffens the hinges, transferring pure shear torque into the plastic towers until they crack and pull free. The bottom seam bursts open at the rear corners, separating the palmrest deck, binding the display hinge, cracking the screen bezel, and frequently pinching or severing delicate internal 30-pin eDP display ribbon cables and Wi-Fi antenna wires.
+  2. **Strict 16GB Protocol Violation (8GB Soldered or Single-Channel Memory Trap):** Sub-$450 holiday doorbuster SKUs ship with either 8GB of DDR4-3200 in single-channel mode or soldered 8GB LPDDR5-4800 memory with zero open expansion slots. Under our tracker's non-negotiable memory standard (*"For clamshells: Dual SODIMM slots are mandatory unless pre-installed with ≥16GB RAM"*), these configurations fail the quality bar. Fresh Windows 11 Home installations consume 4.2GB–5.0GB upon boot; with integrated Intel Iris Xe or AMD Radeon graphics dynamically reserving 1.5GB–2.0GB for display and video decode buffers, available operational headroom drops below 1.5GB. This triggers chronic NVMe SSD virtual memory swap thrashing, browser tab discards, and system micro-stutters during everyday office multitasking.
+  3. **Substandard 250-Nit 45% NTSC Reflective Display with Severe Indoor Glare:** Sub-$450 holiday configurations cut costs with low-tier ~250-nit 45% NTSC (~62.5% sRGB) panels with poor contrast ratios (~500:1) and weak color saturation. In brightly lit offices, classrooms, or study halls, high reflective glare washes out text and causes acute eye strain compared to our tracked 300–400+ nit 100% sRGB low-power screens.
+  4. **Crippled Data-Only USB-C Port & Proprietary 45W DC Barrel Charging on Circular SKUs:** The USB-C port on many promotional circular models is strictly limited to 5Gbps USB 3.2 Gen 1 data transfer, completely lacking USB Power Delivery (USB-PD) charging and DisplayPort video output. Users cannot power the laptop from standard universal 65W/100W GaN travel chargers or USB-C power banks, forcing reliance on a fragile, proprietary 19.5V 45W DC round-barrel charger.
+  5. **Diminutive 41Wh/43Wh Battery & Single-Fan Thermal Throttling:** Equipped with a minimal 3-cell 41Wh or 43Wh lithium-ion battery, real-world battery endurance rarely exceeds 3.5 to 4.5 hours under light browsing. Furthermore, cooling is handled by a single ultra-thin fan and single heatpipe; under sustained multithreaded loads (such as video exporting or heavy browser sessions with Zoom), CPU temperatures rapidly exceed 90°C, forcing aggressive clock-speed downthrottling.
+  6. **Superior Actively Tracked Alternatives in the Same Budget Window ($179 – $499 USD / ~৳24k – ~৳67k landed):**
+     * **Dell Precision 3550 ($179.99 / ~৳24,299 landed):** Dedicated NVIDIA Quadro P520 GPU (ISV Certified), **dual un-soldered SODIMM slots (up to 64GB DDR4)**, modular M.2 NVMe SSD, Thunderbolt 3 (40Gbps), and military-grade MIL-STD-810G durability under ৳25,000 landed.
+     * **Dell Latitude 5420 ($209.99 / ~৳28,349 landed):** 11th Gen Core i5, **dual un-soldered SODIMM slots (up to 64GB)**, dual Thunderbolt 4 with 100W PD charging, 14.0" FHD IPS display, and carbon fiber reinforced chassis under ৳29,000 landed.
+     * **Dell Latitude 7320 2-in-1 ($259.00 / ~৳34,965 landed):** 11th Gen vPro Core i5, **16GB RAM**, dual Thunderbolt 4 ports, Gorilla Glass 6 DX touch display, and full 360° touch convertible versatility under ৳35,000 landed.
+     * **HP ProBook 445 G8 ($267.99 / ~৳36,179 landed):** 6-core/12-thread AMD Ryzen 5 5600U, **dual un-soldered SODIMM slots (up to 64GB DDR4)**, aluminum keyboard deck, SuperSpeed USB-C with Power Delivery & DisplayPort, and 2-Year Allstate Warranty under ৳37,000 landed.
+     * **HP EliteBook 840 G8 ($269.99 / ~৳36,449 landed):** Intel Core i7-1185G7 vPro, **16GB RAM**, dual SODIMM slots (up to 64GB), 400-nit low power display, dual Thunderbolt 4, and Bang & Olufsen audio under ৳37,000 landed.
+     * **Dell Latitude 7330 ($279.59 / ~৳37,745 landed):** 10-core 12th Gen Core i5-1245U vPro, **16GB RAM**, 400-nit 100% sRGB low power display, dual Thunderbolt 4, and 1-Year Allstate Warranty under ৳38,000 landed.
+     * **Lenovo ThinkPad T14 Gen 2 ($294.27 / ~৳39,726 landed):** 6-core AMD Ryzen 5 PRO 5650U, un-soldered SODIMM expansion, legendary spill-resistant keyboard, TrackPoint, and MIL-STD-810H durability under ৳40,000 landed.
+     * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** 8-core / 16-thread AMD Ryzen 7 PRO 5850U, **dual un-soldered SODIMM slots (up to 64GB DDR4)**, aluminum keyboard deck, Corning Gorilla Glass 5, and 1-Year Allstate Warranty under ৳42,000 landed.
+     * **ThinkPad X13 Yoga Gen 2 ($314.99 / ~৳42,524 landed):** 11th Gen vPro Core i5, **16GB RAM**, modern 16:10 WUXGA touch display, garaged stylus, and dual Thunderbolt 4 under ৳43,000 landed.
+     * **Dell Latitude 5430 ($329.99 / ~৳44,549 landed):** 10-core 12th Gen Core i5-1245U vPro, **2× un-soldered SODIMM slots (up to 64GB DDR4)**, dual Thunderbolt 4, and 1-Year Allstate Warranty under ৳45,000 landed.
+     * **ThinkPad X1 Carbon Gen 9 ($349.00 / ~৳47,115 landed):** Ultralight 1.13 kg carbon fiber flagship, **16GB RAM**, 14.0" 16:10 400-nit low power display, dual Thunderbolt 4, and 1-Year Allstate Warranty under ৳48,000 landed.
+     * **Lenovo ThinkPad T14 Gen 3 ($369.00 / ~৳49,815 landed):** 12th Gen 10-core / Ryzen 6000 Zen 3+, **16GB RAM (SODIMM expandable to 48GB)**, modern 16:10 WUXGA display, dual TB4/USB4, and military-grade durability.
+     * **Dell Latitude 5530 ($409.00 / ~৳55,215 landed):** Dell DFS Grade A/B Refurbished, 10-core i5-1235U, **2× un-soldered SODIMM slots (up to 64GB)**, dual M.2 SSD slots, dual Thunderbolt 4, 15.6" FHD.
+     * **ASUS Vivobook 16 (#12 at $499.00 / ~৳67,365 landed):** The genuine **16GB factory RAM** configuration featuring 10-core Core i7-1355U, 16.0" 16:10 taller display, and open SODIMM slot upgradeable to 40GB total!
+
+---
+
+<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 42 archived/disqualified listings = 97 total audited).</sub>
 </div>
