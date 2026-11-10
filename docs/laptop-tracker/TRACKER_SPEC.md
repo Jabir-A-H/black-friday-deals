@@ -39,3 +39,8 @@ To accurately represent real purchasing cost in Bangladesh, we track three disti
    * RTX 4060 (8GB VRAM, ≥75W TGP) = Gold Standard (Runs full 8B LLMs unquantized).
    * RTX 4050 / 3050 (6GB VRAM) = Silver Standard (Runs quantized 8B Q4_K_M).
    * Integrated Iris Xe / Vega 7 = Bronze Standard (Requires 16GB–32GB system RAM).
+7. **Sourcing Channel Hierarchy (1st-Party OEM & Authorized Retail Priority):**
+   * **Strict Reseller Ban:** Under NO circumstances prioritize 3rd-party marketplace brokers/resellers (such as random individual sellers on eBay, Amazon marketplace merchants, or Walmart 3rd-party sellers). Show them only as an absolute last resort if zero 1st-party options exist.
+   * **1st-Party Manufacturer Direct Outlets:** Prioritize Dell Refurbished (DFS Direct `dellrefurbished.com`), Dell Outlet (`dell.com/outlet`), Lenovo Official Outlet (`lenovo.com/us/en/outletus/`), Acer Recertified Direct (`acerrecertified.com`), HP Business Outlet (`hp.com/us-en/shop/cv/hp-outlet`), and Microsoft Store Certified Refurbished.
+   * **Authorized Tier-1 Retailers:** Prioritize Micro Center (`microcenter.com`), B&H Photo Video Used Department (`bhphotovideo.com/c/used`), Best Buy Direct (Sold by Best Buy / Geek Squad Certified), Walmart Direct (Strictly "Sold and shipped by Walmart.com"), and Woot! (`computers.woot.com` - Amazon subsidiary).
+   * **Discount Hunting Posture:** Exclusively target Black Friday doorbusters, seasonal clearance blowouts, manufacturer hot deals (35%–50% coupons), and factory recertified markdowns rather than full MSRP fresh units.

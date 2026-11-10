@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "2.74.0",
-    "last_updated": "2026-11-11T03:15:00+06:00",
+    "version": "2.75.0",
+    "last_updated": "2026-11-11T04:25:00+06:00",
     "currency_rates": {
       "base_mid_market_usd_to_bdt": 124,
       "bank_card_settlement_rate": 128,
