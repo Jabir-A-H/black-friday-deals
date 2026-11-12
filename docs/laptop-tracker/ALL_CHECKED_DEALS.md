@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-106%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-107%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-51%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-52%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A51)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A52)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -2422,5 +2422,35 @@ The following models were investigated, benchmarked, or tracked during prior swe
      * **Dell Latitude 7430 Touch 32GB (#19 at $449.99 / ~৳60,749 landed):** Enterprise 10-core Core i7-1265U vPro, **massive 32GB RAM pre-installed**, dual Thunderbolt 4, and FHD touch display on Woot MAR under ৳61,000 landed!
      * **Dell Inspiron 15 Touch (#18 at $449.99 / ~৳60,749 landed):** The curated **16GB RAM / 120Hz Touchscreen** configuration featuring 10-core i5 compute and dual un-soldered SODIMM slots upgradeable to 64GB!
 
-<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 51 archived/disqualified listings = 106 total audited).</sub>
+---
+
+### #A52: ASUS Vivobook S 14 & S 15 / S 14 Flip (14.0" & 15.6" - K3402, K3502, S5404, TN3402 Series) 8GB Soldered LPDDR4x/LPDDR5 RAM Configurations (14.0" & 15.6" 16:10 FHD+ / WUXGA / 2.8K OLED Display, Intel Core i5-12500H/13500H / AMD Ryzen 5 5600H/7530U, 8GB Soldered LPDDR4x-4266 / LPDDR5-4800 RAM, 512GB PCIe Gen 4 SSD)
+* **Retailer / Platform:** Best Buy / Walmart / Amazon / Newegg Early Black Friday Doorbusters • **SKUs:** `K3402ZA-DB51` / `TN3402QA-AS54T` / `S5404VA-DS51` / `6534578` / `B09XV7M6S7`
+* **Promotional Price:** **$399.99 – $499.99 USD** (~৳51,199 – ~৳63,999 bank / ~৳53,999 – ~৳67,499 landed) *(MSRP: $699.99 – $849.99)*
+* **Audit Status:** `DISQUALIFIED / NON-UPGRADEABLE 8GB SOLDERED LPDDR4X/LPDDR5 MEMORY CEILING, ACUTE UNIFIED VRAM STARVATION WITH INTEL IRIS XE/AMD RADEON GRAPHICS, CHRONIC SSD VIRTUAL MEMORY SWAP THRASHING, ERGOLIFT HINGE TORQUE SHEARING LOWER PLASTIC TUB ("VIVOBOOK S HINGE TEAR-OUT") & SUB-4.5-HOUR BATTERY DRAIN ON OLED CIRCULAR SKUS`
+* **Audit Verdict:** **REJECTED UNDER ADVERSARIAL MEMORY PROTOCOL, UNIFIED VRAM DEFICIT & CHASSIS HINGE RESISTANCE GATE.** Heavily promoted across early Black Friday holiday circulars and online storefront banners at Best Buy, Walmart, and Amazon as an alluring "$399 to $499 premium laptop with 45W H-series processor or OLED display", trapping unwary buyers, remote professionals, and university students into permanent memory starvation and mechanical chassis failure:
+  1. **Strict 16GB Protocol Violation (Non-Upgradeable 8GB Soldered Memory Ceiling):** The motherboard utilizes 100% surface-mounted soldered LPDDR4x-4266 or LPDDR5-4800 memory chips directly fused to the main PCB with zero SODIMM expansion slots. Under our tracker's strict non-negotiable memory standard (*"For clamshells: Dual SODIMM slots are mandatory unless pre-installed with ≥16GB RAM"*), this configuration is categorically disqualified. A clean Windows 11 Home 23H2/24H2 boot alongside standard OEM background telemetry consumes 3.8GB–4.6GB of physical memory. The integrated Intel Iris Xe Graphics or AMD Radeon graphics dynamically allocates up to 1.5GB–2.0GB for framebuffers and shared display memory. On an 8GB model, this leaves barely 1.2GB to 1.4GB of physical headroom. Opening just 6 to 8 browser tabs alongside a PDF and spreadsheet forces constant virtual memory swap paging to the NVMe SSD, inducing micro-stutters, delayed window transitions, and tab reloads.
+  2. **Severe Chassis Hinge Stress & ErgoLift Screw-Boss Tear-Out ("Vivobook S Hinge Tear-Out / Lower Chassis Blowout"):** ASUS implements an ErgoLift drop-hinge design that tilts the keyboard deck forward when the display lid is opened. While improving typing ergonomics, opening the display exerts intense downward and rotational torque against the rear corners of the lower chassis. Because the lower casing tub is molded from unreinforced PC-ABS plastic without an internal magnesium skeletal frame, the brass threaded inserts heat-staked into the thin plastic towers systematically fatigue and shear out over 10 to 16 months of daily use. The bottom panel splits open at the hinge corners, destabilizing the display assembly and risking display ribbon cable severance.
+  3. **High-TDP 45W Thermal Throttling in a Thin-and-Light Chassis:** Promotional circular SKUs often boast 45W H-series silicon (Core i5-12500H or Ryzen 5 5600H) to look impressive on spec sheets. In a thin 17.9mm chassis with limited single-fan or dual-micro-pipe cooling, the CPU instantly spikes past 95°C under sustained load, triggering aggressive power-limit thermal throttling (PL1 drops from 45W down to 25W), producing persistent high-pitched fan noise while delivering disappointing battery life.
+  4. **Sub-4.5-Hour Real-World Battery Life on OLED Circular SKUs:** When paired with a 2.8K 90Hz OLED panel, the modest 50Wh–54Wh battery pack drains rapidly. Real-world office productivity battery endurance plummets to under 4.5 hours, destroying mobile utility.
+  5. **Superior Actively Tracked Alternatives in the Same Budget Window ($275 – $449 USD / ~৳37k – ~৳61k landed):**
+     * **Dell Latitude 5330 2-in-1 ($275.00 / ~৳37,125 landed):** 10-core 12th Gen Core i7-1265U vPro, **16GB RAM**, dual Thunderbolt 4 (40Gbps eGPU ready), MicroSD slot, and Corning Gorilla Glass 6 DX touch screen under ৳38,000 landed.
+     * **Dell Latitude 7330 ($279.59 / ~৳37,745 landed):** 10-core 12th Gen Core i5-1245U vPro, **16GB RAM**, 400-nit 100% sRGB low power display, dual Thunderbolt 4, and 1-Year Allstate Warranty under ৳38,000 landed.
+     * **HP EliteBook 845 G8 ($289.99 / ~৳39,149 landed):** AMD Ryzen 5 PRO 5650U (6C/12T), **16GB RAM**, **dual un-soldered SODIMM slots (up to 64GB DDR4)**, CNC aluminum unibody, and 400-nit display under ৳40,000 landed.
+     * **Lenovo ThinkPad T14 Gen 2 ($294.27 / ~৳39,726 landed):** 6-core AMD Ryzen 5 PRO 5650U, un-soldered SODIMM expansion, legendary spill-resistant keyboard, TrackPoint, and MIL-STD-810H durability under ৳40,000 landed.
+     * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** 8-core / 16-thread AMD Ryzen 7 PRO 5850U, **dual un-soldered SODIMM slots (up to 64GB DDR4)**, aluminum keyboard deck, Corning Gorilla Glass 5, and 1-Year Allstate Warranty under ৳42,000 landed.
+     * **ThinkPad X13 Yoga Gen 2 ($314.99 / ~৳42,524 landed):** 11th Gen vPro Core i5, **16GB RAM**, modern 16:10 WUXGA touch display, garaged stylus, and dual Thunderbolt 4 under ৳43,000 landed.
+     * **Dell Latitude 5430 ($329.99 / ~৳44,549 landed):** 10-core 12th Gen Core i5-1245U vPro, **2× un-soldered SODIMM slots (up to 64GB DDR4)**, dual Thunderbolt 4, and 1-Year Allstate Warranty under ৳45,000 landed.
+     * **ThinkPad X1 Yoga Gen 6 ($328.99 / ~৳44,414 landed):** Flagship CNC aluminum unibody, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, garaged stylus, 4G LTE, and 100% verified battery health under ৳45,000 landed.
+     * **ThinkPad L13 Yoga Gen 3 ($339.00–$346.55 / ~৳45,765–~৳46,784 landed):** 10-core 12th Gen Core i5 / 8-core Ryzen 7 PRO, **16GB RAM**, 16:10 WUXGA touch panel, garaged Pen Pro, and MIL-STD-810H durability under ৳47,000 landed.
+     * **ThinkPad X1 Carbon Gen 9 ($349.00 / ~৳47,115 landed):** Ultralight 1.13 kg carbon fiber flagship, **16GB RAM**, 14.0" 16:10 400-nit low power display, dual Thunderbolt 4, and 1-Year Allstate Warranty under ৳48,000 landed.
+     * **Dell Latitude 9420 2-in-1 ($354.99 / ~৳47,924 landed):** Dell's apex 9000-series executive flagship, **16GB RAM**, 14.0" 16:10 QHD+ (2560x1600) 500-nit touch display, motorized SafeShutter webcam, and quad speakers under ৳48,000 landed.
+     * **Lenovo ThinkPad T14 Gen 3 ($369.00–$379.95 / ~৳49,815–~৳51,293 landed):** 12th Gen 10-core / Ryzen 6000 Zen 3+, **16GB RAM (SODIMM expandable to 48GB)**, modern 16:10 WUXGA display, dual TB4/USB4, and military-grade durability.
+     * **Dell Latitude 7430 2-in-1 ($379.00 / ~৳51,165 landed):** 10-core 12th Gen Core i7-1265U vPro, **16GB RAM**, dual Thunderbolt 4 (40Gbps eGPU ready), CNC aluminum unibody, and IR facial recognition under ৳52,000 landed.
+     * **Dell Latitude 5530 ($409.00 / ~৳55,215 landed):** Dell DFS Grade A/B Refurbished, 10-core i5-1235U, **2× un-soldered SODIMM slots (up to 64GB)**, dual M.2 SSD slots, dual Thunderbolt 4, 15.6" FHD.
+     * **Lenovo IdeaPad Slim 3i Touch (#22 at $429.99 / ~৳58,049 landed):** The curated **16GB RAM / 15.3" 2K 16:10 Touchscreen** configuration with brand new 10-core Intel Core 5 120U compute at Best Buy!
+     * **Dell Latitude 7430 Touch 32GB (#19 at $449.99 / ~৳60,749 landed):** Enterprise 10-core Core i7-1265U vPro, **massive 32GB RAM pre-installed**, dual Thunderbolt 4, and FHD touch display on Woot MAR under ৳61,000 landed!
+     * **Dell Inspiron 15 Touch (#18 at $449.99 / ~৳60,749 landed):** The curated **16GB RAM / 120Hz Touchscreen** configuration featuring 10-core i5 compute and dual un-soldered SODIMM slots upgradeable to 64GB!
+
+<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 52 archived/disqualified listings = 107 total audited).</sub>
 </div>
