@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-110%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-111%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-55%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-56%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A55)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A56)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -2545,5 +2545,37 @@ The following models were investigated, benchmarked, or tracked during prior swe
      * **Dell Latitude 7430 Touch 32GB (#19 at $449.99 / ~৳60,749 landed):** Enterprise 10-core Core i7-1265U vPro, **massive 32GB RAM pre-installed**, dual Thunderbolt 4, and FHD touch display on Woot MAR under ৳61,000 landed!
      * **Dell Inspiron 15 Touch (#18 at $449.99 / ~৳60,749 landed):** The curated **16GB RAM / 120Hz Touchscreen** configuration featuring 10-core i5 compute and dual un-soldered SODIMM slots upgradeable to 64GB!
 
-<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 55 archived/disqualified listings = 110 total audited).</sub>
+
+
+---
+
+### #A56: HP Envy x360 15 & Envy x360 15.6" (15.6" - 15-ey, 15-ew, 15-fe, 15-fh Series) 8GB Soldered or Single-Channel RAM Configurations (15.6" FHD IPS 360° Touch Display, Intel Core i5-1235U/1335U / Core i7-1355U / AMD Ryzen 5 5625U/7530U / Ryzen 7 5700U/7730U, 8GB Soldered LPDDR4x/LPDDR5 RAM or Single-Channel 8GB SODIMM, 256GB/512GB PCIe NVMe SSD)
+* **Retailer / Platform:** Best Buy / Costco / HP Direct / Amazon / Target Early Black Friday Doorbusters • **SKUs:** `15-ew0013dx` / `15-ey0013dx` / `15-fe0013dx` / `15-fh0013dx` / `6535800` / `6503847` / `6571084`
+* **Promotional Price:** **$399.99 – $549.99 USD** (~৳51,199 – ~৳70,399 bank / ~৳53,999 – ~৳74,249 landed) *(MSRP: $799.99 – $949.99)*
+* **Audit Status:** `DISQUALIFIED / STRICT 16GB CONVERTIBLE PROTOCOL VIOLATION (8GB SOLDERED OR SINGLE-CHANNEL MEMORY CEILING), ACUTE UNIFIED VRAM SHARING STARVATION WITH INTEL IRIS XE/AMD RADEON GRAPHICS, CHRONIC SSD VIRTUAL MEMORY SWAP THRASHING INDUCING DIGITAL STYLUS INKING LATENCY, HEAVY 4.4+ LB CHASSIS ROTATIONAL HINGE FATIGUE & SCREW ANCHOR BINDING ("ENVY X360 15 HINGE BINDING / PALMREST CREAK") & DIM 250-NIT 45% NTSC GLOSSY REFLECTIVE DIGITIZER`
+* **Audit Verdict:** **REJECTED UNDER ADVERSARIAL CONVERTIBLE PROTOCOL, DIGITAL STYLUS INKING INTEGRITY & HEAVY-CHASSIS ROTATIONAL TORQUE STRESS GATE.** Prominently featured across Best Buy, Costco, and HP Direct early holiday circulars as an alluring "$399 to $549 all-metal premium 15.6-inch 2-in-1 touchscreen convertible laptop with AMD Ryzen 5/7 or Intel Core i5 and Bang & Olufsen sound", luring consumers who assume the "Envy" nameplate guarantees flaw-free long-term reliability:
+  1. **Strict 16GB Convertible Protocol Violation (Non-Negotiable Standard Breach):** Under our tracker's absolute rule (*"For convertibles with soldered RAM: 16GB RAM minimum is non-negotiable (8GB soldered convertibles are permanently rejected due to non-upgradeability)"*), this machine is strictly disqualified. On modern Windows 11 Home 23H2/24H2 builds, standard system processes, HP OMEN/Envy utility services, and background pen digitizer drivers require 4.0GB–4.8GB of RAM on startup. The integrated Intel Iris Xe or AMD Radeon graphics dynamically carves out up to 2.0GB for unified display buffer VRAM. On an 8GB unit, this leaves barely 1.2GB to 1.4GB of real operational memory headroom.
+  2. **Severe Stylus Inking Latency, Stroke Skipping & Palm-Rejection Stutter via SSD Swap Paging:** The Envy x360 is actively marketed for digital pen inking (HP Rechargeable MPP 2.0 Tilt Pen). However, under trivial multi-tab browsing (e.g. 5–7 Edge/Chrome tabs plus an active PDF reader), physical memory saturates immediately, forcing the OS to dump memory pages into the PCIe NVMe SSD pagefile. These sudden disk I/O interrupts cause noticeable 100ms–300ms digitizer lag, broken pen strokes, and missed palm-rejection touches, transforming note-taking into an exercise in frustration.
+  3. **Heavy 4.4+ lb Chassis Rotational Hinge Fatigue & Screw Anchor Binding ("Envy x360 15 Hinge Binding / Palmrest Creak"):** At 4.42 lbs (2.01 kg), the 15.6-inch Envy is among the heaviest convertibles on the market. Holding a display of this size and weight rigid requires substantial hinge friction torque. However, the dual 360-degree zinc-alloy hinge brackets are anchored into thin internal cast-aluminum ribs with short M2 machine screws without full through-bolting. Over 12 to 18 months of routine folding, repeated opening torque loosens the bracket mounts, causing audible chassis creaking, hinge binding, palmrest separation near the speaker grilles, and uneven display closure.
+  4. **Dim 250-Nit 45% NTSC Glossy Glass Display with Severe Specular Glare:** While higher-tier Envy SKUs boast 400-nit or OLED displays, the high-volume holiday circular doorbuster SKUs cut costs by fitting an inferior 250-nit 45% NTSC (~62.5% sRGB) panel behind high-gloss edge-to-edge glass. Under standard indoor office or classroom lighting, reflection glare easily overwhelms the weak 250-nit backlight, causing severe eye strain.
+  5. **Undersized Chargers & Power Throttling:** Many circular SKUs bundle a standard 45W or 65W AC adapter that struggles to sustain CPU boost clocks while charging a depleted battery under concurrent multi-threaded workloads.
+  6. **Superior Actively Tracked Alternatives in the Same Budget Window ($275 – $449 USD / ~৳37k – ~৳61k landed):**
+     * **HP Envy x360 15 16GB (#15 / #23 / #28 at $339.99 / ~৳45,899 landed):** The curated **16GB RAM configuration** with AMD Ryzen 5 7530U 6-core processor, CNC aluminum unibody, 512GB SSD, and verified 16GB dual-channel memory headroom!
+     * **Dell Latitude 5330 2-in-1 ($275.00 / ~৳37,125 landed):** 10-core 12th Gen Core i7-1265U vPro, **16GB RAM**, dual Thunderbolt 4 (40Gbps eGPU ready), MicroSD slot, and Corning Gorilla Glass 6 DX touch screen under ৳38,000 landed.
+     * **ThinkPad X1 Yoga Gen 6 ($328.99 / ~৳44,414 landed):** Flagship CNC aluminum unibody, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, garaged stylus, 4G LTE, and 100% verified battery health under ৳45,000 landed.
+     * **Dell Latitude 7330 ($279.59 / ~৳37,745 landed):** 10-core 12th Gen Core i5-1245U vPro, **16GB RAM**, 400-nit 100% sRGB low power display, dual Thunderbolt 4, and 1-Year Allstate Warranty under ৳38,000 landed.
+     * **HP EliteBook 845 G8 ($289.99 / ~৳39,149 landed):** AMD Ryzen 5 PRO 5650U (6C/12T), **16GB RAM**, **dual un-soldered SODIMM slots (up to 64GB DDR4)**, CNC aluminum unibody, and 400-nit display under ৳40,000 landed.
+     * **HP ProBook x360 435 G8 ($306.90 / ~৳41,432 landed):** 8-core / 16-thread AMD Ryzen 7 PRO 5850U, **dual un-soldered SODIMM slots (up to 64GB DDR4)**, aluminum keyboard deck, Corning Gorilla Glass 5, and 1-Year Allstate Warranty under ৳42,000 landed.
+     * **ThinkPad X13 Yoga Gen 2 ($314.99 / ~৳42,524 landed):** 11th Gen vPro Core i5, **16GB RAM**, modern 16:10 WUXGA touch display, garaged stylus, and dual Thunderbolt 4 under ৳43,000 landed.
+     * **Dell Latitude 5430 ($329.99 / ~৳44,549 landed):** 10-core 12th Gen Core i5-1245U vPro, **2× un-soldered SODIMM slots (up to 64GB DDR4)**, dual Thunderbolt 4, and 1-Year Allstate Warranty under ৳45,000 landed.
+     * **ThinkPad L13 Yoga Gen 3 ($339.00–$346.55 / ~৳45,765–~৳46,784 landed):** 10-core 12th Gen Core i5 / 8-core Ryzen 7 PRO, **16GB RAM**, 16:10 WUXGA touch panel, garaged Pen Pro, and MIL-STD-810H durability under ৳47,000 landed.
+     * **Dell Latitude 9420 2-in-1 ($354.99 / ~৳47,924 landed):** Dell's apex 9000-series executive flagship, **16GB RAM**, 14.0" 16:10 QHD+ (2560x1600) 500-nit touch display, motorized SafeShutter webcam, and quad speakers under ৳48,000 landed.
+     * **Lenovo ThinkPad T14 Gen 3 ($369.00–$379.95 / ~৳49,815–~৳51,293 landed):** 12th Gen 10-core / Ryzen 6000 Zen 3+, **16GB RAM (SODIMM expandable to 48GB)**, modern 16:10 WUXGA display, dual TB4/USB4, and military-grade durability.
+     * **Dell Latitude 7430 2-in-1 ($379.00 / ~৳51,165 landed):** 10-core 12th Gen Core i7-1265U vPro, **16GB RAM**, dual Thunderbolt 4 (40Gbps eGPU ready), CNC aluminum unibody, and IR facial recognition under ৳52,000 landed.
+     * **Dell Latitude 5530 ($409.00 / ~৳55,215 landed):** Dell DFS Grade A/B Refurbished, 10-core i5-1235U, **2× un-soldered SODIMM slots (up to 64GB)**, dual M.2 SSD slots, dual Thunderbolt 4, 15.6" FHD.
+     * **Lenovo IdeaPad Slim 3i Touch (#22 at $429.99 / ~৳58,049 landed):** The curated **16GB RAM / 15.3" 2K 16:10 Touchscreen** configuration with brand new 10-core Intel Core 5 120U compute at Best Buy!
+     * **Dell Latitude 7430 Touch 32GB (#19 at $449.99 / ~৳60,749 landed):** Enterprise 10-core Core i7-1265U vPro, **massive 32GB RAM pre-installed**, dual Thunderbolt 4, and FHD touch display on Woot MAR under ৳61,000 landed!
+     * **Dell Inspiron 15 Touch (#18 at $449.99 / ~৳60,749 landed):** The curated **16GB RAM / 120Hz Touchscreen** configuration featuring 10-core i5 compute and dual un-soldered SODIMM slots upgradeable to 64GB!
+
+<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 56 archived/disqualified listings = 111 total audited).</sub>
 </div>
