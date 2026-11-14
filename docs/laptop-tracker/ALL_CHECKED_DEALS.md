@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-123%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-124%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-68%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-69%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A68)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A69)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -2954,5 +2954,37 @@ The following models were investigated, benchmarked, or tracked during prior swe
      * **Lenovo LOQ 15 (#01 at $699.99 / ~৳94,499 landed):** True successor to the IdeaPad Gaming with **115W TGP NVIDIA RTX 4060 8GB**, MUX Switch, 8-core/16-thread Ryzen 7 7435HS, **16GB DDR5**, 300-nit 100% sRGB 144Hz G-SYNC display, dual cooling fans with rear exhaust, and dual Gen 4 M.2 bays!
 
 
-<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 68 archived/disqualified listings = 123 total audited).</sub>
+---
+
+### #A69: Lenovo LOQ 15 (15.6" - 15IAX9, 15IRX9, 15ARP9 Series) 8GB Single-Channel DDR5 Circular Trap & Castrated 65W TGP RTX 3050 6GB / RTX 2050 4GB & AMD Ryzen 5 7235HS "No iGPU" Battery Drain Bug & Plastic Chassis Rear Exhaust Hinge Fatigue (15.6" FHD 1920x1080 144Hz 300-Nit 100% sRGB Display, Intel Core i5-12450HX / AMD Ryzen 5 7235HS / 7535HS, NVIDIA GeForce RTX 3050 6GB [65W TGP] / RTX 2050 4GB, 8GB DDR5 Single-Channel RAM, 512GB PCIe Gen 4 NVMe SSD)
+* **Retailer / Platform:** Best Buy / Walmart / B&H Photo / Target Early Black Friday DoorBuster Circulars • **SKUs:** `83GS000KUS` / `83JC0005US` / `6578510` / `6578513`
+* **Promotional Price:** **$549.99 – $599.99 USD** (~৳70,400 – ~৳76,800 bank / ~৳74,250 – ~৳80,999 landed) *(MSRP: $799.99 – $899.99)*
+* **Audit Status:** `DISQUALIFIED / DECEPTIVE "BUDGET LOQ" CIRCULAR TRAP: STRICT 16GB PROTOCOL VIOLATION (8GB SINGLE-CHANNEL MEMORY BOTTLENECK CUTTING MEMORY BANDWIDTH IN HALF), CASTRATED 65W TGP GPU LIMITING RTX 3050 GRAPHICS COMPUTE, DEFECTIVE "NO IGPU" RYZEN 5 7235HS SILICON FORCING DISCRETE GPU ALWAYS-ON (CATASTROPHIC SUB-2-HOUR BATTERY ENDURANCE), AND PLASTIC REAR EXHAUST HOUSING FATIGUE UNDER THERMAL HEAT`
+* **Audit Verdict:** **REJECTED UNDER ADVERSARIAL MEMORY PROTOCOL, GPU TGP POWER ENVELOPE, ARCHITECTURAL BATTERY DRAIN, AND VALUE GATING.** Heavily advertised across early Black Friday flyers and circular promos as an alluring "sub-$600 Lenovo LOQ entry point ($549-$599)", masking critical hardware compromises intended to dump cost-cut inventory ahead of true 16GB RTX 4060 holiday drops:
+  1. **Strict 16GB Protocol Violation (8GB Single-Channel Memory Bottleneck):** Entry-tier holiday doorbuster circulars ship configured with a solitary 8GB DDR5-4800/5600 stick (1×8GB). Operating in single-channel mode starves modern multi-threaded games and local AI inferencing of 50% memory bus bandwidth. In modern games, this induces severe micro-stuttering and devastating 1% low frame rate dips below 20-25 FPS. Furthermore, background Windows 11 tasks immediately overwhelm physical memory, forcing relentless SSD swap thrashing.
+  2. **Castrated 65W TGP Graphics Limitation:** Unlike the flagship Lenovo LOQ 15 tracked in Tier 4 (#01 with a full 115W TGP RTX 4060 8GB), these budget circular SKUs are crippled with a low-wattage 65W TGP limit on outdated RTX 3050 6GB or RTX 2050 silicon. This yields less than half the CUDA/Tensor compute of an RTX 4060 and completely lacks DLSS 3 Frame Generation or sufficient VRAM for unquantized local LLM deployments.
+  3. **"No iGPU" Ryzen 5 7235HS Architecture Trap (Catastrophic Sub-2-Hour Battery Life):** Prominent circular SKUs feature the AMD Ryzen 5 7235HS processor—a cut-down chip from AMD that entirely strips out the integrated Radeon graphics engine. Because there is zero integrated GPU, the dedicated NVIDIA GPU can never power down to a low-power C-state; it must stay energized 100% of the time, continuously powering the display and basic desktop rendering. Consequently, battery runtime on the modest 60Wh pack collapses to an abysmal 1.5 to 2 hours of light web browsing.
+  4. **Plastic Rear Exhaust Housing & Hinge Heat Fatigue:** While Lenovo improved hinge geometry compared to the legacy IdeaPad Gaming 3, the rear exhaust shroud remains molded from unreinforced PC-ABS plastic. Continuous 80°C+ exhaust venting directly under the display hinges accelerates plastic thermal degradation and eventual fastener loosening over multi-year ownership.
+  5. **Superior Actively Tracked Alternatives in the Exact Same Budget Window ($269 – $699 USD / ~৳36k – ~৳94k landed):**
+     * **HP EliteBook 840 G8 (#26 at $269.99 / ~৳36,449 landed):** 11th Gen vPro Core i7-1185G7, **16GB RAM**, **dual un-soldered SODIMM slots (up to 64GB DDR4)**, all-metal CNC aluminum unibody, 400-nit low power display, dual Thunderbolt 4 (eGPU ready), and Bang & Olufsen audio under ৳37,000 landed!
+     * **HP ProBook 445 G8 (#54 at $267.99 / ~৳36,179 landed):** 6-core/12-thread AMD Ryzen 5 5600U, **16GB DDR4 RAM**, **2× un-soldered SODIMM slots (up to 64GB)**, aluminum keyboard deck, SuperSpeed USB-C with Power Delivery & DisplayPort, and 2-Year Allstate Warranty under ৳37,000 landed!
+     * **Dell Latitude 5330 2-in-1 (#35 at $275.00 / ~৳37,125 landed):** True enterprise 10-core Core i7-1265U vPro, **16GB dual-channel RAM**, **dual Thunderbolt 4 (40Gbps eGPU ready)**, 300-nit Corning Gorilla Glass 6 DX touch display, and carbon-fiber reinforced chassis under ৳38,000 landed!
+     * **Dell Latitude 7330 (#37 at $279.59 / ~৳37,745 landed):** 10-core Core i5-1245U vPro, **16GB RAM**, **400-nit Super Low Power 100% sRGB display**, ultralight 1.13 kg chassis, dual Thunderbolt 4, and 1-Year Allstate Warranty under ৳38,000 landed!
+     * **HP EliteBook 845 G8 (#40 at $289.99 / ~৳39,149 landed):** 6-core / 12-thread AMD Ryzen 5 PRO 5650U Zen 3, **16GB RAM**, **dual un-soldered SODIMM slots (up to 64GB DDR4)**, CNC all-aluminum unibody, and 400-nit display under ৳40,000 landed!
+     * **HP ProBook x360 435 G8 (#48 at $306.90 / ~৳41,432 landed):** 8-core / 16-thread AMD Ryzen 7 PRO 5850U, **dual un-soldered SODIMM slots (up to 64GB DDR4)**, aluminum keyboard deck, Corning Gorilla Glass 5, and 1-Year Allstate Warranty under ৳42,000 landed!
+     * **ThinkPad X13 Yoga Gen 2 (#42 at $314.99 / ~৳42,524 landed):** 11th Gen vPro Core i5, **16GB RAM**, modern 16:10 WUXGA touch display, garaged stylus, and dual Thunderbolt 4 under ৳43,000 landed!
+     * **ThinkPad X1 Yoga Gen 6 (#39 / #24 at $328.99 / ~৳44,414 landed):** Flagship CNC aluminum unibody, **16GB RAM**, 14.0" 16:10 400-nit low power touch display, garaged stylus, 4G LTE, and 100% verified battery health under ৳45,000 landed!
+     * **Dell Latitude 5430 (#36 at $329.99 / ~৳44,549 landed):** 10-core 12th Gen Core i5-1245U vPro, **2× un-soldered SODIMM slots (up to 64GB DDR4)**, dual Thunderbolt 4, captive screws, and 1-Year Allstate Warranty under ৳45,000 landed!
+     * **ThinkPad X1 Carbon Gen 9 (#55 / #38 at $349.00 / ~৳47,115 landed):** Ultralight 1.13 kg carbon fiber flagship, **16GB RAM**, 14.0" 16:10 400-nit low power display, dual Thunderbolt 4, and 1-Year Allstate Warranty under ৳48,000 landed!
+     * **Dell Latitude 9420 2-in-1 (#41 at $354.99 / ~৳47,924 landed):** Dell's apex 9000-series executive flagship, **16GB RAM**, 14.0" 16:10 QHD+ (2560x1600) 500-nit touch display, motorized SafeShutter webcam, and quad speakers under ৳48,000 landed!
+     * **Lenovo ThinkPad T14 Gen 3 (#37 at $369.00–$379.95 / ~৳49,815–~৳51,293 landed):** 12th Gen 10-core / Ryzen 6000 Zen 3+, **16GB RAM (SODIMM expandable to 48GB)**, modern 16:10 WUXGA display, dual TB4/USB4, and military-grade durability.
+     * **Dell Latitude 7430 2-in-1 (#17 at $379.00 / ~৳51,165 landed):** 10-core 12th Gen Core i7-1265U vPro, **16GB RAM**, dual Thunderbolt 4 (40Gbps eGPU ready), CNC aluminum unibody, and IR facial recognition under ৳52,000 landed!
+     * **MSI GF63 Thin (#15 at $479.00 / ~৳64,665 landed):** Dedicated NVIDIA GeForce RTX 3050 6GB GPU with **16GB factory RAM (2× un-soldered SODIMM slots)** and 144Hz IPS display for budget GPU compute!
+     * **HP Victus 15 (#14 / #47 at $499.00 / ~৳67,365 landed):** AMD Ryzen 5 8645HS (Zen 4), **NVIDIA RTX 4050 6GB GDDR6 (75W TGP, DLSS 3)**, dual-fan cooling, 144Hz IPS, and dual DDR5 SODIMM slots upgradeable to 64GB!
+     * **Dell Precision 3581 (#05 / #46 at $619.00 / ~৳83,565 landed):** Dell DFS Certified Grade A Workstation with 12-core 45W Core i5-13600H, **NVIDIA RTX A500 4GB (ISV Certified)**, and 16GB DDR5 (upgradeable to 64GB)!
+     * **Acer Nitro V 15 (#03 at $649.99 / ~৳87,749 landed):** 10-core 16-thread Core i7-13620H, **NVIDIA GeForce RTX 4060 8GB GDDR6 (75W TGP)**, dual-fan cooling, **16GB DDR5**, and dual Gen 4 M.2 SSD bays!
+     * **ASUS TUF Gaming A15 (#02 at $679.99 / ~৳91,799 landed):** Full-wattage **140W TGP NVIDIA RTX 4060 8GB**, AMD Ryzen 5/7, dual fans, **16GB DDR5 (upgradeable to 64GB)**, and military-grade MIL-STD-810H durability!
+     * **Lenovo LOQ 15 (#01 at $699.99 / ~৳94,499 landed):** True successor to the IdeaPad Gaming with **115W TGP NVIDIA RTX 4060 8GB**, MUX Switch, 8-core/16-thread Ryzen 7 7435HS, **16GB DDR5**, 300-nit 100% sRGB 144Hz G-SYNC display, dual cooling fans with rear exhaust, and dual Gen 4 M.2 bays!
+
+<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 69 archived/disqualified listings = 124 total audited).</sub>
 </div>
