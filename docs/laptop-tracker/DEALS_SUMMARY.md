@@ -8,7 +8,7 @@
 [![FX Landed](https://img.shields.io/badge/Landed%20Rate-1%20USD%20%E2%89%88%20135%20BDT-orange?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![FX Bank](https://img.shields.io/badge/Bank%20Card-1%20USD%20%E2%89%88%20128%20BDT-yellow?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Budget Sweet Spot](https://img.shields.io/badge/Target%20Sweet%20Spot-%E0%A7%B350k--%E0%A7%B355k%20BDT-purple?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Version](https://img.shields.io/badge/Ledger-v3.2.2-informational?style=for-the-badge)](DEALS_LEDGER.json)
+[![Version](https://img.shields.io/badge/Ledger-v3.2.3-informational?style=for-the-badge)](DEALS_LEDGER.json)
 [![Full Archive](https://img.shields.io/badge/Checked%20Listings-129%20Audited%20Deals-success?style=for-the-badge)](ALL_CHECKED_DEALS.md)
 [![Workstation Convertibles](https://img.shields.io/badge/Specialist%20Dossier-Workstation%20%26%20Gaming%20Convertibles-blueviolet?style=for-the-badge)](workstation_convertibles/README.md)
 
@@ -20,7 +20,7 @@
 
 ---
 
-> **🕒 Last Verified:** `2026-11-14 19:30:00 (+06:00 Asia/Dhaka)` • All 55 active models and 74 archived listings verified live (129 total audited listings milestone!)
+> **🕒 Last Verified:** `2026-11-14 21:15:00 (+06:00 Asia/Dhaka)` • All 55 active models and 74 archived listings verified live (129 total audited listings milestone!)
 > **🎯 Strategic Focus Active:** 1) Deep research on sub-৳50k–৳55k BDT models • 2) Dedicated tracking of Touchscreen & 360° convertibles with 16GB RAM • 3) Radar on high-gravity outlier discounts (Tier 4).  
 > **⚡ Best Buy, Walmart Event 1, Micro Center & Dell DFS Doorbuster Waves LIVE:** Best Buy Early Black Friday doorbusters active during peak Saturday holiday shopping traffic (Lenovo IdeaPad Slim 3i Touch $429.99, HP OmniBook X Flip 14 $649.99, LOQ 15 RTX 4060 $699.99 with rapid inventory turnover, ASUS TUF A15 RTX 4060 $679.99). Walmart Black Friday Deals Event 1 general access kickoff officially active as of Nov 12-15 (monitoring HP Victus RTX 4050 restocks at $499; Apple MacBook Air M2 holding strong at $649; Acer Nitro V 15 RTX 4060 at $649.99). Micro Center refurbished intelligence: SKU 828509 (ThinkPad Ryzen 7 5850U) marked no longer carried online; in-store stock active on HP EliteBook 840 G8 16GB ($379.99) and enterprise Latitude 5530 ($409). DFS inventory sweep: Precision 3581 Grade A RTX A500 verified live with official 40% automatic clearance discount ($619; 14-core i7 SKU 000038 at $559, 2 units left); Latitude 5420 verified at 30% off (no code needed); Latitude 5430 verified with coupon AF5430NOV1 for 60% off in cart (from $239); Latitude 7340 32GB QHD+ holding at final 1 unit ($579), and Latitude 5530 holding at 1 unit ($409)!
 > **🔗 100% Direct Official Link Audit Complete:** Every tracked listing pairs verified, defect-free direct OEM outlet and authorized retailer URLs (Dell DFS, Lenovo Outlet, Micro Center, Best Buy, Walmart Direct, Woot!) with clean discoverability links. Zero 3rd-party marketplace reseller links.  
