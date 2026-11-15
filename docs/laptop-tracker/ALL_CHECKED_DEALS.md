@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-138%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-139%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-83%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-84%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A83)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A84)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -3379,5 +3379,26 @@ The following models were investigated, benchmarked, or tracked during prior swe
 
 ---
 
-<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 83 archived/disqualified listings = 138 total audited).</sub>
+### #A84: HP Omen 16 (16.1" - 16-xf, 16-wf, 16-xd, 16-wd Series - 2023/2024 Models) Infamous Hall Effect Sensor Black Screen Defect (Thermal Heatpipe Proximity Frying Magnetic Lid-Close Sensor Causing Permanent Black Screen Under Sustained GPU/CPU Load & Chimicles Schwartz Kriner & Donaldson-Smith LLP Consumer Investigation) & 8GB/Single-Channel DDR5 RAM Circular Trap & Deafening 54+ dB Jet-Engine Fan Whine & Bulky 280W Power Adapter (3.3 kg / 7.3 lbs Travel Weight) (16.1" FHD 1920x1080 144Hz 250-Nit 45% NTSC / QHD 240Hz 300-Nit IPS Display, Intel Core i7-13700HX / i7-14700HX / AMD Ryzen 7 7840HS / 7435HS, NVIDIA GeForce RTX 4060 8GB / RTX 4070 8GB 120W–140W TGP, 8GB/16GB DDR5 Single/Dual-Channel RAM, 512GB/1TB PCIe Gen 4 NVMe SSD)
+* **Retailer / Platform:** Best Buy / Walmart / Micro Center / Amazon / B&H Early Black Friday Holiday Circulars • **SKUs:** `16-xf0033dx` / `16-wf0019nr` / `16-xd0010nr` / `16-wd0013dx` / `16-wf0083dx` / `783S7UA` / `783S8UA`
+* **Promotional Price:** **$649.99 – $799.99 USD** (~৳83,199 – ~৳102,399 bank / ~৳87,749 – ~৳107,999 landed) *(MSRP: $1,099.99 – $1,399.99)*
+* **Audit Status:** `DISQUALIFIED / SEVERE SYSTEMIC HARDWARE DESIGN FLAW: CRITICAL REAR THERMAL PLACEMENT DEFECT (HP SITUATED THE LID-DETECTION HALL EFFECT MAGNETIC SENSOR CHIP DIRECTLY OVER THE REAR EXHAUST HEATPIPES AND GPU THERMAL FINS, CAUSING SYSTEMIC HEAT-INDUCED SENSOR DEGRADATION THAT FALSELY SIGNALS A CLOSED LID UNDER SUSTAINED GAMING TEMPERATURES, RESULTING IN SUDDEN PERMANENT INTERNAL DISPLAY BLACKOUTS WHILE FANS RUN AT MAXIMUM RPM, SUBJECT OF CHIMICLES SCHWARTZ KRINER & DONALDSON-SMITH LLP LEGAL INVESTIGATION), REQUIRING INVASIVE MOTHERBOARD SWAPS OR RISKY DIY PHYSICAL SENSOR REMOVAL, STRICT 16GB PROTOCOL VIOLATION WITH 8GB/SINGLE-CHANNEL DDR5 CONFIGURATIONS ON BASE CIRCULARS, DEAFENING 54+ DB ACOUSTIC NOISE, AND BULKY 280W BRICK YIELDING 3.3 KG TRAVEL WEIGHT`
+* **Audit Verdict:** **REJECTED UNDER STRUCTURAL COMPONENT THERMAL PLACEMENT GATE, REPAIRABILITY PROTOCOL, AND ACOUSTIC/TRAVEL WEIGHT CRITERIA.** Heavily marketed across early Black Friday circulars and clearance liquidations as an enticing "$649 to $799 high-performance RTX 4060/4070 gaming rig slashed $400–$600 from MSRP", masking one of the most widespread and severe hardware engineering flaws in recent laptop history:
+  1. **Catastrophic Hall Effect Sensor Black Screen Defect:** In the 2023–2024 rear-port chassis redesign of the HP Omen 16, HP engineers routed the lid-detection Hall Effect magnetic sensor daughterboard trace directly adjacent to the main GPU/CPU copper heatpipes and rear exhaust fins. Under sustained gaming or 3D rendering workloads where exhaust temperatures reach 80°C–90°C, the intense localized heat systematically degrades the Hall sensor chip and its solder joints over 2 to 6 months of regular use. Once degraded, the sensor latches into a permanent false "lid closed" state: the internal laptop display abruptly cuts to black, the keyboard and trackpad freeze, yet the cooling fans roar at 100% RPM. The machine is rendered completely unusable on its integrated panel unless connected to an external monitor.
+  2. **Failed Warranty Depots & Invasive DIY Teardown Workaround:** Official HP warranty depot service replaces the faulted motherboard with another identical motherboard carrying the exact same thermal placement defect—causing the black screen to reoccur within months. The only "permanent" community solution discovered by technicians and Reddit /r/HPOmen owners requires completely disassembling the bottom chassis and physically unplugging or desoldering the miniature Hall sensor ribbon cable—permanently disabling automatic sleep-on-lid-close functionality and risking warranty invalidation. The issue has triggered an active defect investigation by class action law firm Chimicles Schwartz Kriner & Donaldson-Smith LLP.
+  3. **Strict 16GB Memory Protocol Violation on Base Holiday Circulars:** Base early Black Friday doorbuster configurations ship with only a single 8GB DDR5-5600 SO-DIMM module or asymmetric 8GB memory, throttling dual-channel bandwidth and inducing stutter in modern game engines and video rendering timelines.
+  4. **Deafening 54+ dB Fan Acoustics & Cumbersome Travel Weight:** Dual high-RPM blowers generate an abrasive 54+ dB jet-engine acoustic whine under load. Combined with a massive 280W/330W charging brick, total travel weight exceeds 3.3 kg (7.3 lbs), completely disqualifying the machine for mobile academic, portable work, or overseas travel.
+  5. **Superior Actively Tracked Alternatives in the Creator & Gaming Categories:**
+     * **Acer Nitro V 15.6" RTX 4060 (#1 at $649.99 / ~৳87,749 landed):** True Ada Lovelace **NVIDIA GeForce RTX 4060 8GB VRAM (full DLSS 3 Frame Generation, unquantized 8B LLM inferencing)**, **10-core / 16-thread Intel Core i7-13620H**, **16GB DDR5 (2× un-soldered SODIMM slots upgradeable to 64GB)**, dual M.2 Gen 4 NVMe slots, zero Hall sensor defects, and reliable dual-fan cooling!
+     * **Dell Precision 3581 Mobile Workstation (#5 at $619.00 / ~৳83,565 landed):** **12-core / 16-thread Core i5-13600H (45W H-series)**, dedicated **NVIDIA RTX A500 4GB (ISV Certified enterprise drivers for CAD/SolidWorks)**, **16GB DDR5 (2× un-soldered SODIMM slots upgradeable to 64GB)**, dual M.2 Gen 4 SSD bays, dual Thunderbolt 4, and 100-Day Direct Dell warranty!
+     * **ASUS TUF Gaming A15 RTX 4060 (#6 at $679.99 / ~৳91,799 landed):** Full-wattage **140W TGP NVIDIA GeForce RTX 4060 8GB GDDR6 with MUX switch**, true multithreaded AMD Ryzen Zen 4 processor, **16GB DDR5 (2× un-soldered SODIMM slots up to 64GB)**, quad-exhaust cooling, zero lid sensor defects, and MIL-STD-810H durability!
+     * **Lenovo LOQ 15 RTX 4060 (#7 at $699.99 / ~৳94,499 landed):** **115W TGP NVIDIA RTX 4060 8GB GDDR6 with MUX Switch**, 8-core / 16-thread AMD Ryzen 7 7435HS, **16GB DDR5 (2× un-soldered SODIMM slots)**, 100% sRGB 144Hz G-SYNC display!
+     * **HP Victus 15.6" RTX 4050 (#9 at $499.00 / ~৳67,365 landed):** Dedicated **NVIDIA RTX 4050 6GB GDDR6 with DLSS 3**, 6-core / 12-thread AMD Ryzen 5 8645HS (Zen 4), **2× un-soldered DDR5 SODIMM slots**, clean thermal layout without rear-exhaust Hall sensor flaws under $500!
+     * **MSI GF63 Thin RTX 3050 (#13 at $479.00 / ~৳64,665 landed):** Dedicated RTX 3050 6GB with **16GB factory RAM out of the box (dual un-soldered SODIMM slots)** under $480!
+     * **Dell Latitude 7430 2-in-1 (#12 at $379.00 / ~৳51,165 landed):** 10-core 12th Gen Core i7-1265U vPro, **16GB RAM**, 360-degree touch convertible with dual Thunderbolt 4 (40Gbps eGPU ready for external desktop RTX cards), integrated FHD IR webcam, and CNC aluminum unibody under ৳52,000 landed!
+
+
+---
+
+<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 84 archived/disqualified listings = 139 total audited).</sub>
 </div>
