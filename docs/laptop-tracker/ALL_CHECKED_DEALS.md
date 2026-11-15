@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-136%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-137%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-81%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-82%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A81)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A82)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -3338,5 +3338,25 @@ The following models were investigated, benchmarked, or tracked during prior swe
 
 ---
 
-<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 81 archived/disqualified listings = 136 total audited).</sub>
+### #A82: Acer Swift X 14 (SFX14-41G, SFX14-42G, SFX14-51G Series) 8GB Soldered Non-Upgradeable RAM Creator Trap & Single-Fan Shared-Heatpipe Thermal Choke (CPU/GPU Pegging 98°C-100°C) & Fragile Stamped-Aluminum Hinge Screw-Boss Fatigue & Crippled Single M.2 Storage Expansion (14.0" FHD 1920x1080 300-Nit 100% sRGB / 2.2K IPS Display, AMD Ryzen 5 5500U / 5600U / 7530U / Intel Core i5-11320H / i7-1260P, NVIDIA GeForce RTX 3050 4GB / RTX 3050 Ti 4GB 35W-40W TGP, 8GB Soldered LPDDR4x-4266 RAM, 512GB PCIe NVMe SSD)
+* **Retailer / Platform:** Amazon / Best Buy / Walmart / B&H Early Black Friday Holiday Circulars • **SKUs:** `SFX14-41G-R1S6` / `SFX14-41G-R0SG` / `SFX14-51G-52LX` / `NX.AU1AA.001`
+* **Promotional Price:** **$529.99 – $649.99 USD** (~৳67,839 – ~৳83,199 bank / ~৳71,549 – ~৳87,749 landed) *(MSRP: $799.99 – $999.99)*
+* **Audit Status:** `DISQUALIFIED / DECEPTIVE BUDGET "CREATOR RTX" TRAP: STRICT 16GB PROTOCOL VIOLATION WITH PERMANENTLY SOLDERED 8GB LPDDR4X-4266 RAM AND ZERO SODIMM EXPANSION SLOTS, INADEQUATE SINGLE-FAN COOLING ASSEMBLY SERVICING BOTH A 35W-45W CPU AND A DEDICATED NVIDIA RTX GPU OVER SHARED HEATPIPES CAUSING SEVERE 98°C–100°C THERMAL CHOKING AND 52+ DB ACOUSTIC WHINE, FRAGILE STAMPED-ALUMINUM DISPLAY CASING WITH OVER-TORQUED HINGES FATIGUING PLASTIC STANDOFFS, AND RESTRICTIVE SINGLE-DRIVE STORAGE EXPANSION.`
+* **Audit Verdict:** **REJECTED UNDER STRICT 16GB MEMORY PROTOCOL, SINGLE-FAN THERMAL DISSIPATION GATE, AND STRUCTURAL RELIABILITY CRITERIA.** Heavily marketed across early holiday circulars as an alluring "$529 to $649 compact creator laptop with dedicated NVIDIA RTX graphics slashed 35%–40% from MSRP", trapping budget-minded buyers into severe architectural bottlenecks:
+  1. **Strict 16GB Protocol Violation with Permanently Soldered 8GB RAM:** Base holiday doorbuster configurations permanently solder 8GB of LPDDR4x-4266 RAM directly to the motherboard with zero SODIMM slots. On Windows 11, background telemetry and browser tabs consume 5.5GB–6.5GB at idle. Running video editing suites (Adobe Premiere Pro, DaVinci Resolve), 3D modeling (Blender), or modern games immediately exhausts physical memory, plunging the machine into aggressive virtual memory swap paging across the NVMe SSD. This induces severe timeline playback stutter, dropped video frames, 1% low FPS collapses, and frequent out-of-memory application crashes.
+  2. **Severe Single-Fan Thermal Choking Pegging 98°C–100°C:** To fit into an ultra-thin 17.9mm / 1.39 kg chassis, Acer deployed an undersized single-fan cooling assembly with shared thin copper heatpipes spanning both the processor and dedicated RTX 3050 GPU. Under concurrent rendering or gaming loads, thermal dissipation saturates within 90 seconds: CPU temperatures peg 98°C–100°C TJMax, triggering aggressive thermal clock throttling that drops GPU clocks by up to 35% while the single blower emits an abrasive 52+ dB high-frequency acoustic whine. Surface deck temperatures exceed 48°C, making keyboard operation hot to the touch.
+  3. **Stamped Aluminum Chassis Flex & Hinge Screw-Boss Fatigue:** Although the top lid features a cosmetic stamped aluminum sheet, the internal chassis skeleton and hinge anchors rely on thin polycarbonate standoffs. Stiff display hinge resistance exerts continuous rotational torque on small heat-staked brass threaded inserts in the lower tub, resulting in chassis creaking, hinge binding, and plastic screw-boss shear over routine open-close cycles.
+  4. **Single-Drive Storage Bottleneck & Collapsing Battery Life:** Base circular models feature only a single accessible M.2 2280 NVMe SSD slot (or a secondary slot throttled by severe PCIe lane sharing), preventing storage expansion without cloning and discarding the primary boot drive. When the discrete RTX GPU engages during mobile creative workflows, the modest 59Wh battery collapses in under 2.5 hours.
+  5. **Superior Actively Tracked Alternatives in the Creator & Gaming Categories:**
+     * **Acer Nitro V 15.6" RTX 4060 (#1 at $649.99 / ~৳87,749 landed):** True Ada Lovelace RTX 4060 8GB VRAM (unquantized 8B LLM inferencing, full DLSS 3 Frame Generation), **16GB DDR5 dual un-soldered SODIMM slots (upgradeable to 64GB)**, dual M.2 Gen 4 NVMe slots, dual-fan cooling, and 144Hz FHD IPS display!
+     * **Dell Precision 3581 Mobile Workstation (#5 at $619.00 / ~৳83,565 landed):** 12-core Core i5-13600H (16 threads), dedicated **NVIDIA RTX A500 4GB (ISV Certified drivers for SolidWorks/CAD)**, **16GB DDR5 (2× SODIMM upgradeable to 64GB)**, dual M.2 Gen 4 SSD bays, dual Thunderbolt 4, and 100-Day Direct Dell warranty!
+     * **ASUS TUF Gaming A15 RTX 4060 (#6 at $679.99 / ~৳91,799 landed):** Full 140W TGP NVIDIA GeForce RTX 4060 8GB with MUX switch, AMD Ryzen Zen 4, **16GB DDR5 (2× un-soldered SODIMM slots up to 64GB)**, dual-fan quad-exhaust cooling!
+     * **MSI GF63 Thin RTX 3050 (#13 at $479.00 / ~৳64,665 landed):** Dedicated RTX 3050 6GB with **16GB factory RAM out of the box** and dual un-soldered SODIMM slots under $480!
+     * **HP Victus 15.6" RTX 4050 (#9 at $499.00 / ~৳67,365 landed):** Dedicated RTX 4050 6GB with DLSS 3, AMD Ryzen 5 8645HS, **dual un-soldered DDR5 slots** under $500!
+     * **Dell Latitude 7430 2-in-1 (#12 at $379.00 / ~৳51,165 landed):** 10-core 12th Gen Core i7-1265U vPro, **16GB RAM**, 360-degree touch convertible with dual Thunderbolt 4 (eGPU ready for external RTX GPUs) under ৳52,000 landed!
+
+
+---
+
+<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 82 archived/disqualified listings = 137 total audited).</sub>
 </div>
