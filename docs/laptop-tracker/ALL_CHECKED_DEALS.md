@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-156%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Active Curated](https://img.shields.io/badge/Active%20Tracked-55%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-101%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-158%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Active Curated](https://img.shields.io/badge/Active%20Tracked-56%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-102%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A101)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A102)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -574,7 +574,33 @@
 
 ---
 
-### #22: [Lenovo IdeaPad Slim 3i 15.3" 2K Touch Laptop - Intel Core 5 120U - 16GB RAM - 256GB SSD](https://www.bestbuy.com/site/searchpage.jsp?st=lenovo+ideapad+slim+3i+touchscreen)
+### #22: [Dell Latitude 7440 14.0" FHD+ Touch Laptop - Intel Core i5-1345U - 16GB LPDDR5 - 256GB SSD - Grade B](https://www.dellrefurbished.com/laptops?model_f[]=Latitude%207440)
+
+| Component Subsystem | Official OEM Specification & Telemetry Breakdown |
+| :--- | :--- |
+| **Tracking ID & SKU** | `dell-latitude-7440-touch-dfs` • **SKU:** `Latitude-7440-Touch-000012` |
+| **Retailer / Channel** | **Dell Refurbished (DFS)** |
+| **Pricing Breakdown** | **$403.73 USD** *(Regular Clearance: $720.95 • MSRP: $1,499.00 • Coupon: AF7440LATSD / LAT744044 saves 44%)* |
+| **BDT Landed Rate** | **Bank Card Settlement (~128 BDT):** ~৳51,677 BDT<br>**Realistic Landed Cost (~135 BDT):** **~৳54,504 BDT** |
+| **Stock & Verification** | `IN_STOCK` • *Last Checked:* `2026-11-19T05:20:00+06:00` |
+| **Processor & Silicon Architecture (CPU)** | Intel 13th Gen Raptor Lake-U Core i5-1345U vPro (10 Cores / 12 Threads: 2 Performance Cores up to 4.70 GHz + 8 Efficient Cores up to 3.50 GHz, 12MB Intel Smart Cache, 15W Base TDP / 55W Turbo Power, Intel vPro Enterprise Management) |
+| **Graphics Subsystem (GPU & eGPU)** | Intel Iris Xe Graphics (80 Execution Units, DirectX 12.1, OpenGL 4.6, QuickSync Video) • Dual Thunderbolt 4 (40Gbps, 4 PCIe lanes, full external eGPU ready) |
+| **Memory Architecture (RAM)** | 16GB LPDDR5-4800 MHz Dual-Channel on-board • 100% Soldered (Meets 16GB non-negotiable protocol with ultra-fast memory bandwidth) |
+| **Storage Subsystem (SSD/HDD)** | 256GB PCIe Gen 4 x4 NVMe M.2 SSD • 1× M.2 SSD slot (Supports both M.2 2230 and M.2 2280 NVMe SSDs up to 2TB/4TB) |
+| **Display Panel & Visuals** | 14.0" 16:10 FHD+ (1920x1200) WUXGA Touchscreen IPS, 300 nits brightness, Anti-Glare with Anti-Smudge coating, 100% sRGB color coverage, slim micro-edge bezels |
+| **I/O Connectivity & Bus Speeds** | 2× Thunderbolt 4 with Power Delivery & DisplayPort 1.4 (40Gbps); 2× USB 3.2 Gen 1 Type-A (1 with PowerShare); 1× HDMI 2.0; 1× 3.5mm combo audio jack; Intel Wi-Fi 6E AX211 + Bluetooth 5.3 |
+| **Card Reader & Expandability** | None (Integrated WWAN SIM tray optional; external USB-C SD reader required) |
+| **Battery, Power & Thermals** | 3-cell 54Wh ExpressCharge Capable Lithium-Ion battery (80% charge in 60 mins) • 65W USB Type-C AC Adapter • Advanced dual-intake whisper-quiet thermals |
+| **Chassis, Materials & Durability** | Premium CNC Aluminum / Magnesium-alloy corporate chassis in Titan Gray • Weight: 1.33 kg (2.93 lbs) • Dimensions: 313 × 222.75 × 17.1 mm • MIL-STD-810H military certified |
+| **Keyboard, Trackpad & Stylus** | Full-size premium spill-resistant backlit chiclet keyboard with 1.5mm key travel • Large Precision Glass Touchpad • 10-point capacitive multitouch |
+| **Webcam, Audio & Biometrics** | FHD 1080p + IR Camera with dual sensor and physical privacy shutter (Windows Hello facial recognition) • Dual far-field noise-cancelling microphones with Intelligent Audio • Discrete TPM 2.0 • Waves MaxxAudio Pro stereo speakers |
+
+> **🔍 Curatorial Audit & Engineering Verdict:**  
+> Sub-৳55,000 BDT Sweet Spot Champion Discovery! Slashes 44% ($317.22 off $720.95 clearance price) down to $403.73 (~৳54,504 landed / ~৳51,677 bank card rate) using active coupon code AF7440LATSD / LAT744044 on Dell Refurbished (dellrefurbished.com). Delivers a modern 16:10 FHD+ (1920x1200) Touch display, 13th Gen Intel 10-core Core i5-1345U vPro processing, 16GB LPDDR5 high-speed RAM, dual Thunderbolt 4 ports, Wi-Fi 6E, FHD IR webcam, and 100-Day Direct Dell Warranty. Represents the single best value 13th Gen touch corporate laptop landed in Bangladesh under ৳55,000.
+
+---
+
+### #23: [Lenovo IdeaPad Slim 3i 15.3" 2K Touch Laptop - Intel Core 5 120U - 16GB RAM - 256GB SSD](https://www.bestbuy.com/site/searchpage.jsp?st=lenovo+ideapad+slim+3i+touchscreen)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -600,7 +626,7 @@
 
 ---
 
-### #23: [HP Envy x360 15.6" 2-in-1 Touch Laptop - AMD Ryzen 5 7530U / Ryzen 7 5700U - 16GB RAM - 512GB SSD - Nightfall Black](https://www.walmart.com/search?q=hp+envy+x360+16gb+ram+restored)
+### #24: [HP Envy x360 15.6" 2-in-1 Touch Laptop - AMD Ryzen 5 7530U / Ryzen 7 5700U - 16GB RAM - 512GB SSD - Nightfall Black](https://www.walmart.com/search?q=hp+envy+x360+16gb+ram+restored)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -626,7 +652,7 @@
 
 ---
 
-### #24: [Lenovo ThinkPad X1 Yoga Gen 6 14.0" 16:10 WUXGA Touch 2-in-1 - Intel Core i5-1135G7 / i7-1185G7 vPro - 16GB RAM - 512GB SSD - Garaged Pen Pro](https://www.lenovo.com/us/en/outletus/laptops/)
+### #25: [Lenovo ThinkPad X1 Yoga Gen 6 14.0" 16:10 WUXGA Touch 2-in-1 - Intel Core i5-1135G7 / i7-1185G7 vPro - 16GB RAM - 512GB SSD - Garaged Pen Pro](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -652,7 +678,7 @@
 
 ---
 
-### #25: [Dell Inspiron 14 7430 14.0" FHD+ 2-in-1 Touch Laptop - Intel Core i5-1335U / Ryzen 5 7530U - 16GB RAM - 512GB SSD](https://www.lenovo.com/us/en/outletus/laptops/)
+### #26: [Dell Inspiron 14 7430 14.0" FHD+ 2-in-1 Touch Laptop - Intel Core i5-1335U / Ryzen 5 7530U - 16GB RAM - 512GB SSD](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -678,7 +704,7 @@
 
 ---
 
-### #26: [Dell Latitude 7420 14.0" Business Ultrabook - Intel Core i7-1185G7 - 16GB RAM - 512GB SSD](https://www.dellrefurbished.com/laptops)
+### #27: [Dell Latitude 7420 14.0" Business Ultrabook - Intel Core i7-1185G7 - 16GB RAM - 512GB SSD](https://www.dellrefurbished.com/laptops)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -704,7 +730,7 @@
 
 ---
 
-### #27: [HP EliteBook 840 G8 14.0" Business Laptop - Intel Core i7-1185G7 - 16GB RAM - 256GB/512GB SSD](https://blairtech.com/laptops/)
+### #28: [HP EliteBook 840 G8 14.0" Business Laptop - Intel Core i7-1185G7 - 16GB RAM - 256GB/512GB SSD](https://blairtech.com/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -730,7 +756,7 @@
 
 ---
 
-### #28: [Lenovo ThinkPad X13 Yoga Gen 3 13.3" 16:10 WUXGA Touch 2-in-1 - Intel Core i5-1245U vPro - 16GB RAM - 256GB SSD - Garaged Pen Pro](https://computers.woot.com/offers/lenovo-thinkpad-x13-yoga-gen-3-13-3-wuxga-touch-1)
+### #29: [Lenovo ThinkPad X13 Yoga Gen 3 13.3" 16:10 WUXGA Touch 2-in-1 - Intel Core i5-1245U vPro - 16GB RAM - 256GB SSD - Garaged Pen Pro](https://computers.woot.com/offers/lenovo-thinkpad-x13-yoga-gen-3-13-3-wuxga-touch-1)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -756,7 +782,7 @@
 
 ---
 
-### #29: [Lenovo ThinkPad T14 Gen 3 14.0" 16:10 WUXGA Laptop - Intel Core i5-1245U vPro / AMD Ryzen 5 PRO 6650U - 16GB RAM - 256GB/512GB SSD - Dual TB4 / USB4](https://www.lenovo.com/us/en/outletus/laptops/)
+### #30: [Lenovo ThinkPad T14 Gen 3 14.0" 16:10 WUXGA Laptop - Intel Core i5-1245U vPro / AMD Ryzen 5 PRO 6650U - 16GB RAM - 256GB/512GB SSD - Dual TB4 / USB4](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -782,7 +808,7 @@
 
 ---
 
-### #30: [Lenovo ThinkPad L13 Yoga Gen 3 13.3" 16:10 WUXGA Touch 2-in-1 - Intel Core i5-1245U vPro / AMD Ryzen 7 PRO 5875U - 16GB RAM - 256GB/512GB SSD - Garaged Pen Pro](https://www.lenovo.com/us/en/outletus/laptops/)
+### #31: [Lenovo ThinkPad L13 Yoga Gen 3 13.3" 16:10 WUXGA Touch 2-in-1 - Intel Core i5-1245U vPro / AMD Ryzen 7 PRO 5875U - 16GB RAM - 256GB/512GB SSD - Garaged Pen Pro](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -808,7 +834,7 @@
 
 ---
 
-### #31: [Dell Latitude 7330 13.3" FHD Touch 2-in-1 - Intel Core i5-1245U vPro / i7-1265U - 16GB RAM - 256GB/512GB SSD - Dual Thunderbolt 4](https://www.lenovo.com/us/en/outletus/laptops/)
+### #32: [Dell Latitude 7330 13.3" FHD Touch 2-in-1 - Intel Core i5-1245U vPro / i7-1265U - 16GB RAM - 256GB/512GB SSD - Dual Thunderbolt 4](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -834,7 +860,7 @@
 
 ---
 
-### #32: [Lenovo ThinkPad P14s Gen 2 14.0" Mobile Workstation - AMD Ryzen 7 PRO 5850U / Core i7 - 16GB RAM - 512GB SSD - ISV Certified - Upgradeable SODIMM](https://www.lenovo.com/us/en/outletus/laptops/)
+### #33: [Lenovo ThinkPad P14s Gen 2 14.0" Mobile Workstation - AMD Ryzen 7 PRO 5850U / Core i7 - 16GB RAM - 512GB SSD - ISV Certified - Upgradeable SODIMM](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -860,7 +886,7 @@
 
 ---
 
-### #33: [Lenovo ThinkPad T14s Gen 3 14.0" 16:10 WUXGA Laptop - AMD Ryzen 5 PRO 6650U / Intel Core i5-1245U vPro - 16GB LPDDR5 - 256GB/512GB SSD](https://www.lenovo.com/us/en/outletus/laptops/)
+### #34: [Lenovo ThinkPad T14s Gen 3 14.0" 16:10 WUXGA Laptop - AMD Ryzen 5 PRO 6650U / Intel Core i5-1245U vPro - 16GB LPDDR5 - 256GB/512GB SSD](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -888,7 +914,7 @@
 
 ## 🥉 Tier 3: Value & Convertibles Under $350 USD ($179 – $349 USD)
 
-### #34: [Dell Precision 3550 15.6" Mobile Workstation - Intel Core i5 10th Gen - 8GB/16GB - NVIDIA Quadro P520 2GB - 256GB SSD](https://blairtech.com/scratch-dent-dell-precision-3550-15-6-workstation-laptop-intel-quad-core-i5-10th-gen-i5-10310u-250gb-nvme-8gb-ram-windows-11-home-backlit-keyboard-webcam-s-n-8f24673/)
+### #35: [Dell Precision 3550 15.6" Mobile Workstation - Intel Core i5 10th Gen - 8GB/16GB - NVIDIA Quadro P520 2GB - 256GB SSD](https://blairtech.com/scratch-dent-dell-precision-3550-15-6-workstation-laptop-intel-quad-core-i5-10th-gen-i5-10310u-250gb-nvme-8gb-ram-windows-11-home-backlit-keyboard-webcam-s-n-8f24673/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -914,7 +940,7 @@
 
 ---
 
-### #35: [Lenovo ThinkPad T14 Gen 2 14.0" Laptop - AMD Ryzen 5 PRO 5650U / Intel Core i5 11th Gen - 16GB RAM - 256GB SSD](https://www.lenovo.com/us/en/outletus/laptops/)
+### #36: [Lenovo ThinkPad T14 Gen 2 14.0" Laptop - AMD Ryzen 5 PRO 5650U / Intel Core i5 11th Gen - 16GB RAM - 256GB SSD](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -940,7 +966,7 @@
 
 ---
 
-### #36: [Dell Latitude 5420 14.0" Business Laptop - Intel Core i5-1145G7 - 16GB RAM - 256GB/512GB SSD](https://computers.woot.com/plus/microsoft-authorized-refurbished-laptops-67)
+### #37: [Dell Latitude 5420 14.0" Business Laptop - Intel Core i5-1145G7 - 16GB RAM - 256GB/512GB SSD](https://computers.woot.com/plus/microsoft-authorized-refurbished-laptops-67)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -966,7 +992,7 @@
 
 ---
 
-### #37: [HP EliteBook 840 G7 14.0" Business Laptop - Intel Core i5 10th Gen - 16GB RAM - 256GB SSD](https://www.target.com/s?searchTerm=refurbished+laptop)
+### #38: [HP EliteBook 840 G7 14.0" Business Laptop - Intel Core i5 10th Gen - 16GB RAM - 256GB SSD](https://www.target.com/s?searchTerm=refurbished+laptop)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -992,7 +1018,7 @@
 
 ---
 
-### #38: [Dell Latitude 7320 13.3" FHD Touch 2-in-1 - Intel Core i5-1145G7 vPro / i7-1185G7 - 16GB RAM - 256GB/512GB SSD - All-Aluminum / Carbon Fiber](https://www.lenovo.com/us/en/outletus/laptops/)
+### #39: [Dell Latitude 7320 13.3" FHD Touch 2-in-1 - Intel Core i5-1145G7 vPro / i7-1185G7 - 16GB RAM - 256GB/512GB SSD - All-Aluminum / Carbon Fiber](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1018,7 +1044,7 @@
 
 ---
 
-### #39: [Dell Latitude 5320 13.3" FHD 2-in-1 Touch Laptop - Intel Core i5-1145G7 - 16GB RAM - 256GB/512GB SSD](https://www.lenovo.com/us/en/outletus/laptops/)
+### #40: [Dell Latitude 5320 13.3" FHD 2-in-1 Touch Laptop - Intel Core i5-1145G7 - 16GB RAM - 256GB/512GB SSD](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1044,7 +1070,7 @@
 
 ---
 
-### #40: [Dell Latitude 7420 14.0" FHD 2-in-1 Touch Laptop - Intel Core i5-1145G7 vPro - 16GB RAM - 256GB SSD](https://www.lenovo.com/us/en/outletus/laptops/)
+### #41: [Dell Latitude 7420 14.0" FHD 2-in-1 Touch Laptop - Intel Core i5-1145G7 vPro - 16GB RAM - 256GB SSD](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1070,7 +1096,7 @@
 
 ---
 
-### #41: [Lenovo ThinkPad L13 Yoga Gen 2 13.3" FHD Touch 2-in-1 - Intel Core i5-1135G7 / Ryzen 5 - 16GB RAM - 256GB SSD - Garaged Stylus](https://www.lenovo.com/us/en/outletus/laptops/)
+### #42: [Lenovo ThinkPad L13 Yoga Gen 2 13.3" FHD Touch 2-in-1 - Intel Core i5-1135G7 / Ryzen 5 - 16GB RAM - 256GB SSD - Garaged Stylus](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1096,7 +1122,7 @@
 
 ---
 
-### #42: [Lenovo ThinkPad X13 Yoga Gen 2 13.3" 16:10 WUXGA Touch 2-in-1 - Intel Core i5-1135G7 / i5-1145G7 vPro - 16GB RAM - 256GB SSD - Garaged Pen Pro](https://www.lenovo.com/us/en/outletus/laptops/)
+### #43: [Lenovo ThinkPad X13 Yoga Gen 2 13.3" 16:10 WUXGA Touch 2-in-1 - Intel Core i5-1135G7 / i5-1145G7 vPro - 16GB RAM - 256GB SSD - Garaged Pen Pro](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1122,7 +1148,7 @@
 
 ---
 
-### #43: [Lenovo IdeaPad Flex 5 14" FHD 2-in-1 Touch Laptop - AMD Ryzen 7 5700U/7730U - 16GB RAM - 512GB SSD](https://www.lenovo.com/us/en/outletus/laptops/)
+### #44: [Lenovo IdeaPad Flex 5 14" FHD 2-in-1 Touch Laptop - AMD Ryzen 7 5700U/7730U - 16GB RAM - 512GB SSD](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1148,7 +1174,7 @@
 
 ---
 
-### #44: [HP EliteBook x360 830 G8 13.3" FHD Touch 2-in-1 - Intel Core i5-1145G7 vPro - 16GB RAM - 256GB SSD - All-Aluminum](https://www.target.com/s?searchTerm=hp+elitebook+x360+830+g8+refurbished)
+### #45: [HP EliteBook x360 830 G8 13.3" FHD Touch 2-in-1 - Intel Core i5-1145G7 vPro - 16GB RAM - 256GB SSD - All-Aluminum](https://www.target.com/s?searchTerm=hp+elitebook+x360+830+g8+refurbished)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1174,7 +1200,7 @@
 
 ---
 
-### #45: [HP ProBook x360 435 G8 13.3" FHD Touch 2-in-1 - AMD Ryzen 5 PRO 5600U / Ryzen 7 PRO 5850U - 16GB RAM - 256GB/512GB SSD - Dual SODIMM Upgradeable](https://www.lenovo.com/us/en/outletus/laptops/)
+### #46: [HP ProBook x360 435 G8 13.3" FHD Touch 2-in-1 - AMD Ryzen 5 PRO 5600U / Ryzen 7 PRO 5850U - 16GB RAM - 256GB/512GB SSD - Dual SODIMM Upgradeable](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1200,7 +1226,7 @@
 
 ---
 
-### #46: [Lenovo Yoga 6 13.3" FHD/WUXGA Touch 2-in-1 - AMD Ryzen 5 5500U/7530U / Ryzen 7 - 16GB RAM - 512GB SSD - Fabric / Aluminum 360°](https://www.lenovo.com/us/en/outletus/laptops/)
+### #47: [Lenovo Yoga 6 13.3" FHD/WUXGA Touch 2-in-1 - AMD Ryzen 5 5500U/7530U / Ryzen 7 - 16GB RAM - 512GB SSD - Fabric / Aluminum 360°](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1226,7 +1252,7 @@
 
 ---
 
-### #47: [Lenovo ThinkBook 14s Yoga 14.0" FHD Touch 2-in-1 - Intel Core i5-1135G7 / i7-1165G7 - 16GB RAM - 512GB SSD - Garaged Smart Pen - Dual M.2 Slots](https://www.lenovo.com/us/en/outletus/laptops/)
+### #48: [Lenovo ThinkBook 14s Yoga 14.0" FHD Touch 2-in-1 - Intel Core i5-1135G7 / i7-1165G7 - 16GB RAM - 512GB SSD - Garaged Smart Pen - Dual M.2 Slots](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1252,7 +1278,7 @@
 
 ---
 
-### #48: [HP EliteBook x360 1040 G8 14.0" FHD Touch 2-in-1 - Intel Core i5-1145G7 vPro / i7-1185G7 - 16GB RAM - 256GB/512GB SSD - Executive Flagship](https://www.lenovo.com/us/en/outletus/laptops/)
+### #49: [HP EliteBook x360 1040 G8 14.0" FHD Touch 2-in-1 - Intel Core i5-1145G7 vPro / i7-1185G7 - 16GB RAM - 256GB/512GB SSD - Executive Flagship](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1278,7 +1304,7 @@
 
 ---
 
-### #49: [Dell Latitude 7330 13.3" FHD Laptop - Intel Core i5-1245U - 16GB RAM - 256GB SSD - Dual Thunderbolt 4](https://computers.woot.com/offers/dell-latitude-7330-13-3-fhd-i5-1245u-16gb-256gb)
+### #50: [Dell Latitude 7330 13.3" FHD Laptop - Intel Core i5-1245U - 16GB RAM - 256GB SSD - Dual Thunderbolt 4](https://computers.woot.com/offers/dell-latitude-7330-13-3-fhd-i5-1245u-16gb-256gb)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1304,7 +1330,7 @@
 
 ---
 
-### #50: [Dell Latitude 5330 13.3" FHD Touch 2-in-1 - Intel Core i5-1235U/i5-1245U vPro - 16GB RAM - 256GB/512GB SSD - Dual Thunderbolt 4](https://www.lenovo.com/us/en/outletus/laptops/)
+### #51: [Dell Latitude 5330 13.3" FHD Touch 2-in-1 - Intel Core i5-1235U/i5-1245U vPro - 16GB RAM - 256GB/512GB SSD - Dual Thunderbolt 4](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1330,7 +1356,7 @@
 
 ---
 
-### #51: [Dell Latitude 5430 14.0" Business Laptop - Intel Core i5-1235U/i5-1245U vPro - 16GB RAM - 256GB/512GB SSD - Dual SODIMM Upgradeable - Dual Thunderbolt 4](https://www.lenovo.com/us/en/outletus/laptops/)
+### #52: [Dell Latitude 5430 14.0" Business Laptop - Intel Core i5-1235U/i5-1245U vPro - 16GB RAM - 256GB/512GB SSD - Dual SODIMM Upgradeable - Dual Thunderbolt 4](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1356,7 +1382,7 @@
 
 ---
 
-### #52: [HP EliteBook 845 G8 14.0" Business Laptop - AMD Ryzen 5 PRO 5650U - 16GB DDR4 - 256GB/512GB SSD - Dual SODIMM Upgradeable](https://www.lenovo.com/us/en/outletus/laptops/)
+### #53: [HP EliteBook 845 G8 14.0" Business Laptop - AMD Ryzen 5 PRO 5650U - 16GB DDR4 - 256GB/512GB SSD - Dual SODIMM Upgradeable](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1382,7 +1408,7 @@
 
 ---
 
-### #53: [HP ProBook 445 G8 14.0" Business Laptop - AMD Ryzen 5 5600U - 16GB DDR4 - 256GB SSD - Dual SODIMM Upgradeable](https://www.hp.com/us-en/shop/cv/hp-outlet)
+### #54: [HP ProBook 445 G8 14.0" Business Laptop - AMD Ryzen 5 5600U - 16GB DDR4 - 256GB SSD - Dual SODIMM Upgradeable](https://www.hp.com/us-en/shop/cv/hp-outlet)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1408,7 +1434,7 @@
 
 ---
 
-### #54: [Dell Latitude 9420 14.0" QHD+ Touch 2-in-1 - Intel Core i7-1185G7 vPro - 16GB RAM - 512GB SSD - SafeShutter - Quad Speakers](https://www.lenovo.com/us/en/outletus/laptops/)
+### #55: [Dell Latitude 9420 14.0" QHD+ Touch 2-in-1 - Intel Core i7-1185G7 vPro - 16GB RAM - 512GB SSD - SafeShutter - Quad Speakers](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -1436,7 +1462,7 @@
 
 
 
-### #55: [Lenovo ThinkPad X1 Carbon Gen 9 14.0" 16:10 WUXGA Laptop - Intel Core i5-1145G7 vPro / i7-1185G7 - 16GB RAM - 512GB SSD - Dual TB4 - Ultralight 1.13kg](https://www.lenovo.com/us/en/outletus/laptops/)
+### #56: [Lenovo ThinkPad X1 Carbon Gen 9 14.0" 16:10 WUXGA Laptop - Intel Core i5-1145G7 vPro / i7-1185G7 - 16GB RAM - 512GB SSD - Dual TB4 - Ultralight 1.13kg](https://www.lenovo.com/us/en/outletus/laptops/)
 
 | Component Subsystem | Official OEM Specification & Telemetry Breakdown |
 | :--- | :--- |
@@ -3763,3 +3789,10 @@ The following models were investigated, benchmarked, or tracked during prior swe
 
 <sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (55 active serialized models + 101 archived/disqualified listings = 156 total audited).</sub>
 </div>
+
+
+### #A102: HP 15-fc0485nr 15.6" Touchscreen Laptop (AMD Ryzen 5 7520U, 16GB LPDDR5-5500, 512GB SSD) Discontinued Online Inventory / No Longer Carried (Micro Center SKU 912170)
+* **Retailer / Platform:** Micro Center Refurbished • **SKU:** `912170` / `B5RD5UAR#ABA`
+* **Historical Cart Price:** **$329.99 – $379.99 USD** (~৳44,549 – ~৳51,299 landed)
+* **Audit Status:** `ARCHIVED (DISCONTINUED / NO LONGER CARRIED ONLINE)`
+* **Audit Verdict:** While featuring 16GB LPDDR5-5500 RAM and a 15.6" Full HD IPS Touchscreen paired with an AMD Ryzen 5 7520U processor, Micro Center has officially updated SKU 912170 status to "No longer carried" online with depleted retail warehouse inventory. Furthermore, the Ryzen 5 7520U is built on older Zen 2 (Mendocino) 4-core silicon with weak 2CU Radeon 610M RDNA2 graphics, severely lagging behind Zen 3 (5600U/5650U/7530U) in multi-core compute and local LLM execution. Disqualified from active recommendations and permanently archived.
