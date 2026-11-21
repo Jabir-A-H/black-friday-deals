@@ -2,9 +2,9 @@
 ### Complete Exhaustive Telemetry, OEM Hardware Configurations, Pricing History, and Curatorial Verdicts
 
 [![Status](https://img.shields.io/badge/Directory-Active%20Archive-brightgreen?style=for-the-badge&logo=github)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Total Audited](https://img.shields.io/badge/Total%20Audited-175%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Total Audited](https://img.shields.io/badge/Total%20Audited-176%20Listings-blue?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Active Curated](https://img.shields.io/badge/Active%20Tracked-56%20Models-success?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
-[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-119%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
+[![Archived / Filtered](https://img.shields.io/badge/Archived%20%2F%20Filtered-120%20Listings-lightgrey?style=for-the-badge)](https://github.com/Jabir-A-H/black-friday-deals)
 [![Back to Dashboard](https://img.shields.io/badge/%E2%86%90%20Back%20To-Main%20Dashboard-purple?style=for-the-badge)](../../README.md)
 
 **This comprehensive directory records every single laptop deal inspected, benchmarked, monitored, or archived across US retail and certified refurbished channels for the Black Friday Deal Tracker.**  
@@ -18,7 +18,7 @@
 * **[🥇 Tier 1: High Budget ($450 – $550 USD)](#-tier-1-high-budget-450--550-usd)** — RTX 4050/3050 GPUs, 10-core 12th/13th Gen, 32GB RAM
 * **[🥈 Tier 2: Mid Budget ($350 – $450 USD)](#-tier-2-mid-budget-350--450-usd)** — 16:10 Touchscreens, 360° convertibles, dual SODIMM workhorses, 12th Gen ThinkPads
 * **[🥉 Tier 3: Value Under $350 USD ($179 – $349 USD)](#-tier-3-value--convertibles-under-350-usd-179--349-usd)** — Sub-৳45k sweet spot, dual SODIMM 2-in-1s, ISV Quadro workstations
-* **[📦 Historical Archives & Disqualified Listings (#A1 – #A119)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
+* **[📦 Historical Archives & Disqualified Listings (#A1 – #A120)](#-historical-archives--disqualified-listings)** — Sold-out models, superseded configs, and throttled hardware warnings
 
 ---
 
@@ -4127,5 +4127,25 @@ The following models were investigated, benchmarked, or tracked during prior swe
 
 ---
 
-<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (56 active serialized models + 119 archived/disqualified listings = 175 total audited).</sub>
+### #A120: Acer Aspire 3 15.6" (A315-24P, A315-59, A315-510P Series - 2023–2024 Black Friday Circular Doorbusters) Low-End Retail Doorbuster Trap Featuring Repackaged Zen 2 "Mendocino" / Intel N-Series Silicon, 100% Permanently Soldered Non-Upgradeable 8GB LPDDR5-5500 Memory Ceiling Violating Strict 16GB Protocol, Bottom-Tier 220-Nit 45% NTSC TN Panel with Severe Vertical Viewing Inversion, Flimsy Hollow PC-ABS Plastic Shell with High-Torque Hinge Screw-Boss Fatigue & Fragile Proprietary 3.0mm DC Barrel Jack Charging (15.6" 16:9 FHD 1920x1080 TN Anti-Glare, AMD Ryzen 3 7320U / Ryzen 5 7520U / Intel Processor N100 / N200 / Core i3-N305, AMD Radeon 610M / Intel UHD, 8GB Soldered LPDDR5, 128GB–512GB PCIe NVMe SSD)
+* **Retailer / Platform:** Walmart Direct / Target / Best Buy / Micro Center Black Friday Circulars • **SKUs:** `A315-24P-R7VH`, `A315-24P-R51E`, `A315-59-53ER`, `A315-510P-38CP`, `NX.KDEAA.002`, `NX.KDEAA.004`
+* **Promotional Price:** **$279.99 – $349.99 USD** (~৳35,839 – ~৳44,799 bank / ~৳37,799 – ~৳47,249 landed) *(Original MSRP: $449.99 – $499.99)*
+* **Audit Status:** `DISQUALIFIED / REPACKAGED ZEN 2 OBSOLETE ARCHITECTURE, 100% SOLDERED NON-UPGRADEABLE 8GB MEMORY TRAP VIOLATING STRICT 16GB PROTOCOL, SEVERE VERTICAL COLOR INVERSION ON 220-NIT 45% NTSC TN PANEL, HOLLOW PC-ABS DROP-HINGE SCREW-BOSS RESIN FATIGUE, SINGLE-FAN THERMAL CHOKING & OBSOLETE PROPRIETARY BARREL CHARGING: HEAVILY MARKETED AS A BUDGET-FRIENDLY $299–$349 RETAIL DOORBUSTER LAPTOP, BUT COMPROMISED BY PERMANENT HARDWARE CEILINGS, FRAGILE PLASTIC CHASSIS ANCHORS, POOR OPTICAL ERGONOMICS, AND RESTRICTIVE SINGLE-LANE MEMORY CHANNELS.`
+* **Audit Verdict:** **REJECTED UNDER STRICT 16GB MEMORY PROTOCOL, SILICON ARCHITECTURAL OBSOLESCENCE GATES, VISUAL ERGONOMIC AND COLOR GAMUT THRESHOLDS, CHASSIS STRUCTURAL RIGIDITY GATES, AND UNIVERSAL USB-PD POWER DELIVERY STANDARDS.** Heavily pushed in Sunday circulars and doorbuster mailers as an affordable holiday computer, but compromised by critical cost-cutting flaws:
+  1. **Strict 16GB Memory Protocol Violation (100% Soldered LPDDR5 RAM Ceiling):** The Aspire 3 A315-24P/510P features permanently soldered LPDDR5-5500 memory soldered directly onto the motherboard with **ZERO SODIMM expansion slots**. With modern Windows 11 background services, Edge/Chrome browser tabs, and everyday office applications consuming 5.5GB–6.5GB upon startup, users immediately hit a brick wall. The system is forced into continuous, aggressive virtual memory paging to the SSD, degrading system responsiveness, producing micro-stutters, and rapidly consuming NVMe write endurance.
+  2. **Obsolete Zen 2 "Mendocino" Silicon Misleadingly Marketed as "7000-Series":** The AMD Ryzen 5 7520U and Ryzen 3 7320U use misleading model nomenclature. Despite the "7000" branding, they are built on ancient Zen 2 CPU cores (first introduced in 2019) paired with an anemic 2-Compute Unit RDNA 2 iGPU (Radeon 610M). This silicon delivers single-core and multi-core performance far below legitimate Zen 3 / Zen 3+ processors (such as Ryzen 5 5600U, 5650U, or 6650U), leaving zero headroom for compiling, virtualization, or modern creative tasks.
+  3. **Disastrous 220-Nit 45% NTSC TN Display with Vertical Color Inversion:** Cost-cutting is most severe in the display panel. The base circular models utilize cheap Twisted Nematic (TN) glass with only 220 nits peak brightness and a washed-out 45% NTSC (~62.5% sRGB) color gamut with contrast ratios below 500:1. Tilting the screen mere degrees forward or backward causes catastrophic vertical gamma shifting and contrast inversion (blacks turn grey, light colors wash out into white), inducing acute visual fatigue and headaches during extended viewing.
+  4. **Hollow PC-ABS Plastic Drop-Down Hinge Screw-Boss Fatigue ("Aspire 3 Corner Separation"):** Unlike commercial enterprise chassis engineered with internal magnesium skeletons or CNC aluminum decks, the Aspire 3 is housed in a hollow, stamped PC-ABS plastic tub. The stiff steel drop-down hinges are screwed into tiny brass threaded inserts heat-staked directly into paper-thin plastic standoffs. The mechanical opening torque of the heavy 15.6" screen acts as a lever arm, fatiguing the plastic bosses within 9 to 14 months of daily use until they snap clean off, bursting the palmrest seam open and severing delicate 30-pin eDP display ribbon cables.
+  5. **Proprietary 3.0mm DC Barrel Jack & Omission of USB-PD Charging:** Base retail models omit USB-PD charging support on the Type-C port (which is relegated to basic 5Gbps data transfer). Users are tethered to a flimsy, proprietary 45W 3.0mm barrel jack power brick, preventing the convenience of single-cable USB-C docking or universal GaN travel charging.
+  6. **Superior Actively Tracked Alternatives in Our Suite:**
+     * **Dell Latitude 5330 2-in-1 (#36 at $275.00 / ~৳37,125 landed):** Sub-৳38k 10-core 12th Gen Intel Core i7-1265U vPro with **16GB dual-channel LPDDR4x**, Corning Gorilla Glass 6 DX, **dual Thunderbolt 4 ports (40Gbps eGPU ready)**, and Dell Active Pen support!
+     * **Dell Latitude 7330 (#38 at $279.59 / ~৳37,745 landed):** 10-core Core i5-1245U, 16GB dual-channel RAM, **400-nit Super Low Power 100% sRGB display**, ultralight 1.13 kg carbon fiber chassis, dual TB4 ports!
+     * **HP EliteBook 845 G8 (#41 at $289.99 / ~৳39,149 landed):** True Zen 3 6-core/12-thread AMD Ryzen 5 PRO 5650U, **2× un-soldered SODIMM slots (up to 64GB)**, all-metal CNC aluminum unibody, 400-nit low power display, Allstate warranty!
+     * **Lenovo ThinkPad T14 Gen 2 (#51 at $294.27 / ~৳39,726 landed):** AMD Ryzen 5 PRO 5650U 6C/12T, un-soldered SODIMM slot (up to 48GB), spill-resistant keyboard, TrackPoint, Allstate warranty!
+     * **Lenovo IdeaPad Flex 5 (#39 at $208.99 / ~৳28,214 landed):** 8-core / 16-thread AMD Ryzen 7 5700U/7730U, **16GB RAM**, 512GB SSD, 14.0" WUXGA 16:10 touch panel under ৳29,000 landed!
+     * **ThinkPad X1 Yoga Gen 6 (#25 at $328.99 / ~৳44,414 landed):** CNC aluminum unibody, 14.0" 16:10 400-nit low power touch display, **garaged rechargeable ThinkPad Pen Pro included**, and 4G LTE modem!
+
+---
+
+<sub>The Master Directory of All Checked Laptop Deals is maintained and verified continuously with manufacturer-grade technical telemetry by the Black Friday Deal Tracker (56 active serialized models + 120 archived/disqualified listings = 176 total audited).</sub>
 </div>
